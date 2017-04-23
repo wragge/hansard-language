@@ -1,0 +1,1881 @@
+## Topics when the word "aborigines" was used in the hofreps during the 1970s
+
+| Topic | Number of uses |
+|--------------|----------------|
+|ABORIGINAL LAND RIGHTS (NORTHERN TERRITORY) BILL 1976|64|
+|ADJOURNMENT|39|
+|QUESTION: ABORIGINALS|36|
+|APPROPRIATION BILL (No. 1) 1978-79|36|
+|ABORIGINAL LAND (NORTHERN TERRITORY) BILL 1975|35|
+|STANDING COMMITTEE ON ABORIGINAL AFFAIRS|31|
+|APPROPRIATION BILL (No. 1) 1973-74|31|
+|APPROPRIATION BILL (No. 1) 1971-72|31|
+|QUESTION: GOVERNOR-GENERAL'S SPEECH|27|
+|QUESTION: ABORIGINAL LAND RIGHTS|23|
+|APPROPRIATION BILL (No. 1) 1977-78|21|
+|APPROPRIATION BILL (No. 1) 1976-77|21|
+|APPROPRIATION BILL (No. 1) 1972-73|19|
+|GRIEVANCE DEBATE|18|
+|NATIONAL PARKS AND WILDLIFE CONSERVATION AMENDMENT BILL 1978|17|
+|QUESTION: ABORIGINAL AND TORRES STRAIT|17|
+|PETITIONS: Education|15|
+|APPROPRIATION BILL (No. 1) 1973-74: Second Reading (Budget Debate)|15|
+|PERSONAL EXPLANATIONS|15|
+|PETITIONS: Aboriginals|14|
+|APPROPRIATION BILL (No. 1) 1975-76|14|
+|STATES GRANTS (ABORIGINAL ADVANCEMENT) BILL 1970: Second Reading|13|
+|QUESTION: ABORIGINES AND THEIR LAND|13|
+|ABORIGINAL AND TORRES STRAIT ISLANDERS (QUEENSLAND RESERVES AND COMMUNITIES SELF-MANAGEMENT) BILL 1978|13|
+|QUESTION: DEPARTMENT OF ABORIGINAL AFFAIRS|13|
+|NATIONAL PARKS AND WILDLIFE CONSERVATION BILL 1974: Second Reading|12|
+|ABORIGINAL COUNCILS AND ASSOCIATIONS BILL 1975: Second Reading|12|
+|STATES GRANTS (ABORIGINAL ADVANCEMENT) BILL (No. 2) 1973: Second Reading|12|
+|STATES GRANTS (ABORIGINAL ASSISTANCE) BILL 1976: Second Reading|11|
+|QUESTION: ABORIGINES|11|
+|APPROPRIATION BILL (No. 1) 1970-71: Second Reading (Budget Debate)|11|
+|ORDINANCES AND REGULATIONS (NOTIFICATION) BILL 1972: Second Reading|11|
+|ABORIGINAL COUNCILS AND ASSOCIATIONS BILL 1975|11|
+|PETITIONS: Aboriginal Welfare|10|
+|STATES GRANTS (ABORIGINAL ADVANCEMENT) BILL 1973: Second Reading|10|
+|PETITIONS: Aborigines|10|
+|QUESTION: ABORIGINAL UNEMPLOYMENT|10|
+|QUESTION: ABORIGINAL LAND FUND COMMISSION|10|
+|QUESTION: NATIONAL FILM AND TELEVISION TRAINING SCHOOL|10|
+|QUESTION: ABORIGINAL HOUSING|10|
+|APPROPRIATION BILL (No. 1) 1970-71|9|
+|CHAP. XX1-PROCEEDINGS IN PASSING PUBLIC BILLS|9|
+|APPROPRIATION BILL (No. 1) 1979-80: Second Reading (Budget Debate)|9|
+|STATES GRANTS (HOUSING) BILL 1971: Second Reading|9|
+|APPROPRIATION BILL (No. 1) 1978-79: Second Reading (Budget Debate)|9|
+|QUESTION: ABORIGINAL HEALTH|9|
+|APPROPRIATION BILL (No. 1) 1974-75: Second Reading (Budget Debate)|9|
+|GOVERNOR-GENERAL'S SPEECH|9|
+|MINISTERIAL ARRANGEMENTS|9|
+|INCOME TAX ASSESSMENT AMENDMENT BILL (No. 2) 1979|9|
+|STATES GRANTS (ABORIGINAL ADVANCEMENT) BILL 1972: Second Reading|9|
+|ABORIGINAL AND TORRES STRAIT ISLANDERS (QUEENSLAND RESERVES AND COMMUNITIES SELF-MANAGEMENT) BILL 1978: Second Reading|9|
+|QUESTION: SPEECH OF HER MAJESTY THE QUEEN|9|
+|QUESTION: RANGER URANIUM AGREEMENT|9|
+|ATOMIC ENERGY AMENDMENT BILL (No. 2) 1978: Second Reading|8|
+|SCOPE OF COMMISSION|8|
+|APPROVAL OF WORKS - PUBLIC WORKS COMMITTEE ACT: Redevelopment of Kormilda College for Aboriginal Students, Darwin|8|
+|APPROPRIATION BILL (No. 1) 1977-78: Second Reading (Budget Debate)|8|
+|URANIUM: Discussion of Matter of Public Importance|8|
+|QUESTION: MINISTER FOR THE INTERIOR|8|
+|ABORIGINAL AFFAIRS (ARRANGEMENTS WITH THE STATES) BILL 1973: Second Reading|8|
+|ABORIGINAL LAND RIGHTS (NORTHERN TERRITORY) AMENDMENT BILL (No. 3) 1978|8|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tertiary Institutions: Undergraduates (Question No. 2228)|8|
+|AURUKUN AND MORNINGTON ISLAND ABORIGINES: Discussion of Matter of Public Importance|8|
+|APPROPRIATION BILL (No. 1) 1976-77: Second Reading (Budget Debate)|8|
+|PERSONAL EXPLANATION|7|
+|ABORIGINAL COUNCILS AND ASSOCIATIONS AMENDMENT BILL 1978|7|
+|AUSTRALIAN INSTITUTE OF ABORIGINAL STUDIES|7|
+|QUESTION: URANIUM-AUSTRALIA'S DECISION|7|
+|APPROPRIATION BILL (No. 1) 1971-72: Second Reading (Budget Debate)|7|
+|RACIAL DISCRIMINATION BILL 1975|7|
+|EMPLOYMENT PROSPECTS FOR YOUNG PEOPLE: Discussion of Matter of Public Importance|7|
+|APPROPRIATION BILL (No. 1) 1974-75|7|
+|ABORIGINAL RIGHTS: Discussion of Matter of Public Importance|7|
+|STATES GRANTS (ABORIGINAL ASSISTANCE) BILL 1974: Second Reading|7|
+|UNEMPLOYMENT: Discussion of Matter of Public Importance|7|
+|ANSWERS TO QUESTIONS: Northern Land Council (Question No. 4593)|7|
+|STATES GRANTS (ABORIGINAL ADVANCEMENT) BILL 1971: Second Reading|7|
+|JOINT COMMITTEE OF PUBLIC ACCOUNTS: Report|7|
+|ILO CONVENTION No. 107: Article 13|7|
+|ABORIGINAL LAND RIGHTS|6|
+|ABORIGINAL LAND (NORTHERN TERRITORY) BILL 1975: Second Reading|6|
+|QUESTION: JOINT COMMITTEE ON THE NORTHERN TERRITORY|6|
+|QUESTION: GOVERNMENT POLICY ON NUCLEAR SAFEGUARDS|6|
+|ENVIRONMENT PROTECTION (NUCLEAR CODES) BILL 1978|6|
+|ABORIGINAL LAND RIGHTS (NORTHERN TERRITORY) AMENDMENT BILL 1979: Second Reading|6|
+|QUESTION: SENATE (REPRESENTATION OF TERRITORIES) ACT 1973|6|
+|QUESTION: TORRES STRAIT ISLANDS|6|
+|QUESTION: AURUKUN AND MORNINGTON ISLAND|6|
+|APPROPRIATION BILL (No. 1) 1975-76: Second Reading (Budget Debate)|6|
+|COMMONWEALTH EMPLOYMENT SERVICE BILL 1978: Second Reading|6|
+|FOREIGN TAKEOVERS BILL 1975: Second Reading|6|
+|ANSWERS TO QUESTIONS UPON NOTICE: Army Base: Western Australia (Question No. 5096)|6|
+|PETITIONS: Aboriginal Land Rights|6|
+|QUESTION: TOURISM|6|
+|QUESTION: SUSPENSION OF STANDING ORDERS|6|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Fund Commission: Farms (Question No. 653)|6|
+|ABORIGINAL COUNCILS AND ASSOCIATIONS BILL 1976: Second Reading|6|
+|THE HON. GORDON BRYANT, E.D., M.P: Aboriginal Reserves: Exploration Licences (Question No. 1183)|6|
+|APPROPRIATION BILL (No. 5) 1972-73: Second Reading|6|
+|JOINT SELECT COMMITTEE ON ABORIGINAL LAND RIGHTS IN THE NORTHERN TERRITORY|6|
+|STATES GRANTS (HOUSING ASSISTANCE) BILL (No. 2) 1976: Second Reading|6|
+|BRIEF HISTORY OF KURNELL|6|
+|STANDING COMMITTEE ON ABORIGINAL AND TORRES STRAIT ISLAND PEOPLE: Appointment|6|
+|QUESTION: ABORIGINAL COMMUNITIES: AURUKUN AND MORNINGTON ISLAND|6|
+|TURTLE FARMING PROJECT IN NORTHERN AUSTRALIA: Ministerial Statement|5|
+|ABORIGINAL LAND FUND COMMISSION|5|
+|QUESTION: GORDON M. BRYANT|5|
+|ABORIGINES: Discussion of Matter of Public Importance|5|
+|QUESTION: LAND LEASE DISASTER|5|
+|SPEECH OF HER MAJESTY THE QUEEN: Most Gracious Sovereign:|5|
+|QUESTION: APPROVAL OF WORK- PUBLIC WORKS COMMITTEE ACT|5|
+|AURUKUN AND MORNINGTON ISLAND: ABORIGINAL LAND RIGHTS: Discussion of Matter of Public Importance|5|
+|QUESTION: AURUKUN AND MORNINGTON ISLAND ABORIGINAL COMMUNITIES|5|
+|QUESTION: NATIONAL ABORIGINAL CONFERENCE|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: Permanent Residence: Requirements (Question No. 5573)|5|
+|STATES GRANTS (UNIVERSITIES ASSISTANCE) BILL 1976: Second Reading|5|
+|ANSWERS TO QUESTIONS: Australia-Japan Trade Law Foundation (Question No. 4466)|5|
+|GOVERNOR-GENERAL'S SPEECH: Suspension of Standing Orders|5|
+|ENVIRONMENT PROTECTION (ALLIGATOR RIVERS REGION) BILL 1978: Second Reading|5|
+|MAY IT PLEASE YOUR EXCELLENCY:: Suspension of Standing Orders|5|
+|URANIUM- AUSTRALIAN POLICY|5|
+|NORTHERN TERRITORY (SELF-GOVERNMENT) BILL 1978|5|
+|QUESTION: ABORIGINAL VOTING RIGHTS: PROPOSED SELECT COMMITTEE|5|
+|AUSTRALIAN HERITAGE COMMISSION AMENDMENT BILL 1976: Second Reading|5|
+|ABORIGINAL AFFAIRS: Discussion of Matter of Public Importance|5|
+|ATOMIC ENERGY AMENDMENT BILL 1978: Second Reading|5|
+|APPROPRIATION BILL (No. 1) 1972-73: Second Reading (Budget Debate)|5|
+|RACIAL DISCRIMINATION BILL 1975: Second Reading|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: Minister for Productivity: Overseas Travel (Question No. 1631)|5|
+|FAMILY LAW AMENDMENT BILL (No. 2) 1976: Second Reading|5|
+|ROYAL COMMISSION ON PETROLEUM: Department of Housing and Construction|5|
+|ABORIGINAL HEALTH: SELECT COMMITTEE: Discussion of Matter of Public Importance|5|
+|APPROPRIATION BILL (No. 1) 1979-80|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: Advertising (Question No. 42)|5|
+|EASTERN AREAS ON GROOTE EYLANDT: Secondly|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs: Personnel (Question No. 499)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Proposed Black Australian Studies Course (Question No. 107)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Departmental Grants (Question No. 2701)|4|
+|ABORIGINAL HOSTELS LTD|4|
+|QUESTION: STAWELL TIMBER INDUSTRIES|4|
+|APPROPRIATION BILL (No. 3) 1972-73: Second Reading|4|
+|ABORIGINAL LAND FUND BILL 1974: Second Reading|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Pastoral Companies (Question No. 787)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Patronage of Licensed Premises (Question No. 3257)|4|
+|ANSWERS TO QUESTIONS: Aboriginal Affairs: Uranium (Question No. 4451)|4|
+|INSURANCE AMENDMENT BILL 1977: Second Reading|4|
+|QUESTION: ASSISTANCE TO ABORIGINES|4|
+|ABORIGINAL LAND RIGHTS (NORTHERN TERRITORY) AMENDMENT BILL 1978: Second Reading|4|
+|ROYAL ASSENT TO A BILL|4|
+|ANSWERS TO QUESTIONS: Minister for Aboriginal Affairs: Staff (Question No. 1872)|4|
+|ABORIGINAL COUNCILS AND ASSOCIATIONS AMENDMENT BILL 1978: Second Reading|4|
+|SCHOOLS COMMISSION BILL 1973: Second Reading|4|
+|JOSEPH MANTJAKURA: Suspension of Standing Orders|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Rights (Question No. 807)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Affairs, Aurukun (Question No. 1937)|4|
+|QUESTION: SELECT COMMITTEE ON SPECIFIC LEARNING DIFFICULTIES|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Gurindji Tribe: Transfer of Land (Question No. 2899)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Advancement Trust Account Grants (Question No. 1339)|4|
+|QUESTION: ABORIGINAL LAND RIGHTS LEGISLATION|4|
+|MIGRATION BILL 1973: Second Reading|4|
+|SPEECH OF HER MAJESTY THE QUEEN|4|
+|QUESTION: MINING ON ABORIGINAL LANDS|4|
+|QUESTION: ABORIGINES - BILINGUAL EDUCATION IN SCHOOLS|4|
+|QUESTION: ABORIGINAL WELFARE|4|
+|AUSTRALIAN HERITAGE COMMISSION AMENDMENT BILL 1976|4|
+|ABORIGINAL LOANS COMMISSION|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Commercial Enterprises (Question No. 16)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Church Missions: Northern Territory (Question No. 220)|4|
+|FISCAL POLICY DECISIONS: Ministerial Statement|4|
+|RIGHTS OF ABORIGINAL AUSTRALIANS: Discussion of Matter of Public Importance|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines, Queensland (Question No. 136)|4|
+|ABORIGINAL AFFAIRS: Ministerial Statement|4|
+|TELECOMMUNICATIONS AMENDMENT BILL 1976: Third Reading|4|
+|DC9-3: Australian Aboriginal Affairs Council (Question No. 3990)|4|
+|QUESTION: DEVELOPMENT OF RANGER URANIUM PROJECT|4|
+|STEVEDORING INDUSTRY BILL 1974: Second Reading|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: School Dental Services (Question No. 189)|4|
+|NOTES ON POSSIBLE MODIFICATIONS TO HOUSE OF REPRESENTATIVES PROCEDURES: Department of Aboriginal Affairs|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Housing Programs (Question No. 1952)|4|
+|DEPARTMENT OF ABORIGINAL AFFAIRS: Special Report of Auditor-General|4|
+|ANSWERS TO QUESTIONS: Aboriginal Housing: Central Darling Shire (Question No. 4665)|4|
+|NORTHERN TERRITORY (ADMINISTRATION) BILL 1974: Second Reading|4|
+|DEPARTMENT OF ABORIGINAL AFFAIRS|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs, National Aboriginal Conference and Institute of Aboriginal Studies (Question No. 1838)|4|
+|STATES GRANTS (ABORIGINAL ASSISTANCE) BILL 1976 [No. 2]|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Palm Island: Medical Needs (Question No. 244)|4|
+|EXERCISES CONDUCTED WITH US NAVY SHIPS AND COMPOSITION OF FORCES INVOLVED,: Victorian Aboriginal Women's Refuge (Question No. 4010)|4|
+|ENVIRONMENT PROTECTION (ALLIGATOR RIVERS REGION) BILL 1978|4|
+|JOINT COMMITTEE OF PUBLIC ACCOUNTS|4|
+|QUESTION: ABORIGINAL AFFAIRS|4|
+|AUSTRALIAN HOUSING CORPORATION BILL 1975|4|
+|APPROPRIATION BILL (No. 3) 1976-77: Second Reading|4|
+|COMMONWEALTH TEACHING SERVICE BILL 1973: Second Reading|4|
+|THE HON. GORDON BRYANT, E.D., M.P: Aboriginal Legal Aid Service (Question No. 1188)|4|
+|ABORIGINAL EMPLOYMENT: Ministerial Statement|4|
+|NATIONAL HEALTH AMENDMENT BILL 1978: Second Reading|4|
+|QUESTION: RANGER AGREEMENT: NORTHERN LAND COUNCIL|4|
+|QUESTION: ABORIGINAL CHILDREN|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Trade Practices (Question No. 2854)|4|
+|YIRARA RESIDENTIAL COLLEGE, . ALICE SPRINGS: Reference to Public Works Committee|4|
+|STATES GRANTS (CAPITAL ASSISTANCE) BILL 1977: Second Reading|4|
+|AUSTRALIA COUNCIL BILL 1974: Second Reading|3|
+|AURUKUN AND MORNINGTON ISLAND COMMUNITIES: Discussion of Matter of Public Importance|3|
+|UNIVAC 1100/11: Rosemount Repatriation Hospital (Question No. 4844)|3|
+|QUESTION: GRANVILLE, N.S. W. 2 1 42|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Human Rights (Question No. 3835)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Police Treatment of Aborigines (Question No. 1173)|3|
+|STATES GRANTS (SCHOOLS) BILL 1972: Second Reading|3|
+|UNIVAC 1100/11: Radioactive Waste (Question No. 4852)|3|
+|ANSWERS TO QUESTIONS: Post and Telecommunications: Motor Vehicles (Question No. 4302)|3|
+|QUESTION: AURUKUN AREA, QUEENSLAND: RIGHTS AND STANDING OF ABORIGINAL PEOPLE|3|
+|QUESTION: NATIONAL FILM AND TELEVISION SCHOOL|3|
+|TERTIARY EDUCATION COMMISSION BILL 1977: Second Reading|3|
+|SOCIAL SERVICES BILL 1971: Second Reading|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Former Prime Minister: Official and Personal Papers (Question No. 42)|3|
+|ABORIGINAL CONSULTATIVE COMMITTEE: Ministerial Statement|3|
+|LOCAL GOVERNMENT (PERSONAL INCOME TAX SHARING) AMENDMENT BILL 1977: Second Reading|3|
+|WHITLAM GOVERNMENT: Want of Confidence Motion|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Atomic Energy Research Establishment: Research Procedures (Question No. 599)|3|
+|CONSTITUTION ALTERATION (SIMULTANEOUS ELECTIONS) BILL 1977: Second Reading|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Handicapped People: Programs (Question No. 1700)|3|
+|QUESTION: ABORIGINAL ENTERPRISES|3|
+|LIST OF ASSOCIATIONS AND AUTHORITIES: East-West Airlines (Question No. 5038)|3|
+|NORTHERN TERRITORY (STABILIZATION OF LAND PRICES) BILL 1974: Second Reading|3|
+|STATES GRANTS (SCHOOLS) BILL 1976: Second Reading|3|
+|AUSTRALIAN INSTITUTE OF ABORIGINAL STUDIES ACT|3|
+|NATIONAL PARKS AND WILDLIFE CONSERVATION AMENDMENT BILL 1979: Second Reading|3|
+|STANDING COMMITTEE ON ENVIRONMENT AND CONSERVATION: Report|3|
+|No: Disposal of Waste Salt (Question No. 5174)|3|
+|WANT OF CONFIDENCE IN THE GOVERNMENT|3|
+|QUESTION: AURUKUN AND MORNINGTON ISLAND MISSIONS|3|
+|GRIEVANCE DEBATE: Aboriginal Land Rights- Cyclone Damage- Abortions- Trade Union Disputes- Unemployment Benefits- Australian National University|3|
+|QUESTION: REDISTRIBUTION OF NEW SOUTH WALES ELECTORAL DIVISIONS|3|
+|CIVILIAN EMPLOYEES IN THE CONSTRUCTION INDUSTRY BY STATE FOR EACH MONTH SINCE: Aborigines: Possible Racial Discrimination (Question No. 906)|3|
+|COMMONWEALTH ELECTORAL BILL (No. 2) 1973|3|
+|R.HUEY: A/ Assistant Director (Southern Branch)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Wave Hill (Question No. 1651)|3|
+|SCHEDULE: Decentralisation (Question No. 468)|3|
+|ADJOURNMENT: Wage Indexation Hearings- Olympic Games 1988- Migrant Education- Victorian Land Dealings- Service Pension: Former Royal Navy Employee-South Australian Labor Government- Centre for Equal Opportunity, Melbourne|3|
+|AUSTRALIAN INSTITUTE OF MULTICULTURAL AFFAIRS BILL 1979: Second Reading|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Social Security: Staff (Question No. 3707)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Natural Gas, North West Shelf Field (Question No. 61)|3|
+|EXERCISES CONDUCTED WITH US NAVY SHIPS AND COMPOSITION OF FORCES INVOLVED,: Aboriginal Newsletter' (Question No. 4255)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fixed Calendar (Question No. 3782)|3|
+|COMMONWEALTH ELECTORAL BILL 1973: Second Reading|3|
+|QUESTION: KAKADU NATIONAL PARK|3|
+|QUESTION: JOINT SELECT COMMITTEE ON ABORIGINAL LAND RIGHTS IN THE NORTHERN TERRITORY|3|
+|R.HUEY: The Bill|3|
+|QUESTION: JOINT SELECT COMMITTEE ON ABORIGINAL LAND RIGHTS|3|
+|BLACKBURN|3|
+|QUESTION: ALP MINISTERIAL STATEMENTS|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Noise Levels (Question No. 6273)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cigarette Advertising (Question No. 5718)|3|
+|QUESTION: LAVERTON ROYAL COMMISSION|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Archives (Question No. 778)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Funds for Aboriginal Affairs (Question No. 2133)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Port Development and Marine Affairs: Ministerial Meeting (Question No. 5821)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: Expenditure on Aboriginal Affairs (Question No. 366)|3|
+|COMMONWEALTH TEACHING SERVICE BILL 1976: Second Reading|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Birthplace of Peter Lalor: Joint National Monument (Question No. 324)|3|
+|WESTERN AUSTRALIA: Medical Benefits: Hearing Aids (Question No. 878)|3|
+|UNCTAD 5: Child Snatching (Question No. 3992)|3|
+|CSIRO: Government Purchases Overseas (Question No. 1504)|3|
+|QUESTION: COMMONWEALTH ELECTORAL ACT (No. 2) 1973|3|
+|NORTHERN TERRITORY (SELF-GOVERNMENT) BILL 1978: Second Reading|3|
+|DAY OF MEETING|3|
+|GOVERNMENT'S MEDICAL SCHEME: Discussion of Matter of Public Importance|3|
+|LANDS ACQUISITION AMENDMENT BILL 1977: Second Reading|3|
+|LEGAL AID BILL 1975: Second Reading|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Population (Question No. 3872)|3|
+|INCOME TAX ASSESSMENT AMENDMENT BILL (No. 2) 1979: Second Reading|3|
+|HYACINTH TUNGUTALUM: Bathurst Island|3|
+|APPROPRIATION BILL (No. 5) 1974-75: Second Reading|3|
+|FRENCH NUCLEAR WEAPONS EXPLOSIONS IN THE PACIFIC: Ministerial Statement|3|
+|QUESTION: AUSTRALIAN ECONOMY|3|
+|QUESTION: STANDING COMMITTEE ON EXPENDITURE|3|
+|HOSPITALS DEVELOPMENT PROGRAM: Aboriginals: Unemployment Benefit (Question No. 556)|3|
+|SOCIAL SERVICES BILL 1973: Second Reading|3|
+|QUESTION: STANDING COMMITTEE ON ABORIGINAL AFFAIRS|3|
+|QUESTION: ABORIGINAL MEDICAL SERVICES|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Petrol Price Increase (Question No. 1273)|3|
+|ANSWERS TO QUESTIONS: Office of Youth Affairs (Question No. 4359)|3|
+|INCOME TAX (MINING WITHHOLDING TAX) BILL 1979: Third Reading|3|
+|A: Department of Finance: Computers (Question No. 2215)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Western Australian Aborigines: Allocation of Funds (Question No. 439)|3|
+|ADJOURNMENT: Validictory - National Science - Aboriginals|3|
+|QUESTION: AUSTRALIA AND PAPUA NEW GUINEA: NEGOTIATIONS ON MARITIME BOUNDARIES AND ON OTHER MATTERS RELATING TO TORRES STRAIT|3|
+|EVIDENCE AMENDMENT BILL 1978: Second Reading|3|
+|QUESTION: STANDING ORDERS COMMITTEE|3|
+|ABORIGINAL LAND RIGHTS (NORTHERN TERRITORY) AMENDMENT (No. 2) BILL 1978|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Bendigo Ordnance Factory (Question No. 197)|3|
+|MATERNITY LEAVE (AUSTRALIAN GOVERNMENT EMPLOYEES) AMENDMENT BILL 1978: Second Reading|3|
+|URANIUM EXPORT POLICY: Ministerial Statement|3|
+|APPROPRIATION BILL (No. 4) 1973-74: Second Reading|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Inquiries and Reviews (Question No. 1084)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Conventions: Application to Christmas Island (Question No. 6311)|3|
+|QUESTION: INFLATION LEAGUE TABLE|3|
+|QUESTION: NATIONAL TRACHOMA PROGRAM|3|
+|ABORIGINAL LAND RIGHTS (NORTHERN TERRITORY) AMENDMENT BILL 1978|3|
+|COMMONWEALTH LEGAL AID COMMISSION BILL 1977: Second Reading|3|
+|ABORIGINALS: Discussion of Matter of Public Importance|3|
+|QUESTION: UNEMPLOYMENT|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Aboriginal Consultative Committee (Question No. 2458)|3|
+|MINISTERS OF STATE BILL 1971: Second Reading|3|
+|CONSTITUTION ALTERATION (INTER-CHANGE OF POWERS) BILL 1975: Second Reading|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Rights (Question No. 627)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Grants of Leases (Question No. 217)|3|
+|STUDENT ASSISTANCE BILL 1973: Second Reading|3|
+|ANSWERS TO QUESTIONS: Interdepartmental Committees (Question No. 306)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cocos Islands (Question No. 812)|3|
+|QUESTION: SOCIAL SERVICES|3|
+|ABORIGINAL RIGHTS: Signed: Percy Niel, Chairman Yarrabah Council; Councillor Connolly; Councillor Formile|3|
+|QUESTION: ABORIGINES: LEGAL ASSISTANCE|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Senior Positions (Question No. 122)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Child Brides (Question No. 6022)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nabarlek Uranium Project Draft Environmental Impact Statement (Question No. 1872)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Power of Self Determination (Question No. 437)|2|
+|QUESTION: HEALTH: ABORIGINAL CHILDREN|2|
+|SUSPENSION OF STANDING ORDERS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Monies Paid to Aborigines (Question No. 3294)|2|
+|QUESTION: ABORIGINAL INVESTMENT|2|
+|STATES GRANTS (SCHOOLS ASSISTANCE) BILL 1977|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Western Australia: Aboriginal Student Grants (Question No. 955)|2|
+|NOTICES OF MOTION: Natural Disaster Insurance Scheme|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Members of Police Forces (Question No. 6307)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs: Interdepartmental Committees (Question No. 1480)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Study Grants and Secondary Grants Schemes (Question No. 5841)|2|
+|FAMILY RESEARCH PROJECT: Suspension of Standing Orders|2|
+|QUESTION: COMMUNITY DEVELOPMENT EMPLOYMENT PROJECTS SCHEME|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Mining Royalties (Question No. 3528)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Acquisition of Glenville (Question No. 890)|2|
+|THE ADMINISTRATIVE STRUCTURE OF BROADCASTING: Labor Party Policy|2|
+|NERDDC TECHNICAL STANDING COMMITTEES: Mining and Aboriginals (Question No. 2563)|2|
+|NON-GOVERNMENT SCHOOLS (LOANS GUARANTEE) BILL 1977|2|
+|AUSTRALIAN ECONOMY: Suspension of Standing Orders|2|
+|PUBLIC SERVICE AMENDMENT BILL 1978: Second Reading|2|
+|COMMITTEES|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Development Foundation: Purchase of Motor Vehicle (Question No. 1417)|2|
+|ABORIGINAL CUSTOMS: Ministerial Statement|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Western Australia: Employment Training Scheme for Aboriginals (Question No. 953)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fruitgrowing Industry Reconstruction Scheme (Question No. 819)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Apprenticeships (Question No. 3336)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Fund Commission: Purchase of Land for Housing (Question No. 142)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Wiluna: Melon Production (Question No. 1443)|2|
+|THE ARTS IN AUSTRALIA: Ministerial Statement|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Reserves: Northern Territory (Question No. 216)|2|
+|FOR DARWIN: Reference to Public Works Committee|2|
+|QUESTION: NORTHERN TERRITORY|2|
+|ANSWERS TO QUESTIONS: Aboriginal Art Sites (Question No. 4715)|2|
+|UNIVAC 1100/11: Aboriginal Affairs Grants (Question No. 4891)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Enterprises: Grants (Question No. 30)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Aboriginal Employment Development Committee (Question No. 1824)|2|
+|ANSWERS TO QUESTIONS: National Employment and Training System (Question No. 4722)|2|
+|DC9-3: Unemployment (Question No. 4007)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mrs June Tapp (Question No. 3529)|2|
+|ANSWERS TO QUESTIONS: Aboriginal Housing Organisations (Question No. 4920)|2|
+|ANSWERS TO QUESTIONS: Aborigines: Education (Question No. 2356)|2|
+|WESTERN AUSTRALIA: Aborigines, Western Australia (Question No. 833)|2|
+|QUESTION: TRACHOMA AMONGST ABORIGINES|2|
+|AVALON AIRPORT, VICTORIA: Prime Minister's Department|2|
+|ENVIRONMENT PROTECTION (IMPACT OF PROPOSALS) BILL 1974: Second Reading|2|
+|QUESTION: URANIUM DISCOVERY|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Legislation Presented for Royal Assent: Attorney-General's Certificate (Question No. 1400)|2|
+|AUSTRALIAN RURAL BANK BILL 1977: Second Reading|2|
+|QUESTION: NATIONAL ART GALLERY|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Discriminatory Legislation (Question No. 5055)|2|
+|QUESTION: WOOD CHIP INDUSTRY|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Arnhem Highway: Extension to Jabiluka (Question No. 1815)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Housing (Question No. 4127)|2|
+|PAYMENT FOR TERTIARY INSTITUTIONS IN THE AUSTRALIAN TERRITORIES: Aboriginal Legal Aid Services (Question No. 1312)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Enterprises (Question No. 1837)|2|
+|REPRINT SERIES: Aborigines: Grants (Question No. 1757)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hooker Creek: Council for Aboriginal Affairs (Question No. 899)|2|
+|QUESTION: ABORIGINAL CHILD: RETURN TO PARENTS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Yirrkala People (Question No. 642)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Artifacts (Question No. 2847)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Dr Bustard (Question No. 343)|2|
+|LOCAL GOVERNMENT (PERSONAL INCOME TAX SHARING) AMENDMENT BILL 1979: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pallotine Mission (Question No. 1174)|2|
+|QUESTION: SOCIAL WELFARE ENTITLEMENTS COMMUNITY CENTRES|2|
+|COUNCIL FOR ABORIGINAL AFFAIRS: Ministerial Statement|2|
+|CIVILIAN EMPLOYEES IN THE CONSTRUCTION INDUSTRY BY STATE FOR EACH MONTH SINCE: Aboriginal Health (Question No. 187)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Loans Commission (Question No. 171)|2|
+|QUEENSLAND: Aboriginals: Discrimination (Question No. 628)|2|
+|KAKADU NATIONAL PARK: LEASES AND AGREEMENT: Papers and Ministerial Statement|2|
+|TASMANIA: Kakadu National Park (Question No. 4719)|2|
+|WARLPIRI LAND CLAIM: Report and Ministerial Statement|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employment of Aborigines (Question No. 275)|2|
+|USSR: Aboriginals: Federal Government Jurisdiction (Question No. 4915)|2|
+|TASMANIA: Aboriginals: Discriminatory Legislation (Question No. 1233)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines and Torres Strait Islanders: Payment of Mining Royalties (Question No. 256)|2|
+|ABORIGINAL AND TORRES STRAIT ISLANDERS (QUEENSLAND DISCRIMINATORY LAWS) BILL 1974|2|
+|ADJOURNMENT: Government's Economic Policy- Uranium Mining-Registration of Travel Agents -International Airfares -Mining Industry|2|
+|UNIVAC 1100/11: Aboriginal Employment Grants (Question No. 4892)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals (Question No. 3326)|2|
+|ANSWERS TO QUESTIONS: Namibia (Question No. 4599)|2|
+|VIETNAM MORATORIUM CAMPAIGN: Ministerial Statement|2|
+|ANSWERS TO QUESTIONS: Aboriginal Affairs Films (Question No. 4817)|2|
+|QUESTION: ABORIGINAL LAND COUNCILS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Health (Question No. 1842)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Willowra and Kildurk Station: Valuations (Question No. 1225)|2|
+|THE SCALES OF INJUSTICE|2|
+|TEACHING OF MIGRANT LANGUAGES: Discussion of Matter of Public Importance|2|
+|OBSERVERS: Aborigines: Housing in Northern Territory (Question No. 4498)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Yarrabah Reserve (Question No. 3832)|2|
+|VICTORIA: Aboriginal Medical Services (Question No. 773)|2|
+|ABORIGINAL LAND COMMISSIONER|2|
+|EXERCISES CONDUCTED WITH US NAVY SHIPS AND COMPOSITION OF FORCES INVOLVED,: National Employment Strategy for Aboriginals (Question No. 4254)|2|
+|QUESTION: ADMINISTRATION OF THE COMMONWEALTH ELECTORAL ACT|2|
+|ABORIGINAL WELFARE: Discussion of Matter of Public Importance|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: The Environment: Ministerial Conferences (Question No. 5500)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Health Hostel (Question No. 482)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Furneaux Fish Processing Company (Question No. 3138)|2|
+|GOVERNMENT EMPLOYMENT TRAINING SCHEMES: Discussion of Matter of Public Importance|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Crocodile and Turtle Farming (Question No. 263)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Aboriginal Consultative Committee (Question No. 639)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rossmoyne: Construction of Mostel Premises (Question No. 498)|2|
+|QUESTION: WILL WATER KILL?|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Civil Aviation: Low Fare Passenger Flights (Question No. 4917)|2|
+|QUESTION: COMMONWEALTH ADVERTISING|2|
+|PETROLEUM AND MINERALS AUTHORITY BILL 1973: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Housing: Electoral Division of Grey (Question No. 1530)|2|
+|ADJOURNMENT: Local Government Finance- Inflation - Margarine - Aborigines|2|
+|TASK FORCES: Aboriginal Land Trust (Question No. 961)|2|
+|QUESTION: RACIAL PREJUDICE AND VIOLENCE|2|
+|CIVILIAN EMPLOYEES IN THE CONSTRUCTION INDUSTRY BY STATE FOR EACH MONTH SINCE: Aborigines: Aurukun and Mornington Island (Question No. 1125)|2|
+|URANIUM: Dear Mr Scholes,|2|
+|UNIVAC 1100/11: Insurance of Aboriginal Assets (Question No. 4888)|2|
+|FOREIGN POLICY: Ministerial Statement|2|
+|A.C.T. .. ..5: Education of Aborigines (Question No. 693)|2|
+|ANSWERS TO QUESTIONS: Aboriginal Affairs: Motor Vehicle Fuel Consumption (Question No. 4337)|2|
+|QUESTION: EFFECT OF INFLATION ON LOW INCOME EARNERS|2|
+|SCHEDULE: Department of Aboriginal Affairs (Question No. 885)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: North Rockhampton Aboriginal Hostel (Question No. 3293)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals (Question No. 232)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Kimberley Region (Question No. 3126)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Purchase of Newspapers and Periodicals (Question No. 481)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Institute of Aboriginal Studies (Question No. 168)|2|
+|PLACES VISITED: Aboriginal Housing (Question No. 633)|2|
+|PLACES VISITED: Aboriginal Affairs: Budget Allocations (Question No. 691)|2|
+|GRIEVANCE DEBATE: We-|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Culture Centre (Question No. 1912)|2|
+|ANSWERS TO QUESTIONS: Aborigines: Health and Nutrition (Question No. 2336)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foundation of Aboriginal Affairs (Question No. 5965)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs: Use of Management Consultant Firms (Question No. 814)|2|
+|QUESTION: MINISTER FOR THE ENVIRONMENT, ABORIGINES AND THE ARTS|2|
+|ANSWERS TO QUESTIONS: National Aboriginal Consultative Committee (Question No. 3144)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Development Foundation: Retrenchment (Question No. 1416)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Rights (Question No. 1219)|2|
+|TASK FORCES: Department of Aboriginal Affairs: Three Year Development Plan (Question No. 1759)|2|
+|DEPARTMENT OF ABORIGINAL AFFAIRS REPORT: Conclusion|2|
+|STANDING COMMITTEE ON ABORIGINAL AFFAIRS: Present Conditions of Yirrkala People|2|
+|PUBLICATIONS COMMITTEE|2|
+|REPRINT SERIES: Department of Aboriginal Affairs: Grants (Question No. 1569)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Otitis Survey (Question No. 3033)|2|
+|ANSWERS TO QUESTIONS: Funds for Aboriginal Affairs (Question No. 1756)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Venereal Disease (Question No. 5777)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Aboriginal Population (Question No. 5393)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Actors' Wages (Question No. 314)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Reserves: Mining Operation (Question No. 4674)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Affairs: Determination of Policies (Question No. 635)|2|
+|ANSWERS TO QUESTIONS: Aboriginal and Islander Employment (Question No. 4563)|2|
+|QUESTION: ULURU NATIONAL PARK|2|
+|CRIMINAL JUSTICE SYSTEM IN TOE NORTHERN TERRITORY: Report|2|
+|QUESTION: MEDICAL BENEFITS: 'PAY DOCTOR' CHEQUES|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employment of Aborigines (Question No. 281)|2|
+|REPRINT SERIES: Aborigines: Reserves and Leases (Question No. 2905)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals (Question No. 7)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Affairs: Statement of Concern (Question No. 2413)|2|
+|TASMANIA: Australian Capital Territory: Jervis Bay and Wreck Bay Areas (Question No. 3430)|2|
+|QUESTION: EXPENDITURE ON ABORIGINAL AFFAIRS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Minister for Aboriginal Affairs: Visit to North Queensland and Alice Springs (Question No. 949)|2|
+|ANSWERS TO QUESTIONS: Department of Aboriginal Affairs (Question No. 1940)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Conference of World Council for Indigenous Peoples: Assistance to National Aboriginal Conference (Question No. 2078)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Welfare (Question No. 3491)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Reserves: Development (Question No. 4943)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral Divisions: Enrolments (Question No. 6093)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Costs of Overseas Travel (Question No. 1375)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory Aborigines: Weekly Income (Question No. 1049)|2|
+|ABORIGINAL AFFAIRS (ARRANGEMENTS WITH THE STATES) BELL 1973: Second Reading|2|
+|No: Framlingham Aboriginal Reserve (Question No. 5177)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service Board: Placement of Aborigines (Question No. 34)|2|
+|USSR: Asbestos Mining: Health Risks (Question No. 4455)|2|
+|ADJOURNMENT: Australian Broadcasting Commission: Ku Klux Klan Report- United Nations- Health-Legal Profession- Aurukun Community -Computer User Data Mechanism Scheme- Immigration|2|
+|REPRINT SERIES: Aborigines: Purchase of Properties (Question No. 3003)|2|
+|HOUSING LOANS INSURANCE BILL 1975: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Rights (Question No. 1152)|2|
+|JOINT COMMITTEE ON FOREIGN AFFAIRS AND DEFENCE: Report|2|
+|REPRINT SERIES: Aborigines: Ecological Projects Support (Question No. 3009)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Employment and Training Scheme: Taxation (Question No. 1815)|2|
+|AUSTRALIAN TOURIST COMMISSION BILL 1974: Second Reading|2|
+|QUESTION: COMMUNITY DEVELOPMENT EMPLOYMENT PROJECT SCHEME|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Infant Mortality Rates (Question No. 6348)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Anthem Land Reserve: Yirrkala Community (Question No. 1335)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Purchase of Land (Question No. 493)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Peoples: Land Rights (Question No. 3453)|2|
+|FORESTRY RESEARCH ACTIVITY 1974-75*: Australian Legal Aid Office (Question No. 2509)|2|
+|TASK FORCES: Department of Aboriginal Affairs: Publications (Question No. 1598)|2|
+|NERDDC TECHNICAL STANDING COMMITTEES: Aboriginal and Torres Strait Islanders (Queensland Discriminatory Laws) Act (Question No. 1951)|2|
+|BARLEY: Aboriginal Alcohol Counsellors (Question No. 4217)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mining on Aboriginal Reserves: Land Councils (Question No. 697)|2|
+|CONSTITUTION ALTERATION (VOTING AT REFERENDUMS) BILL 1975: Second Reading|2|
+|QUESTION: ABORIGINAL LEGAL SERVICES|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: North Queensland Land Council (Question No. 2369)|2|
+|No: National Art Gallery: Technological Museum (Question No. 1173)|2|
+|QUESTION: BANKS ISLAND: WOLFRAM|2|
+|CIVILIAN EMPLOYEES IN THE CONSTRUCTION INDUSTRY BY STATE FOR EACH MONTH SINCE: Aboriginal Art Forms: Copyright (Question No. 375)|2|
+|ANSWERS TO QUESTIONS: Aboriginal Affairs (Question No. 2343)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Arts and Crafts Pty Ltd (Question No. 3253)|2|
+|TIME LIMITS FOR SPEECHES|2|
+|ANSWERS TO QUESTIONS: Kakadu National Park (Question No. 5011)|2|
+|CIVILIAN EMPLOYEES IN THE CONSTRUCTION INDUSTRY BY STATE FOR EACH MONTH SINCE: Aboriginal Land Rights (Question No. 322)|2|
+|QUESTION: TAIWANESE FISHING VESSELS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal1 Land Rights (Question No. 204)|2|
+|STATES GRANTS (SCHOOLS ASSISTANCE) BILL 1977: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Health (Question No. 3689)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines (Question No. 1566)|2|
+|QUESTION: ABORIGINAL PROPERTIES AND UNEMPLOYMENT|2|
+|S $: Aurukun and Mornington Island Communities (Question No. 1124)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taiwanese Vessel 'Yung Yuan' (Question No. 1260)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals (Question No. 386)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Rights (Question No. 323)|2|
+|NERDDC TECHNICAL STANDING COMMITTEES: Aboriginal Education (Question Na 1756)|2|
+|AN OPEN LETTER OF 59 POLISH INTELLECTUALS: Skalski A. Slonimski, A. Steinsbegowa, J. Stryjkowski, J. Szczepanski, A. Szczypiorski, K. Szelagowski, W. Szymborska, J. Trznadel, M. Wosiek A. Zagajewski, W. Zawadzki Fr. J. Zieja|2|
+|OF ADVISORY COMMITTEE ON ABORIGINES BENEFITS TRUST FUND: S. Warrabri Social Club|2|
+|THE HON. GORDON BRYANT, E.D., M.P: Aboriginal Land Rights (Question No. 1187)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal-Police Relationships: Inquiry (Question No. 587)|2|
+|STATES GRANTS (SCHOOLS) BILL 1973: Second Reading|2|
+|ABORIGINAL ENTERPRISES (ASSISTANCE) ACT|2|
+|QUESTION: ABORIGINAL HEALTH IN CENTRAL AUSTRALIA|2|
+|ADJOURNMENT: Whyalla: Unemployment- Prescribing of Drugs- Health Insurance Proposals- Ku Klux Klan- Aurukun and Mornington Island Aborigines- Public Broadcasting Licences- Recognition of Child Care Courses|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs: Training Section (Question No. 1941)|2|
+|PUBLIC WORKS COMMITTEE - APPROVAL OF WORKS: Sewerage System, Katherine, Northern Territory|2|
+|ANSWERS TO QUESTIONS: Racial Discrimination (Question No. 4914)|2|
+|QUESTION: CURRENCY REGULATIONS: ALLEGED BREACHES|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Voting Rights (Question No. 3623)|2|
+|TRESPASS ON COMMONWEALTH LANDS ORDINANCE 1972: Ministerial Statement|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unemployment: Aboriginals (Question No. 425)|2|
+|DESIGNERS GRANTED SUBSIDY OF $400: Departmental Committees: Grants for Aboriginal Enterprises (Question No. 1340)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Communities: Road Building Programs (Question No. 262)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Communities: Surveys (Question No. 959)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Infant Mortality (Question No. 3428)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Enrolment of Aborigines (Question No. 83)|2|
+|QUESTION: LEGAL AID FOR ABORIGINES|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papunya Aboriginal Community (Question No. 436)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines, Aurukun and Mornington Island (Question No. 1758)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Distribution of Votes in St George Division (Question No. 978)|2|
+|QUESTION: EDUCATION: ABORIGINALS|2|
+|MOST GRACIOUS SOVEREIGN:|2|
+|PERCENTAGE OF DOCTORS UNDER MEDIBANK ENGAGED IN SOME FORM OF DIRECT BILLING: Council for Aboriginal Affairs (Question No. 167)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Funds for Aboriginal Affairs (Question No. 1396)|2|
+|STATES GRANTS (PRE-SCHOOL TEACHERS COLLEGES) BILL 1971: Second Reading|2|
+|QUESTION: MURAWINA ABORIGINAL PRE-SCHOOL CENTRE|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Applied Ecology Pty Ltd and Islander Marketing Pty Ltd. (Question No. 1298)|2|
+|QUESTION: ABORIGINAL LAND) USE|2|
+|TARIFF PROPOSALS|2|
+|QUESTION: ABORIGINAL TEACHER AIDES|2|
+|STATES GRANTS (SCHOOLS) BILL 1976|2|
+|QUESTION: INTERNEES ON TRANSPORT SHIP DUNERA|2|
+|CRIMES (FOREIGN INCURSIONS AND RECRUITMENT) BILL 1978: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: New Zealand Department of Maori Affairs (Question No. 104)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Councils and Associations Bill (Question No. 1732)|2|
+|PERCENTAGE OF DOCTORS UNDER MEDIBANK ENGAGED IN SOME FORM OF DIRECT BILLING: Aborigines: Expenditure on Programs (Question No. 134)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Development Agency (Question No. 3633)|2|
+|QUESTION: NEW PROMOTIONS SCHEME FOR SOUTH AUSTRALIAN TEACHERS|2|
+|QUESTION: LAURIE DANIELS, BRIAN WRAITH AND THE COMMONWEALTH OF AUSTRALIA|2|
+|TASK FORCES: Aborigines Exploration Licences (Question No. 1304)|2|
+|QUESTION: CONCLUSIONS|2|
+|STATES GRANTS BILL 1975: Second Reading|2|
+|SUBMISSION TO THE WESTERN PORT REGIONAL ORGANISATION IN SUPPORT OF AN APPLICATION FOR FINANCIAL ASSISTANCE UNDER THE TERMS OF THE GRANTS COMMISSION ACT 1973: P. S. Parkinson, Shire Engineer|2|
+|ANSWERS TO QUESTIONS: Aboriginal Affairs: Grants to New South Wales (Question No. 4754)|2|
+|MEMBERSHIP OF COMMITTEES|2|
+|ANSWERS TO QUESTIONS: Ayers Rock-Mount Olga National Park (Question No. 4564)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Health Programs (Question No. 2824)|2|
+|No: Child Endowment: Dependent Child Tax Rebates (Question No. 1292)|2|
+|TERMINATION OF PREGNANCY: MEDICAL BENEFITS|2|
+|NORTHERN TERRITORY: Aboriginal Enterprises (Question No. 2547)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Capital Fund for Aboriginal Enterprises (Question No. 161)|2|
+|QUESTION: NORTHERN TERRITORY URANIUM: ABORIGINAL COMPENSATION|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pollution (Question No. 5961)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Affairs, Borroloola (Question No. 2137)|2|
+|QUESTION: FISCAL POLICY DECISIONS|2|
+|QUESTION: HOUSE OF REPRESENTATIVES STANDING COMMITTEE ON ABORIGINAL AFFAIRS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Yarrabah Community (Question No. 3295)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Nutrition (Question No. 2643)|2|
+|QUESTION: PROSPECTING: NORTHERN TERRITORY|2|
+|THE ECONOMY AND ECONOMIC POLICY: Ministerial Statement|2|
+|SOCIAL SERVICES BILL 1972: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Appropriation Act (No. 3) 1972-73 (Question No. 529)|2|
+|ANSWERS TO QUESTIONS: Aboriginal Affairs (Question No. 1453)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Unemployment (Question No. 638)|2|
+|CIVILIAN EMPLOYEES IN THE CONSTRUCTION INDUSTRY BY STATE FOR EACH MONTH SINCE: National Energy Policy (Question No. 692)|2|
+|UNIVAC 1100/11: Aboriginal Hostels Ltd (Question No. 5096)|2|
+|UNIVAC 1100/11: Racial Discrimination (Question No. 4911)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Capital Loans for Aboriginal Enterprises (Question No. 962)|2|
+|SOCIAL WELFARE COMMISSION BILL 1973: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Publications Foundation-' Identity' (Question No. 274)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Affairs: Tasmania (Question No. 1739)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Hostels, Townsville (Question No. 832)|2|
+|APPROPRIATION BILL (No. 2) 1977-78: Second Reading|2|
+|QUESTION: NORTHERN TERRITORY HEALTH SERVICES INQUIRY|2|
+|CHURCH AND NATION: Abortion Law Reform|2|
+|QUESTION: ABORIGINES: SOCIAL SECURITY BENEFITS|2|
+|MAXIMUM REPAYMENT TERM: Aviation: Fokker Friendship Aircraft (Question No. 838)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Banknotes (Question No. 410)|2|
+|QUESTION: ABORIGINALS: HOUSING|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs (Question No. 310)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Aboriginal Conference (Question No. 1915)|2|
+|QUESTION: MINISTER REJECTS COMPLAINTS BY STATE HOUSING MINISTERS|2|
+|QUESTION: INPATIENT STATISTICS|2|
+|ANSWERS TO QUESTIONS: Aboriginal Wages (Question No. 4218)|2|
+|STATES GRANTS (SCHOOLS ASSISTANCE) AMENDMENT BILL 1979: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Kildurk, Glenairy and Sunnyside Stations: Valuations (Question No. 1306)|2|
+|CIVILIAN EMPLOYEES IN THE CONSTRUCTION INDUSTRY BY STATE FOR EACH MONTH SINCE: Aborigines: Employment: Legal Rights (Question No. 831)|2|
+|ANSWERS TO QUESTIONS: Aborigines: Payment of Award Wages (Question No. 4493)|2|
+|QUESTION: NORTHERN LAND COUNCIL|2|
+|CONCILIATION AND ARBITRATION BILL 1972|2|
+|STATES GRANTS (UNIVERSITIES) BILL 1976: Second Reading|2|
+|AWARDS OF VC, MC, DCM AND MM FOR SERVICE IN 1939-45 WAR: Aboriginals (Question No. 2268)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Medical Service (Question No. 1290)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Councils: Contact with States (Question No. 63)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Education (Question No. 3291)|2|
+|REPRINT SERIES: Aborigines: Ecological Projects Support (Question No. 3006)|2|
+|ANSWERS TO QUESTIONS: Aboriginal Overseas Award Scheme (Question No. 2357)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Council for Aboriginal Affairs (Question No. 1226)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Land Ownership (Question No. 4860)|2|
+|NERDDC TECHNICAL STANDING COMMITTEES: Family Law Matters: Queensland (Question No. 2086)|2|
+|QUESTION: ABORIGINAL HEALTH AND HOUSING|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Damming of Rivers: Preservation of Aboriginal Interests (Question No. 2133)|2|
+|COMMITTEE OF INQUIRY INTO EDUCATION AND TRAINING: Ministerial Statement|2|
+|TERMS OF REFERENCE: Canberra Times' December 8, 1973|2|
+|NAVIGATION BILL 1972: Second Reading|2|
+|QUESTION: STEALING OF GOVERNMENT CHEQUES|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Legal Service (Question No. 1913)|2|
+|ANSWERS TO QUESTIONS: Aboriginal Affairs: Abolition of Training Allowance (Question No. 4488)|2|
+|QUESTION: REVIEW OF STUDENT ASSISTANCE SCHEMES|2|
+|ANSWERS TO QUESTIONS: Iwasaki Sangyo Co: Land Purchases (Question No. 5051)|2|
+|ANSWERS TO QUESTIONS: Department of Aboriginal Affairs Employee (Question No. 4889)|2|
+|SUBMISSION TO THE QUEENSLAND ABORIGINAL AND ISLANDERS COMMISSION: Management of Property|2|
+|ANSWERS TO QUESTIONS: Grant to Almond Growers, Tamworth (Question No. 4668)|2|
+|QUESTION: EDUCATION OF ABORIGINAL CHILDREN|2|
+|ABORIGINAL LAND RIGHTS (NORTHERN TERRITORY) AMENDMENT (No. 2) BILL 1978: Second Reading|2|
+|EXERCISES CONDUCTED WITH US NAVY SHIPS AND COMPOSITION OF FORCES INVOLVED,: Aboriginals: Average Income (Question No. 4098)|2|
+|PRIME MINISTER: ELECTION PROMISES: Discussion of Matter of Public Importance|2|
+|DC9-3: Dr P. Ivory (Question No. 4012)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Eyre Highway (Question No. 5615)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Living Conditions (Question No. 3213)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Leprosy (Question No. 237)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Location of Government Departments (Question No. 494)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Education (Question No. 1840)|2|
+|STATES GRANTS (ABORIGINAL ASSISTANCE) BILL 1975: Second Reading|2|
+|ANSWERS TO QUESTIONS: Aborigines: Treaty of Peace and Friendship (Question No. 4481)|2|
+|ANSWERS TO QUESTIONS: Northern Land Council (Question No. 4766)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Unemployment (Question No. 641)|2|
+|ANSWERS TO QUESTIONS: Domestic Communications Satellite (Question No. 4721)|2|
+|A: National Aboriginal Conference: Position of Secretary-General (Question No. 2976)|2|
+|FRASER GOVERNMENT: Want of Confidence Motion|2|
+|ANSWERS TO QUESTIONS: Nabarlek Environmental Impact Study (Question No. 4348)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Aboriginal Congress (Question No. 898)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Affairs Council (Question No. 3327)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: X-Ray Survey (Question No. 5364)|2|
+|HEALTH INSURANCE AMENDMENT BILL 1978|2|
+|ANSWERS TO QUESTIONS: Capital Fund for Aboriginal Enterprises (Question No. 1758)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines and Torres Strait Islanders Legal Service (Question No. 168)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Everard Park: Purchase for Aborigines (Question No. 6529)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Children: Fostering (Question No. 588)|2|
+|SELECT COMMITTEE ON SPECIFIC LEARNING DIFFICULTIES: Appointment|2|
+|QUESTION: AUSTRALIAN FORCES IN VIETNAM 1962 TO 1972|2|
+|FORESTRY RESEARCH ACTIVITY 1974-75*: Aboriginal Legal Aid Service (Question No. 2521)|2|
+|QUESTION: GLUE SNIFFING|2|
+|ANSWERS TO QUESTIONS: Aboriginal Housing (Question No. 4458)|2|
+|QUESTION: INTERDEPARTMENTAL COMMITTEES|2|
+|CRIMINAL INVESTIGATION BILL 1977: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs: Libraries (Question No. 1363)|2|
+|UNIVAC 1100/11: Community Relations Education (Question No. 4910)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Application of Criminal Law to Aborigines (Question No. 1751)|2|
+|SCHEDULE: Purchase of Land for Aborigines (Question No. 3342)|2|
+|PROPOSED AMENDMENTS: Professor Strehlow (Question No. 1333)|2|
+|QUESTION: ABORIGINES: NATIONAL FRONT POLICY|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Legal Aid Office and the Aboriginal Legal Service (Question No. 25)|2|
+|EXERCISES CONDUCTED WITH US NAVY SHIPS AND COMPOSITION OF FORCES INVOLVED,: Atomic Energy Research Establishment, Lucas Heights (Question No. 4214)|2|
+|QUESTION: RANGER AGREEMENT|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Legal Aid Service (Question No. 1000)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs: Employment (Question No. 602)|2|
+|THE HON. GORDON BRYANT, E.D., M.P: National Conference of Aboriginal and Torres Strait Islanders Advisory Counsellors (Question No. 933)|2|
+|AUSTRALIAN ELECTORAL OFFICE BILL 1973: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Applied Ecology Pty Ltd and Islander Marketing Pty Ltd (Question No. 28)|2|
+|ANSWERS TO QUESTIONS: Aboriginals Registered for Employment (Question No. 4366)|2|
+|UNIVAC 1100/11: Treatment of Aborigines (Question No. 4816)|2|
+|ABORIGINAL LAND RIGHTS: REPORT ON THE BORROLOOLA LAND CLAIM: Ministerial Statement|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Infant Mortality (Question No. 1204)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Affairs: Australian Government Responsibility (Question No. 1190)|2|
+|HOUSING ASSISTANCE BILL 1978: Second Reading|2|
+|QUESTION: ABORIGINALS: RACIAL DISCRIMINATION|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Opening of Parliament 1974: Armed Demonstrators (Question No. 1185)|2|
+|ADJOURNMENT: Pike's Creek Dam - Electoral - Northern Territory Television Program - Wool - Drug Pedlars|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Wreck Bay: Aboriginal Community (Question No. 2185)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Entry to Aboriginal Reserves, Western Australia (Question No. 1419)|2|
+|AUSTRALIAN ABORIGINAL DEVELOPMENT AGENCY: Ministerial Statement|2|
+|NORTHERN TERRITORY: Aboriginals (Question Ni>. 1721)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Affairs (Question No. 1658)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Born Free Club: Grant (Question No. 1317)|2|
+|AUSTRALIAN INDUSTRY DEVELOPMENT CORPORATION BILL 1970: Second Reading|2|
+|SITE FOR NEW AND PERMANENT PARLIAMENT HOUSE|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Liquor Sales (Question No. 4406)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Land Purchases for Aborigines (Question No. 790)|2|
+|QUESTION: REDFERN ABORIGINAL MEDICAL SERVICE|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Jabiluka Project Draft Environmental Impact Statement (Question No. 1873)|2|
+|QUESTION: ABORIGINAL BILINGUAL EDUCATION PROGRAM|2|
+|APPROVAL OF WORKS- PUBLIC WORKS COMMITTEE ACT|2|
+|ANSWERS TO QUESTIONS: Aboriginal Affairs: Motor Vehicles (Question No. 4309)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Affairs: Determination of Policies (Question No. 425)|2|
+|SUPPLY BILL (No. 1) 1979-80: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mining Bill: Western Australia (Question No. 2576)|2|
+|TELEPHONE INSTALLATIONS: Discussion of Matter of Public Importance|2|
+|QUESTION: MINING IN THE NORTHERN TERRITORY|2|
+|ABORIGINALS|2|
+|ANSWERS TO QUESTIONS: Aboriginal Affairs (Question No. 2192)|2|
+|QUESTION: SCIENTISTS TO STUDY MARALINGA AREA|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Involvement: Kildurk and Willowra Stations (Question No. 1048)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Jabiluka Project (Question No.1816)|2|
+|QUESTION: PAPUA NEW GUINEA|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Sporting Activities (Question No. 3008)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Advancement: Payments (Question No. 493)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unemployment: Aboriginals (Question No. 1747)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Legal Services (Question No. 1161)|2|
+|ADJOURNMENT: Sydney City Mission-Qantas Airways Ltd- National Aboriginal Conference- Education- Government Overseas Borrowings- Petroleum Industry|2|
+|QUESTION: QUEENSLAND ABORIGINAL LEGISLATION|2|
+|REPATRIATION ACTS AMENDMENT BILL 1979: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Yirrkala Community (Question No. 1336)|2|
+|FILM AND TELEVISION SCHOOL BILL 1973: Second Reading|2|
+|HOUSE OF REPRESENTATIVES STANDING COMMITTEE ON ENVIRONMENT AND CONSERVATION|2|
+|ADJOURNMENT: Mr David Anderson, 53 Eliza Street, Black Rock 3193 Victoria|2|
+|QUESTION: EYE DISEASES AMONG ABORIGINES|2|
+|SCHEDULE 'B*: Aboriginal Affairs Council (Question No. 6100)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Population (Question No. 431 2)|2|
+|RESTRICTED: Aboriginal Affairs, Aurukun (Question No. 1759)|2|
+|TASK FORCES: National Aboriginal Consultative Committee: Elections (Question No. 1755)|2|
+|QUESTION: HOUSING OF ABORIGINES|2|
+|QUESTION: KIMBERLEYS: ABORIGINAL RESERVES|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mount Minnie Station (Question No. 1516)|2|
+|ASIAN DEVELOPMENT BANK (ADDITIONAL SUBSCRIPTION) BILL 1977: Second Reading|2|
+|QUESTION: INTERNATIONAL AFFAIRS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: Vacant Crown Land (Question No. 1400)|2|
+|ANSWERS TO QUESTIONS: Aboriginal Affairs Grants (Question No. 4733)|2|
+|QUESTION: NORTHERN TERRITORY NATIONAL PARK|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Reserves: Wood Chip Industry (Question No. 5131)|2|
+|A: Aboriginal Education (Question No. 2575)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Torres Strait Islanders (Question No. 3260)|2|
+|ANSWERS TO QUESTIONS: Maningrida Aboriginal Community (Question No. 4856)|2|
+|ADJOURNMENT: Australian Aircraft Industry - Ministerial Stan's: Security Clearances - Northern Territory - Telephone Services|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Study Group: Relations Between Aborigines and Police (Question No. 355)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Yirrkala Schooling for Aboriginal Children (Question No. 492)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Legal Aid (Question No. 497)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Land Rights (Question No. 4105)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: United States Legal Experts (Question No. 249)|2|
+|QUEENSLAND GRANT (BUNDABERG IRRIGATION WORKS) BILL 1974: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Wreck Bay: Redevelopment (Question No. 791)|2|
+|ADJOURNMENT: Uranium Mining- Environment- Lone Parents-Rural Industry -Medibank: Pensioner Medical Service Cards- Family Allowances -The Budget: Attitude of State Premiers|2|
+|QUESTION: ENFORCEMENT OF AUSTRALIAN CAPITAL TERRITORY ORDINANCE|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Lands Trust of New South Wales (Question No. 3124)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Estate Program (Question No. 2691)|2|
+|QUESTION: CONSTITUTIONALTERATION(MODE|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs: Financial Training of Officers (Question No. 435)|2|
+|NORTHERN TERRITORY: Industrial Relations (Question No. 3193)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs: Polls and Surveys (Question No. 3775)|2|
+|NURSING HOMES ASSISTANCE BILL 1974: Second Reading|2|
+|APPROPRIATION BILL (No, 4) 1973-74: Second Reading|2|
+|ELECTORAL PROCEDURES|2|
+|QUESTION: AURUKUN|2|
+|NAVIGATION AMENDMENT BILL 1976: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals (Question No. 3258)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Arts (Question No. 1629)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Councils and Associations Act (Question No. 76)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Rights (Question No. 219)|2|
+|QUESTION: EVERARD PARK|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Aboriginal Consultative Committee (Question No. 29)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Gordon Downs Station: Aborigines (Question No. 3691)|2|
+|QUESTION: ABORIGINAL CHILD|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Enrolment of Aborigines (Question No. 5379)|2|
+|QUESTION: ABORIGINAL HOUSING: WRECK BAY|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal and Islander Affairs, Queensland (Question No. 645)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Legal Aid Service (Question No. 26)|2|
+|TEMPORARY ACCOMMODATION ALLOWANCE: Aboriginals (Question No. 31)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Electoral Education (Question No. 3831)|2|
+|THE HON. GORDON BRYANT, E.D., M.P: Inflation (Question No. 925)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Housing (Question No. 1834)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Welfare (Question No. 1843)|2|
+|COMMONWEALTH TEACHING SERVICE BILL 1972: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Central Australia Aboriginal Reserve (Question No. 258)|2|
+|UNCTAD 5: Sea Food Harvesting Licences (Question No. 4109)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Institute of Aboriginal Studies: Report (Question No. 276)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Registration of Births and Deaths: Identification of Aborigines and Torres Strait Islanders (Question No. 140)|2|
+|QUESTION: EYE DISEASE AMONG ABORIGINES|2|
+|CHILDREN'S COMMISSION BILL 1975: Second Reading|2|
+|A: Ranger Agreement (Question No. 2581)|2|
+|ROAD TRAFFIC ACCIDENTS: Royal Australian Air Force: Aboriginal Members (Question No. 3144)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Advisory and Consultative Committees: Inclusion of Members of Parliament (Question No. 1134)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Testing, Maralinga (Question No. 2827)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mornington Island: Housing (Question No. 3634)|2|
+|NORTHERN TERRITORY FORESTRY PROGRAM: Ministerial Statement|2|
+|QUESTION: ABORIGINALS: NATIONAL TRACHOMA AND EYE HEALTH PROGRAM|2|
+|QUESTION: WHALING|2|
+|RADIOACTIVE FALLOUT IN AUSTRALIA FROM NUCLEAR WEAPONS TESTED BY FRANCE IN POLYNESIA: Ministerial Statement|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Queensland Reserves (Question No. 3609)|2|
+|QUESTION: LIQUEFIED GAS|2|
+|ADJOURNMENT: Crown of Thorns Starfish - Gove: Liquor Licence|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Workers: Piggery Project (Question No. 2371)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines and Torres Strait Islanders: Wages (Question No. 137)|2|
+|NATIONAL ABORIGINAL EDUCATION COMMITTEE PART-TIME MEMBERS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Health (Question No. 640)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Integration (Question No. 6018)|2|
+|DC9-3: Queensland: Legislation (Question No. 4221)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Trachoma and Eye Health Program (Question No. 646)|2|
+|ADJOURNMENT: Death of Mr Steve Biko-Pensioners-State and Local Government Elections-The Parliament-Repatriation-South Africa-Commonwealth and State Relations- Trade Unions- Aboriginal Education|2|
+|SCHEDULE: Aboriginals: Grants (Question No. 960)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pre-Schools for Aboriginal Children (Question No. 893)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Rights (Question No. 24)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Alcoholism (Question No. 2642)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Newsletter' (Question No. 3296)|2|
+|QUESTION: NATIONAL TRACHOMA CAMPAIGN|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs: Budget Allocation (Question No. 1335)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: National Centre (Question No. 67)|2|
+|QUESTION: ABORIGINAL GRANTS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Institute of Aboriginal Studies (Question No. 160)|2|
+|ENVIRONMENT (FINANCIAL ASSISTANCE) BILL 1977: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: The Environment: Ministerial Conferences (Question No. 6499)|2|
+|IMMIGRATION (EDUCATION) BILL 1970: Second Reading|2|
+|No: Community Development Employment Projects (Question No. 5142)|2|
+|STANDING COMMITTEE ON ENVIRONMENT AND CONSERVATION|2|
+|QUESTION: ABORIGINAL 'EMBASSY|2|
+|PROPOSED AMENDMENTS: Australian Public Service: Employment of Aboriginals (Question No. 1209)|2|
+|QUESTION: MILK: SCHOOL CHILDREN|2|
+|CIVILIAN EMPLOYEES IN THE CONSTRUCTION INDUSTRY BY STATE FOR EACH MONTH SINCE: Aborigines, Palm Island (Question No. 829)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Artifacts (Question No. 1752)|2|
+|ASIAN DEVELOPMENT FUND BILL 1978: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Growth Centres Program (Question No. 694)|2|
+|SLACKERS TOLD: WORK OR LOSE CASH: Cameron Warning|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Legal Service, New South Wales (Question No. 913)|2|
+|ANSWERS TO QUESTIONS: Aboriginal Housing: Wilcannia (Question No. 4667)|2|
+|TASK FORCES: Department of Aboriginal Affairs: Ministerial Press Releases (Question No. 1654)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nabarlek Uranium Project Draft Environmental Impact Statement (Question No. 1845)|2|
+|QUESTION: THE LEADER OF THE HOUSE|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Communities (Question No. 214)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Business Ventures (Question No. 215)|2|
+|ANSWERS TO QUESTIONS: Aborigines and Torres Strait Islanders: Social Security Benefits (Question No. 4487)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Children: Health (Question No. 4223)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Child Welfare: Case of Nola Brown (Question No. 1001)|2|
+|QUESTION: ABORIGINAL LAND PURCHASES|2|
+|STATES GRANTS (HOUSING ASSISTANCE) BILL 1977: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Gurindji Tribe (Question No. 1305)|2|
+|APPROPRIATION BILL (No. 1)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Fund Commission: Ministerial Directive: Properties Purchased (Question No. 1817)|2|
+|COMMONWEALTH ELECTORAL AMENDMENT BILL (No. 2) 1977: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mining of Aboriginal Land (Question No. 1935)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Alcohol and Drug Abuse, Northern Territory: Aborigines (Question No. 1126)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Aboriginal Study Grants (Question No. SIS)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Jabiluka Project Draft Environmental Impact Statement (Question No. 1844)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Community Council, Weipa South (Question No. 3087)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Western Australia: Aboriginal Student Grants (Question No. 954)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Iwasaki Project (Question No. 2508)|2|
+|DEVELOPMENT AND EXPORT OF AUSTRALIA'S URANIUM RESOURCES: Ministerial Statement|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines, Aurukun and Mornington Island (Question No. 1745)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Employers Policy Committee (Question No. 3001)|2|
+|LOCAL GOVERNMENT (PERSONAL INCOME TAX SHARING) BILL 1976|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines (Question No. 1574)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Walbri Aborigines: Purchase of Willowra Station (Question No. 511)|2|
+|STATES GRANTS (ADVANCED EDUCATION ASSISTANCE) AMENDMENT BILL 1977: Second Reading|2|
+|QUESTION: MORNINGTON ISLAND AND AURUKUN RESERVES|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Fund Commission: Ministerial Directive (Question No. 798)|2|
+|STATES GRANTS (TECHNICAL AND FURTHER EDUCATION ASSISTANCE) BILL 1976: Second Reading|2|
+|QUESTION: ABORIGINAL HOSTEL IN ALICE SPRINGS|2|
+|LIQUEFIED GAS TAX: Ministerial Statement|2|
+|DESIGNERS GRANTED SUBSIDY OF $400: Council for Aboriginal Affairs (Question No. 1191)|2|
+|ANSWERS TO QUESTIONS: Aboriginal Housing Organisations (Question No. 4819)|2|
+|QUESTION: ACQUISITION OF LAND IN THE NORTHERN TERRITORY|2|
+|AUSTRALIAN SECURITY INTELLIGENCE ORGANIZATION BILL 1979|2|
+|HANDICAPPED CHILDREN (ASSISTANCE) BILL 1970: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Health Maintenance Organisations (Question No. 1771)|2|
+|ANSWERS TO QUESTIONS: Aboriginal Housing Grants (Question No. 4890)|2|
+|SCHEDULE: Department of Aboriginal Affairs (Question No. 2987)|2|
+|COMMITTEE ON THE CRAFTS: Ministerial Statement|2|
+|DEATH PENALTY ABOLITION BILL 1973: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Apprenticeships (Question No. 3424)|2|
+|QUESTION: CRAFTS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Advertising (Question No. 37)|2|
+|QUESTION: ABORIGINES: GURINDJIS|2|
+|QUESTION: WHITLAM GOVERNMENT|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Legal Aid Service (Question No. 1337)|2|
+|URANIUM -AUSTRALIAN POLICY: Ministerial Statements|2|
+|ANSWERS TO QUESTIONS: North Australia Railway (Question No. 4392)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: New South Wales Aboriginal Family Education Centres Federation (Question No. 1744)|2|
+|BARLEY: Buddabuddoo Aboriginal Council (Question No. 4219)|2|
+|QUESTION: REFERENDUM: GOVERNMENT ADVERTISING|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs: Area Offices (Question No. 1399)|2|
+|NATIONAL ABORIGINAL CONFERENCE: Ministerial Statement|2|
+|QUESTION: LEGAL AID|2|
+|OVERSEAS CONTROL - MANUFACTURING SECTOR: Telephones: Installation Charges (Question No. 5366)|2|
+|APPROPRIATION BILL (No. 3) 1978-79: Second Reading|2|
+|TASK FORCES: Aborigines: Discrimination in Housing (Question No. 1753)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Statistical Information (Question No. 1379)|2|
+|QUESTION: FOSTERING OF ABORIGINAL CHILDREN|2|
+|WESTERN AUSTRALIA: Aboriginal Infant Mortality (Question No. 5323)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Student Numbers (Question No. 3452)|2|
+|USSR: Aboriginal Land Rights (Question No. 4906)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs (Question No. 316)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Legal Service: Computer System (Question No. 889)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant and Aboriginal Children: Literacy and Numeracy (Question No. 1949)|2|
+|ANSWERS TO QUESTIONS: Alice Springs Aboriginal Housing Project (Question No. 4562)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Victorian Aboriginal Health Service (Question No. 3538)|2|
+|No: Aboriginal Land Rights (Question No. 5166)|2|
+|QUESTION: ABORIGINAL LAND RIGHTS: NORTHERN TERRITORY|2|
+|EXERCISES CONDUCTED WITH US NAVY SHIPS AND COMPOSITION OF FORCES INVOLVED,: Nabarlek Uranium Deposit (Question No. 3875)|2|
+|URANIUM-AUSTRALIAN POLICY: Ministerial Statement|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Aboriginal Conference Secretariat (Question No. 2644)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Ownership (Question No. 1246)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Darwin: Aborigines (Question No. 2214)|2|
+|BARLEY: Health Insurance (Question No. 4246)|2|
+|WESTERN AUSTRALIA: Aborigines: Tertiary Education (Question No. 3454)|2|
+|QUESTION: CONSUMPTION OF ALCOHOL BY ABORIGINES|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Public Servants (Question No. 324)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Housing Estate, Davenport, South Australia (Question No. 1298)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines, Grey Division (Question No. 612)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Health Problems (Question No. 2889)|2|
+|GOVERNMENT DECISIONS ON EXPENDITURE AND TAXATION: Ministerial Statement|2|
+|UNIVAC 1100/11: Radiation Effects: Mr Solomon Nayilibity (Question No. 4604)|2|
+|QUESTION: NORTHERN TERRITORY PENAL REFORM|2|
+|ANSWERS TO QUESTIONS: Aboriginal Housing: The Mallee (Question No. 4818)|2|
+|QUESTION: ABORIGINALS: MORTALITY RATE|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Employment of Aborigines (Question No. 313)|2|
+|QUESTION: MINING AT AURUKUN|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Legal Aid Service (Question No. 1338)|2|
+|QUESTION: MEDICAL SERVICES FOR ABORIGINALS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs (Question No. 1153)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Central Australian Aboriginal Services (Question No. 1720)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Cultural and Recreational Activities (Question No. 1836)|2|
+|QUESTION: PROBLEM No. 2|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Welfare Expenditure (Question No. 936)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Granite Downs Station: Aboriginal Reserves (Question No. 712)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Women: Port Augusta Health Hostel (Question No. 6401)|2|
+|NATIONAL HEALTH AMENDMENT BILL (No. 2) 1978: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hooker Creek Settlement (Question No. 438)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Apprenticeships (Question No. 225)|2|
+|RANGER AGREEMENT: NORTHERN LAND COUNCIL|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Fund Commission: Use of Land (Question No. 652)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pinjarra: Aboriginal Community Centre (Question No. 1039)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Conference of Commonwealth and State Ministers (Question No. 456)|2|
+|INCOME TAX AND COMPANIES SUPERANNUATION FUNDS BILL 1977|2|
+|NATIVE MEMBERS OF THE FORCES BENEFITS BILL 1972: Second Reading|2|
+|STATES GRANTS (TERTIARY EDUCATION ASSISTANCE) BILL 1977: Second Reading|2|
+|QUESTION: QUEENSLAND ABORIGINAL RESERVES|2|
+|SUPPLY BILL (No. 1) 1978-79: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Purchase of Property for Aboriginal Land Fund Commission (Question No. 830)|2|
+|UNCTAD 5: Aboriginal Children: Hearing Problems (Question No. 3988)|2|
+|TEMPORARY ACCOMMODATION ALLOWANCE: Aboriginal Health (Question No. 444)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Affairs: Funding of Town Management and Public Utilities (Question No. 1835)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Employment of Aborigines (Question No. 66)|2|
+|LEGAL AID BILL 1975|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Mining Ventures (Question No. 218)|2|
+|QUESTION: ABORIGINAL EMPLOYMENT|2|
+|STANDING COMMITTEE ON ABORIGINAL AFFAIRS: Report|2|
+|NORTHERN TERRITORY: Aboriginals: Infant Mortality (Question No. 629)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines in Queensland: Telegrams (Question No. 1818)|2|
+|QUESTION: POLLUTION|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Trust (Question No. 2289)|2|
+|NORTHERN TERRITORY: Aboriginals (Question No. 1717)|2|
+|CIVILIAN EMPLOYEES IN THE CONSTRUCTION INDUSTRY BY STATE FOR EACH MONTH SINCE: Queensland Aborigines: Privy Council Appeal (Question No. 610)|2|
+|UNIVAC 1100/11: Aurukun Mineral Leases (Question Na 5095)|2|
+|QUESTION: AUSTRALIA'S NATIONAL ANTHEM|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines (Question No. 5122)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Hostels Limited and Aboriginal Development Foundation: Dual Employment (Question No. 1418)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Legal Aid Officers (Question No. 224)|2|
+|DC9-3: Aborigines: Treaty of Commitment (Question No. 3981)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australians of South Sea Island Descent (Question No. 139)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Canberra Airport: Restrictions on Light Aircraft (Question No. 4043)|2|
+|AUSTRALIA/WEST COAST NORTH AMERICA TRADE: Museum of Aboriginal Arts and Crafts (Question No. 3938)|2|
+|ANSWERS TO QUESTIONS: Aboriginal Housing: Wilcannia (Question No. 4820)|2|
+|ANSWERS TO QUESTIONS: Aboriginal Housing: Menindee (Question No. 4664)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Aboriginal Council (Question No. 3690)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Legal Service (Question No. 2452)|2|
+|QUESTION: ILLEGAL IMMIGRATION|2|
+|ANSWERS TO QUESTIONS: Western Australia: Employment and Training of Aborigines (Question No. 958)|2|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Aboriginal Health (Question No. 2335)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines and Islanders: Fishing and Transport Facilities (Question No. 261)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Iwasaki Project (Question No. 2509)|2|
+|ELECTORAL DIVISIONS OF WESTERN AUSTRALIA: Proposed Redistribution|2|
+|QUESTION: COMMONWEALTH EDUCATION PROGRAMME FOR 1972-73|2|
+|ANSWERS TO QUESTIONS: Aurukun Aborigines (Question No. 4485)|2|
+|QUESTION: ABORIGINAL VICTIMS OF FLOODS|2|
+|COMMONWEALTH ELECTORAL AMENDMENT BILL 1977: Second Reading|2|
+|QUESTION: MOST GRACIOUS SOVEREIGN:|2|
+|QUESTION: INTERPRETERS AND TRANSLATORS FOR ABORIGINALS|2|
+|QUESTION: CYCLONE TED: RESTORATION ASSISTANCE|2|
+|IMMIGRATION POLICIES AND AUSTRALIA'S POPULATION: Paper and Ministerial Statement|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Employment (Question No. 1841)|2|
+|DESIGNERS GRANTED SUBSIDY OF $400: Redfern: Alleged Police Discrimination Against Aboriginals (Question No. 1242)|2|
+|ANSWERS TO QUESTIONS: Department of Aboriginal Affairs: Grants (Question No. 94)|2|
+|CIVILIAN EMPLOYEES IN THE CONSTRUCTION INDUSTRY BY STATE FOR EACH MONTH SINCE: Aboriginal Land Rights (Question No. 1207)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines (Question No. 3235)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Affairs, Yarrabah (Question No. 2455)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Conference of Aboriginal and Torres Strait Islanders Advisory Counsellors (Question No. 68)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory - School Children (Question No. 2486)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Reserves: Exploration Licences (Question No. 788)|2|
+|ANSWERS TO QUESTIONS: Aboriginal Welfare Relief (Question No. 4490)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines (Question No. 3261)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines, Aurukun and Mornington Island (Question No. 1760)|2|
+|AUSTRALIA COUNCIL AMENDMENT BILL 1976: Second Reading|2|
+|QUESTION: CYCLONE JENNY|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Indulkana Community Council (Question No. 3268)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Affairs, Maningrida (Question No. 557)|2|
+|QUEENSLAND GRANT (SPECIAL ASSISTANCE) BILL 1979: Second Reading|2|
+|HOUSE OF REPRESENTATIVES STANDING COMMITTEE ON ABORIGINAL AFFAIRS|2|
+|S $: Statutory Authorities Responsible to Minister for Aboriginal Affairs (Question No. 1358)|2|
+|QUESTION: ABORIGINAL SCHOOLBOYS FOOTBALL TEAM|2|
+|QUESTION: ABORIGINES: PROPOSED ROYAL COMMISSION|2|
+|AUSTRALIAN/STATE ADVISORY COMMITTEE TO STUDY WESTERN AUSTRALIAN AIRPORT REQUIREMENTS: One Arm Point: Smallpox Vaccinations (Question No. 1031)|2|
+|UNCTAD 5: Land Rights: Lake Nash Region (Question No. 3991)|2|
+|APPROPRIATION BILL (No.1)1970-71: Second Reading (Budget Debate)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs: Interdepartmental Committees (Question No. 1079)|2|
+|SCHEDULE: Properties Purchased for Aborigines (Question No. 3002)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Research and Development (Question No. 874)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mrs King: Adoption of Foster Child (Question No. 1392)|1|
+|QUESTION: BATHURST ISLAND MISSION|1|
+|ANSWERS TO QUESTIONS: Foster Parents for Aborigines (Question No. 4492)|1|
+|ABORIGINAL LAND RIGHTS COMMISSION: Ministerial Statement|1|
+|GRIEVANCE DEBATE: Anniversary of Dismissal of Labor Government|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: New South Wales Local Government Community Workers Association (Question No. 803)|1|
+|QUESTION: DISCUSSIONS WITH PREMIER OF QUEENSLAND|1|
+|ADJOURNMENT: Department of Primary Industry Publication - Aboriginal Affairs|1|
+|SOCIAL SERVICES AMENDMENT BILL (No. 3) 1976: Second Reading|1|
+|SOCIAL SERVICES BILL: Second Reading|1|
+|QUESTION: PAPUA NEW GUINEA-AUSTRALIAN BORDER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Girl Guides Association of Australia: Research (Question No. 3103)|1|
+|RESTRICTED: Movement of Papua New Guineans to Australian Territory (Question No. 1894)|1|
+|CSIRO: Hansard Index (Question No. 3094)|1|
+|ADJOURNMENT: Dear Mr Stewart,|1|
+|QUESTION: SUPPLEMENTARY FEEDING PROGRAMS FOR ABORIGINAL CHILDREN|1|
+|WESTERN AUSTRALIA: Housing: Ministerial (Question No. 5986)|1|
+|STATES GRANTS (SCHOOLS ASSISTANCE) BILL 1976|1|
+|ABORIGINES|1|
+|NITROGENOUS FERTILIZERS SUBSIDY AMENDMENT BILL 1976: Second Reading|1|
+|TASK FORCES: Effects of Refusal of Supply (Question No. 1890)|1|
+|COMMITTEE OF INQUIRY ON MUSEUMS AND NATIONAL COLLECTIONS: Ministerial Statement|1|
+|ABORIGINAL AGED PERSONS HOMES TRUST: Ministerial Statement|1|
+|QUESTION: JOINT COMMITTEE OF PUBLIC ACCOUNTS|1|
+|AT 30 JUNE: Commonwealth Directories (Question No. 5002)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs: Grants (Question No. 2120)|1|
+|ADJOURNMENT: Unemployment -Uganda -Australian Petroleum Industry -Commonwealth Employment Service -Hobart Suburban Rail Service|1|
+|DRIED VINE FRUITS LEVY BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Post-arrival Programs and Services for Migrants (Question No. 1939)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs: Staffing (Question No. 1754)|1|
+|MINISTERIAL CHANGES AND ARRANGEMENTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Jervis Bay: Steelworks (Question No. 2991)|1|
+|CENSURE OF PRIME MINISTER: Motion of Censure|1|
+|REMUNERATION TRIBUNALS ACT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Health Insurance (Question No. 1358)|1|
+|PROPOSED AMENDMENTS: Spain: Treatment of Trade Unionists and Political Activists (Question No. 1351)|1|
+|CONSTITUTION ALTERATION (MODE OF ALTERING THE CONSTITUTION) BILL 1974 [No. 2]|1|
+|LIFE INSURANCE AMENDMENT BILL 1977: Third Reading|1|
+|NON-GOVERNMENT TEACHERS COLLEGES: The Environment (Question No. 5964)|1|
+|QUESTION: ABORIGINALS: SOCIAL SECURITY CHEQUES|1|
+|HUMAN RIGHTS: Petition|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines, Pilbara and Kimberley Regions (Question No. 1469)|1|
+|NON-GOVERNMENT SCHOOLS (LOANS GUARANTEE) BILL 1977: Second Reading|1|
+|DEVELOPMENT OF EARLY CHILDHOOD SERVICES: Discussion of Matter of Public Importance|1|
+|QUESTION: SALE OF TIPPERARY STATION|1|
+|PATENTS AMENDMENT BILL 1976: Second Readings|1|
+|PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) BILL 1971: Second Reading|1|
+|ADJOURNMENT: Parties - Aborigines|1|
+|QUESTION: MEANS AND NEEDS TEST AND CONTRIBUTIONS INTERIM GUIDELINES|1|
+|SUPPLY BILL (No. 3) 1973-74: Second Reading|1|
+|THE ENVIRONMENT: Discussion of Matter of Public Importance|1|
+|QUESTION: ELECTORAL REDISTRIBUTION INQUIRY|1|
+|EDUCATION RESEARCH BILL 1970: Second Reading|1|
+|THE ADMINISTRATIVE STRUCTURE OF BROADCASTING: Clause 18|1|
+|TELEVISING OF PARLIAMENTARY 1 DEBATES: Joint Select Committee|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Purchase of Everard Park Station for Aborigines (Question No. 5079)|1|
+|UNEMPLOYMENT: NEED FOR NEW ECONOMIC POLICIES: Discussion of Matter of Public Importance|1|
+|QUESTION: ISOLATED CHILDREN: EDUCATION ASSISTANCE|1|
+|VOTES AND PROCEEDINGS|1|
+|AUSTRALIAN POSTAL SERVICES: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines (Question No. 3262)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Film and Television School (Question No. 264)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Arts and Letters (Question No. 4616)|1|
+|ADJOURNMENT: Honours and Awards - Parliamentary Handbook- Transport of Relief Materials to Vietnam - Aborigines|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sport: Commonwealth Subsidies (Question No. 2314)|1|
+|INCOME TAX ASSESSMENT AMENDMENT BILL 1977|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employees of Defence Establishment: Membership of Unions (Question No. 911)|1|
+|QUESTION: EDUCATION SURVEY OF NEEDS|1|
+|NERDDC TECHNICAL STANDING COMMITTEES: Review of Australia's International Civil Aviation Policy (Question No. 2868)|1|
+|COMMONWEALTH MOTOR VEHICLES (LIABILITY) AMENDMENT BILL 1978: Second Reading|1|
+|ECONOMIC CONDITIONS AND POLICY: Ministerial Statement|1|
+|CANBERRA COLLEGE OF ADVANCED EDUCATION BILL 1970: Second Reading|1|
+|STATES GRANTS {ABORIGINAL ADVANCEMENT) BILL 1971: Second Reading|1|
+|ADJOURNMENT: Postal Department - Importation of Pie Apples - Motor Vehicles: Protection of Buyers - Northern Territory: Television Programme|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Queensland Aboriginal and Torres Strait Islanders Community Health Service (Question No. 77)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: The Environment: Ministerial Conference (Question No. 4796)|1|
+|QUESTION: EVERARD PARK: PURCHASE FOR ABORIGINES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Alice Springs: Police Activities (Question No. 2191)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mereenie Oil and Gas Field (Question No. 620)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Maternity Leave (Question No. 1276)|1|
+|A: Socially Disadvantaged Persons (Question No. 2804)|1|
+|QUESTION: AUSTRALIAN FILM QUOTAS|1|
+|QUESTION: NATIONAL LIBRARY OF AUSTRALIA|1|
+|ABORIGINAL LAND RIGHTS: Aboriginal Land Rights - Ministerial Statement, 23 February 1972|1|
+|QUESTION: COPY OF CHARGES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation: Regional Programs (Question No. 762)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence: Units Overseas (Question No. 6066)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Holiday Cottages (Question No. 454)|1|
+|APPROPRIATION BILL (No. 3) 1970-71: Second Reading|1|
+|REPORTS BY THE INTERIM ABORIGINAL LAND COMMISSIONER|1|
+|DELIVERED MEALS SUBSIDY BILL 1970|1|
+|QUESTION: IBIS ROOKERIES|1|
+|QUESTION: PROPOSED NATIONAL HEALTH SCHEME|1|
+|AUSTRALIA'S TRADING POLICY IN MINERALS: Discussion of Matter of Public Importance|1|
+|THE PARLIAMENT: Discussion of Matter of Public Importance|1|
+|PARLIAMENTARY GROUP-AMNESTY INTERNATIONAL PETITION TO THE PRESIDENT OF THE UNITED STATES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Reserves, Queensland (Question No. 1934)|1|
+|AWARDS OF VC, MC, DCM AND MM FOR SERVICE IN 1939-45 WAR: Commonwealth Industrial Court (Question No. 1554)|1|
+|HEALTH ASPECTS OF URANIUM DEVELOPMENT: Ministerial Statement|1|
+|HOMELESS PERSONS ASSISTANCE BILL 1974: Second Reading|1|
+|QUESTION: CONSTITUTION REVIEW COMMITTEE 1958|1|
+|OVERSEAS-OWNED FIRMS: EXPORT OF FUNDS: Discussion of Matter of Public Importance|1|
+|TASMANIA: Australian Capital Territory: Jervis Bay and Wreck Bay Areas (Question No. 3431)|1|
+|RELIEF OPERATIONS IN DARWIN: Paper and Ministerial Statement|1|
+|NORTHERN TERRITORY (ADMINISTRATION) AMENDMENT BILL 1976: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines (Question No. 3263)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aurukun Council (Question No. 2135)|1|
+|PERSONAL EXPLANATIONS: Government Supporters- No|1|
+|QUESTION: EDUCATION|1|
+|SUPPLY BILL (No. 1) 1975-76: Second Reading|1|
+|MEDIBANK: Discussion of Matter of Public Importance|1|
+|OBSERVERS: Australian Authors (Question No. 4742)|1|
+|QUESTION: GREAT BARRIER REEF|1|
+|ABORIGINAL AFFAIRS: Notice of Motion|1|
+|ANSWERS TO QUESTIONS: Civil Defence (Question No. 1151)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Records: Shedden Papers (Question No. 5413)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Embassy (Question No. 637)|1|
+|A: Ramanginning Council: Joint Mining Venture (Question No. 2134)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Thursday Island Hospital: Hostel for Visitors (Question No. 1743)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pastoral Properties purchased for Aboriginal Communities (Question No. 810)|1|
+|TANAMI: Title|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs: Expenditure (Question No. 169)|1|
+|NEW SOUTH WALES GRANT (CHRYSOTILE CORPORATION) BILL 1978: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employment (Question No. 4942)|1|
+|APPROVAL OF WORK-PUBLIC WORKS COMMITTEE ACT: Area School, Yirrkala, Northern Territory|1|
+|QUESTION: NORTHERN AUSTRALIAN DEVELOPMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: Pre-School Enrolments (Question No. 2487)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Inquiry into Department of Aboriginal Affairs (Question No. 166)|1|
+|CONCILIATION AND ARBITRATION BILL 1973: Second Reading|1|
+|RAAF: Muramulla Gurindji Cattle Company (Question No. 3343)|1|
+|MINISTERS OF STATE BILL 1971: Third Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Yarralin Land Claim (Question No. 636)|1|
+|ELECTORATE BOUNDARIES: Discussion of Matter of Public Importance|1|
+|FISHERIES BILL 1970: Second Reading|1|
+|POST AND TELEGRAPH RATES BILL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Arts Grants (Question No. 549)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Housing and Construction: Activities (Question No. 222)|1|
+|JOINT COMMITTEE ON PUBLIC ACCOUNTS|1|
+|WHITLAM GOVERNMENT: Ministerial Statement|1|
+|NORTHERN TERRITORY: Proposed Joint Committee|1|
+|QUESTION: ABORIGINAL AFFAIRS: WESTERN AUSTRALIA|1|
+|QUESTION: DARWIN: SPECIAL MINISTERIAL COMMITTEE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Marriage Act: Recognised Denominations (Question No. 4215)|1|
+|ECONOMIC DEVELOPMENT OF ABORIGINAL COMMUNITIES IN THE NORTHERN TERRITORY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pensioners (Question No. 3444)|1|
+|STATES GRANTS (ABORIGINAL ADVANCEMENT) BILL|1|
+|AUSTRALIA'S POLITICAL AND TRADING RELATIONSHIPS AND ENERGY RESERVES: Discussion of Matter of Public Importance|1|
+|RACIAL DISCRIMINATION BILL 1975: Third Reading|1|
+|CONSTITUTION ALTERATION (PRICES) BILL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Infant Mortality (Question No. 4452)|1|
+|QUESTION: CONSERVATION OF THE ENVIRONMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Health: Capital Works Expenditure (Question No. 1790)|1|
+|NATIONAL HEALTH AMENDMENT BILL 1979: Second Reading|1|
+|STATES GRANTS (PRE-SCHOOL TEACHERS COLLEGES) BILL 1972: Second Reading|1|
+|FISCAL POLICY DECISIONS: Suspension of Standing Orders|1|
+|No: Visitto China by Qantas Representatives (Question No. 4517)|1|
+|STATES GRANTS BILL 1972: Second Reading|1|
+|No: Ethnic Liaison Officers (Question No. 1495)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Computers (Question No. 2246)|1|
+|RACIALLY SELECTED SPORTS TEAMS: Dear Sir,|1|
+|QUESTION: RACISM IN SCHOOL TEXTBOOKS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land (Northern Territory) Bill (Question No. 1563)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women's Affairs (Question No. 69)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Labor and Immigration: Employment of Women (Question No. 110)|1|
+|AWARDS OF VC, MC, DCM AND MM FOR SERVICE IN 1939-45 WAR: Aboriginals (Question No. 2057)|1|
+|AUSTRALIA'S IMMIGRATION POLICY: Suspension of Standing Orders|1|
+|QUESTION: DRAFT RANGER AGREEMENT|1|
+|SOCIAL WELFARE COMMISSION (REPEAL) BILL 1976: Second Reading|1|
+|QUESTION: TRANSACTION BY INSURANCE COMPANY|1|
+|STATES RECEIPTS DUTIES (ADMINISTRATION) BILL 1970: Third Readings|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Capital Fund for Aboriginal Enterprises (Question No. 2135)|1|
+|ADJOURNMENT: Public Servants: Freedom of Expression -|1|
+|HOMES SAVINGS GRANT AMENDMENT BILL 1976: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Lake Pedder (Question No. 4101)|1|
+|NATIONAL PARKS AND WILDLIFE CONSERVATION AMENDMENT BILL 1978: Second Reading|1|
+|NATIONAL ESTATE: Ministerial Statement|1|
+|No: Exhibition High School: Commonwealth Assistance (Question No. 1577)|1|
+|STATES GRANTS (ADVANCED EDUCATION) BILL 1973: Second Reading|1|
+|NOTICES OF MOTION: Aboriginals|1|
+|AUSTRALIAN FEDERAL POLICE BILL 1979|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Language Publications (Question No. 3320)|1|
+|QUESTION: CYCLONE TRACY|1|
+|ADJOURNMENT: Commonwealth Property, Sydney - Australian Capital Territory Land Sales: Auctioneers - Acquisition of Everard Park|1|
+|THE GEO-POLITICAL SITUATION: A PATTERN OF INSTABILITY: Suspension of Standing Orders|1|
+|QUESTION: EDUCATION: DROP-OUT RATES IN SECONDARY SCHOOLS|1|
+|QUESTION: DONATION TO A.L.P. FEDERAL ELECTION FUND|1|
+|TERRITORY SENATORS BILL 1970: Second Reading|1|
+|HEALTH CARE COSTS CONTROL PROGRAM: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Gurindji Tribe (Question No. 3813)|1|
+|WESTERN AUSTRALIA: Overseas Academic Qualifications (Question No. 6541)|1|
+|QUESTION: COMMONWEALTH ACTS PROVIDING EXPRESSLY FOR THEIR EXTENSION TO NORFOLK ISLAND|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory Police Force: Abolition of Special Branch (Question No. 1255)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs: Safety Aspects (Question No. 3126)|1|
+|INVALID PENSIONERS REJECTED FOR REHABILITATION: Aboriginals (Question No. 2233)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tourism: Carnarvon Gorge National Park (Question No. 3382)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aurukun and Mornington Shires Funding (Question No. 2685)|1|
+|NATIONAL HEALTH BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Enterprises (Question No. 4897)|1|
+|ADJOURNMENT: Migrant Education- Prescribing of Drugs- Commonwealth Government Employees Compensation- Use of Parliamentary Postage Paid Envelopes and Franking Machines -Abortions|1|
+|AT 30 JUNE: Rhodesian Officials: Australian Passports (Question No. 4982)|1|
+|HOSPITALS DEVELOPMENT PROGRAM: Unemployment: Aboriginals (Question No. 1163)|1|
+|PUBLIC WORKS COMMITTEE BILL 1972: Second Reading|1|
+|ABORIGINAL LAND RIGHTS (NORTHERN TERRITORY) AMENDMENT BILL (No. 2) 1978: Second Reading|1|
+|IMPUTATION AGAINST A PUBLIC SERVANT: Ministerial Statement|1|
+|INTERNATIONAL AFFAIRS: International Affairs- Ministerial Statement, 19th March 1970|1|
+|QUESTION: ENVIRONMENT: IMPACT STATEMENTS|1|
+|TELECOMMUNICATIONS AMENDMENT BILL 1976: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Labor and Immigration: Advertising (Question No. 2872)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fire Fighting Procedures (Question No. 1156)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: The Environment: Non-Returnable Containers (Question No. 5041)|1|
+|NERDDC TECHNICAL STANDING COMMITTEES: Ranger Uranium Project (Question No. 2580)|1|
+|QUESTION: MAY IT PLEASE YOUR EXCELLENCY:|1|
+|QUESTION: PERFORMING ARTS EXHIBITION|1|
+|QUESTION: GOVERNMENT BUSINESS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Grants (Question No. 2376)|1|
+|QUESTION: QUEENSLAND MINES LTD|1|
+|QUESTION: LEPROSY|1|
+|D.M. CAMERON (M.P.): Member for Griffith|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Reserves: Mining Leases (Question No. 441)|1|
+|STATES GRANTS (RURAL RECONSTRUCTION) BILL 1973: Second Reading|1|
+|WESTERN AUSTRALIA: French Nuclear Tests (Question No. 6284)|1|
+|STANDING ORDERS COMMITTEE: Report|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: School Dental Services (Question No. 1425)|1|
+|AUSTRALIAN MINING INDUSTRY: Discussion of Matter of Public Importance|1|
+|COMPANIES (FOREIGN TAKE-OVERS) BILL 1972: Second Reading|1|
+|STATES GRANTS (SCHOOLS) BILL 1974: Second Reading|1|
+|THE AUSTRALIAN WORK FORCE: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Affairs, Aurukun (Question No. 1936)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Operation of Administrative Tribunals (Question No. 721)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Meetings of Prime Minister and State Premiers (Question No. 261)|1|
+|QUESTION: AGED PERSONS HOMES|1|
+|RURAL RECONSTRUCTION EMPLOYMENT TRAINING SCHEME: Advisory Committee|1|
+|COMMONWEALTH LEGAL AID COMMISSION BILL 1977|1|
+|REDISTRIBUTION OF STATES INTO ELECTORAL DIVISIONS: Ministerial Statement|1|
+|URANIUM DEVELOPMENT: Ministerial Statement|1|
+|JOINT COMMITTEE ON THE NORTHERN TERRITORY|1|
+|UNIVERSITIES COMMISSION BILL 1974: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Widow Pensioners: Training Scheme (Question No. 5219)|1|
+|COMMONWEALTH, STATE AND REGIONAL FINANCES AND FUNCTIONS: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Directory of Support Services for Women (Question No. 923)|1|
+|QUESTION: REMEDIAL TEACHING|1|
+|AGREEMENT BETWEEN THE COMMONWEALTH OF AUSTRALIA AND THE NORTHERN LAND COUNCIL: Local Business Development|1|
+|QUESTION: PROPOSED GAF/CAC MERGER|1|
+|AUSTRALIAN WOOL COMMISSION BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Conference; Australian Delegation's Report (Question No. 5974)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Children: Adoption Statistics (Question No. 750)|1|
+|QUESTION: REPORTS TABLED IN PARLIAMENT ON INQUIRIES INSTITUTED BY THE PRESENT GOVERNMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Project to Employ Aboriginals (Question No. 1531)|1|
+|WHITE AUSTRALIA LEAGUE|1|
+|QUESTION: GLOBAL TOURS|1|
+|UNEMPLOYMENT BENEFIT: MARRIED WOMEN|1|
+|CURRICULUM DEVELOPMENT CENTRE BILL 1975: Second Reading|1|
+|QUESTION: AQUARIUS ARTS FESTIVAL|1|
+|QUESTION: JOINT COMMITTEE ON FOREIGN AFFAIRS AND DEFENCE|1|
+|QUESTION: EXPORT OF URANIUM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aged Persons Homes (Question No. 4363)|1|
+|QUESTION: RANGER URANIUM MINING|1|
+|QUESTION: LEGISLATIVE RESEARCH SERVICE|1|
+|PUBLIC SERVICE STAFF CEILINGS: Discussion of Matter of Public Importance|1|
+|TASMANIA: Environment Council (Question No. 6103)|1|
+|REFERENCE OF WORKS TO PUBLIC WORKS COMMITTEE|1|
+|TASK FORCES: Torres Strait Marine Park (Question No. 1780)|1|
+|REFERENDUM (CONSTITUTION ALTERATION) MODIFICATION BILL 1977: Second Reading|1|
+|STANDING COMMITTEE ON THE ENVIRONMENT AND CONSERVATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Education: Non-English Speaking Clients (Question No. 793)|1|
+|RIGHT OF FREE ASSEMBLY: Discussion of Matter of Public Importance|1|
+|QUESTION: NORTHERN TERRITORY BARGE DISPUTE|1|
+|INQUIRY INTO POVERTY: Ministerial Statement|1|
+|ABORIGINAL MEDICAL SERVICES|1|
+|QUESTION: UNEMPLOYMENT: PROPOSED JOINT COMMITTEE|1|
+|QUESTION: ABORIGINES: EVERARD PARK PURCHASE|1|
+|QUESTION: TRUST WITH TAX LOSSES|1|
+|QUESTION: ABORIGINALS: HEALTH|1|
+|MIGRATION AMENDMENT BILL (No. 2) 1979: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Western Australian Aboriginal Trust (Question No. 1742)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Affairs Committee (Question No. 3901)|1|
+|SOCIAL SERVICES BILL (No. 2) 1970: Second Reading|1|
+|QUESTION: PRESS STATEMENT ISSUED BY THE MINISTER FOR THE ENVIRONMENT, ABORIGINES AND THE ARTS AND MINISTER FOR THE INTERIOR|1|
+|ADJOURNMENT: Civil Liberties - Education|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Rights (Question No. 2331)|1|
+|HOUSING ASSISTANCE BILL 1973: Second Reading|1|
+|COMMONWEALTH ELECTORAL BILL (No. 2) 1973: Second Reading|1|
+|QUESTION: TEXT OF TELEGRAM TO THE PRIME MINISTER FROM THE NORTHERN LAND COUNCIL- SENT 4 OCTOBER 1977|1|
+|THE PRIME MINISTER: ELECTION MANDATE: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs: Expenditure (Question No. 541)|1|
+|QUESTION: ORDERS OF THE DAY|1|
+|ABORIGINAL AND TORRES STRAIT: Second Reading|1|
+|QUESTION: COMPUTER CONTRACT|1|
+|QUEENSLAND FLOOD RELIEF BILL 1974|1|
+|MARRIAGE AMENDMENT BILL 1976: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Northern Territory (Question No. 3834)|1|
+|EDITORIAL|1|
+|A: Employment Program- Kimberley Region (Question No. 2427)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pollution (Question No. 2594)|1|
+|QUESTION: ECONOMIC PLANNING AND TRADE COMMITTEE 1971|1|
+|QUESTION: INTERNATIONAL LABOUR ORGANISATION CONVENTION 107|1|
+|ANSWERS TO QUESTIONS: Foreign Affairs: Migrant Programs and Policies (Question No. 4440)|1|
+|ADJOURNMENT: President -Trade Unions-Political Parties- Victorian Power Strike-Motor Vehicle Industry -Williamsburg Conference|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Human Environment Conference (Question No. 4377)|1|
+|S $: Aurukun and Mornington Island Communities (Question No. 1394)|1|
+|QUESTION: ADDITIONAL ELECTORATES|1|
+|QUESTION: URANIUM-AUSTRALIAN POLICY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Artifacts (Question No. 2131)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Film Library (Question No. 3449)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Aboriginal Conference: Staff of Secretariat (Question No. 2120)|1|
+|QUESTION: COMMONWEALTH LAND|1|
+|JOINT COMMITTEE OF PUBLIC ACCOUNTS: Reports|1|
+|QUESTION: AUSTRALIAN NATIONAL FILM AND TELEVISION SCHOOL|1|
+|PUBLIC SERVICE AMENDMENT BILL 1978|1|
+|QUESTION: DAYS AND HOURS OF MEETING|1|
+|QUESTION: HEALTH INSURANCE|1|
+|QUESTION: NORTHERN DEVELOPMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Torres Strait Islanders: Turtle Fanning (Question No. 1523)|1|
+|REPATRIATION (TORRES STRAIT ISLANDERS) BILL 1972: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals (Question No. 3256)|1|
+|QUESTION: NABARLEK MINE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals (Question No. 3831)|1|
+|JOHN CURTIN HOUSE APPEAL: Ministerial Statement|1|
+|COMMONWEALTH POST-GRADUATE AWARDS SCHEMES: Suspension of Standing Orders|1|
+|ABORIGINAL SECONDARY GRANTS SCHEME|1|
+|HOURS OF MEETING AND ADJOURNMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Semi-Government Authorities (Question No. 1211)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Press Releases (Question No. 229)|1|
+|QUESTION: EMPLOYMENT OF HANDICAPPED PEOPLE IN THE AUSTRALIAN PUBLIC SERVICE|1|
+|BILINGUAL EDUCATION|1|
+|COMMONWEALTH CAPITAL FUND FOR ABORIGINAL ENTERPRISES|1|
+|STATES GRANTS (UNIVERSITIES) BILL (No. 2) 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education of Aborigines (Question No. 997)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Computers (Question No. 2216)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Heads of Government Regional Meeting (Question No. 395)|1|
+|QUESTION: EXTRACT FROM THE 1978-79 ANNUAL REPORT OF THE DEPARTMENT OF THE PRIME MINISTER AND CABINET|1|
+|PARLIAMENTARY ALLOWANCES BILL 1970: Second Reading|1|
+|ADJOURNMENT: Rejection of Appropriation Bills|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Fund Commission: Acquisition of Land (Question No. 651)|1|
+|QUESTION: URANIUM- AUSTRALIAN POLICY|1|
+|QUESTION: JOINT COMMITTEE ON THE AUSTRALIAN CAPITAL TERRITORY|1|
+|RECOMMENDATIONS|1|
+|OVERSEAS CONTROL - MANUFACTURING SECTOR: Constitution: Review (Question No. 5288)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Accommodation (Question No. 612)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: The Environment: Wood Chip Industry (Question No. 6514)|1|
+|QUESTION: ABORIGINAL MEDICAL SERVICE|1|
+|URBAN AND REGIONAL DEVELOPMENT: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: War Service Homes (Question No. 4902)|1|
+|QUESTION: FREE MILK FOR SCHOOL CHILDREN|1|
+|MINISTER FOR MINERALS AND ENERGY: Suspension of Standing Orders|1|
+|NATIONAL ABORIGINAL CONFERENCE: Conclusion|1|
+|SALES TAX (EXEMPTIONS AND CLASSIFICATIONS) AMENDMENT BILL 1978: Second Reading|1|
+|QUESTION: FRASER'S CUTS IN SOCIAL SECURITY|1|
+|ROYAL COMMISSION OF INQUIRY INTO THE ELECTORAL REDISTRIBUTION OF QUEENSLAND IN 1977: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: War History (Question No. 6130)|1|
+|QUESTION: EMERGENCY HOUSING: USE OF COMMONWEALTH HOSTELS|1|
+|NOTES ON NUCLEAR SAFETY: Research Service|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Housing (Question No. 210)|1|
+|QUESTION: NATIONAL TELEVISION AND FILM TRAINING SCHOOL|1|
+|ABORIGINAL HOSTELS LIMITED|1|
+|TASK FORCES: Personnel: Statutory Authorities (Question No. 314)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Everard Park: Purchase for Aboriginal Purposes (Question No. 3829)|1|
+|QUESTION: A NATIONAL SUPERANNUATION SCHEME|1|
+|MIGRANT SERVICES: Discussion of Matter of Public Importance|1|
+|INCOME TAX ASSESSMENT AMENDMENT BILL (No. 2) 1976: Second Reading|1|
+|QUESTION: URANIUM EXPORTS|1|
+|AUSTRALIAN SCIENCE AND TECHNOLOGY COUNCIL BILL 1978: Third Reading|1|
+|INSTITUTION ALTERATION (DEMOCRATIC ELECTIONS) BILL 1974: Second Reading|1|
+|QUESTION: CHRONOLOGY OF GOVERNMENT ACTIONS ON TORRES STRAIT ISSUES|1|
+|AUSTRALIAN COMMITTEE ON TECHNICAL AND FURTHER EDUCATION: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS: House and Flat Construction (Question No. 1896)|1|
+|QUESTION: AUSTRALIAN BROADCASTING COMMISSION|1|
+|QUESTION: OBJECTION TO RULING|1|
+|QUESTION: AURUKUN AND MORNINGTON ISLAND ABORIGINAL RESERVES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Exhibitions (Question No. 3991)|1|
+|USSR: Indulkana Airstrip (Question No. 4863)|1|
+|A: Uranium (Question No. 2713)|1|
+|QUESTION: ALLEGATIONS MADE BEFORE WESTERN AUSTRALIAN ROYAL COMMISSION INTO ABORIGINAL AFFAIRS|1|
+|DEATH PENALTY ABOLITION BILL 1972: Second Reading|1|
+|WESTERN AUSTRALIA: Cabinet Records (Question No. 6522)|1|
+|QUESTION: C BLOCK COMES UNDER FIRE FROM LIBERAL MINISTERS|1|
+|QUESTION: MINERAL RESOURCES|1|
+|STATES GRANTS (TEACHERS COLLEGES) BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: F111 Aircraft (Question No. 4613)|1|
+|ABORIGINAL LAND RIGHTS COMMISSION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Kimberley Land Council (Question No. 2182)|1|
+|AUSTRALIAN COUNCIL FOR THE ARTS: Report and Ministerial Statement|1|
+|NABARLEK URANIUM PROJECT: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Minister for Aboriginal Affairs: Overseas Travel (Question No. 1623)|1|
+|GOVERNMENT DECISIONS ON EXPENDITURE AND TAXATION: Suspension of Standing Orders|1|
+|AUSTRALIAN NATIONAL RAILWAYS AMENDMENT BILL 1977: Second Reading|1|
+|QUESTION: HOTEL LICENCE AT NHULUNBUY|1|
+|QUESTION: RANGER URANIUM MINE|1|
+|QUESTION: EDUCATION: DISADVANTAGED SCHOOLS|1|
+|PART III- ELECTORAL DIVISIONS|1|
+|NOTICE OF MOTION|1|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: National Parks and Wildlife Service (Question No. 2574)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua-New Guineans Entering Australia: Quarantine (Question No. 1746)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Crafts: Promotion and Development (Question No. 4727)|1|
+|QUESTION: EX-NUPTIAL CHILDREN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Malnutrition (Question No. 806)|1|
+|QUESTION: POVERTY I[N AUSTRALIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Land Resources and Land Use Problems (Question No. 317)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Land Clearing (Question No. 2915)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Kenaf Crop Experiments: Aboriginal Employment (Question No. 1685)|1|
+|QUESTION: QUEENSLAND FINANCES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Activities under Agreements for Scientific and Technical Co-operation (Question No. 162)|1|
+|PARLIAMENTARY REPRESENTATION OF THE TERRITORIES: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Acts Interpretation Act (Question No. 5477)|1|
+|HEALTH INSURANCE LEVY BILL 1978|1|
+|ABORIGINAL AFFAIRS: Appointment of Standing Committee|1|
+|QUESTION: NATIONAL EMPLOYMENT AND TRAINING SCHEME|1|
+|QUESTION: TRAVEL AGENTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Convention No. 107: Discussion with Aboriginal Affairs Council (Question No. 877)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Development (Question No. 3774)|1|
+|AUSTRALIAN DEVELOPMENT ASSISTANCE AGENCY (REPEAL) BILL 1977: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Ugandan Asians (Question No. 6455)|1|
+|QUESTION: REPORTS ON THE ENVIRONMENT|1|
+|DARWIN RECONSTRUCTION BILL 1975|1|
+|GREAT BARRIER REEF MAKINE PARK AMENDMENT BILL 1978: Second Reading|1|
+|COMMONWEALTH ELECTORAL BILL 1972: Second Reading|1|
+|QUEENSLAND GRANT (SPECIAL ASSISTANCE) BILL 1978: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: The Environment: Daishowa Harris Company (Question No. 5362)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Furneaux Fishing and Processing Company (Question No. 1812)|1|
+|STATES GRANTS (CAPITAL ASSISTANCE) BILL 1974: Second Reading|1|
+|QUESTION: AUSTRALIAN CAPITAL TERRITORY: EDUCATION|1|
+|CRIMINAL JUSTICE SYSTEM IN THE NORTHERN TERRITORY|1|
+|ANSWERS TO QUESTIONS: Inquiry into Poverty (Question No. 2413)|1|
+|ABORIGINAL LAND RIGHTS (NORTHERN TERRITORY) AMENDMENT BILL: Second Reading|1|
+|QUESTION: INTERNATIONAL WOMEN'S YEAR|1|
+|A NATIONAL MUSEUMS AUTHORITY: July 1978|1|
+|UNITED STATES NAVAL COMMUNICATION STATION AGREEMENT BILL 1975: Second Reading|1|
+|QUESTION: SOCIAL SECURITY AND REPATRIATION BENEFITS: SIX-MONTHLY INDEXATION|1|
+|IMMIGRATION POLICIES AND AUSTRALIA'S POPULATION: Suspension of Standing Orders|1|
+|ACTIVE MANPOWER POLICY FOR AUSTRALIA|1|
+|WESTERN AUSTRALIA: Racial Discrimination (Question No. 6417)|1|
+|GOVERNMENT TRAINING PROGRAMS: Discussion of Matter of Public Importance|1|
+|INCOME TAX (MINING WITHHOLDING TAX) BILL 1979: Second Reading|1|
+|HUMAN RIGHTS: Discussion of Matter of Public Importance|1|
+|ABORIGINALS: INVOLVEMENT IN THE ECONOMY OF THE PILBARA AND KIMBERLEY REGIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Non-Government Schools (Question No. 5820)|1|
+|APPROVAL OF WORKS - PUBLIC WORKS COMMITTEE ACT: Telephone Exchange, Shepparton, Victoria|1|
+|GRIEVANCE DEBATE: Unemployment -Inflation -Housing -Interest Rates-Indonesia- Government Policies- Rents-Evans Deakin Industries Ltd-Amalgamated Metalworkers Union-Mine Workers: Pensions- Beef Industry|1|
+|AUSTRALIAN URANIUM POLICY: Ministerial Statement|1|
+|APPROPRIATION BILL (No. 3) 1975-76: Second Reading|1|
+|INTERNATIONAL AND DOMESTIC SITUATION: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migration and Settlement Agreements (Question No. 127)|1|
+|QUESTION: TUC RESOLUTION ON NUCLEAR ENERGY|1|
+|REMUNERATION TRIBUNAL DETERMINATION|1|
+|TASMANIA: REDISTRIBUTION OF ELECTORAL BOUNDARIES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: Tertiary and Technical Education Facilities (Question No. 6112)|1|
+|QUESTION: BROADENING TRAINING OPPORTUNITIES UNDER EMPLOYMENT TRAINING SCHEMES|1|
+|QUESTION: TELECOMMUNICATIONS: CAPE YORK AND TORRES STRAIT|1|
+|ADJOURNMENT: The Parliament - Aged Persons Housing|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Environmental Hazards (Question No. 2934)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Welfare: Misappropriation of Funds (Question No. 1111)|1|
+|QUESTION: FILM INDUSTRY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Affairs, Aurukun and Mornington Island (Question No. 2370)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Health Laboratories, Port Pirie (Question No. 1036)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs: Overseas Travel (Question No. 1020)|1|
+|SUSPENSION OF STANDING ORDERS: Criminal Code for Commonwealth Territories|1|
+|KORMILDA COLLEGE FOR ABORIGINAL STUDENTS, DARWIN: Reference to Public Works Committee|1|
+|QUESTION: PRE-BUDGET DISCUSSIONS|1|
+|AUSTRALIA AND PAPUA NEW GUINEA: Ministerial Statement|1|
+|AUSTRALIAN SCHOOLS COMMISSION: REPORT OF INTERIM COMMITTEE: Ministerial Statement|1|
+|ABORIGINAL LAND RIGHTS (NORTHERN TERRITORY) BILL 1976: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Employment: Handicapped Persons (Question No. 1558)|1|
+|NORFOLK ISLAND BILL 1978: Second Reading|1|
+|PETROLEUM AND MINERALS AUTHORITY ACT 1973|1|
+|LOAN BILL 1973|1|
+|SOCIAL SERVICES BILL (No. 4) 1972: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Labor Government: Establishment of Committees and Commissions of Inquiry (Question No. 630)|1|
+|QUESTION: SPORTS MUSEUM|1|
+|SUPPLY BILL (No. 1) 1976-77: Second Reading|1|
+|DEVELOPMENT OF PUBLIC BROADCASTING: Public Broadcasting Planning- Guidelines for Phase 1 - Ministerial Statement, 5 April 1 978|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Torres Strait Islanders: Pearling (Question No. 3253)|1|
+|TOTAL COST OF ABOVE ASSIGNMENTS $ 1 29,636: Defence Services Homes Loans (Question No. 573)|1|
+|ABORIGINAL AND TORRES STRAIT ISLANDERS (QUEENSLAND DISCRIMINATORY LAWS) BILL 1974: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Environment Council (Question No. 5963)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rural Loans (Question No. 5563)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Councils: Contact with States (Question No. 44)|1|
+|DISCUSSION PAPER ON PAYING FOR HEALTH CARE: Ministerial Statement|1|
+|QUESTION: AUSTRALIAN FILM 'STOCKADE|1|
+|SOCIAL SERVICES AMENDMENT BILL 1978|1|
+|QUESTION: AUSTRALIAN FILM - THE THREE-PRONGED ATTACK|1|
+|DIPLOMATIC AND CONSULAR MISSIONS BILL: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ranger Uranium Project (Question No. 1682)|1|
+|QUESTION: DISCUSSIONS WITH QUEENSLAND PREMIER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tourism: Ministerial Conferences (Question No. 3720)|1|
+|DARWIN RECONSTRUCTION BILL 1975: Second Reading|1|
+|ADJOURNMENT: Atomic Energy- Fuel Conservation- Aborigines: Legal Aid- Refugees- Parliamentary Library: Publication-Execution of Mr Bhutto|1|
+|QUESTION: EAST PAKISTAN|1|
+|ATOMIC ENERGY AMENDMENT BILL 1979: Second Reading|1|
+|PUBLIC SERVICE ACTS AMENDMENT BILL 1974: Second Reading|1|
+|ADJOURNMENT: Thursday, 20 April 1972|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pharmaceutical Benefits Committee (Question No. 202)|1|
+|AWARDS OF VC, MC, DCM AND MM FOR SERVICE IN 1939-45 WAR: Aboriginals (Question No. 2010)|1|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: Botany Bay: Pollution Study (Question No. 4731)|1|
+|WESTERN AUSTRALIA: Aboriginals: Housing (Question No. 1523)|1|
+|AUSTRALIA'S ECONOMIC GROWTH: Discussion of Matter of Public Importance|1|
+|QUESTION: THE AUSTRALIAN PARLIAMENT ELECTORAL LAWS AND PROCEDURES|1|
+|QUEENSLAND GRANT (SPECIAL ASSISTANCE) BILL 1977: Second Reading|1|
+|AUSTRALIAN INSTITUTE OF MAKINE SCIENCE BILL 1972|1|
+|ARMED SERVICES: RESIGNATION OF OFFICERS: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Recycling of Resources (Question No. 2916)|1|
+|QUESTION: OVERSEAS LOAN RAISINGS|1|
+|REFERENCE OF PROPOSED EXPENDITURES TO ESTIMATES COMMITTEES|1|
+|AUSTRALIAN DEVELOPMENT ASSISTANCE AGENCY BILL 1974: Second Reading|1|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: Fairbairn Dam Irrigation Area (Question No. 4834)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mineral Exporting Countries: Co-ordination (Question No. 829)|1|
+|INCOME TAX ASSESSMENT BILL (No. 5) 1973: Second Reading|1|
+|WILDLIFE CONSERVATION: Appointment of Select Committee|1|
+|GRIEVANCE DEBATE: Commonwealth-State Housing Agreement -Television News Session-Botany Bay Port Development-Statistics- Prices of Petroleum Products -Pathology Services-Brisbane Airport|1|
+|REMUNERATION TRIBUNAL|1|
+|PARLIAMENTARY COMMITTEES: Paper and Ministerial Statement|1|
+|ENVIRONMENT PROTECTION (NORTHERN TERRITORY SUPREME COURT) BILL 1978: Second Reading|1|
+|SMALL BUSINESS FINANCE: Small Business Finance- Ministerial Statement, 13 October 1977|1|
+|REPORTS OF PUBLIC WORKS COMMITTEE|1|
+|MEETING OF COMMONWEALTH AND STATE MINISTERS FOR HOUSING: Canberra|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Housing, Port Pirie (Question No. 224)|1|
+|QUESTION: ABORIGINAL RIGHTS: AURUKUN AND MORNINGTON ISLAND RESERVES|1|
+|CONSTITUTION ALTERATION (DEMOCRATIC ELECTIONS) BILL 1974: Third Reading|1|
+|MOTION OF CENSURE|1|
+|AGED PERSONS HOMES BILL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Child Care Centres (Question No. 712)|1|
+|RAILWAYS AGREEMENT (SOUTH AUSTRALIA) BILL 1975: Third Reading|1|
+|OVERSEAS CONTROL - MANUFACTURING SECTOR: Persons of Aboriginal Descent: Legal Responsibilities (Question No. 5186)|1|
+|INFLATION: Suspension of Standing Orders|1|
+|SUPPLY BILL (No. 1) 1971-72: Second Reading|1|
+|CONCILIATION AND ARBITRATION BILL 1972: Second Reading|1|
+|SALES TAX (EXEMPTIONS AND CLASSIFICATIONS) BILL 1973: Second Reading|1|
+|GALBALLY INFORMATION KIT: Consultation|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Lake Pedder (Question No. 6518)|1|
+|GOVERNMENT SPENDING: Discussion of Matter of Public Importance|1|
+|QUESTION: DEATH OF THE RIGHT HONOURABLE SIR ROBERT GORDON MENZIES|1|
+|QUESTION: MINING AND EXPORT OF URANIUM|1|
+|STATES GRANTS (ADVANCED EDUCATION) BILL 1973|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Council on Port Development and Marine Affairs (Question No. 6418)|1|
+|GOVERNMENT DEPARTMENTS AT 4 DECEMBER 1973: Department of Urban and Regional Development|1|
+|CSIRO: Aboriginal Health (Question No. 2980)|1|
+|TRAVEL AGENTS BILL 1975: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Archives (Question No. 5414)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unemployment (Question No. 467)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Book Bounty: The Jesus Scrolls (Question No. 282)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Forces Retirement Benefits: Income Taxation (Question No. 574)|1|
+|DEPARTMENT OF ABORIGINAL AFFAIRS REPORT: The Road Ahead|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fares (Question No. 4936)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sydney International Airport: Concessions (Question No. 4630)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Communities: Municipal Services (Question No. 909)|1|
+|DOUG EVERINGHAM, M.P|1|
+|QUESTION: PALM ISLAND HOSPITAL WATER SUPPLY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Population Problems (Question No. 2990)|1|
+|PARLIAMENT ACT 1974|1|
+|STATES GRANTS (TECHNICAL TRAINING FEES RE-IMBURSEMENT) BILL 1974: Second Reading|1|
+|NATIONAL GALLERY BILL 1975: Second Reading|1|
+|PETITIONS: Aborigines: Land Rights|1|
+|QUESTION: PAPUA NEW GUINEA- AUSTRALIAN BORDER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Fund Commission: Land Purchases (Question No. 654)|1|
+|DEPARTMENT OF IMMIGRATION: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Housing Association Funding (Question No. 892)|1|
+|No: Aboriginal Affairs: Wave Hill (Question No. 1359)|1|
+|QUESTION: HOUSING INDUSTRY ACTIVITY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Prospecting Rights (Question No. 3264)|1|
+|NATIONAL HEALTH: Discussion of Matter of Public Importance|1|
+|QUESTION: CANBERRA YOUTH CONFERENCE|1|
+|APPROPRIATION BILL (No. 4) 1971-72: Second Reading|1|
+|QUESTION: MINISTERIAL AND DEPARTMENTAL CHANGES AND ARRANGEMENTS|1|
+|QUESTION: AU AUSTRALIA A -PAPUA NEW GUINEA BORDER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Broadcasting Commission: Publication of Journal (Question No. 138)|1|
+|QUESTION: NAVY: SECURITY|1|
+|QUESTION: UNEMPLOYMENT BENEFIT|1|
+|PETITIONS: Queensland Aborigines and Torres Strait Islanders|1|
+|APPROPRIATION BILL (NO. 1) 1973-74: Second Reading (Budget Debate)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Victoria River Downs and Wave Hill Stations (Question No. 3213)|1|
+|DEVELOPMENT OF PUBLIC BROADCASTING: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ayers Rock-Mount Olga National Park (Question No. 134)|1|
+|FUTURE RELATIONS BETWEEN AUSTRALIA AND PAPUA NEW GUINEA: Mr M. T. Somare, M.H.A., The Chief Minister of Papua New Guinea|1|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: Pollution Control (Question No. 4562)|1|
+|QUESTION: FOX REPORT: PRIOR INFORMATION|1|
+|TASMANIA: Northern Territory: Mining Leases and Pastoral Holdings (Question No. 1772)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Imported Souvenirs (Question No. 355)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Human Rights Conventions (Question No. 2303)|1|
+|DEPARTMENT OF ABORIGINAL AFFAIRS: REPORT|1|
+|QUESTION: CLYDE R. CAMERON|1|
+|QUESTION: TAXATION RATES|1|
+|GRIEVANCE DEBATE: Australian Economy- Sport- Industrial Relations - Shipping Services to Tasmania - High Frequency Radio Broadcasting - Wildlife Preservation - Estate Duties|1|
+|S $: Staff Canteens (Question No. 578)|1|
+|DEFENCE SERVICE HOMES BILL 1973: Second Reading|1|
+|SUMMARY OF FUNCTIONS OF THE DEPARTMENT OF FINANCE: Royal Australian Mint|1|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: Social Workers (Question No. 4885)|1|
+|IMPACT OF MINING ROYALTIES ON ABORIGINAL COMMUNITIES IN THE NORTHERN TERRITORY|1|
+|NATIONAL ABORIGINAL EDUCATION COMMITTEE: Ministerial Statement|1|
+|HOUSE OF REPRESENTATIVES SELECT COMMITTEE ON TOURISM|1|
+|STATES GRANTS (SCHOOLS ASSISTANCE) AMENDMENT BILL 1978: Second Reading|1|
+|NERDDC TECHNICAL STANDING COMMITTEES: Concorde Aircraft (Question No. 2915)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Housing: Ministerial Meetings (Question No. 4260)|1|
+|COMMONWEALTH GRANTS COMMISSION BILL 1976: Second Reading|1|
+|OFFICIAL TEXT|1|
+|QUEENSLAND LOCAL GOVERNMENT GRANTS COMMISSION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Children: Diet (Question No. 5800)|1|
+|STUDENT ASSISTANCE SCHEMES AND MIGRANT EDUCATION PROGRAMS: Migrant Education Program|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Equal Pay by Commonwealth (Question No. 1377)|1|
+|QUESTION: FRASER ISLAND|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aid to Pre-Schools (Question No. 1350)|1|
+|QUESTION: ENVIRONMENTAL PROTECTION|1|
+|AUSTRALIAN DELEGATION TO THE COMMITTEE ON DISARMAMENT: Report and Ministerial Statement|1|
+|CONTROL OF NAVAL WATERS AMENDMENT BILL 1978: Second Reading|1|
+|PERCENTAGE OF DOCTORS UNDER MEDIBANK ENGAGED IN SOME FORM OF DIRECT BILLING: Works of Art for Official Establishments (Question No. 250)|1|
+|ABORIGINES IN QUEENSLAND: Discussion of Matter of Public Importance|1|
+|QUESTION: RACISM IN AUSTRALIA|1|
+|SA: South Australia: Housing Funds (Question No. 530)|1|
+|QUESTION: RENTAL HOUSING|1|
+|AUSTRALIAN CAPITAL TERRITORY ELECTRICITY SUPPLY AMENDMENT BILL 1979: Second Reading|1|
+|QUESTION: AUSTRALIAN BROADCASTING COMMISSION: DISMISSAL|1|
+|REPORT OF ABORIGINAL LAND COMMISSIONER|1|
+|FUTURE OF PROVINCIAL CI TIES AND REGIONAL DEVELOPMENT: Appointment of Select Committee|1|
+|NATIONAL PARKS AND WILDLIFE: Second Reading|1|
+|DEPARTMENT OF ABORIGINAL AFFAIRS REPORT: Ministerial Statement|1|
+|MOA OR BANKS ISLAND|1|
+|STATES GRANTS (ABORIGINAL ASSISTANCE) BILL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Lake Pedder (Question No. 4106)|1|
+|HEALTH CARE COSTS: Discussion of Matter of Public Importance -|1|
+|ADULTHOOD BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS: Air Safety Standards (Question No. 4276)|1|
+|ADJOURNMENT: Union Ballots-Education-Australian Assistance Plan-Imports of Fish and Chips- Court Proceedings|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Confederation of Australian Sport (Question No. 1476)|1|
+|UNEMPLOYMENT BENEFITS: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Queensland Treaties Commission (Question No. 255)|1|
+|AUSTRALIAN URANIUM DEVELOPMENT: IMPACTS ON ABORIGINAL SOCIETY: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Pupil-Teacher Ratio (Question No. 4455)|1|
+|BOOK BOUNTY BILL 1973: Second Reading|1|
+|CAPITAL FUND FOR ABORIGINAL ENTERPRISES|1|
+|ADJOURNMENT: Immigration- Cricket -Miniature Horse Stud-Investment Allowances-Australian Shipbuilding Industry- Fertiliser Bounties-Death of Dutch Ambassador to Australia- Citizen Band Radio|1|
+|INCOME TAX LAW: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Reserves: Prospecting (Question No, 4951)|1|
+|INQUIRY INTO THE CRAFTS|1|
+|ACT. - $1,640: Speech Therapy (Question No. 723)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Force Ombudsman (Question No. 2390)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Economy (Question No. 5034)|1|
+|UNIVAC 1100/11: Government Employees (Question No. 4234)|1|
+|QUESTION: ABORIGINAL SACRED PLACES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Acquisition of Northern Territory Pastoral Lease: Aboriginal Land Claims (Question No. 141)|1|
+|QUESTION: MONDURAN-KOLAN IRRIGATION SCHEME|1|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: Queensland Alumina Limited (Question No. 4833)|1|
+|PALMERSTON ARTERIAL ROAD AT DARWIN: Approval of Work - Public Works Committee Act|1|
+|QUESTION: FAMILY PLANNING|1|
+|THE LEADER OF THE HOUSE: Censure Motion|1|
+|ADJOURNMENT: Aboriginal Affairs - The Parliament|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Port Development: Ministerial Conference (Question No. 907)|1|
+|AUSTRALIAN SCIENCE AND TECHNOLOGY COUNCIL BILL 1978|1|
+|HOUSING LOANS INSURANCE AMENDMENT BILL 1977: Second Reading|1|
+|SYDNEY AIRPORT PROPOSALS: Ministerial Statement|1|
+|APPROPRIATION BILL (No. 4) 1976-77: Second Reading|1|
+|REPORT OF SENATE STANDING COMMITTEE ON SCIENCE AND THE ENVIRONMENT: Ministerial Statement|1|
+|QUESTION: SITE FOR NEW AND PERMANENT PARLIAMENT HOUSE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: International Labour Organisation Convention No. 65- Penal Sanctions (Indigenous) Workers, 1939 (Question No. 874)|1|
+|ANSWERS TO QUESTIONS: Aboriginal Welfare Officers (Question No. 4491)|1|
+|INDUSTRIAL RELATIONS: Discussion of Matter of Public Importance|1|
+|MINERALS AND ENERGY POLICY: Discussion of Matter of Public Importance|1|
+|INTERNATIONAL AFFAIRS: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Racial Discrimination (Question No. 3669)|1|
+|ADJOURNMENT: Parliament: Debate - Industrial Dispute - Telecommunications - Roads|1|
+|ELECTORAL LAWS AMENDMENT BILL 1974 [No. 2]|1|
+|QUESTION: ABORIGINAL AND ISLANDER HEALTH PROGRAM|1|
+|FAMILY RESEARCH PROJECT: Ministerial Statement|1|
+|ALLIGATOR RIVERS AREA (NO. 3)|1|
+|LOCAL GOVERNMENT GRANTS BILL 1974: Second Reading|1|
+|QUESTION: PUBLIC SERVICE-STRIKES|1|
+|WHITLAM GOVERNMENT: Motion of Censure|1|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: Mercury Pollution (Question No. 4382)|1|
+|HOMES SAVINGS GRANT BILL 1970: Second Reading|1|
+|INSTITUTE OF ABORIGINAL STUDIES|1|
+|QUESTION: URANIUM|1|
+|NOTICES OF MOTION: Northern Territory: Aboriginal Lands|1|
+|PAPUA NEW GUINEA BILL 1975: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Leasing of Office Space (Question No. 700)|1|
+|TRADE UNION TRAINING AUTHORITY AMENDMENT BILL 1978: Second Reading|1|
+|OMBUDSMAN BILL 1975|1|
+|MAY IT PLEASE YOUR EXCELLENCY:|1|
+|ELECTORAL RE-DISTRIBUTION (SOUTH AUSTRALIA) BILL 1975 [No. 2]: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua-Queensland Boundary (Question No. 153)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Assistance Plan (Question No. 713)|1|
+|QUESTION: REPRESENTATIVES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Grants to Non-Government Bodies (Question No. 2680)|1|
+|UNIVAC 1100/11: Tertiary Education (Question No. 4790)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rationalisation of National Railways Services (Question No. 1528)|1|
+|SCHEDULE: Department of Aboriginal Affairs: Reports (Question No. 2612)|1|
+|SENATE (REPRESENTATION OF TERRITORIES) BILL 1973|1|
+|COMMITTEE OF INQUIRY ON MUSEUMS AND NATIONAL COLLECTIONS|1|
+|QUESTION: INTERNATIONAL LABOUR ORGANISATION CONVENTIONS: LAND RIGHTS OF ABORIGINES|1|
+|BILLS RETURNED FROM THE SENATE|1|
+|A: Literacy Rate (Question No. 2753)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation (Question No. 6309)|1|
+|QUESTION: THE ENVIRONMENT|1|
+|COMPENSATION (COMMONWEALTH EMPLOYEES) BILL 1972: Second Reading|1|
+|ABORIGINES ENTERPRISES (ASSISTANCE) ACT 1968|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals and Islanders: Housing (Question No. 2232)|1|
+|NOTES ON POSSIBLE MODIFICATIONS TO HOUSE OF REPRESENTATIVES PROCEDURES: Operation|1|
+|QUESTION: REPATRIATION BULL 1973|1|
+|QUESTION: FINANCE|1|
+|FAMILY LAW ACT 1975: PROPOSED JOINT SELECT COMMITTEE: Consideration of Senate's Message|1|
+|CIVILIAN EMPLOYEES IN THE CONSTRUCTION INDUSTRY BY STATE FOR EACH MONTH SINCE: Aboriginal Land Fund Commission (Question No. 75)|1|
+|AUSTRALIAN FEDERAL POLICE BILL 1979: Second Reading|1|
+|QUESTION: COMMONWEALTH SCHOLARSHIPS|1|
+|REPRINT SERIES: Council for Aboriginal Affairs (Question No. 3004)|1|
+|TASK FORCES: Interdepartmental Committees: Reports (Question No. 1668)|1|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: Advertising Agencies (Question No. 3798)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Consulate-General of Yugoslavia, Melbourne (Question No. 3216)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals (Question No. 2269)|1|
+|GENERAL ELECTION: Ministerial Statement|1|
+|CURRENT INDUSTRIAL DISPUTATION: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Army Apprentices (Question No. 1426)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Child Brides (Question No. 6376)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cyclone Damage (Question No. 5205)|1|
+|UNITED STATES DEFENCE INSTALLATIONS IN AUSTRALIA: Ministerial Statement|1|
+|QUESTION: AUSTRALIAN OPERA COMPANY|1|
+|QUESTION: APPROVAL OF WORKS- PUBLIC WORKS COMMITTEE ACT|1|
+|ADJOURNMENT: Sir John Kerr -Parliamentary Committees -Koalas -Polish Immigrants|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Employment and Training System (Question No. 1273)|1|
+|ANSWERS TO QUESTIONS: Commonwealth Employment Service: Aboriginal Unemployment Figures (Question No. 4805)|1|
+|AGREEMENT BETWEEN THE COMMONWEALTH OF AUSTRALIA AND THE NORTHERN LAND COUNCIL: Paper and Ministerial Statement|1|
+|HONOURABLE MEMBER FOR OXLEY: Motion of Censure|1|
+|QUESTION: DAY AND HOUR OF MEETING|1|
+|ADJOURNMENT: The Parliament: Questions - Health: Aboriginal Children - Whitlam Government - Motor Vehicle Repairs - Postal Services - Health- Education|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Housing Associations (Question No. 1160)|1|
+|QUESTION: HOMES SCHEME|1|
+|AUSTRALIA STATUTORY DECLARATION: M. Heppell|1|
+|OBJECTION TO RULING|1|
+|NATIONAL FILM AND TELEVISION TRAINING SCHOOL: Ministerial Statement|1|
+|NERDDC TECHNICAL STANDING COMMITTEES: Maralinga: Ministerial Responsibility (Question No. 2628)|1|
+|APPROPRIATION BILL (No. 2) 1978-79: Second Reading|1|
+|QUESTION: THE PRIME MINISTER|1|
+|CIVILIAN EMPLOYEES IN THE CONSTRUCTION INDUSTRY BY STATE FOR EACH MONTH SINCE: Specific Learning Difficulties (Question No. 1212)|1|
+|WESTERN AUSTRALIA: Department of Aboriginal Affairs: Domestic Air Travel (Question No. 452)|1|
+|H.M.S. PINAFORE|1|
+|QUESTION: HAY REPORT|1|
+|MOST GRACIOUS SOVEREIGN:: Suspension of Standing Orders|1|
+|AIRLINE EQUIPMENT (LOAN GUARANTEE) BILL 1977: Second Reading|1|
+|QUESTION: SCHOOLS COMMISSION BELL 1973|1|
+|GRIEVANCE DEBATE: Trade Unions: Communist Influence - Parliament: Privilege - Public Works - Telephone Services - Government Contracts - Whitlam Government - Broiler Chicken Industry|1|
+|PRIME MINISTER'S OVERSEAS VISIT: Ministerial Statement|1|
+|ADJOURNMENT: Palestinian Terrorist Raid- Ord River Scheme- Community Youth Support Scheme- Building Industry- Brisbane Airport: Baggage Trolleys|1|
+|SOCIAL SERVICES BILL (No. 3) 1973: Second Reading|1|
+|QUESTION: ASSISTANCE FOR ABORIGINALS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Sporting Teams (Question No. 3207)|1|
+|QUESTION: NORTHERN NATIONAL PARK: NORTHERN TERRITORY|1|
+|S $: Recycling of Waste Materials (Question No. 1446)|1|
+|PRIVILEGE|1|
+|SELECT COMMITTEE ON SPECIFIC LEARNING DIFFICULTIES|1|
+|QUESTION: PURCHASE OF EVERARD PARK|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Enterprises: Shareholders (Question No. 1307)|1|
+|POLLUTION OF THE SEA BY OIL BILL 1972: Second Reading|1|
+|ANSWERS TO QUESTIONS: Medibank Infringements (Question No. 4477)|1|
+|ADJOURNMENT: The Parliament -Mining Industry: Retrenchments-Sinnamon Retirement Village, Brisbane-Unparliamentary Language-Minister for Veterans' Affairs|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naval Personnel: Average Age (Question No. 3148)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Works of Art for Official Establishments (Question No. 34)|1|
+|PETITION: Aboriginal Welfare|1|
+|CENSURE OF THE GOVERNMENT: Motion of Censure|1|
+|ADJOURNMENT: South Africa Defence and Aid Fund|1|
+|COUNCIL FOR ABORIGINAL AFFAIRS|1|
+|S $: Senator Bonner: Portrait (Question No. 1377)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fire Fighting Procedures (Question No. 2129)|1|
+|COLLEGES OF ADVANCED EDUCATION: Public Lending Rights (Question No. 5479)|1|
+|NATIONAL HEALTH BILL 1970: Second Reading|1|
+|QUESTION: COST/BENEFIT STUDY OF IMMIGRATION|1|
+|QUESTION: PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ethnic Liaison Officer Scheme: Assessments (Question No. 1706)|1|
+|URANIUM-AUSTRALIAN POLICY: Ministerial Statements|1|
+|QUESTION: K.G.CRUICE|1|
+|GLEBE LANDS (APPROPRIATION) BILL 1974: Second Reading|1|
+|ORDERS OF THE DAY: Discharge of Motions|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Housing, Mareeba (Question No. 955)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interdepartmental Committees (Question No. 1356)|1|
+|BUILDING AND CONSTRUCTION INDUSTRY: REVISED CONSULTATIVE ARRANGEMENTS: Ministerial Statement|1|
+|REPRINT SERIES: Aborigines: Housing (Question No. 3005)|1|
+|HOSPITALS DEVELOPMENT PROGRAM: Northern Territory Transport Services (Question No. 1207)|1|
+|QUESTION: NURSING HOMES: AUSTRALIA|1|
+|TAXATION LEGISLATION: RETROSPECTIVITY: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cultural Property: Export (Question No. 5502)|1|
+|QUESTION: HOUSING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Employment Service (Question No. 2848)|1|
+|INCOME TAX ASSESSMENT AMENDMENT BILL (No. 3) 1976: Second Reading|1|
+|COMMONWEALTH EDUCATION PROGRAMME FOR 1970-71: Other Developments|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Commissions, Committees and Inquiries (Question No. 962)|1|
+|QUESTION: PARLIAMENT HOUSE|1|
+|TRANSACTION BY INSURANCE COMPANY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Household Refuse (Question No. 5065)|1|
+|CRIMINOLOGY RESEARCH BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Works of Art (Question No. 3990)|1|
+|BILLS RETURNED FROM THE SENATE: Second Reading (Budget Debate)|1|
+|ABORIGINAL LAND RIGHTS: Ministerial Statement|1|
+|QUESTION: U.S.A|1|
+|QUESTION: BISHOP F. O. HULME-MOIR|1|
+|QUESTION: ABORIGINAL HEALTH IN QUEENSLAND|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Film and Television Producers Training School (Question No. 5350)|1|
+|ADJOURNMENT: Aborigines|1|
+|APPROPRIATION BILL (No. 3) 1977-78: Second Reading|1|
+|OVERSEAS CONTROL - MANUFACTURING SECTOR: Aborigines: Leprosy (Question No. 5365)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Wilcox Mofflin Ltd (Question No. 1126)|1|
+|ADJOURNMENT: Privilege - Postal Charges - Meat Industry - Finance - Housing Loans|1|
+|AUSTRALIAN CAPITAL TERRITORY SUPREME COURT AMENDMENT BILL 1978: Second Reading|1|
+|TRESPASS ON COMMONWEALTH LANDS ORDINANCE: Motion to Disallow Ordinance|1|
+|No: Multiphasic Health Screening Services Committee (Question No. 5565)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Canberra: Library Services (Question No. 4558)|1|
+|QUESTION: HOME MANAGEMENT COURSE|1|
+|GRIEVANCE DEBATE: Employment and Unemployment- Macarthur|1|
+|LIBERALS OPT FOR ELECTORAL FOLLY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Bing Bong Pastoral Lease (Question No. 1307)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mornington Island Canteen (Question No. 2368)|1|
+|ABORIGINAL LOANS COMMISSION BILL 1974: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs (Question No. 2815)|1|
+|URANIUM: ENVIRONMENTAL PROTECTION: Ministerial Statement|1|
+|TEMPORARY ACCOMMODATION ALLOWANCE: Bauxite (Question No. 483)|1|
+|ADJOURNMENT: Mining Industry -Australian Conservation Foundation-Civil Liberties- Political Parties- Medical Training Courses- Health Insurance|1|
+|ADJOURNMENT: Death of Mr J. T. Lang-Social Security -Political Parties|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation: State Attitudes to Conventions (Question No. 6219)|1|
+|STATES GRANTS (HOUSING ASSISTANCE) BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Contraceptives (Question No. 5322)|1|
+|DISCRIMINATION IN EMPLOYMENT AND OCCUPATION: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Properties purchased or sought by Aboriginal Land Fund Commission (Question No. 895)|1|
+|NERDDC TECHNICAL STANDING COMMITTEES: Department of Aboriginal Affairs: Purchase of Equipment (Question No. 1784)|1|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: Coal Washeries (Question No. 4835)|1|
+|MINISTERS OF STATE BILL 1971|1|
+|CROATIAN EMBASSY: Ministerial Statement|1|
+|SOCIAL SERVICES AMENDMENT BILL 1979|1|
+|STATES GRANTS (ADVANCED EDUCATION) BILL (No. 2) 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Servants: Payment of Telephone Charges (Question No. 1108)|1|
+|AUSTRALIAN HERITAGE COMMISSION BILL 1975: Second Reading|1|
+|FEDERAL COURT OF AUSTRALIA BILL 1976: Second Reading|1|
+|No: Aboriginals: Health Insurance (Question No. 4233)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals (Question No. 626)|1|
+|COMMONWEALTH EMPLOYMENT SERVICE: FARES ASSISTANCE SCHEME: Ministerial Statement|1|
+|QUESTION: ABORIGINAL RESERVE: LIQUOR LICENCE|1|
+|QUESTION: LAND RIGHTS IN NORTHERN TERRITORY|1|
+|OVERSEAS CONTROL - MANUFACTURING SECTOR: Aboriginal Population: Northern Territory (Question No. 5570)|1|
+|AUSTRALIAN HOUSING CORPORATION BILL 1975: Second Reading|1|
+|CONSTITUTION ALTERATION (MODE OF ALTERING THE CONSTITUTION) BELL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Affairs: Aurukun and Mornington Island (Question No. 2288)|1|
+|SPECIFIC LEARNING DIFFICULTIES: Hon. E. G. Whitlam, Q.C., M.P., Prime Minister, Parliament House, Canberra, A.C.T|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs: Air Travel (Question No. 362)|1|
+|QUESTION: THE COMMONWEALTH|1|
+|QUESTION: WOMEN'S EMBASSY OUTSIDE PARLIAMENT HOUSE|1|
+|PRICES JUSTIFICATION AMENDMENT BILL 1976: Second Reading|1|
+|INCLUSION IN HANSARD OF UNREAD MATTER|1|
+|QUESTION: REPORT OF THE ROYAL COMMISSION OF INQUIRY INTO THE ELECTORAL REDISTRIBUTION OF QUEENSLAND IN 1977|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cambodian Royal Family (Question No. 5833)|1|
+|POKER MACHINE CONTROL (AMENDMENT) ORDINANCE: Motion for Disallowance|1|
+|ANSWERS TO QUESTIONS: National Employment and Training System (Question No. 2177)|1|
+|WESTERN AUSTRALIA: Department of Health: Non-English Speaking Clients (Question No. 801)|1|
+|SOUTH STUART HIGHWAY: Approval of Work- Public Works Committee Act|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Advancement Trust Account (Question No. 3902)|1|
+|QUESTION: ADJOURNMENT OF SITTING|1|
+|TRADE PRACTICES AMENDMENT BILL 1977|1|
+|QUESTION: INTERNATIONAL ROLE|1|
+|SENATE (REPRESENTATION OF TERRITORIES) BILL 1973 [No. 2]: Second Reading|1|
+|SCHOOLS COMMISSION: Discussion of Matter of Public Importance|1|
+|PRIVATE: Judges: $32,497|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Human Rights Conventions (Question No. 45)|1|
+|REPATRIATION BILL (No. 2) 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Conference on the Development of Australia's Ports (Question No. 1441)|1|
