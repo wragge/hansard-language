@@ -1,0 +1,6 @@
+xml
+credentials.py
+*.pyc
+.DS_Store
+data/speeches/decades
+data/speeches/parliaments

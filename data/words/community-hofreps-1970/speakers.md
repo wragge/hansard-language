@@ -1,0 +1,232 @@
+## Speakers who used the word "community" in the hofreps during the 1970s
+
+| Speaker name | Number of uses |
+|--------------|----------------|
+|Mr. SPEAKER|488|
+|HAYDEN, Bill|465|
+|WHITLAM, Gough|297|
+|HUNT, Ralph|287|
+|BRYANT, Gordon|283|
+|LYNCH, Phillip|282|
+|FRASER, Malcolm|273|
+|SINCLAIR, Ian|252|
+|UREN, Tom|222|
+|VINER, Ian|220|
+|JOHNSON, Leslie|220|
+|SNEDDEN, Billy|183|
+|ANTHONY, Doug|180|
+|HOWARD, John|173|
+|EVERINGHAM, Douglas|173|
+|HURFORD, Chris|166|
+|BOWEN, Lionel|160|
+|STREET, Anthony|159|
+|CHAIRMAN, The|158|
+|CREAN, Frank|150|
+|CASS, Moss|148|
+|ENDERBY, Kep|147|
+|JOHNSON, Leonard|144|
+|DEPUTY SPEAKER, Mr|131|
+|KLUGMAN, Dick|126|
+|TEMPORARY CHAIRMAN, The|123|
+|CHAIRMAN, The|121|
+|COHEN, Barry|119|
+|WENTWORTH, William Charles|118|
+|DEPUTY SPEAKER, Mr|116|
+|LLOYD, Bruce|113|
+|YOUNG, Mick|111|
+|MORRIS, Peter|111|
+|DEPUTY SPEAKER, Mr|110|
+|GRASSBY, Al|107|
+|ROBINSON, Eric|107|
+|STALEY, Tony|99|
+|CHAIRMAN, The|92|
+|PEACOCK, Andrew|92|
+|DEPUTY SPEAKER, Mr|91|
+|BEAZLEY, Kim|88|
+|NIXON, Peter|88|
+|CAMERON, Clyde|86|
+|MCVEIGH, Tom|85|
+|NEIL, Maurice|84|
+|MCMAHON, William|84|
+|RUDDOCK, Philip|84|
+|GARLAND, Ransley|83|
+|DALY, Fred|83|
+|BENNETT, Adrian|81|
+|DEPUTY SPEAKER, Mr|81|
+|CALDER, Stephen|76|
+|HOLDING, Clyde|69|
+|KEATING, Paul|69|
+|DEPUTY SPEAKER, Mr|68|
+|KILLEN, James|68|
+|REYNOLDS, Leonard|67|
+|CAIRNS, Jim|67|
+|WILSON, Ian|67|
+|JACOBI, Ralph|67|
+|HODGES, John|65|
+|PATTERSON, Rex|65|
+|FOSTER, Norman|65|
+|CHIPP, Don|64|
+|CAIRNS, Kevin|63|
+|ROBINSON, Ian|61|
+|JAMES, Albert|61|
+|RIORDAN, Joseph|60|
+|KERIN, John|57|
+|JONES, Charles|56|
+|NEWMAN, Kevin|56|
+|FISHER, Peter|55|
+|CADMAN, Alan|55|
+|FRY, Ken|55|
+|GROOM, Ray|55|
+|MCLEAY, John Elden|54|
+|CONNOLLY, David|54|
+|O'KEEFE, Frank|53|
+|SOLOMON, Robert|53|
+|HAMER, David|52|
+|HULME, Alan|52|
+|WILLIS, Ralph|52|
+|FORBES, Alexander|52|
+|ELLICOTT, Bob|52|
+|CAMERON, Donald Milner|50|
+|GUN, Richard|50|
+|HOWE, Brian|48|
+|BUNGEY, Melville|48|
+|JONES, Barry|47|
+|MACPHEE, Ian|47|
+|WALLIS, Laurie|47|
+|HODGMAN, Michael|46|
+|SIMON, Barry|45|
+|GARRICK, Horace|44|
+|CHAIRMAN, The|44|
+|MATHEWS, Charles|43|
+|KELLY, Bert|42|
+|FALCONER, Peter|41|
+|DEPUTY SPEAKER, Mr|40|
+|WHAN, Bob|40|
+|KATTER, Bob|39|
+|CROSS, Manfred|39|
+|LUSHER, Stephen|38|
+|SHORT, Jim|38|
+|DEPUTY SPEAKER, Mr|38|
+|KING, Robert|38|
+|OLDMEADOW, Maxwell|37|
+|BRAITHWAITE, Ray|36|
+|JULL, David|36|
+|BLEWETT, Neal|35|
+|KENNEDY, Andrew|35|
+|WHITLAM, Tony|34|
+|DAWKINS, John|34|
+|McKENZIE, David Charles|34|
+|GORTON, John|34|
+|CHAPMAN, Grant|33|
+|EDWARDS, Harold|33|
+|GRAHAM, Bruce|33|
+|BONNETT, Robert|32|
+|MORRISON, Bill|32|
+|HYDE, John|32|
+|SHERRY, Raymond|32|
+|FIFE, Wal|32|
+|CHAIRMAN, The|32|
+|SHIPTON, Roger|31|
+|SWARTZ, Reginald|31|
+|BURR, Max|31|
+|DEPUTY SPEAKER, Mr|30|
+|GOODLUCK, Bruce|30|
+|BROWN, Neil|30|
+|DEPUTY SPEAKER, Mr|30|
+|BARNARD, Lance|28|
+|LAMB, Tony|28|
+|HOLTEN, Rendle|28|
+|HOWSON, Peter|28|
+|COLLARD, Frederick|27|
+|CHILD, Joan|27|
+|MCLEAN, Ross|25|
+|BURY, Leslie|25|
+|HASLEM, John|25|
+|TURNER, Henry|25|
+|DEPUTY SPEAKER, Mr|25|
+|WEST, Stewart|24|
+|MACKENZIE, Alexander|24|
+|BAUME, Michael|24|
+|BOWEN, Nigel|24|
+|IRWIN, Leslie|23|
+|ADERMANN, Evan|23|
+|PETTITT, John|22|
+|KEOGH, Leonard|22|
+|WEBB, Charles|22|
+|DUTHIE, Gilbert|22|
+|BROWN, John|22|
+|BOURCHIER, John|22|
+|BRADFIELD, James|22|
+|FOX, Edmund|21|
+|HEWSON, Henry|21|
+|CRAMER, John|21|
+|MCMAHON, James|21|
+|DEPUTY SPEAKER, Mr|21|
+|SAINSBURY, Murray|21|
+|HUMPHREYS, Ben|21|
+|DOBIE, Don|20|
+|FAIRBAIRN, David|20|
+|KIRWAN, Frank|20|
+|TURNBULL, Winton|18|
+|MARTYR, John|18|
+|BAILLIEU, Marshall|18|
+|JOHNSON, Peter|18|
+|BARNES, Charles|18|
+|REID, Leonard|17|
+|SULLIVAN, John|17|
+|CONNOR, Rex|17|
+|YATES, William|16|
+|JESS, John|16|
+|PORTER, James|14|
+|DEAN, Gordon|14|
+|JOHNSTON, James|14|
+|COATES, John|14|
+|THORBURN, Ray|14|
+|MCEWEN, John|13|
+|ENGLAND, John|13|
+|HUGHES, Tom|13|
+|WHITTORN, Raymond|12|
+|COOKE, Nelson|12|
+|MACKAY, Malcolm|12|
+|BIRNEY, Reginald|12|
+|COTTER, John|11|
+|CLAYTON, Gareth|11|
+|CARLTON, Jim|10|
+|MOORE, John|10|
+|BATE, Henry|9|
+|ASHLEY-BROWN, Alfred|9|
+|ABEL, John|9|
+|ALDRED, Ken|9|
+|BUCHANAN, Alexander|9|
+|SHACK, Peter|9|
+|CARIGE, Colin|8|
+|THOMSON, David Scott|8|
+|DAVIES, Ronald|8|
+|DOYLE, Francis|8|
+|HANSEN, Brendan|8|
+|MULDER, Allan|7|
+|ERWIN, Dudley|7|
+|MCIVOR, Hector|7|
+|FRASER, Allan|6|
+|NICHOLLS, Martin|6|
+|GILLARD, Reginald|6|
+|RICHARDSON, Peter|5|
+|BURNS, William|5|
+|BIRRELL, Frederick|5|
+|MCLEAY, Leo|4|
+|CAMERON, Ewen|4|
+|GRIFFITHS, Charles|4|
+|CALWELL, Arthur|3|
+|OLLEY, Frank|3|
+|FULTON, William|3|
+|CHAIRMAN, The|2|
+|MAISEY, Donald|2|
+|MULVIHILL, James|1|
+|WILLESEE, Don|1|
+|GRIMES, Don|1|
+|SCOTT, Douglas|1|
+|MELZER, Jean|1|
+|WITHERS, Reg|1|
+|GUILFOYLE, Margaret|1|
+|RAE, Peter|1|
+|FITZPATRICK, John|1|
