@@ -52,14 +52,14 @@
 
 ### Sample sentences:
 
-* Obviously, that is why the **Chinese** feel apprehensive about the situation.
+* Most of the **Chinese** tests have been underground tests, and the only indications we have had of those tests have been seismic disturbances which have been picked up by surveillance stations around Asia.
 
-* The Minister also has received assurances that the **Chinese** will be looking very seriously at the possibility of using Australian technology, particularly in the mineral processing field.
+* United States of America in the Bay of Pigs episode and its intervention in the civil wars in Vietnam and Chile; Nazi Germany's aggression in World War II, its endeavours to create a fascist world and its involvement in the Spanish civil war with its fascist ally, Italy; Japan's bombardment of Pearl Harbour; Australia's involvement with the United States in the conscription of its youth to the Vietnam war; Indonesia's march into Timor- and now the **Chinese** invasion of Vietnam.
 
-* If the honourable member cares to do a bit of solid study he will see that the **Chinese** Government merely accepted from Canada a statement that the Canadian Government took note of the situation.
+* Not the **Chinese**.
 
-* There has been the abuse of the French and the wel coming of the **Chinese** and the Vietcong and the abuse of Lee Kuan Yew and  Mr Heath.
+* Additionally, does the Minister expect the number of **Chinese** refugees coming to Australia to increase as a result of civil unrest in Vietnam?
 
-* According to  Mr Kibel,  the **Chinese** were intrigued by the Minister's relative youth and the nature of his portfolio.
+* Is it also a fact that the computer complex forms an essential part of the American early warning system and is a link to a satellite that monitors **Chinese** radio communications, as reported by John Shaw in the Los Angeles  Times  on 12 December 1978.
 
 * [View all...](contexts.md)

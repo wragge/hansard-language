@@ -519,11 +519,14 @@ def word_summary(word, house, decade):
             ),
             yaxis=dict(
                 title='Number of mentions'
-            )
+            ),
+            width=1000,
+            height=500
         )
         data = [go.Bar(x=day_x, y=day_y)]
         figure = go.Figure(data=data, layout=layout)
-        plotly_url = py.plot(figure, filename='{}-{}-{}'.format(word, house, decade))
+        # plotly_url = py.plot(figure, filename='{}-{}-{}'.format(word, house, decade))
+        py.image.save_as(figure, filename='{}/{}-{}-{}.png'.format(results_dir, word, house, decade))
         sorted_speakers = sorted(speakers, key=speakers.get, reverse=True)
         sorted_days = sorted(days, key=days.get, reverse=True)
         sorted_topics = sorted(topics, key=topics.get, reverse=True)
@@ -579,7 +582,7 @@ def word_summary(word, house, decade):
                 md_file.write('|{}|{}|\n'.format(details['display_names'][0], speakers[speaker]))
         with open(os.path.join(results_dir, 'days.md'), 'wb') as md_file:
             md_file.write('## Sitting days when the word "{}" was used in the {} during the {}s\n\n'.format(word, house, decade))
-            md_file.write('<iframe width="100%" height="500" frameborder="0" scrolling="no" src="{}"></iframe>\n\n'.format(plotly_url))
+            md_file.write('![Chart of frequencies by date]({}-{}-{}.png)\n\n'.format(word, house, decade))
             md_file.write('| Date | Number of uses |\n')
             md_file.write('|--------------|----------------|\n')
             for day in sorted_days:

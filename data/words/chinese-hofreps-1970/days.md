@@ -1,6 +1,6 @@
 ## Sitting days when the word "chinese" was used in the hofreps during the 1970s
 
-<iframe width="100%" height="500" frameborder="0" scrolling="no" src="https://plot.ly/~wragge/501"></iframe>
+![Chart of frequencies by date](chinese-hofreps-1970.png)
 
 | Date | Number of uses |
 |--------------|----------------|
