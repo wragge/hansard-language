@@ -1,0 +1,151 @@
+## Speakers who used the word "uranium" in the hofreps during the 1970s
+
+| Speaker name | Number of uses |
+|--------------|----------------|
+|ANTHONY, Doug|108|
+|UREN, Tom|91|
+|Mr. SPEAKER|60|
+|KEATING, Paul|55|
+|CONNOR, Rex|54|
+|JACOBI, Ralph|51|
+|HAYDEN, Bill|48|
+|FRASER, Malcolm|48|
+|NEWMAN, Kevin|41|
+|BOWEN, Lionel|36|
+|WHITLAM, Gough|34|
+|SWARTZ, Reginald|34|
+|CALDER, Stephen|31|
+|PEACOCK, Andrew|30|
+|VINER, Ian|30|
+|JOHNSON, Leslie|30|
+|GROOM, Ray|26|
+|EVERINGHAM, Douglas|24|
+|HUNT, Ralph|17|
+|COHEN, Barry|17|
+|YOUNG, Mick|16|
+|DEPUTY SPEAKER, Mr|16|
+|KATTER, Bob|15|
+|MARTYR, John|14|
+|O'KEEFE, Frank|14|
+|HOLDING, Clyde|11|
+|FAIRBAIRN, David|11|
+|LYNCH, Phillip|10|
+|KLUGMAN, Dick|10|
+|SINCLAIR, Ian|10|
+|YATES, William|9|
+|JAMES, Albert|9|
+|COTTER, John|9|
+|CHAIRMAN, The|8|
+|CAIRNS, Jim|8|
+|HOWARD, John|8|
+|ELLICOTT, Bob|8|
+|NEIL, Maurice|7|
+|SNEDDEN, Billy|7|
+|CREAN, Frank|7|
+|WEST, Stewart|7|
+|BAILLIEU, Marshall|7|
+|BAUME, Michael|7|
+|DEPUTY SPEAKER, Mr|7|
+|CHIPP, Don|7|
+|ADERMANN, Evan|7|
+|DEPUTY SPEAKER, Mr|6|
+|JONES, Barry|6|
+|HODGES, John|6|
+|HURFORD, Chris|6|
+|GRAHAM, Bruce|6|
+|JOHNSTON, James|6|
+|CONNOLLY, David|6|
+|CHAIRMAN, The|6|
+|FALCONER, Peter|6|
+|NIXON, Peter|6|
+|WENTWORTH, William Charles|5|
+|HAMER, David|5|
+|CASS, Moss|5|
+|CAMERON, Clyde|5|
+|BRYANT, Gordon|5|
+|WILLIS, Ralph|5|
+|CADMAN, Alan|5|
+|MORRIS, Peter|5|
+|BIRNEY, Reginald|5|
+|PORTER, James|4|
+|RICHARDSON, Peter|4|
+|KERIN, John|4|
+|SHORT, Jim|4|
+|PATTERSON, Rex|4|
+|JOHNSON, Leonard|4|
+|JOHNSON, Peter|4|
+|RUDDOCK, Philip|4|
+|WALLIS, Laurie|4|
+|BRAITHWAITE, Ray|4|
+|MOORE, John|4|
+|HODGMAN, Michael|3|
+|MCMAHON, William|3|
+|SHIPTON, Roger|3|
+|BLEWETT, Neal|3|
+|ROBINSON, Ian|3|
+|DAWKINS, John|3|
+|BROWN, John|3|
+|DEPUTY SPEAKER, Mr|3|
+|FIFE, Wal|3|
+|WILSON, Ian|3|
+|BUCHANAN, Alexander|3|
+|ROBINSON, Eric|3|
+|HASLEM, John|3|
+|FOSTER, Norman|3|
+|FRY, Ken|3|
+|STALEY, Tony|3|
+|HOWE, Brian|2|
+|SAINSBURY, Murray|2|
+|LUSHER, Stephen|2|
+|DEPUTY SPEAKER, Mr|2|
+|DALY, Fred|2|
+|EDWARDS, Harold|2|
+|DEPUTY SPEAKER, Mr|2|
+|TEMPORARY CHAIRMAN, The|2|
+|CAIRNS, Kevin|2|
+|DEPUTY SPEAKER, Mr|2|
+|BROWN, Neil|2|
+|BOURCHIER, John|2|
+|WHITLAM, Tony|2|
+|CHILD, Joan|2|
+|BRADFIELD, James|2|
+|MACKENZIE, Alexander|2|
+|KILLEN, James|2|
+|GORTON, John|2|
+|SIMON, Barry|2|
+|CHAIRMAN, The|2|
+|CHAPMAN, Grant|1|
+|BENNETT, Adrian|1|
+|GARLAND, Ransley|1|
+|WHITTORN, Raymond|1|
+|CARIGE, Colin|1|
+|MULDER, Allan|1|
+|MCEWEN, John|1|
+|KELLY, Bert|1|
+|STREET, Anthony|1|
+|MACKAY, Malcolm|1|
+|FISHER, Peter|1|
+|CHAIRMAN, The|1|
+|SULLIVAN, John|1|
+|CRAMER, John|1|
+|DOBIE, Don|1|
+|MCMAHON, James|1|
+|JULL, David|1|
+|BURNS, William|1|
+|DEAN, Gordon|1|
+|CHAIRMAN, The|1|
+|ABEL, John|1|
+|HYDE, John|1|
+|BEAZLEY, Kim|1|
+|DUTHIE, Gilbert|1|
+|HOWSON, Peter|1|
+|MACPHEE, Ian|1|
+|JONES, Charles|1|
+|FULTON, William|1|
+|COLLARD, Frederick|1|
+|BOWEN, Nigel|1|
+|CHAIRMAN, The|1|
+|SHACK, Peter|1|
+|THORBURN, Ray|1|
+|CAMERON, Donald Milner|1|
+|GARRICK, Horace|1|

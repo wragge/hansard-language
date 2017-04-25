@@ -12,6 +12,7 @@ from textblob import TextBlob
 from collections import defaultdict
 from utilities import generate_tfidf
 from wordcloud import WordCloud
+import random
 
 from credentials import MONGO_URL
 
@@ -469,6 +470,7 @@ def word_summary(word, house, decade):
     topics = defaultdict(int)
     days = defaultdict(int)
     texts = ''
+    sentences = []
     dbclient = MongoClient(MONGO_URL)
     db = dbclient.get_default_database()
     total_speeches = db.speeches.find({'house': house, 'decade': decade}).count()
@@ -506,6 +508,16 @@ def word_summary(word, house, decade):
         sorted_speakers = sorted(speakers, key=speakers.get, reverse=True)
         sorted_days = sorted(days, key=days.get, reverse=True)
         sorted_topics = sorted(topics, key=topics.get, reverse=True)
+        finder = BigramCollocationFinder.from_words(blob.words)
+        finder.apply_freq_filter(3)
+        ignored_words = nltk.corpus.stopwords.words('english')
+        finder.apply_word_filter(lambda w: len(w) < 3 or w.lower() in ignored_words)
+        finder.apply_ngram_filter(lambda *w: word not in w)
+        # collocations = finder.nbest(nltk.collocations.BigramAssocMeasures().likelihood_ratio, 100)
+        collocations = sorted(finder.ngram_fd.items(), key=lambda t: (-t[1], t[0]))[:100]
+        for sentence in blob.sentences:
+            if word in sentence.words:
+                sentences.append(sentence)
         output = '\n## Searching for "{}" in {} within the {}s...\n\n'.format(word, house, decade)
         output += '----\n\n'
         output += '### The word "{}":\n\n'.format(word)
@@ -526,6 +538,14 @@ def word_summary(word, house, decade):
         for topic in sorted_topics[:5]:
             output += '* {} ({} uses)\n'.format(topic, topics[topic])
         output += '* [View all...](topics.md)\n'
+        output += '\n\n### Associated words:\n\n'
+        for collocation in collocations[:5]:
+            output += '* {} ({} appearances)\n'.format(' '.join(collocation[0]), collocation[1])
+        output += '* [View all...](collocations.md)\n'
+        output += '\n\n### Sample sentences:\n\n'
+        for sentence in random.sample(sentences, 5):
+            output += '* {}\n'.format(sentence)
+        output += '* [View all...](contexts.md)\n'
         print output
         with open(os.path.join(results_dir, 'README.md'), 'wb') as md_file:
             md_file.write(output)
@@ -548,6 +568,16 @@ def word_summary(word, house, decade):
             md_file.write('|--------------|----------------|\n')
             for topic in sorted_topics:
                 md_file.write('|{}|{}|\n'.format(topic, topics[topic]))
+        with open(os.path.join(results_dir, 'collocations.md'), 'wb') as md_file:
+            md_file.write('## Collocations for the word "{}" when used in the {} during the {}s\n\n'.format(word, house, decade))
+            md_file.write('| Collocation | Frequency |\n')
+            md_file.write('|--------------|----------------|\n')
+            for collocation in collocations:
+                md_file.write('|{}|{}|\n'.format(' '.join(collocation[0]), collocation[1]))
+        with open(os.path.join(results_dir, 'contexts.md'), 'wb') as md_file:
+            md_file.write('## Contexts in which the word "{}" was used in the {} during the {}s\n\n'.format(word, house, decade))
+            for sentence in sentences:
+                md_file.write('* {}\n\n'.format(re.sub(r'\b{}\b'.format(word), r'**{}**'.format(word), str(sentence))))
         # Contexts -- sentences
         # People
         # Debates

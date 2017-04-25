@@ -4,3 +4,4 @@ credentials.py
 .DS_Store
 data/speeches/decades
 data/speeches/parliaments
+*.zip
