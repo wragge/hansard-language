@@ -582,7 +582,10 @@ def word_summary(word, house, decade):
             md_file.write('|--------------|----------------|\n')
             for speaker in sorted_speakers:
                 details = db.people.find_one({'_id': speaker})
-                md_file.write('|{}|{}|\n'.format(details['display_names'][0], speakers[speaker]))
+                try:
+                    md_file.write('|{}|{}|\n'.format(details['display_names'][0], speakers[speaker]))
+                except IndexError:
+                    md_file.write('|{}|{}|\n'.format(details['names'][0], speakers[speaker]))
         with open(os.path.join(results_dir, 'days.md'), 'wb') as md_file:
             md_file.write('## Sitting days when the word "{}" was used in the {} during the {}s\n\n'.format(word, house, decade))
             md_file.write('[![Chart of frequencies by date]({}-{}-{}.png)]({})\n\n'.format(word, house, decade, plotly_url))

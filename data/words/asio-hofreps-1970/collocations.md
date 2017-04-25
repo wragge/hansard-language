@@ -1,0 +1,53 @@
+## Collocations for the word "asio" when used in the hofreps during the 1970s
+
+| Collocation | Frequency |
+|--------------|----------------|
+|asio headquarters|23|
+|asio bill|20|
+|asio officer|18|
+|asio legislation|13|
+|asio report|10|
+|asio agents|9|
+|asio would|9|
+|asio reports|8|
+|asio representative|8|
+|asio staff|8|
+|asio files|7|
+|within asio|7|
+|asio could|6|
+|asio ought|6|
+|raided asio|6|
+|asio act|5|
+|asio may|5|
+|asio must|5|
+|asio raids|5|
+|asio documents|4|
+|asio needs|4|
+|asio officers|4|
+|asio raid|4|
+|asio security|4|
+|destroy asio|4|
+|raiding asio|4|
+|whether asio|4|
+|years asio|4|
+|abolish asio|3|
+|asio affair|3|
+|asio agent|3|
+|asio file|3|
+|asio forces|3|
+|asio link|3|
+|asio man|3|
+|asio office|3|
+|asio one|3|
+|asio personnel|3|
+|asio rather|3|
+|asio records|3|
+|asio subject|3|
+|asio surveillance|3|
+|asio therefore|3|
+|asio yet|3|
+|concerning asio|3|
+|established asio|3|
+|gives asio|3|
+|past asio|3|
+|trust asio|3|
