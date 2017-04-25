@@ -52,14 +52,14 @@
 
 ### Sample sentences:
 
-* He is a veteran of two world wars and an original **Anzac**.
+* We remember also his part in framing the charter of the United Nations and in negotiating the **Anzac** Agreement.
 
-* He went along to the final concert last Sunday - two days after **Anzac** Day.
+* Does the Minister know whether the Egyptian Government's intention to compensate shareholders of the Suez Canal Company means that the **Anzac** memorial in Egypt which, I believe, was situated on land held by the Suez Canal authorities, will also be the subject of such compensation?
 
-* I direct to the Minister for the Army a question which relates to a most distressing tragedy that occurred at Northam, in Western Australia, on **Anzac** Day when, as a result of an explosion, a boy aged eleven years was killed instantly, having received shocking injuries, and another boy aged thirteen years is still in hospital suffering from the injuries he sustained at the same time.
+* On **Anzac** Day .
 
-* The result was that he countermanded the decision of the officers ot the department, and the **Anzac** Hostel stayed put.
+* So, as another **Anzac** passes on his way, may we pay our tribute after our own fashion, hallowed by time and honoured by tradition, " Lest we Forget ".
 
-* Each year on **Anzac** Day we stand at attention, with heads bowed, at the Cenotaph and say some very solemn words.
+* He was an original **Anzac** in the 1914-18 war and he saw service in the Middle East in "World War II.
 
 * [View all...](contexts.md)

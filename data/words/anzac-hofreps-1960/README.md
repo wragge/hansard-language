@@ -52,14 +52,14 @@
 
 ### Sample sentences:
 
-* I was just about to say that probably every member of the Parliament has been the guest  speaker  at an **Anzac** Day service and has undoubtedly echoed the words: 'Lest we forget'.
+* No doubt the Minister for the Army is aware that the Queen's Prize shoot, attended by over 3,000 riflemen who fired 140,000 well-aimed shots, has just concluded at the **Anzac** Rifle Range, Liverpool, New South Wales.
 
-* There were 32 men involved in this dispute over hostages, which occurred in the period preceding the **Anzac** Day holiday.
+* The Government has also authorized the Australian News and Information Bureau to make a documentary film to show how the spirit of **Anzac** has influenced the nation over the last fifty years.
 
-* The most noticeable work in the last 12 months has been the construction of **Anzac** .Parade which I think has added greatly to the display of the Memorial.
+* The Gallipoli Legion of Anzacs suggests that if the proposal is agreed to, any **Anzac** who wants a medal, or rosette, whatever might be decided upon, should apply to the Services Board for it.
 
-* Finally - and this is of the utmost importance - it has been estimated that over 100,000 people could assemble in front of a new lakeside parliament house on great occasions such as **Anzac** Day, and a private area could be provided on the lakeside site of the building as at Westminster.
+* The Desert Mounted Corps was composed of the **Anzac** Mounted Division and the Australian Mounted Division.
 
-* **Anzac** Day falls in a week or so.
+* For example, in my own electorate, the Miranda sub-branch of the Returned Service League has instituted a very worthwhile scheme whereby books and not floral wreaths are placed as tributes to the fallen on **Anzac** Day.
 
 * [View all...](contexts.md)

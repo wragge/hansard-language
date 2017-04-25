@@ -52,14 +52,14 @@
 
 ### Sample sentences:
 
-* Being a matter of significance at that time, he spoke of **Anzac** Day, not only of its importance but also of the things for which it stands.
-
-* One only has to attend an **Anzac** Day commemoration each year.
-
-* Perhaps I should say, with relevance to the previous discussion, that I have been attending **Anzac** Day ceremonies in my electorate for 32 years and there does not seem to be any dispute about it.
+* The answer is a small **Anzac** annexe at Rosemount Repatriation Hospital that contains about 25 beds at the most.
 
 * I accepted the invitation to be guest speaker on that day because, as previously listed, Parliament was to sit the week preceding the week in which **Anzac** Day falls and the week in which **Anzac** Day falls was to have been a week when the House was not sitting.
 
-* If we can perpetuate the spirit of **Anzac** by encouraging national unity and pride in our physical fitness and international sporting achievements, we will have taken a giant step towards providing for its future.
+* Although I have been advised that it is the intention of the House to rise early on Wednesday, 24 April, this would not enable me to reach my home town in order to fulfil an engagement that I have accepted to be guest speaker at **Anzac** Day celebrations in my home town.
+
+* I invite the critics of **Anzac** Day to go along to the ceremonies which will be conduced on Monday as I know that they will not witness a war spirit, a love of war or a celebration of killing.
+
+* It appeared in the Canberra Times' on 26th April, the day after **Anzac** Day.
 
 * [View all...](contexts.md)
