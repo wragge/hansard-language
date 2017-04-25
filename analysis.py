@@ -4,6 +4,7 @@ import os
 import re
 import pprint
 import time
+from datetime import datetime
 from pymongo import MongoClient, TEXT
 import nltk
 from nltk.collocations import *
@@ -13,6 +14,8 @@ from collections import defaultdict
 from utilities import generate_tfidf
 from wordcloud import WordCloud
 import random
+import plotly.plotly as py
+import plotly.graph_objs as go
 
 from credentials import MONGO_URL
 
@@ -505,6 +508,22 @@ def word_summary(word, house, decade):
                     texts += '{}\n'.format(para.encode('utf-8'))
         blob = TextBlob(texts.decode('ascii', errors="ignore"))
         total_words = blob.words.count(word)
+        day_x = []
+        day_y = []
+        for day in sorted(days):
+            day_x.append(datetime.strptime(day, '%Y-%m-%d'))
+            day_y.append(days[day])
+        layout = go.Layout(
+            xaxis=dict(
+                title='Date'
+            ),
+            yaxis=dict(
+                title='Number of mentions'
+            )
+        )
+        data = [go.Bar(x=day_x, y=day_y)]
+        figure = go.Figure(data=data, layout=layout)
+        plotly_url = py.plot(figure, filename='{}-{}-{}'.format(word, house, decade))
         sorted_speakers = sorted(speakers, key=speakers.get, reverse=True)
         sorted_days = sorted(days, key=days.get, reverse=True)
         sorted_topics = sorted(topics, key=topics.get, reverse=True)
@@ -560,6 +579,7 @@ def word_summary(word, house, decade):
                 md_file.write('|{}|{}|\n'.format(details['display_names'][0], speakers[speaker]))
         with open(os.path.join(results_dir, 'days.md'), 'wb') as md_file:
             md_file.write('## Sitting days when the word "{}" was used in the {} during the {}s\n\n'.format(word, house, decade))
+            md_file.write('<iframe width="100%" height="500" frameborder="0" scrolling="no" src="{}"></iframe>\n\n'.format(plotly_url))
             md_file.write('| Date | Number of uses |\n')
             md_file.write('|--------------|----------------|\n')
             for day in sorted_days:
