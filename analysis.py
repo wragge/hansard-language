@@ -603,7 +603,7 @@ def word_summary(word, house, decade):
         with open(os.path.join(results_dir, 'contexts.md'), 'wb') as md_file:
             md_file.write('## Contexts in which the word "{}" was used in the {} during the {}s\n\n'.format(word, house, decade))
             for sentence in sentences:
-                md_file.write('* {}\n\n'.format(re.sub(r'\b({})\b'.format(word), r'**\1**', str(sentence))))
+                md_file.write('* {}\n\n'.format(re.sub(r'\b({})\b'.format(word), r'**\1**', str(sentence)), flags=re.IGNORECASE))
         # Contexts -- sentences
         # People
         # Debates

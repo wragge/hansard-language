@@ -52,14 +52,14 @@
 
 ### Sample sentences:
 
-* Most of the **Chinese** tests have been underground tests, and the only indications we have had of those tests have been seismic disturbances which have been picked up by surveillance stations around Asia.
+* Again he met with exactly the same attitude from the **Chinese** Communist Government and no information whatsoever could be obtained.
 
-* United States of America in the Bay of Pigs episode and its intervention in the civil wars in Vietnam and Chile; Nazi Germany's aggression in World War II, its endeavours to create a fascist world and its involvement in the Spanish civil war with its fascist ally, Italy; Japan's bombardment of Pearl Harbour; Australia's involvement with the United States in the conscription of its youth to the Vietnam war; Indonesia's march into Timor- and now the **Chinese** invasion of Vietnam.
+* In the week before the first American visit to China the **Chinese** Press was full of what it saw as the victory in Laos of North Vietnam over the Saigon Government.
 
-* Not the **Chinese**.
+* For their part, the **Chinese** authorities also seem to be making the important distinction, to which the Prime Minister referred on Tuesday, between the steps they have taken and the question of inter-state .
 
-* Additionally, does the Minister expect the number of **Chinese** refugees coming to Australia to increase as a result of civil unrest in Vietnam?
+* The Peking **Chinese** realised that we would start 'the new Australia' on 26th January 1973 as a satellite to their country.
 
-* Is it also a fact that the computer complex forms an essential part of the American early warning system and is a link to a satellite that monitors **Chinese** radio communications, as reported by John Shaw in the Los Angeles  Times  on 12 December 1978.
+* In recent years I have written two or three letters to the **Chinese** Foreign Minister and two or three letters to the Russian Foreign Minister protesting against and arguing against the conduct of those nations in nuclear testing.
 
 * [View all...](contexts.md)
