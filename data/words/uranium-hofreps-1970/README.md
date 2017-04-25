@@ -52,10 +52,15 @@
 
 ### Sample sentences:
 
-* I want to raise the aspect of nuclear non-proliferation and the question of export of uranium, whether Australia can monitor what happens to those exports and whether adequate safeguards exist.
-* In this respect the Government's policy introduces a requirement additional to those recommended by the Ranger uranium environmental inquiry in its first report.
-* a requirement for Australia's prior consent to any re-transfers, to ensure that uranium supplied by Australia cannot be re-exported unless we are satisfied that the ultimate destination is acceptable and that adequate controls would apply to the transferred material; 
-all of these safeguards and controls are to cover nuclear material derived from Australian uranium so long as it remains in a form relevant from the point of view of safeguards; that is, until it has been consumed or diluted to the point where there is no practical possibility of it being useful for the purpose of making a nuclear weapon.
-* The uranium industry is a large potential industry.
-* A month ago statements on uranium were presented to this Parliament by six Ministers.
+* Some sorts of mining possibly would not be as deleterious to the ecosystem of the Kakadu National Park as **uranium** mining would be because of the potential dangers and the waste that flows from **uranium** mining.
+
+* The Government emphasises that these represent minimum conditions for countries to be eligible to receive Australian **uranium**.
+
+* The Prime Minister  (Mr Malcolm Fraser)  in his weekly broadcast on Sunday 7 November said: 
+As to the **uranium** question, there has already been many opportunities for all interested groups within the community to put their views .
+
+* When the late  Mr Connor  became the Minister for Minerals and Energy in late 1972 he said to me in the Cabinet room one day: 'This crowd '-and he did not mean the crowd of which he was a member; he was so used to calling the previous Government, the McMahon Government, 'this crowd''had entered into a contract under which they were going to sell all our **uranium** resources on a long term contract basis at $6 per lb when by 1976 it will be worth $40 per lb and by 1980 it will be worth $100 per lb'.
+
+* If so, will those Aborigines living on reserves be brought to the cities and integrated into Australian life and will this have the dual benefit of giving the present Administration the appearance of domestic policy being consistent with its international utterances, while simultaneously removing Aborigines from reserves which are located on top of **uranium** deposits.
+
 * [View all...](contexts.md)

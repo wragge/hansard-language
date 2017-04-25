@@ -544,7 +544,7 @@ def word_summary(word, house, decade):
         output += '* [View all...](collocations.md)\n'
         output += '\n\n### Sample sentences:\n\n'
         for sentence in random.sample(sentences, 5):
-            output += '* {}\n'.format(sentence)
+            output += '* {}\n\n'.format(re.sub(r'\b{}\b'.format(word), r'**{}**'.format(word), str(sentence)))
         output += '* [View all...](contexts.md)\n'
         print output
         with open(os.path.join(results_dir, 'README.md'), 'wb') as md_file:
