@@ -1,0 +1,1250 @@
+## Topics when the word "women" was used in the hofreps during the 1970s
+
+| Topic | Number of uses |
+|--------------|----------------|
+|ADJOURNMENT|51|
+|QUESTION: GOVERNOR-GENERAL'S SPEECH|39|
+|FAMILY LAW BILL 1974: Second Reading|31|
+|GRIEVANCE DEBATE|26|
+|QUESTION: TERMINATION OF PREGNANCY: MEDICAL BENEFITS|24|
+|GOVERNOR-GENERAL'S SPEECH|21|
+|APPROPRIATION BILL (No. 1) 1979-80: Second Reading (Budget Debate)|18|
+|APPROPRIATION BILL (No. 1) 1977-78|16|
+|UNEMPLOYMENT: Discussion of Matter of Public Importance|15|
+|FAMILY LAW BILL 1974|14|
+|PETITIONS: Censorship|14|
+|APPROPRIATION BILL (No. 1) 1970-71|12|
+|APPROPRIATION BILL (No. 1) 1971-72|12|
+|APPROPRIATION BILL (No. 1) 1978-79|12|
+|APPROPRIATION BILL (No. 1) 1975-76: Second Reading (Budget Debate)|11|
+|APPROPRIATION BILL (No. 1) 1973-74|11|
+|QUESTION: LEGAL ABORTION IF FULLY ADVISED FIRST|11|
+|APPROPRIATION BILL (No. 1) 1972-73|11|
+|QUESTION: UNEMPLOYMENT|11|
+|CHURCH AND NATION: Abortion Law Reform|11|
+|SALES TAX (EXEMPTIONS AND CLASSIFICATIONS) BILL 1973: Second Reading|10|
+|THE PREDICAMENT: Mary Gordon|9|
+|APPROPRIATION BILL (No. 1) 1976-77|9|
+|APPROPRIATION BILL (No. 1) 1978-79: Second Reading (Budget Debate)|9|
+|APPROPRIATION BILL (No. 1) 1973-74: Second Reading (Budget Debate)|9|
+|APPROPRIATION BILL (No. 1) 1975-76|8|
+|APPROPRIATION BILL (No. 1) 1970-71: Second Reading (Budget Debate)|8|
+|CHILDREN'S COMMISSION BILL 1975: Second Reading|8|
+|BROADCASTING AND TELEVISION AMENDMENT BILL (No. 2) 1976 [No. 2]|8|
+|QUESTION: HER MAJESTY'S GOVERNMENT'S PROPOSALS FOR FAMILY PLANNING|7|
+|APPROPRIATION BILL (No. 1) 1977-78: Second Reading (Budget Debate)|7|
+|QUESTION: ECONOMIC PLANNING AND TRADE COMMITTEE 1971|7|
+|SOCIAL SERVICES BILL 1972: Second Reading|7|
+|COMMONWEALTH ELECTORAL BILL 1973: Second Reading|7|
+|APPROPRIATION BILL (No. 1) 1974-75: Second Reading (Budget Debate)|7|
+|APPROPRIATION BILL (No. 1) 1972-73: Second Reading (Budget Debate)|6|
+|MATERNITY LEAVE (AUSTRALIAN GOVERNMENT EMPLOYEES) AMENDMENT BILL 1978: Second Reading|6|
+|TRADE UNION TRAINING AUTHORITY BILL 1975: Second Reading|6|
+|QUESTION: PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY)|6|
+|STATES GRANTS (UNIVERSITIES) BILL 1970: Second Reading|6|
+|IMMIGRATION (EDUCATION) BILL 1970: Second Reading|6|
+|TECHNICAL AND FURTHER EDUCATION COMMISSION BILL 1975: Second Reading|6|
+|GOVERNMENT EMPLOYMENT TRAINING SCHEMES: Discussion of Matter of Public Importance|6|
+|INCOME TAX ASSESSMENT AMENDMENT BILL (No. 2) 1976: Second Reading|6|
+|QUESTION: SPEECH OF HER MAJESTY THE QUEEN|6|
+|DEFENCE SERVICE HOMES AMENDMENT BILL 1978: Second Reading|6|
+|COMMONWEALTH EMPLOYMENT SERVICE BILL 1978: Second Reading|6|
+|CHAP. XX1-PROCEEDINGS IN PASSING PUBLIC BILLS|6|
+|STATES GRANTS (RURAL RECONSTRUCTION) BILL 1973: Second Reading|6|
+|SUPERANNUATION BILL 1976: Second Reading|5|
+|QUESTION: REPATRIATION BULL 1973|5|
+|DARWIN RECONSTRUCTION BILL 1975: Second Reading|5|
+|PERSONAL EXPLANATION|5|
+|FOR DARWIN: Reference to Public Works Committee|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Services and Property: Appointment of Women (Question No. 104)|5|
+|REPATRIATION BILL (No. 3) 1973: Second Reading|5|
+|CHILD CARE BILL 1972: Second Reading|5|
+|QUESTION: SUSPENSION OF STANDING ORDERS|5|
+|TERMINATION OF PREGNANCY: MEDICAL BENEFITS|5|
+|HOMELESS PERSONS ASSISTANCE AMENDMENT BILL 1979: Second Reading|5|
+|STANDING COMMITTEE ON ABORIGINAL AFFAIRS|5|
+|DEFENCE SERVICE HOMES BILL 1973: Second Reading|5|
+|PERSONAL EXPLANATIONS|5|
+|QUESTION: PUBLIC DEMONSTRATIONS|5|
+|QUESTION: WOMEN'S REFUGES|5|
+|MATERNITY LEAVE (AUSTRALIAN GOVERNMENT EMPLOYEES) BILL 1973: Second Reading|5|
+|APPROPRIATION BILL (No.1)1970-71: Second Reading (Budget Debate)|5|
+|REPATRIATION BILL (No. 2) 1970: Second Reading|4|
+|APPROPRIATION BILL (No. 1) 1974-75|4|
+|AVALON AIRPORT, VICTORIA: Proposed Expenditure, $40,251,000|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Special Minister of State (Question No. 112)|4|
+|SPEECH OF HER MAJESTY THE QUEEN: Most Gracious Sovereign:|4|
+|SEAMEN'S WAR PENSIONS AND ALLOWANCES BILL (No. 2) 1972: Second Reading|4|
+|PUBLIC SERVICE BILL (No. 4) 1973: Second Reading|4|
+|GOVERNOR-GENERAL'S SPEECH: Suspension of Standing Orders|4|
+|AGED PERSONS HOMES BILL 1973: Second Reading|4|
+|STATES GRANTS (PRE-SCHOOL TEACHERS COLLEGES) BILL 1971: Second Reading|4|
+|CUSTOMS TARIFF BILL 1972: Second Reading|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Immigration and Ethnic Affairs (Question No. 1041)|4|
+|QUESTION: U.S.A|4|
+|QUESTION: OPPORTUNITIES FOR WOMEN|4|
+|NURSING HOMES ASSISTANCE BILL 1974: Second Reading|4|
+|STATES GRANTS (HOME CARE) AMENDMENT BILL 1978: Second Reading|4|
+|SOCIAL SERVICES BILL (No. 4) 1973: Second Reading|4|
+|AUSTRALIAN ECONOMY: Discussion of Matter of Public Importance|4|
+|PUBLIC SERVICE BILL 1973: Second Reading|4|
+|FAMILY LAW BILL 1975: Second Reading|4|
+|APPROPRIATION BILL (No. 1) 1976-77: Second Reading (Budget Debate)|4|
+|ADULTHOOD BILL 1970: Second Reading|4|
+|NATIONAL FITNESS AMENDMENT BILL 1979: Second Reading|4|
+|NATIONAL HEALTH BILL (No. 2) 1975: Second Reading|4|
+|IMMIGRATION POLICIES AND AUSTRALIA'S POPULATION: Suspension of Standing Orders|4|
+|MINISTERIAL ARRANGEMENTS|4|
+|NATIONAL HEALTH BILL 1971: Second Reading|4|
+|PUBLIC SERVICE AMENDMENT (FIRST DIVISION OFFICERS) BILL 1976: Second Reading|4|
+|REPATRIATION BILL 1974: Second Reading|4|
+|SOCIAL SERVICES AMENDMENT BILL (No. 3) 1976: Second Reading|3|
+|A: Food Exports: Contamination (Question No. 2714)|3|
+|QUESTION: NURSING PROFESSION IN AUSTRALIA|3|
+|SOCIAL SERVICES AMENDMENT BILL 1976: Second Reading|3|
+|NATIONAL HEALTH BILL 1974: Second Reading|3|
+|AUSTRALIAN TOURIST COMMISSION BILL 1974: Second Reading|3|
+|NATIONAL COMPENSATION BILL 1974: Second Reading|3|
+|AUSTRALIAN WOOL COMMISSION BILL 1970: Second Reading|3|
+|BLACKBURN|3|
+|PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) BILL 1971: Second Reading|3|
+|SOCIAL SERVICES BILL (No. 3) 1974: Second Reading|3|
+|BROADCASTING AND TELEVISION AMENDMENT BILL (No. 2) 1976 [No. 2]: Second Reading|3|
+|QUESTION: SENATE VACANCY|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Costs of High Court Judgments (Question No. 72)|3|
+|QUESTION: MUSHROOM INDUSTRY|3|
+|JOSEPH MANTJAKURA: Suspension of Standing Orders|3|
+|RALPH J. HUNT: Archbishop of Sydney|3|
+|TASMANIA: Marketing of Uranium (Question No. 1051)|3|
+|QUESTION: EMPLOYMENT AND UNEMPLOYMENT|3|
+|ADJOURNMENT: Commonwealth Heads of Government Regional Meeting- East Timor- Use of Private Consultants- Adult Migrant Education- Citizens Band Radio|3|
+|GRIEVANCE DEBATE: Aboriginal Land Rights- Cyclone Damage- Abortions- Trade Union Disputes- Unemployment Benefits- Australian National University|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unauthorised Disclosure of Official Documents (Question No. 869)|3|
+|NORTHERN TERRITORY (STABILIZATION OF LAND PRICES) BILL 1974: Second Reading|3|
+|TARIFF PROPOSALS|3|
+|SOCIAL SERVICES AMENDMENT BILL 1977: Second Reading|3|
+|MOST GRACIOUS SOVEREIGN:|3|
+|APPROPRIATION BILL (No. 3) 1970-71: Second Reading|3|
+|DELIVERED MEALS SUBSIDY BILL 1970|3|
+|PARLIAMENTARY GROUP-AMNESTY INTERNATIONAL PETITION TO THE PRESIDENT OF THE UNITED STATES|3|
+|SUPERANNUATION BILL 1975: Second Reading|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Governor-General's Overseas Travel (Question No. 903)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Incidence of Tonsillectomy, Appendicectomy and Hysterectomy Operations (Question No. 597)|3|
+|SOCIAL SERVICES BILL (No. 2) 1974: Second Reading|3|
+|QUESTION: TERMS OF REFERENCE|3|
+|TELECOMMUNICATIONS AMENDMENT BILL 1976: Third Reading|3|
+|QUESTION: FRASER'S CUTS IN SOCIAL SECURITY|3|
+|BROADCASTING AND TELEVISION BILL (No. 2) 1972: Second Reading|3|
+|QUESTION: COMMONWEALTH ELECTORAL ACT (No. 2) 1973|3|
+|SOCIAL SERVICES BILL 1971: Second Reading|3|
+|QUESTION: PUBLIC SERVICE STAFF CEILINGS|3|
+|COMMONWEALTH EMPLOYEES: Discussion of Matter of Public Importance|3|
+|CONCILIATION AND ARBITRATION AMENDMENT BILL (No. 3) 1977|3|
+|FRASER GOVERNMENT: Want of Confidence Motion|3|
+|CONCILIATION AND ARBITRATION BILL 1973|3|
+|STATES GRANTS (ABORIGINAL ADVANCEMENT) BILL (No. 2) 1973: Second Reading|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Workforce: Married Women (Question No. 165)|3|
+|TERMS OF REFERENCE: Canberra Times' December 8, 1973|3|
+|DELIVERED MEALS SUBSIDY BILL 1970: Second Reading|3|
+|SOCIAL SERVICES AMENDMENT BILL 1979: Second Reading|3|
+|IMMIGRATION POLICIES AND AUSTRALIA'S POPULATION: Paper and Ministerial Statement|3|
+|QUESTION: LAND LEASE DISASTER|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Metropolitan and Rural Relief Schemes (Question No. 342)|3|
+|HEALTH INSURANCE BILL 1973: Second Reading|3|
+|REPATRIATION BILL 1971: Second Reading|3|
+|CENSORSHIP: Ministerial Statement|3|
+|EMPLOYMENT PROSPECTS FOR YOUNG PEOPLE: Discussion of Matter of Public Importance|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Transcontinental Pipeline Grid (Question No. 910)|3|
+|UNEMPLOYMENT IN AUSTRALIA: Discussion of Matter of Public Importance|3|
+|ADJOURNMENT: Fauna Conservation - Wool - Education|2|
+|QUESTION: WOMEN'S REFUGES IN QUEENSLAND|2|
+|ADJOURNMENT: Thursday, 26 October 1972|2|
+|SOCIAL SERVICES BILL (No. 4) 1972: Second Reading|2|
+|SA: Social Services Benefits (Question No. 645)|2|
+|STANDING ORDERS COMMITTEE: Report|2|
+|EXERCISES CONDUCTED WITH US NAVY SHIPS AND COMPOSITION OF FORCES INVOLVED,: Victorian Aboriginal Women's Refuge (Question No. 4010)|2|
+|QUESTION: UNEMPLOYMENT BENEFIT: WOMEN|2|
+|TRADE UNIONS: Discussion of Matter of Public Importance|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employment: United States of America (Question No. 4962)|2|
+|ADJOURNMENT: Amnesty International- Child Care Organisations- Audit of Airline Accounts|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Tourism and Recreation: Appointment of Women (Question No. 124)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women's Health Conference (Question No. 2973)|2|
+|SHORTAGES OF GOODS IN AUSTRALIA: Discussion of Matter of Public Importance|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Batman: Unemployment (Question No. 719)|2|
+|ADJOURNMENT: Silver Jubilee Commemorative Appeal-Population Trends: Immigration-Employment Statistics- Road Safety: Motor Cycles-New Tasman Bridge - Pensions-Immigration-Unemployment Benefit|2|
+|ADJOURNMENT: National Anthem for Australia - Abortion - Education: Australian Schools Commission - Teacher Training|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua-New Guinea: Employees' Rights for Damages (Question No. 777)|2|
+|QUESTION: WOMEN'S AFFAIRS|2|
+|TRADE PRACTICES BILL 1973|2|
+|DAIRYING INDUSTRY RESEARCH AND PROMOTION LEVY AMENDMENT BILL 1976: Second Reading|2|
+|PLACES VISITED: Women's Refuge and Crisis Centres (Question No. 889)|2|
+|APPROPRIATION BILL (No. 1.) 1970-71|2|
+|NORFOLK ISLAND BILL 1978|2|
+|STATES GRANTS (PRE-SCHOOL TEACHERS COLLEGES) BILL 1972: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Working Women's Group, Adelaide (Question No. 939)|2|
+|ANSWERS TO QUESTIONS: Defence Service Homes Scheme (Question No. 5046)|2|
+|QUESTION: SOCIAL SECURITY AND REPATRIATION BENEFITS: SIX-MONTHLY INDEXATION|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unemployment: Women (Question No. 950)|2|
+|APPENDIX A: Fort Glanville, Adelaide- Proposed|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Directory of Support Services for Women (Question No. 1085)|2|
+|STATES GRANTS (UNIVERSITIES ASSISTANCE) BILL 1976: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Health Centre: Hindmarsh (Question No. 3017)|2|
+|AUSTRALIAN AIRCRAFT INDUSTRY: Discussion of Matter of Public Importance|2|
+|AUSTRALIAN INDUSTRY DEVELOPMENT CORPORATION BILL 1973: Second Reading|2|
+|SOCIAL SERVICES BILL 1975: Second Reading|2|
+|FAMILY LAW ACT 1975: PROPOSED JOINT SELECT COMMITTEE: Consideration of Senate's Message|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Wool Corporation: Wool Testing (Question No. 730)|2|
+|QUESTION: BARRIER INDUSTRIAL COUNCIL|2|
+|PUBLIC SERVICE ARBITRATION BILL 1972: Second Reading|2|
+|HOSPITALS DEVELOPMENT PROGRAM: Liverpool Women's Health Centre (Question No. 11 16)|2|
+|RACIAL DISCRIMINATION BILL 1975: Second Reading|2|
+|TASK FORCES: Hospitals: Hobart and Launceston (Question No. 1209)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Women's Groups (Question No. 5)|2|
+|FISCAL POLICY DECISIONS: Suspension of Standing Orders|2|
+|TASK FORCES: Men and Women: Promotions Appeal Committees (Question No. 1691)|2|
+|PREFERENCES STATISTICAL TABLES-EXPLANATORY NOTES: Agricultural Exports (Question No. 1624)|2|
+|QUESTION: SENATE (REPRESENTATION OF TERRITORIES) ACT 1973|2|
+|WAR SERVICE HOMES BILL 1971: Second Reading|2|
+|WESTERN AUSTRALIA (SOUTH-WEST REGION WATER SUPPLIES) AGREEMENT BILL 1971: Second Reading|2|
+|QUESTION: EMPLOYMENT OF WOMEN|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Work Force: Female Component (Question No. 1370)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employment Training Scheme (Question No. 5240)|2|
+|AUSTRALIAN/STATE ADVISORY COMMITTEE TO STUDY WESTERN AUSTRALIAN AIRPORT REQUIREMENTS: Antarctic Expeditions (Question No. 442)|2|
+|APPROPRIATION (DEVELOPMENT BANK) BILL 1975: Second Reading|2|
+|QUESTION: UNEMPLOYMENT BENEFIT AND THE WORK TEST|2|
+|ADJOURNMENT: Dear Mr Stewart,|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women's Refuges: Queensland (Question No. 630)|2|
+|ADJOURNMENT: Valedictory - Newspaper Report - Social Services - Children's Television Programmes  - Vietnam - Electoral|2|
+|SOCIAL SERVICES BILL (No. 3) 1975: Second Reading|2|
+|NATIONAL SCHEME OF REHABILITATION AND COMPENSATION TERMS OF REFERENCE: Oral Contraceptives (Question No. 350)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Maternity Leave (Question No. 11 22)|2|
+|QUESTION: TAXATION|2|
+|HANDICAPPED CHILDREN (ASSISTANCE) BILL 1970: Second Reading|2|
+|SUPERANUATION BILL 1976: Second Reading|2|
+|HOMELESS PERSONS ASSISTANCE AMENDMENT BILL 1977: Second Reading|2|
+|QUESTION: UNEMPLOYMENT IN AUSTRALIA|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women's Refuges (Question No. 1091)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant Women: Tutor Scheme (Question No. 765)|2|
+|TASK FORCES: Migrant Women: Tutor Scheme (Question No. 1719)|2|
+|PAPUA NEW GUINEA BILL 1971: Second Reading|2|
+|QUESTION: AUSTRALIAN CAPITAL TERRITORY: NEEDS OF YOUNG PEOPLE|2|
+|FEDERAL ELECTORAL DIVISION, ALSO SHOWING SUBDIVISIONAL ENROLMENTS: International Women's Year (Question No. 973)|2|
+|DEATH PENALTY ABOLITION BILL 1973: Second Reading|2|
+|APPROPRIATION BILL (No. 1) 1971-72: Second Reading (Budget Debate)|2|
+|QUESTION: ABORTION|2|
+|WANT OF CONFIDENCE IN THE GOVERNMENT|2|
+|NATIONAL FILM AND TELEVISION TRAINING SCHOOL: Ministerial Statement|2|
+|COMMONWEALTH ELECTORAL BILL 1972: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women's Health Centres (Question No. 2996)|2|
+|QUESTION: STATUS OF WOMEN|2|
+|QUESTION: GOVERNMENT EDUCATION PROGRAMS 1974-75|2|
+|WAR SERVICE HOMES BILL 1971|2|
+|QUESTION: WOMEN IN POLITICS: CONFERENCE|2|
+|QUESTION: CHILD CARE CENTRES|2|
+|QUESTION: DEATH OF THE RIGHT HONOURABLE SIR ROBERT GORDON MENZIES|2|
+|AVERAGE PRICE RECEIVED FOR WOOL AND GROSS VALUE OF PRODUCTION: AUSTRALIA: Sources: National Council of Wool Selling Brokers and Commonwealth Bureau of Census and Statistics|2|
+|EDITORIAL|2|
+|QUESTION: NATIONAL EMPLOYMENT AND TRAINING SCHEME|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rhodesians: Entry to Australia (Question No. 1475)|2|
+|DEFENCE SERVICE HOMES AMENDMENT BILL 1977: Second Reading|2|
+|ADJOURNMENT: Order!|2|
+|APPROPRIATION BILL (No. 5) 1974-75: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Social Services (Question No. 3916)|2|
+|CRIMINOLOGY RESEARCH BILL 1971: Second Reading|2|
+|UNIVAC 1100/11: Sporting Visas (Question No. 4884)|2|
+|No: Women's Organisations: Grants (Question No. 1612)|2|
+|ABORIGINAL AFFAIRS (ARRANGEMENTS WITH THE STATES) BILL 1973: Second Reading|2|
+|No: Army Headquarters Survey Regiment: Military Personnel (Question No. 492)|2|
+|QUESTION: SUMMARY|2|
+|QUESTION: ABORIGINAL AND TORRES STRAIT|2|
+|WESTERN AUSTRALIA: Unemployment: Commonwealth Statistician's Information (Question No. 6392)|2|
+|CSIRO: Commonwealth Parliament Offices, Brisbane: Shower Facilities (Question No. 3029)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Maternity Leave (Australian Government Employees) Act (Question No. 764)|2|
+|STATES GRANTS (TECHNICAL TRAINING FEES RE-IMBURSEMENT) BILL 1974: Second Reading|2|
+|APPROPRIATION BILL (No. 4) 1973-74: Second Reading|2|
+|DISTINGUISHED VISITORS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Housing and Construction: Appointment of Women (Question No. 116)|2|
+|QUESTION: SELECT COMMITTEE ON ROAD SAFETY|2|
+|GRIEVANCE DEBATE: The Budget- Primary Industry- National Health Scheme- New South Wales: Economy and Prosperity- Natural Disaster Insurance Scheme- Grants to States|2|
+|QUESTION: PENAL PROVISIONS|2|
+|SUPPLY BILL (No. 1) 1977-78: Second Reading|2|
+|ADJOURNMENT: Mr Lyenko Urbanchich -Australia Post: Post Office Agencies- Car Rental Concessions- Religious Sects|2|
+|MAY IT PLEASE YOUR EXCELLENCY:: Suspension of Standing Orders|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Antarctic Expeditions (Question No. 1762)|2|
+|QUESTION: WOMEN IN AUSTRALIAN FILM INDUSTRY|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women's Royal Australian Army Corps (Question No. 1136)|2|
+|RETIREMENT OF PRINCIPAL PARLIAMENTARY REPORTER|2|
+|AUSTRALIAN DEFENCE: Ministerial Statement|2|
+|GRANTS COMMISSION BILL 1975: Second Reading|2|
+|FAMILY LAW AMENDMENT BILL (No. 2) 1976: Second Reading|2|
+|QUESTION: CONSTITUTION REVIEW COMMITTEE 1958|2|
+|IMMIGRATION (EDUCATION) BILL 1973: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Community Health Centres and Women's Refuges (Question No. 1847)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women's Electoral Lobby (Question No. 1022)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Social Service Benefits (Question No. 523)|2|
+|ANSWERS TO QUESTIONS: Stilboestrol (Question Na 4688)|2|
+|QUESTION: VIETNAM|2|
+|REPATRIATION ACTS AMENDMENT BILL 1979: Second Reading|2|
+|BANKS (HOUSING LOANS) BILL 1974: Second Reading|2|
+|DEATH OF THE HONOURABLE FRANCIS EUGENE STEWART, M.P|2|
+|QUESTION: XIII: REPATRIATION|2|
+|STATES GRANTS (HOUSING) BILL 1971: Second Reading|2|
+|INCOME TAX BILL 1970: Second Reading|2|
+|QUESTION: CONCLUSIONS|2|
+|VIETNAM MORATORIUM CAMPAIGN: Ministerial Statement|2|
+|INFLATION: Suspension of Standing Orders|2|
+|QUESTION: JOINT COMMITTEE ON THE AUSTRALIAN CAPITAL TERRITORY|2|
+|QUESTION: THE DRUG DEBATE|2|
+|STATES GRANTS (ABORIGINAL ADVANCEMENT) BILL 1971: Second Reading|2|
+|ROYAL AUSTRALIAN AIR FORCE VETERANS' RESIDENCES AMENDMENT BILL 1976: Second Reading|2|
+|QUESTION: IMMIGRATION|2|
+|QUESTION: IMIPRAMINE|2|
+|STATES GRANTS (INDEPENDENT SCHOOLS) BILL 1972: Second Reading|2|
+|CONCILIATION AND ARBITRATION BILL 1972: Second Reading|2|
+|TASK FORCES: Public Service Promotions Appeal Committee (Question No. 1689)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Women: Port Augusta Health Hostel (Question No. 6401)|2|
+|ABORIGINAL COUNCILS AND ASSOCIATIONS BILL 1975: Second Reading|2|
+|CUSTOMS AMENDMENT BILL 1979|2|
+|ABORIGINAL COUNCILS AND ASSOCIATIONS BILL 1975|2|
+|QUESTION: TEXTILE INDUSTRY|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Deportations (Question No. 3695)|2|
+|QUESTION: MALCOLM FRASER|2|
+|BILLS RETURNED FROM THE SENATE: Second Reading (Budget Debate)|2|
+|QUESTION: A NATIONAL SUPERANNUATION SCHEME|2|
+|IN WITNESS WHEREOF, I, EDWARD GOUGH: Urea (Question No. 2554)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Women's Year (Question No. 1093)|2|
+|APPROPRIATION BILL (No. 1) 1975-76 AND APPROPRIATION BILL (No. 2) 1975-76|2|
+|QUESTION: EX-NUPTIAL CHILDREN|2|
+|QUESTION: WAGE INDEXATION|2|
+|QUESTION: WOMEN'S EMBASSY OUTSIDE PARLIAMENT HOUSE|2|
+|INDUSTRIAL RELATIONS AND WAGES POLICIES: Splendid|2|
+|AUSTRALIAN COMMITTEE ON TECHNICAL AND FURTHER EDUCATION: Ministerial Statement|2|
+|WHITLAM GOVERNMENT: Ministerial Statement|2|
+|QUESTION: MINISTER REJECTS COMPLAINTS BY STATE HOUSING MINISTERS|2|
+|SA: International Labour Organisation Recommendation: Maternity Leave (Question No. 721)|2|
+|QUESTION: PENSIONS: INCOME TEST|2|
+|UNEMPLOYMENT BENEFIT: MARRIED WOMEN|2|
+|STATES GRANTS (RURAL RECONSTRUCTION) BILL 1971: Second Reading|2|
+|SA: Female Labour Force: Statistics (Question No. 12)|2|
+|FAMILY RESEARCH PROJECT: Ministerial Statement|2|
+|QUESTION: UNEMPLOYMENT BENEFIT: MARRIED WOMEN|2|
+|NATIONAL HEALTH AMENDMENT BILL 1978: Second Reading|2|
+|QUESTION: SEXUAL RELATIONSHIPS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Handbook for Women Workers' (Question No. 95)|2|
+|QUESTION: GOVERNMENT POLICY ON NUCLEAR SAFEGUARDS|2|
+|REPRINT SERIES: Legal Aid (Question No. 2495)|2|
+|QUESTION: APPROPRIATION BULL (No. 1) 1972-73|2|
+|SOCIAL SERVICES: Discussion of Matter of Public Importance|2|
+|SUSPENSION OF STANDING ORDERS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Capricornia Electorate: Employment Registrations (Question No. 477)|2|
+|STATES GRANTS BILL 1972: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Appointment of Women (Question No. 97)|2|
+|QUESTION: WOMEN'S REFUGES IN NEW SOUTH WALES|2|
+|VICTORIA: Department of Labor and Immigration: Women's Bureau (Question No. 366)|2|
+|A: Life Expectancy Statistics (Question No. 2754)|2|
+|STATES GRANTS (ABORIGINAL ADVANCEMENT) BILL 1970: Second Reading|2|
+|HALLETT COVE|2|
+|ANSWERS TO QUESTIONS: Women's Health Centres (Question No. 4223)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women's Affairs (Question No. 69)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Labor and Immigration: Employment of Women (Question No. 110)|2|
+|SA: Papua New Guinea: Tertiary Education (Question No. 186)|2|
+|MARRIAGE AMENDMENT BILL 1976: Second Reading|2|
+|CUSTOMS TARIFF AMENDMENT BILL 1977: Second Reading|2|
+|QUESTION: WHITLAM GOVERNMENT|2|
+|QUESTION: CLOTHING INDUSTRY|2|
+|WHITLAM GOVERNMENT: Want of Confidence Motion|2|
+|FOREIGN POLICY: Ministerial Statement|2|
+|AWARDS OF VC, MC, DCM AND MM FOR SERVICE IN 1939-45 WAR: Aboriginals (Question No. 2268)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Matters of Special Concern to Migrant Women (Question No. 1944)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Directory of Support Services for Women (Question No. 264)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Equal Pay (Question No. 1012)|2|
+|STATES GRANTS (TECHNICAL AND FURTHER EDUCATION) BILL 1974: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employment Training Scheme (Question No. 6167)|2|
+|AUSTRALIAN SHIPBUILDING INDUSTRY: Discussion of Matter of Public Importance|2|
+|CUSTOMS BILL (No. 2) 1971: Second Reading|2|
+|QUESTION: AUSTRALIAN ECONOMY|2|
+|ADJOURNMENT: Social Security Benefits- Amalgamation of County Councils- Conciliation and Arbitration Legislation-North-South Road-Canterbury Community Youth Support Scheme|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women in Work Force Responsible for Children under 5 Years of Age (Question No. 1215)|2|
+|STATES GRANTS (ADVANCED EDUCATION) BILL (No. 2) 1973: Second Reading|2|
+|COMMITTEE OF INQUIRY INTO EDUCATION AND TRAINING: Ministerial Statement|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Assistance to Working Women's Centres (Question No. 265)|2|
+|ELECTORAL DIVISIONS OF WESTERN AUSTRALIA: Proposed Redistribution|2|
+|ADJOURNMENT: Employment - Textile Industry - Trade Unions|2|
+|QUESTION: NATIONAL WOMEN'S ADVISORY COUNCIL|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Directory of Support Services for Women (Question No. 173)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Container Shipping (Question No. 4025)|2|
+|ADJOURNMENT: Telegram Service- Rugby Union- Housing Assistance- Meat Companies-Australian Assistance Plan- Anniversary of Dismissal of . Labor Government|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Education (Question No. 1379)|2|
+|REVIEW OF SERVICE GROUP PAY SYSTEM: Ministerial Statement|2|
+|INDOCHINA: Suspension of Standing Orders|2|
+|SCOPE OF COMMISSION|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Deployment of Patrol Boats (Question No. 624)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Maintenance and Married Women's Property Legislation (Question No. 1432)|2|
+|QUESTION: ABORIGINES|2|
+|REPATRIATION ACTS AMENDMENT BILL 1974: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of the Media: Appointment of Women (Question No. 1709)|2|
+|ASIAN DEVELOPMENT BANK (ADDITIONAL SUBSCRIPTION) BILL 1977: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Contraceptives {Question No. 5969)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employment: Two Incomes (Question No. 624)|2|
+|QUESTION: CHILD MINDING CENTRES|2|
+|FEDERAL ELECTORAL DIVISION, ALSO SHOWING SUBDIVISIONAL ENROLMENTS: Department of Defence: Appointment of Women (Question No. 106)|2|
+|IMMIGRATION ADVISORY COUNCIL INQUIRY: Ministerial Statement|2|
+|APPROPRIATION BILL (No. 3) 1978-79: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Employment and Training Scheme: Taxation (Question No. 1815)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Public Service: Part-time Female Employees (Question No. 315)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Employment and Training Scheme: Women (Question No. 1378)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Homeless Persons (Question No. 1000)|2|
+|COMMONWEALTH EMPLOYEES (REDEPLOYMENT AND RETIREMENT) BILL 1979: Second Reading|2|
+|S $: Department of Health: Payments to Connair Pty Ltd (Question No. 986)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Service Men and Women: Equal Pay (Question No. 1506)|2|
+|GRIEVANCE DEBATE: Employment and Unemployment- Macarthur|2|
+|SPECIAL ADJOURNMENT: Valedictory|2|
+|APPROPRIATION BILL (No. 3) 1975-76: Second Reading|2|
+|QUESTION: KAMPUCHEA: REPORTED ATROCITIES|2|
+|TARIFF BOARD|2|
+|MAY IT PLEASE YOUR EXCELLENCY:|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Handicapped Children (Question No. 336)|2|
+|QUESTION: BROADENING TRAINING OPPORTUNITIES UNDER EMPLOYMENT TRAINING SCHEMES|2|
+|QUESTION: LAVERTON ROYAL COMMISSION|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Homeless Men and Women (Question No. 1102)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women and Politics Conference (Question No. 2994)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women's Refuges (Question No. 374)|2|
+|ADJOURNMENT: Valedictory|2|
+|GRIEVANCE DEBATE: Migrant Workers- Australian Government- East Timor- Works Participation Schemes- Cheese Industry -Visit of Prime Minister to Indonesia- Fishing Industry|2|
+|QUESTION: LIVERPOOL WOMEN'S CLINIC|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women's Refuges (Question No. 898)|2|
+|INTEREST RATES: Discussion of Matter of Public Importance|2|
+|QUESTION: DRUG OFFENCES: SENTENCES|2|
+|ADJOURNMENT: East Timor- Aid to Kampuchea-Water Supply to Spencer Gulf Towns|2|
+|AGED OR DISABLED PERSONS HOMES BILL 1974: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Boddington Women's Hospital (Question No. 1034)|2|
+|QUESTION: PART XX-INJURY RESULTING FROM OPERATIONS OF WAR|2|
+|QUESTION: DEPARTMENT OF VETERANS' AFFAIRS|2|
+|REPATRIATION BILL (No. 2) 1971: Second Reading|2|
+|QUESTION: SPORT: FUNDING|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Married Women's Property Act (Question No. 1433)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Waterfront: Working Equipment and Conditions (Question No. 1194)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women: Public Service Promotions Appeal Committees (Question No. 6)|2|
+|NORTHERN TERRITORY (ADMINISTRATION) BILL 1974: Second Reading|2|
+|ADJOURNMENT: Validictory - National Science - Aboriginals|2|
+|ADJOURNMENT: Sgd. (Ivor J. Greenwood)|2|
+|REMUNERATION AND ALLOWANCES BILL 1973: Second Reading|2|
+|KAMPUCHEA: Discussion of Matter of Public Importance|2|
+|AUSTRALIAN FORCES IN VIETNAM: Senate Resolution|2|
+|NATIONAL WOMEN'S ADVISORY COUNCIL|2|
+|COMMITTEE OF INQUIRY INTO FINANCIAL TERMS AND CONDITIONS OF SERVICE EMPLOYMENT: Ministerial Statement|2|
+|PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) BILL 1971|2|
+|QUESTION: INTERNATIONAL WOMEN'S YEAR|2|
+|APPROPRIATION BILL (No. 5) 1972-73: Second Reading|1|
+|NORFOLK ISLAND BILL 1978: Second Reading|1|
+|GRIEVANCE DEBATE: Old Sydney Town- Family Life- Australian Shipping: Entry of Russian Vessels-Housing Finance- Taxation- Crown Privilege: Court Proceedings- Postal and Telephone Services- Unemployment Benefits|1|
+|MANUFACTURING INDUSTRIES: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Abortions: Statistics (Question No. 3722)|1|
+|QUESTION: ECONOMY: REDUCTIONS IN COMMONWEALTH EXPENDITURES|1|
+|LOAN BILL 1973|1|
+|QUESTION: URANIUM-AUSTRALIAN POLICY|1|
+|FEDERAL ELECTORAL DIVISION, ALSO SHOWING SUBDIVISIONAL ENROLMENTS: Department of Northern Development: Appointment of Women (Question No. 108)|1|
+|FAMILY RESEARCH PROJECT: Suspension of Standing Orders|1|
+|MAXIMUM REPAYMENT TERM: Nursing Mothers (Question No. 662)|1|
+|NAVIGATION AMENDMENT BILL 1979: Second Reading|1|
+|QUESTION: HOLLYWOOD REPATRIATION HOSPITAL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ansett Airlines: International Year of the Child (Question No. 3526)|1|
+|ANSWERS TO QUESTIONS: Family Planning (Question No. 133)|1|
+|LAW AND ORDER: Discussion of Matter of Public Importance|1|
+|QUESTION: INFLATION|1|
+|WHITLAM GOVERNMENT EMPLOYMENT POLICIES: Discussion of Matter of Public Importance|1|
+|STATES GRANTS (ABORIGINAL ADVANCEMENT) BILL 1973: Second Reading|1|
+|CRIMES (FOREIGN INCURSIONS AND RECRUITMENT) BILL 1977: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: New South Wales Local Government Community Workers Association (Question No. 803)|1|
+|G.M.H: Department of Urban and Regional Development|1|
+|SURVEY OF MANUFACTURING ACTIVITY: Survey of Manufacturing Industry - Ministerial Statement. 21 March 1974|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Herbicides (Question No. 3095)|1|
+|QUESTION: ROYAL COMMISSION ON HUMAN RELATIONSHIPS: REPORT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Senior Positions (Question No. 122)|1|
+|QUESTION: ABORIGINALS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospitals and Health Services Commission: Implementation of Recommendations (Question No. 325)|1|
+|SOCIAL SERVICES BILL: Second Reading|1|
+|DEATH OF THE RIGHT HONOURABLE SIR CHARLES ADERMANN, K.B.E|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Health: Weight Control (Question No. 1790)|1|
+|AUSTRALIAN CITIZENSHIP BILL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS: Aboriginal Affairs (Question No. 1453)|1|
+|HOMES SAVINGS GRANT BILL 1972: Second Reading|1|
+|QUESTION: NON-WORKING MOTHERS|1|
+|ADJOURNMENT: Mrs Elizabeth Healy-Rural Industries-Radio Station for Sydney Western Suburbs-Graves of Former Australian Leaders-Telephone Answering Appliances|1|
+|SENATE ELECTION: Ministerial Statement|1|
+|BROADCASTING STRUCTURE: Ministerial Statement|1|
+|QUESTION: EMPLOYMENT IN TASMANIA|1|
+|POST AND TELEGRAPH BILL 1971: Second Reading|1|
+|QUESTION: AGED PERSONS HOMES|1|
+|QUESTION: LIFE INSURANCE|1|
+|QUESTION: COMMUNITY HEALTH PROGRAM: TASMANIAN FUNDING|1|
+|DEVELOPMENT OF ARMY SITE STAGE 1, BONEGILLA, VICTORIA: Report of Public Works Committee|1|
+|CONSTRUCTION OF STAGE I DEVELOPMENT, BONEGILLA ARMY SITE: Approval of Work: Public Works Committee Act|1|
+|DARWIN RECONSTRUCTION COMMISSION: Ministerial Statement|1|
+|ADJOURNMENT: Certificates- Television Program|1|
+|SHELTERED EMPLOYMENT (ASSISTANCE) BILL 1973: Second Reading|1|
+|REPATRIATION BILL (No. 2) 1974: Second Reading|1|
+|NATIONAL HEALTH ACTS AMENDMENT BILL 1977: Second Reading|1|
+|SOCIAL SERVICES BULL 1973: Second Reading|1|
+|CRIMINAL INVESTIGATION BILL 1977: Second Reading|1|
+|ANSWERS TO QUESTIONS: Australia-Japan Relations (Question No. 4496)|1|
+|DISCUSSION PAPER ON PAYING FOR HEALTH CARE: Ministerial Statement|1|
+|PAY-ROLL TAX (TERRITORIES) ASSESSMENT AMENDMENT BILL 1976: Second Reading|1|
+|SOCIAL SERVICES AMENDMENT BILL 1979|1|
+|INTERNATIONAL WOMEN'S YEAR|1|
+|DEFENCE (RE-ESTABLISHMENT) BILL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service (Question No. 2781)|1|
+|OBSERVERS: Pensions (Question No. 4802)|1|
+|MINISTERIAL ARRANGEMENTS AND DEPARTMENTAL CHANGES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Smoking Habits of Australians (Question No. 2821)|1|
+|ADJOURNMENT: Unemployment- Motor Vehicle Safety Standards|1|
+|NATIONAL HEALTH BILL (No. 2) 1975: Third Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Directory of Support Services for Women (Question No. 923)|1|
+|STUDENT ASSISTANCE SCHEMES AND MIGRANT EDUCATION PROGRAMS: Migrant Education Program|1|
+|QUESTION: AUSTRALIAN CAPITAL TERRITORY: ABORTIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Equal Pay: Nurses (Question No. 460)|1|
+|NEW SOUTH WALES GRANT (CHRYSOTILE CORPORATION) BILL 1978: Second Reading|1|
+|NATIONAL COMPENSATION BILL 1974|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Industrial Awards: Breaches (Question No. 3559)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Post-arrival Programs and Services for Migrants (Question No. 1939)|1|
+|HEALTH INSURANCE BILL 1975: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Research Projects: Australian Workforce (Question No. 1369)|1|
+|QUESTION: APPROPRIATION BULL (No. 1) 1973-74|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of the Media: Appointment of Women (Question No. 105)|1|
+|QUESTION: RECOMMENDATIONS OF GREEN REPORT|1|
+|NARCOTIC DRUGS AMENDMENT BILL 1976: Third Reading|1|
+|MIGRANT SERVICES: Discussion of Matter of Public Importance|1|
+|AGED PERSONS HOSTELS AMENDMENT BILL 1976: Second Reading|1|
+|PROPOSED SURCHARGE ON PROPERTY INCOME: Discussion of Matter of Public Importance|1|
+|BROADCASTING STATIONS LICENCE FEES AMENDMENT BILL 1978: Second Reading|1|
+|ELECTORAL BILL (No. 2) 1975: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Herbicides (Question No.1375)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Electoral Roll: Classification of Married Women (Question No. 476)|1|
+|NATIONAL WATER RESOURCES (FINANCIAL ASSISTANCE) BILL 1978: Second Reading|1|
+|ADJOURNMENT: National Song Poll -Abortions -Medibank Health Insurance Card|1|
+|QUESTION: TARIFF PROTECTION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Armed Services: Officer Resignations (Question No. 1592)|1|
+|ADJOURNMENT: Death of Mr Steve Biko-Pensioners-State and Local Government Elections-The Parliament-Repatriation-South Africa-Commonwealth and State Relations- Trade Unions- Aboriginal Education|1|
+|QUESTION: CAMBODIA|1|
+|QUESTION: INCOME TAX SURCHARGE|1|
+|PRESS STATEMENT BY THE LEADER OF THE OPPOSITION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Social Services: Deserted Wives, Wives of Prisoners and Single Mothers (Question No. 6190)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Regular Army Volunteer Strength (Question No. 154)|1|
+|APPROPRIATION BILL (No.1) 1970-71|1|
+|COMMONWEALTH TEACHING SERVICE BILL 1972: Second Reading|1|
+|PRIME MINISTER'S MISSION ABROAD: Ministerial Statement|1|
+|STATES GRANTS (SCHOOLS ASSISTANCE) BILL 1977: Second Reading|1|
+|AUSTRALIAN ECONOMY: Suspension of Standing Orders|1|
+|NOTES ON POSSIBLE MODIFICATIONS TO HOUSE OF REPRESENTATIVES PROCEDURES: Department of Aboriginal Affairs|1|
+|QUESTION: INSURANCE BULL 1973|1|
+|RECREATIONAL PRIORITIES OF AUSTRALIAN YOUNG PEOPLE: Ministerial Statement|1|
+|STATES GRANTS (ABORIGINAL ADVANCEMENT) BILL 1972: Second Reading|1|
+|REPORTS OF PUBLIC ACCOUNTS COMMITTEE|1|
+|QUESTION: DISCRIMINATION IN SPORT|1|
+|CURRENT INDUSTRIAL DISPUTATION: Ministerial Statement|1|
+|ALLEGED GOVERNMENT MISREPRESENTATION ON TAX MATTERS: Suspension of Standing Orders|1|
+|QUESTION: OBITUARIES|1|
+|AIRLINES AGREEMENTS BILL 1972: Second Reading|1|
+|VIETNAM: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Child Care Centres (Question No. 273)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines (Question No. 1566)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Marketing of Apples (Question No. 1321)|1|
+|ANSWERS TO QUESTIONS: Women and Politics Conference (Question No. 3047)|1|
+|ABORIGINAL CUSTOMS: Ministerial Statement|1|
+|QUESTION: INDUSTRIAL RELATIONS|1|
+|QUESTION: UNEMPLOYED JUNIORS|1|
+|ESTIMATES OF PENSIONERS BY TYPE OF PENSION BY SELECTED RANGES OF WEEKLY INCOME- AUGUST 1972: Deserted Wives (Question No. 6172)|1|
+|ANSWERS TO QUESTIONS: Australian Sports Council (Question No. 283)|1|
+|QUESTION: FLOOD DAMAGE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Salaries of Second Division Officers (Question No. 821)|1|
+|ADJOURNMENT: Areas- Medibank and Weight Reducing Diets|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Convention 103 (Maternity Protection) (Question No. 1374)|1|
+|ABORIGINAL LAND RIGHTS: REPORT ON THE BORROLOOLA LAND CLAIM: Ministerial Statement|1|
+|GVK:D: Moscow Narodny Bank London|1|
+|CENSORSHIP: Petition|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Woomera: Employment of Wives of American Servicemen (Question No. 367)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Bank Employees: Housing Loans (Question No. 1011)|1|
+|VICTORIA: Department of Minerals and Energy: Appointment of Women (Question No. 99)|1|
+|QUESTION: GOVERNMENT ECONOMIC POLICIES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory: Education (Question No. 2225)|1|
+|THE NEXT FRENCH REVOLUTION|1|
+|AUSTRALIAN DEVELOPMENT ASSISTANCE AGENCY BILL 1974: Second Reading|1|
+|UNEMPLOYMENT BENEFIT AND THE WORK TEST: Cameron's Warning to Slackers|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Employment and Training System (Question No. 1273)|1|
+|BUILDING INDUSTRY, HOME OWNERSHIP AND RENTAL ACCOMMODATION: Discussion of Matter of Public Importance|1|
+|AUSTRALIAN CAPITAL TERRITORY PAROLE OF PRISONERS ORDINANCE 1971: Motion to Disallow Ordinance|1|
+|QUESTION: SOME NUCLEAR ACCIDENTS OF SIGNIFICANCE SINCE 1955|1|
+|INTERNATIONAL LABOUR ORGANISATION BILL 1973: Second Reading|1|
+|QUESTION: LUMP SUM SUPERANNUATION PAYMENTS|1|
+|VICTORIA: Department of Agriculture: Appointment of Women (Question No. 107)|1|
+|APPROPRIATION BILL (No.1) 1970-71: Second Reading (Budget Debate)|1|
+|INCOME TAX ASSESSMENT BILL (No. 5) 1973: Second Reading|1|
+|ADJOURNMENT: Australian Economy - The Parliament - Voting Age - Coal Industry|1|
+|DEVELOPMENT OF EARLY CHILDHOOD SERVICES: Discussion of Matter of Public Importance|1|
+|OBITUARIES: Deaths of Former Presidents Truman and Johnson and Mr Lester Pearson|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: New Sydney Airport (Question No. 6360)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Work Force: Female Employees (Question No. 94)|1|
+|QUESTION: LAOTIAN ROYAL FAMILY: ASSISTED MIGRATION|1|
+|GRIEVANCE DEBATE: Commonwealth-State Housing Agreement -Television News Session-Botany Bay Port Development-Statistics- Prices of Petroleum Products -Pathology Services-Brisbane Airport|1|
+|QUESTION: JACKSON COMMITTEE REPORT|1|
+|EAST TIMOR: Notice of Motion|1|
+|QUESTION: REPORT OF THE ROYAL COMMISSION OF INQUIRY INTO THE ELECTORAL REDISTRIBUTION OF QUEENSLAND IN 1977|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Education: Appointment of Women (Question No. Ill)|1|
+|OF ADVISORY COMMITTEE ON ABORIGINES BENEFITS TRUST FUND: S. Warrabri Social Club|1|
+|DEFENCE FORCE RETIREMENT AND DEATH BENEFITS (PENSION INCREASES) BILL 1974: Second Reading|1|
+|PECUNIARY INTEREST OF MEMBERS OF THE PARLIAMENT: Proposed Joint Committee|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Librarians (Question No. 1340)|1|
+|ABORIGINAL RIGHTS: Discussion of Matter of Public Importance|1|
+|QUESTION: ALLEGED EXECUTIONS IN CAMBODIA|1|
+|A-: Domiciliary Nursing Care Applications (Question No. 620)|1|
+|BROADCASTING AND TELEVISION AMENDMENT BILL (No. 2) 1976: Second Reading|1|
+|WAGES: Discussion of Matter of Public Importance|1|
+|INTERNATIONAL WOMEN'S YEAR 1975|1|
+|QUESTION: OIL INDUSTRY DISPUTE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Indo-China (Question No. 3784)|1|
+|APPROPRIATION BILL (No. 1): Second Reading (Budget Debate)|1|
+|LOANS (QANTAS AIRWAYS LIMITED) BILL (No. 2) 1971: Second Reading|1|
+|DC9-3: Transfer of Departmental Sections to Canberra (Question No. 4233)|1|
+|STATES GRANTS (SPECIAL ASSISTANCE) BILL 1972: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: United States Secret Service Agents (Question No. 247)|1|
+|QUESTION: HOUSE OF LORDS RAPE DECISION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Transport: Appointment of Women (Question No. 117)|1|
+|UNEMPLOYMENT: NEED FOR NEW ECONOMIC POLICIES: Discussion of Matter of Public Importance|1|
+|ADJOURNMENT: Brisbane Airport - The Parliament - Defence Expenditure|1|
+|JURISDICTION OF COURTS (MISCELLANEOUS AMENDMENTS) BILL 1979: Second Reading|1|
+|QUESTION: SHIPBUILDING: ACTION SOUGHT AGAINST PRICE-CUTTING|1|
+|PUBLIC WORKS COMMITTEE - APPROVAL OF WORKS: Central Hospital Services Complex, Canberra|1|
+|UNEMPLOYMENT BENEFITS FOR SCHOOL LEAVERS: Discussion of Matter of Public Importance|1|
+|SOCIAL SERVICES BILL 1973: Second Reading|1|
+|AUSTRALIAN BROADCASTING COMMISSION AND ETHNIC RADIO: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Dual Citizenship for Children of Visitors (Question No. 1220)|1|
+|RAILWAYS (SOUTH AUSTRALIA) BILL 1975: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Dentists (Question No. 4226)|1|
+|QUESTION: NATIONAL EMPLOYMENT CONFERENCE|1|
+|DISCRIMINATION IN EMPLOYMENT AND OCCUPATION: Ministerial Statement|1|
+|QUESTION: VIETNAM: GENEVA CONFERENCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Expenditure (Question No. 1005)|1|
+|MOTION OF CENSURE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Child Care Centres (Question No. 712)|1|
+|ADJOURNMENT: Canned Fruit Industry - The Parliament - Door to Door Sales - Television - Currency|1|
+|MEDICAL PRACTICE CLARIFICATION BILL 1973: Second Reading|1|
+|ADJOURNMENT: Australia's Defence Force - Secretarial Assistance for Members of Parliament|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Minister for Productivity: Overseas Travel (Question No. 1631)|1|
+|PUBLIC SERVICE BOARD: Report and Ministerial Statement|1|
+|QUESTION: ABORIGINES AND THEIR LAND|1|
+|EMPLOYMENT OPPORTUNITIES FOR YOUNG PEOPLE: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of the Capital Territory (Question No. 120)|1|
+|ADJOURNMENT: Australian Labor Party: Health Policy - Unemployment - Immigration - Inflammable Materials - War Service Homes - Social Services|1|
+|CONCILIATION AND ARBITRATION BILL (No. 2) 1974: Second Reading|1|
+|SMALL BUSINESS FINANCE: Small Business Finance- Ministerial Statement, 13 October 1977|1|
+|BROADCASTING: Discussion of Matter of Public Importance|1|
+|QUESTION: FAMILY LIVING STANDARDS|1|
+|SUPERANNUATION BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Commonwealth Grant (Question No. 5888)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: World Drug Problem (Question No. 4075)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Drugs: Teratogenic Compounds (Question No. 2577)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Police Treatment of Aborigines (Question No. 1173)|1|
+|QUESTION: PECUNIARY INTERESTS OF MEMBERS OF PARLIAMENT|1|
+|NORTHERN TERRITORY: Armed Services: Resignations (Question No. 1755)|1|
+|CLOSURE OF INDUSTRIES: UNEMPLOYMENT: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radiation (Question No. 1853)|1|
+|QUESTION: DEFENCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women's Health Conference (Question No. 2924)|1|
+|QUESTION: EXERCISE OF CONSCIENCE|1|
+|ADJOURNMENT: House- Handicapped Children's Allowance|1|
+|PREFERENCES STATISTICAL TABLES-EXPLANATORY NOTES: Zora Fashions (Question No. 1377)|1|
+|STATES GRANTS (SCHOOLS ASSISTANCE) BILL 1978: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Repatriation and Compensation: Employment of Women (Question No. 113)|1|
+|QUESTION: WHEAT|1|
+|ADJOURNMENT: That Atheistic. . . -|1|
+|QUESTION: EMPLOYMENT PROSPECTS IN INDUSTRY|1|
+|QUESTION: MEDIBANK|1|
+|REPATRIATION ACTS AMENDMENT BILL 1978: Third Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Social Security: Appointment of Women (Question No. 100)|1|
+|QUESTION: NAVY: DISCHARGES|1|
+|QUESTION: LEGISLATIVE RESEARCH SERVICE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Mr V. A. Kolesnik and Family (Question No. 6502)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Clubs (Question No. 4128)|1|
+|QUESTION: TAXATION OF CHILD ENDOWMENT PAYMENTS|1|
+|QUESTION: DEPARTMENT OF SOCIAL SECURITY - DISCLOSURE OF INFORMATION FROM DEPARTMENT FILES|1|
+|PETITIONS: Social Services|1|
+|CUSTOMS AMENDMENT BILL 1976: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women and Politics Conference (Question No. 2995)|1|
+|STATES GRANTS (ADVANCED EDUCATION) BILL 1975|1|
+|AT 30 JUNE: East Pakistani Refugees (Question No. 4367)|1|
+|HEALTH INSURANCE: Discussion of Matter of Public Importance|1|
+|QUESTION: DEFENCE FORCES RETIREMENT BENEFITS LEGISLATION|1|
+|PETITIONS: Taxation|1|
+|TRAVEL AGENTS BILL 1975: Second Reading|1|
+|ADJOURNMENT: Liverpool Women's Centre- Telephone Charges- Immigration- Citrus Fruit Industry- Commercial Publication- Failures of Companies- Australian Labor Party|1|
+|QUESTION: VICTORIAN POWER DISPUTE|1|
+|STATES GRANTS (SCHOOLS) BILL 1972: Second Reading|1|
+|SUPPLY BILL (No. 1) 1979-80: Second Reading|1|
+|WOOL INDUSTRY BILL 1973: Second Reading|1|
+|ADJOURNMENT: Industrial Disputes - Brisbane Airport - Telephone Services|1|
+|QUESTION: OPPOSITION LEADER WARNS OF POSSIBLE RECESSION|1|
+|STATES GRANTS (UNIVERSITIES) BILL (No. 2) 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Postgraduate Research Allowance (Question No. 3228)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Youth Council (Question No. 1511)|1|
+|QUESTION: PENSIONERS: SHORTLAND ELECTORATE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Community Health Services and Facilities (Question No. 629)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Apprentices (Question No. 26)|1|
+|ANSWERS TO QUESTIONS: Defence Service Homes (Question No. 255)|1|
+|BROADCASTING AND TELEVISION BILL (No. 2) 1974: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral (Question No. 115)|1|
+|ADJOURNMENT: Industry- United States of America-Urban Affairs- Political Parties|1|
+|QUESTION: PARLIAMENTARY STANDING COMMITTEE ON PUBLIC WORKS|1|
+|ADJOURNMENT: Uranium Mining- Environment- Lone Parents-Rural Industry -Medibank: Pensioner Medical Service Cards- Family Allowances -The Budget: Attitude of State Premiers|1|
+|TARIFF PROPOSALS: Customs Tariff Proposals No. 15 (1972)|1|
+|WESTERN AUSTRALIA: Aboriginal Infant Mortality (Question No. 5323)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Alcoholism (Question No. 2281)|1|
+|QUESTION: AUSTRALIAN DEFENCE|1|
+|SUPERIOR COURT OF AUSTRALIA BILL 1974 [No. 2]: Second Reading|1|
+|ANSWERS TO QUESTIONS: Pensioners: Means Test (Question No. 2235)|1|
+|VICTORIA: United Nations University (Question No. 697)|1|
+|MINISTER FOR MINERALS AND ENERGY: Motion of Censure|1|
+|ADJOURNMENT: Television -Medibank -Cambodia|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs (Question No. 316)|1|
+|INTERNATIONAL AFFAIRS: Suspension of Standing Orders|1|
+|COLLEGES OF ADVANCED EDUCATION: General Rate War Pension (Question No. 5167)|1|
+|GOLD MINING INDUSTRY: Discussion of Matter of Public Importance|1|
+|LOCAL GOVERNMENT (PERSONAL INCOME TAX SHARING) AMENDMENT BILL 1977: Second Reading|1|
+|RESTRUCTURING OF INDUSTRY: Discussion of Matter of Public Importance|1|
+|QUESTION: HEALTH INSURANCE SCHEME: PROPOSED SELECT COMMITTEE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Maternity Leave: Inflationary Effects (Question No. 116)|1|
+|ADJOURNMENT: Meat Inspection - Export Incentive Scheme -|1|
+|POINTS ON THE LOAN BILL|1|
+|DELIVERED MEALS SUBSIDY BILL 1973: Second Reading|1|
+|QUEENSLAND GRANT (SPECIAL ASSISTANCE) BILL 1977: Second Reading|1|
+|ADJOURNMENT: Dear Mrs. .|1|
+|ADJOURNMENT: Parties - Superphosphate Bounty|1|
+|CITIES COMMISSION BILL 1973|1|
+|QUESTION: LABOR PARTY'S POLICY|1|
+|STATES GRANTS (MENTAL HEALTH INSTITUTIONS) BILL 1970: Second Reading|1|
+|ADJOURNMENT: Textile Industry: Unemployment- Grants Commission- Trades Unions- Inflation|1|
+|CUSTOMS TARIFF AMENDMENT BILL (No. 2) 1978: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Equal Pay (Question No. 2032)|1|
+|HEALTH INSURANCE COMMISSION BILL 1973: Second Reading|1|
+|QUESTION: UNEMPLOYMENT: SHEET METAL ROLLING INDUSTRY|1|
+|QUESTION: DEFENCE PROGRAMME|1|
+|MARITIME COLLEGE BILL 1978: Second Reading|1|
+|PARLIAMENTARY AND JUDICIAL RETIRING ALLOWANCES BILL 1973: Second Reading|1|
+|QUESTION: PRESS STATEMENT BY THE LEADER OF THE OPPOSITION|1|
+|QUESTION: ADJUSTMENTS TO SERVICES PAY|1|
+|RELIEF OF NON-METROPOLITAN UNEMPLOYMENT: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Capital Territory Weights and Measures Ordinance (Question No. 1613)|1|
+|HANDICAPPED PERSONS ASSISTANCE BILL 1974: Second Reading|1|
+|REPATRIATION BILL (No. 2) 1972: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Tertiary Education (Question No. 5749)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Alcoholism (Question No. 5058)|1|
+|ATOMIC ENERGY AMENDMENT BILL 1978|1|
+|QUESTION: DAYS AND HOURS OF MEETING|1|
+|REMARKS OF PRIME MINISTER: Suspension of Standing Orders|1|
+|QUESTION: NATIONAL FILM AND TELEVISION SCHOOL|1|
+|ADJOURNMENT: Sydney: Second Airport - Budget and Estimates Debates - Unemployment - Royal Australian Navy-Shipping Freight Rates|1|
+|COMMISSIONER FOR COMMUNITY RELATIONS: REPORT|1|
+|ADJOURNMENT: Miss Elizabeth Reid- Political Parties- Regional Employment Development Scheme- Superannuation|1|
+|ANSWERS TO QUESTIONS: Sporting Associations: Grants (Question No. 591)|1|
+|JOINT SELECT COMMITTEE ON THE FAMILY LAW ACT|1|
+|JOINT COMMITTEE ON FOREIGN AFFAIRS AND DEFENCE: Appointment|1|
+|STATES GRANTS BILL 1974: Second Reading|1|
+|APPROPRIATION BILL (No. 4) 1971-72: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Means Test: Abolition (Question No. 3096)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Acts Interpretation Act (Question No. 5477)|1|
+|QUESTION: OPPOSITION ECONOMIC PROGRAM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: The Treasury: Appointment of Women (Question No. 103)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Africa: National Liberation Movements (Question No. 2708)|1|
+|ADJOURNMENT: Dear Sir,|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospitals: Tasmania (Question No. 2668)|1|
+|STATES GRANTS (URBAN PUBLIC TRANSPORT) AMENDMENT BILL 1978: Second Reading|1|
+|DEFENCE SERVICE HOMES BILL 1973: Third Reading|1|
+|ELECTORAL RE-DISTRIBUTION BILLS|1|
+|QUESTION: IMMIGRATION POLICIES AND AUSTRALIA'S POPULATION|1|
+|GRIEVANCE DEBATE: Telephones - Australian Economy - Poultry Industry - Qantas Airways Limited|1|
+|APPROVAL OF WORK- PUBLIC WORKS COMMITTEE ACT: Construction of Domestic Accommodation, No. 2 Stores Depot, Royal Australian Air Force, Chester Hill, New South Wales|1|
+|ADJOURNMENT: Thursday, 7 October 1971|1|
+|CRIMES (FOREIGN INCURSIONS AND RECRUITMENT) BILL 1978: Second Reading|1|
+|QUESTION: RELOCATION OF ARMY SCHOOLS|1|
+|PRE-SCHOOL AND CHILD CARE PROGRAM: Discussion of Matter of Public Importance|1|
+|HOMELESS PERSONS ASSISTANCE BILL 1974: Second Reading|1|
+|QUESTION: WILL WATER KILL?|1|
+|AWARDS OF VC, MC, DCM AND MM FOR SERVICE IN 1939-45 WAR: Hostels (Question No. 376)|1|
+|CONCILIATION AND ARBITRATION BILL 1973 (No. 2): Second Reading|1|
+|QUESTION: UNEMPLOYMENT BENEFIT|1|
+|QUESTION: CONSTITUTIONALTERATION(MODE|1|
+|MOVES TO PREVENT OVERSEAS TAKEOVER OF NORTHERN TERRITORY URANIUM DEPOSITS: Ministerial Statement|1|
+|ADJOURNMENT: Australian Birth Rate: Abortion- Social Service Benefits- Ethnic Radio Service- Education|1|
+|TAXATION: EDUCATION EXPENSES: Discussion of Matter of Public Importance|1|
+|EXTENSION OF FREE ISSUE OF THE NATIONAL FLAG: Ministerial Statement|1|
+|LIST OF RESTRICTIVE WORK PRACTICES AND INHIBITIONS TO ECONOMIC OPERATIONS AT CENTRAL MAIL EXCHANGE SYDNEY|1|
+|TERTIARY EDUCATION COMMISSION BILL 1977: Second Reading|1|
+|COMMONWEALTH EDUCATION PROGRAMME FOR 1971-72: Ministerial Statement|1|
+|DEVELOPMENT OF PUBLIC BROADCASTING: Ministerial Statement|1|
+|GIFT DUTY ASSESSMENT BILL 1972: Second Reading|1|
+|GOVERNMENT DECISIONS ON EXPENDITURE AND TAXATION: Ministerial Statement|1|
+|QUESTION: REPATRIATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Broadcasting Control Board (Question No. 398)|1|
+|FUTURE RELATIONS BETWEEN AUSTRALIA AND PAPUA NEW GUINEA: Mr M. T. Somare, M.H.A., The Chief Minister of Papua New Guinea|1|
+|POPULATION POLICY: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS: Zambia: Australian Assistance (Question No. 1978)|1|
+|QUESTION: NEW PROMOTIONS SCHEME FOR SOUTH AUSTRALIAN TEACHERS|1|
+|AUSTRALIAN/STATE ADVISORY COMMITTEE TO STUDY WESTERN AUSTRALIAN AIRPORT REQUIREMENTS: Department of Science: Female Senior Positions (Question No. 123)|1|
+|QUESTION: YOUTH UNEMPLOYMENT|1|
+|COMMONWEALTH ELECTORAL BILL (No. 2) 1973 [No. 2]: Second Reading|1|
+|ORDERS OF THE DAY: Discharge of Motions|1|
+|QUESTION: PETROLEUM SUBSIDY SCHEME|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant Education (Question No. 5207)|1|
+|QUESTION: REORGANISATION OF THE AUSTRALIAN POST OFFICE TELECOMMUNICATIONS ACTIVITIES|1|
+|LIVING STANDARDS OF AUSTRALIAN FAMILIES: Discussion of Matter of Public Importance|1|
+|ADJOURNMENT: Criminal Law-Brisbane Airport -Liberal Party -Australian Cattle Industry -Lake Julius Dam Project|1|
+|INDUSTRIES ASSISTANCE COMMISSION AMENDMENT BILL 1978: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Service Homes (Question No. 2973)|1|
+|QUESTION: AUSTRALIAN FORCES IN VIETNAM 1962 TO 1972|1|
+|NERDDC TECHNICAL STANDING COMMITTEES: Old Persons' Units (Question No. 2975)|1|
+|STATES GRANTS (CAPITAL ASSISTANCE) BILL (No. 2) 1976|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Force: Recruitment (Question No. 688)|1|
+|QUESTION: WIDOWERS AND DESERTED HUSBANDS|1|
+|MIGRANT EDUCATION: Migrant Education - Ministerial Statement, 23 April 1970|1|
+|LIVING STANDARDS UNDER FRASER GOVERNMENT: Discussion of Matter of Public Importance|1|
+|AUTOMATIC DATA PROCESSING EQUIPMENT BOUNTY BILL 1977: Second Reading|1|
+|SELECT COMMITTEE ON SPECIFIC LEARNING DIFFICULTIES: Appointment|1|
+|QUESTION: N.PHILIPS|1|
+|TEXT OF TREATIES ETC. PRESENTED TO THE PARLIAMENT|1|
+|SOCIAL SERVICES BILL (No. 3) 1973: Second Reading|1|
+|COMMONWEALTH TEACHING SERVICE BILL 1972|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Broadcast of Anzac Day Parade (Question No. 954)|1|
+|QUESTION: SURVEY OF WORKERS' ATTITUDES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cannabis (Question No. 3287)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Indonesia: Aid (Question No. 3963)|1|
+|QUESTION: CANBERRA, A.C.T|1|
+|CURRICULUM DEVELOPMENT CENTRE BILL 1975: Second Reading|1|
+|HOUSING ASSISTANCE BILL 1973: Second Reading|1|
+|APPROPRIATION BILL (No. 3) 1972-73: Second Reading|1|
+|INCOME TAX ASSESSMENT BILL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Postmaster-General's Department: Appointment of Women (Question No. 115)|1|
+|THE SCALES OF INJUSTICE|1|
+|ADJOURNMENT: Opposition Members - Hal|1|
+|OBSERVERS: Army: Enlistments and Service (Question No. 4813)|1|
+|APPROPRIATION BILL (No. 1) 1973-1974: Second Reading (Budget Debate)|1|
+|NATIONALISATION OF PRIVATE INDUSTRY: Discussion of Matter of Public Importance|1|
+|MANUFACTURING INDUSTRY: Discussion of Matter of Public Importance|1|
+|ADJOURNMENT: Professor Manning Clark- Pensions- Trade Unions|1|
+|LEBANON: Notice of Motion|1|
+|ADJOURNMENT: Lebanese Immigrants- Union Black Bans- Purchase of Historic Articles- Family Allowances|1|
+|ADJOURNMENT: Australian Aircraft Industry - Ministerial Stan's: Security Clearances - Northern Territory - Telephone Services|1|
+|TASK FORCES: Australian Capital Territory: Emergency Housing Committee (Question No. 1739)|1|
+|ARMY AND AIR FORCE CANTEEN SERVICE: Ministerial Statement|1|
+|HOMES SAVINGS GRANT BILL 1976: Second Reading|1|
+|JOSEPH MANTJAKURA: Council Vice-President|1|
+|AUSTRALIA/WEST COAST NORTH AMERICA TRADE: Museum of Aboriginal Arts and Crafts (Question No. 3938)|1|
+|PERSON OVERSEAS INTERVIEWED BY MR JUSTICE C. L. D. MEARES OR MEMBERS OF THE RESEARCH STAFF: Dr R. W. Wilson, Chief, Analysis and Reports Branch, Department of Health, Education and Welfare, Rockville, Maryland|1|
+|APPROPRIATION BILL (No. 2) 1975-76 [No. 2]: Second Readings|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mrs June Tapp (Question No. 3529)|1|
+|QUESTION: MINISTER FOR THE INTERIOR|1|
+|SALES TAX (EXEMPTIONS AND CLASSIFICATIONS) AMENDMENT BILL 1978: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Women's Year (Question No. 656)|1|
+|CORPORATIONS AND SECURITIES INDUSTRY BILL 1975|1|
+|ACT: Suspension of Standing Orders|1|
+|PART IV: Article 18|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Retraining Scheme (Question No. 705)|1|
+|ADJOURNMENT: Appointment to High Court- Urban and Regional Development -Unemployment -Family Law Bill: Circulation of Draft Regulations|1|
+|QUESTION: IMMIGRATION: STUDENTS|1|
+|QUESTION: DEFENCE SERVICE HOMES SCHEME|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Customs and Excise: Appointment of Women to Senior Positions (Question No. 845)|1|
+|ANSWERS TO QUESTIONS: Youth Say Project (Question No. 1768)|1|
+|APPROPRIATION BILL (No. 3) 1976-77: Second Reading|1|
+|QUESTION: EQUAL PAY CASE|1|
+|TASK FORCES: Maternity Leave (Question No. 1368)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Advertising (Question No. 50)|1|
+|ABORIGINAL LAND (NORTHERN TERRITORY) BILL 1975|1|
+|QUESTION: EDUCATION: MIGRANT ENGLISH TEACHERS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Widow Pensioners: Training Scheme (Question No. 878)|1|
+|INDO-CHINA PEACE SETTLEMENT|1|
+|HEALTH INSURANCE LEVY ASSESSMENT BILL 1974 [No. 2]: Second Reading|1|
+|QUESTION: ARMY ORDERS|1|
+|QUESTION: NATIONAL YOUTH ADVISORY GROUP|1|
+|SLACKERS TOLD: WORK OR LOSE CASH: Cameron Warning|1|
+|ANSWERS TO QUESTIONS: Health: Migrant Programs and Policies (Question No. 4442)|1|
+|INDUSTRIAL RELATIONS AND WAGES POLICIES: Suspension of Standing Orders|1|
+|QUESTION: MIGRATION AGREEMENT WITH THE GOVERNMENT OF MALTA|1|
+|REVIEW OF POST-ARRIVAL PROGRAMS AND SERVICES TO MIGRANTS: Report and Ministerial Statement|1|
+|STATES GRANTS (ADVANCED EDUCATION) BILL 1973: Second Reading|1|
+|CUSTOMS TARIFF AMENDMENT BILL (No. 3) 1978: Second Reading|1|
+|CUSTOMS AMENDMENT BILL 1979: Second Reading|1|
+|HOMES SAVINGS GRANT BILL 1970: Second Reading|1|
+|NOTES ON NUCLEAR SAFETY: Research Service|1|
+|INCOME TAX ASSESSMENT BILL 1974: Second Reading|1|
+|WOOL INDUSTRY: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Tertiary Education (Question No. 2402)|1|
+|QUESTION: EQUAL PAY: HANSARD STAFF|1|
+|REFRIGERATION COMPRESSORS BOUNTY BILL 1974: Second Readings|1|
+|NATIONALISATION OF PRIVATE INDUSTRY: As Dr Blewett -|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Liquor Sales (Question No. 4406)|1|
+|QUESTION: EMPLOYMENT FIGURES|1|
+|HOUSE OF REPRESENTATIVES SELECT COMMITTEE ON TOURISM|1|
+|INCOME TAX (RATES) AMENDMENT BILL 1977: Second Reading|1|
+|GRIEVANCE DEBATE: Division of Eden-Monaro-The Parliament-Education: Libraries-Australian Broadcasting Commission-Sir Henry Bland-Meat Exports-Fruit Industry- Fairbridge Scheme for Migrant Children-Brisbane Airport|1|
+|REPORT OF THE STUDY GROUP ON STRUCTURAL ADJUSTMENT: Report and Ministerial Statement|1|
+|EXPORT MEAT TRADE: Discussion of Matter of Public Importance|1|
+|STATES GRANTS (SCHOOLS ASSISTANCE) AMENDMENT BILL 1978: Second Reading|1|
+|AUSTRALIAN FEDERAL POLICE BILL 1979: Second Reading|1|
+|ADJOURNMENT: Industry -Unemployment-Steel -Electoral|1|
+|STATES GRANTS (TERTIARY EDUCATION ASSISTANCE) BILL 1977: Second Reading|1|
+|QUESTION: PUBLIC SERVICE: EMPLOYMENT OF WOMEN|1|
+|QUESTION: WHITE PAPER ON MANUFACTURING INDUSTRY|1|
+|AUSTRALIAN NATIONAL UNIVERSITY BILL 1970: Second Reading|1|
+|ADJOURNMENT: Supporting Fathers - Secretarial Assistance for Members of Parliament|1|
+|STATES GRANTS (CAPITAL ASSISTANCE) BILL 1979: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Equal Pay for Servicewomen (Question No. 2336)|1|
+|URANIUM-AUSTRALIAN POLICY: Ministerial Statements|1|
+|ADJOURNMENT: Ireland- Meat- Local Government Finance|1|
+|QUESTION: REPORT OF THE COMMITTEE OF INQUIRY INTO THE CITIZEN MILITARY FORCES|1|
+|THE ECONOMY AND ECONOMIC POLICY: Ministerial Statement|1|
+|OTHER PROGRAMS: Maternity Leave (Question No. 1273)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Adult Migrants (Question No. 2475)|1|
+|ADJOURNMENT: Supporting Fathers- International Hockey Stadium, Perth -Home Care Grants -The Parliament: Standing Orders- National Information Policy -Telecom Dispute Settlement|1|
+|COMMONWEALTH GRANTS COMMISSION BILL 1976: Second Reading|1|
+|QUESTION: SHOE INDUSTRY|1|
+|QUESTION: PUBLIC SERVICE-STRIKES|1|
+|QUESTION: PROPOSED GAF/CAC MERGER|1|
+|QUESTION: URANIUM EXPORTS|1|
+|QUESTION: VOTING AGE|1|
+|THE INTERNATIONAL AND DOMESTIC SITUATION: Ministerial Statement|1|
+|STATES GRANTS (BEEF INDUSTRY) BILL 1975: Second Readings|1|
+|APPROPRIATION BILL (No. 1) 1970-71: Second Reading (Budget Speech)|1|
+|BROADCASTING AND TELEVISION BILL 1976 (No. 2)|1|
+|OFFICIAL TEXT|1|
+|No: Ordnance Factory, Bendigo (Question 5624)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Repatriation (Question No. 272»||1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Invalid Pensions (Question No. 1538)|1|
+|PRICE CONTROL: Discussion of Matter of Public Importance|1|
+|PRIME MINISTER: Motion of Censure|1|
+|ACTIVE MANPOWER POLICY FOR AUSTRALIA: Reports and Ministerial Statement|1|
+|NATIONAL HEALTH BILL 1976: Second Reading|1|
+|SUPPLY BILL (No. 1) 1978-79: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Army Strength (Question No. 449)|1|
+|APPROPRIATION BILL (No. 3) 1977-78: Second Reading|1|
+|ADJOURNMENT: Immigration - Toowoomba Foundry - Political Parties - Decentralisation|1|
+|HOMES SAVINGS GRANT AMENDMENT BILL 1979: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tertiary Education (Question No. 1380)|1|
+|OTHER PROGRAMS: Means Test for Social Security Benefits (Question No. 1693)|1|
+|NUCLEAR INDUSTRY: Discussion of Matter of Public Importance|1|
+|PROTECTIVE SECURITY AND COUNTER-TERRORISM: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Wilcox Mofflin Ltd (Question No. 1126)|1|
+|VICTORIA GRANT (SHEPPARTON PRESERVING COMPANY LIMITED) BILL 1971: Second Reading|1|
+|ADVERTISEMENT PUBLIC NOTICE AND APOLOGY: Lucas & Tait (Sales) Pty Ltd|1|
+|SA: Payments for Maternity Leave (Question No. 720)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Diet Weight Reducing (Question No. 125)|1|
+|HOURS IN WORKING WEEK: NEW SOUTH WALES: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Urban and Regional Development: Employment of Women (Question No. 114)|1|
+|NAVIGATION AMENDMENT BILL 1976: Second Reading|1|
+|QUESTION: JOINT COMMITTEE ON THE NORTHERN TERRITORY|1|
+|GOVERNMENT SPENDING: Discussion of Matter of Public Importance|1|
+|QUESTION: DIRECTORY OF SUPPORT SERVICES TO WOMEN|1|
+|ANSWERS TO QUESTIONS: Attorney-General's Department: Appointment of Women (Question No. 101)|1|
+|ADJOURNMENT: Education-Australian Opera Company: Mr Donald Smith- Staffing of Schools- Electoral Redistributions|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Culture Centre (Question No. 1912)|1|
+|SENATE STANDING COMMITTEE ON SCIENCE AND THE ENVIRONMENT: HERBICIDES, PESTICIDES AND HUMAN HEALTH: Ministerial Statement|1|
+|GOVERNMENT'S MEDICAL SCHEME: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Anti-Smoking Campaign (Question No. 2984)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Asbestos (Question No. 3004)|1|
+|QUESTION: STRUCTURAL ADJUSTMENT ASSISTANCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Age Pensions: Means Test (Question No. 131)|1|
+|COMPARATIVE TABLES BY STATES: Tables|1|
+|QUESTION: MEAT EXPORTING COUNTRIES|1|
+|REUNION OF EAST TIMORESE FAMILIES: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Manufacturing Industry: Appointment of Women (Question No. 119)|1|
+|GALBALLY INFORMATION KIT: Consultation|1|
+|WESTERN AUSTRALIA: Human Rights Inquiry: Mr Justice Staples (Question No. 777)|1|
+|LEGAL AID BILL 1975: Second Reading|1|
+|QUESTION: SCIENCE AND RESEARCH|1|
+|URANIUM- AUSTRALIAN POLICY|1|
+|TERTIARY EDUCATION COMMISSION BILL 1975: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation: Migrants (Question No. 5890)|1|
+|NATIONAL CAPITAL DEVELOPMENT COMMISSION BILL 1975: Second Reading|1|
+|REPATRIATION BILL 1973: Second Reading|1|
+|STATES GRANTS (TECHNICAL TRAINING) BILL 1973: Second Reading|1|
+|REPATRIATION ACTS AMENDMENT BILL 1979: Third Reading|1|
+|QUESTION: ABORIGINAL VOTING RIGHTS: PROPOSED SELECT COMMITTEE|1|
+|QUESTION: DISCRIMINATION AGAINST WOMEN IN CANBERRA HOTELS|1|
+|ANSWERS TO QUESTIONS: Ministerial Press Releases (Question No. 2019)|1|
+|QUESTION: JOINT COMMITTEE ON FOREIGN AFFAIRS AND DEFENCE|1|
+|QUESTION: EMPLOYMENT IN THE FRUIT INDUSTRY|1|
+|QUESTION: FRANCHISE AGE IN OTHER COUNTRIES - WHERE LESS THAN 21 YEARS|1|
+|AUSTRALIAN FILM DEVELOPMENT CORPORATION BILL 1970: Second Reading|1|
+|APPROPRIATION BILL (No. 1)|1|
+|CONCILIATION AND ARBITRATION BILL 1974 [No. 2]: Second Reading|1|
+|QUESTION: NATIONAL HEALTHNILL (No. 3) 1975|1|
+|QUESTION: SPORTS DEVELOPMENT PROGRAM|1|
+|ABORIGINAL LOANS COMMISSION BILL 1974: Second Reading|1|
+|ADJOURNMENT: Australian Labour Party: Media Interests- The Parliament- Redfern Mail Exchange|1|
+|QUESTION: PRE-SCHOOL CHILD MINDING CENTRES|1|
+|QUESTION: ADVERTISEMENTS FOR WOMEN TO MARRY AUSTRALIAN MEN|1|
+|STATES GRANTS (TEACHERS COLLEGES) BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Investment (Question No. 4989)|1|
+|MEAT EXPORT CHARGE BILL 1973: Second Reading|1|
+|CUSTOMS AMENDMENT BILL (No. 2) 1976: Second Reading|1|
+|RIGHTS OF THE CHILD: Notice of Motion|1|
+|DEPARTURE TAX BILL 1978: Second Reading|1|
+|PURCHASING COMMISSION BILL 1975: Second Reading|1|
+|ANSWERS TO QUESTIONS: Fares of Visiting Sportsmen (Question No. 2857)|1|
+|SUPERANNUATION BILL 1975|1|
+|QUESTION: PRIME MINISTER'S STAFF: ADVISER ON WOMENS' AFFAIRS|1|
+|AGED PERSONS HOSTELS BILL 1974: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Industrial Relations: Union Dispute at Griffith (Question No. 323)|1|
+|STATES GRANTS (HOUSING ASSISTANCE) BILL 1976: Second Reading|1|
+|EMPLOYMENT TRAINING SCHEME FOR PERSONS DISPLACED BY TECHNOLOGICAL CHANGE: Advisory Committee|1|
+|QUESTION: UNEMPLOYMENT: PROPOSED JOINT COMMITTEE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Industrial Disputes (Question No. 231)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commissions and Committees: Reports (Question No. 30)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Maternity Leave (Question No. 1268)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants: English Instruction (Question No. 1943)|1|
+|QUESTION: ORAL CONTRACEPTIVES|1|
+|AVIATION SAFETY IN AUSTRALIA: Ministerial Statement|1|
+|REPATRIATION ACTS AMENDMENT BILL (No. 2) 1975: Second Reading|1|
+|DC9-3: Home Savings Grants Scheme (Question No. 402)|1|
+|No: Repatriation: Appeals (Question No. 2907)|1|
+|TARIFFS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Contraceptives (Question No. 5322)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Broadcasting Commission Television Productions (Question No. 928)|1|
+|LAW REFORM FOR THE AUSTRALIAN CAPITAL TERRITORY: Ministerial Statement|1|
+|QUESTION: DEATH OF EARL MOUNTBATTEN OF BURMA|1|
+|REPORT TO THE UNEMPLOYMENT COMMITTEE|1|
+|HYACINTH TUNGUTALUM: Bathurst Island|1|
+|FISCAL POLICY DECISIONS: Ministerial Statement|1|
+|DEFENCE REVIEW: Suspension of Standing Orders|1|
+|APPROPRIATION BILL (No. 4) 1969-70: Third Reading|1|
+|WHEAT INDUSTRY STABILIZATION AMENDMENT BILL 1978: Second Reading|1|
+|RACIALLY SELECTED SPORTS TEAMS: Dear Sir,|1|
+|STRUCTURAL ADJUSTMENT PROGRAMS: Discussion of Matter of Public Importance|1|
+|QUESTION: NEW SOUTH WALES: REDISTRIBUTION OF ELECTORAL DIVISIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Overseas Trade: Appointment of Women (Question No. 98)|1|
+|WOMEN'S ADVISORY BODY: REPORT|1|
+|DEFENCE FORCE RE-ORGANIZATION BILL 1975: Second Reading|1|
+|HOSPITALS DEVELOPMENT PROGRAM: Deserted Wives: Social Security Benefits (Question No. 1217)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mackay Council of Social Welfare (Question No. 635)|1|
+|MIDDLE EAST: Discussion of Matter of Public Importance|1|
+|ADJOURNMENT: The Parliament: Questions - Health: Aboriginal Children - Whitlam Government - Motor Vehicle Repairs - Postal Services - Health- Education|1|
+|FOREIGN INVESTMENT IN AUSTRALIA: Ministerial Statement|1|
+|QUESTION: ELECTORAL: VOTES AT 18|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Foreign Affairs: Appointment of Women (Question No. 102)|1|
+|ANSWERS TO QUESTIONS: Private Rental Housing for Defence Personnel (Question No. 4681)|1|
+|URBAN AND REGIONAL DEVELOPMENT (FINANCIAL ASSISTANCE) BILL 1974: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women and Politics Conference (Question No. 3073)|1|
+|ADJOURNMENT: Sydney City Mission-Qantas Airways Ltd- National Aboriginal Conference- Education- Government Overseas Borrowings- Petroleum Industry|1|
+|MOUNT LYELL RAILWAY AND MINING CO. LTD: Notice of Motion|1|
+|TRESPASS ON COMMONWEALTH LANDS ORDINANCE: Motion to Disallow Ordinance|1|
+|ADJOURNMENT: Australian Broadcasting Commission: Ku Klux Klan Report- United Nations- Health-Legal Profession- Aurukun Community -Computer User Data Mechanism Scheme- Immigration|1|
+|ADJOURNMENT: The Honourable E. G. Whitlam, A.C., Q.C.- Death of Lady Vera Deakin White, O.B.E|1|
+|COMMONWEALTH POLICE: Discussion of Matter of Public Importance|1|
+|SPEECH OF HER MAJESTY THE QUEEN|1|
+|QUESTION: PROPOSED SECOND SYDNEY AIRPORT|1|
+|CONCILIATION AND ARBITRATION BILL 1972|1|
+|KEEP OUT OF REACH OF CHILDREN IF SWALLOWED SEEK MEDICAL ADVICE AVOID CONTACT WITH FOOD DO NOT USE IN FOOD PREPARATION OR FOOD STORAGE AREAS DO NOT USE IN NURSERIES AND SICK ROOMS WHERE PEOPLE MAY BE CONTINUOUSLY EXPOSED: Health Insurance (Question No. 3972)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Social Services: Pensions for Migrants (Question No. 529)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Equal Pay for Females (Question No. 376)|1|
+|ADJOURNMENT: Minister's Portfolios- Primary School Libraries- Vietnam-Education|1|
+|SOME VIEWS ON THE IMMIGRATION OF LEBANESE TO AUSTRALIA: Conclusion|1|
+|G.M.H|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Health Centres: Free Medical Service (Question No. 376)|1|
+|QUESTION: CO-OPERATION WITH UNIONS|1|
+|DEFENCE AMENDMENT BILL 1976: Second Reading|1|
+|QUESTION: GOVERNMENT'S ECONOMIC POLICIES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Age Pension: New Zealand (Question No. 3490)|1|
+|QUESTION: CYCLONES|1|
+|QUESTION: TEXT OF TELEGRAM TO THE PRIME MINISTER FROM THE NORTHERN LAND COUNCIL- SENT 4 OCTOBER 1977|1|
+|NATIONAL SERVICE BILL 1971 (No. 2): Second Reading|1|
+|ABORIGINAL AFFAIRS: Ministerial Statement|1|
+|MENTAL HEALTH AND RELATED SERVICES ASSISTANCE BILL 1973: Second Reading|1|
+|POST AND TELEGRAPH RATES BILL: Second Reading|1|
+|NEW ZEALAND RE-EXPORTS (REPEAL) BILL 1977: Second Reading|1|
+|PUBLIC EXPENDITURE: Proposed Standing Committee|1|
+|BROADCASTING AND TELEVISION BILL (No. 2) 1974|1|
+|ADJOURNMENT: Service Leave -Commonwealth Banking Corporation: Tendering Procedures- People's Republic of China|1|
+|DEFENCE SERVICE HOMES BILL 1974: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Community Health Services and Facilities (Question No. 1168)|1|
+|COMMONWEALTH ELECTORAL AMENDMENT BILL 1977: Second Reading|1|
+|QUESTION: CONSUMER PRICE INDEX|1|
+|ADJOURNMENT: Visit of Australian Delegation to Libya and Lebanon- Legal Aid- Victorian Parliament-Mr Leo Port-Trade Unions- Energy Conservation|1|
+|QUESTION: SCHOOLS COMMISSION BELL 1973|1|
+|SERVICES TO MIGRANTS: Discussion of Matter of Public Importance|1|
+|QUESTION: COMPULSORY MILITARY SERVICE|1|
+|QUESTION: COMMONWEALTH EDUCATION PROGRAMME FOR 1972-73|1|
+|CONSTRUCTION OF ROYAL AUSTRALIAN AIR FORCE BASE, EDINBURGH, SOUTH AUSTRALIA: Approval of Work: Public Works Committee Act|1|
+|QUESTION: INTER-PARLIAMENTARY UNION|1|
+|QUESTION: DAVID BOWMAN|1|
+|QUESTION: UNEMPLOYED WOMEN: WOLLONGONG DISTRICT|1|
+|TASK FORCES: Greek Cypriot Refugees (Question No. 1541)|1|
+|OILSEEDS LEVY BILL 1977: Second Reading|1|
+|ELECTORAL BILL 1974: Second Reading|1|
+|QUESTION: DEPARTMENT OF COMMUNITY DEVELOPMENT|1|
+|ADJOURNMENT: Beef Producers- Unemployment Benefits -Sporting Events-Amputee Children's Society- Electoral- Trade Unions|1|
+|NATIONAL ESTATE: Ministerial Statement|1|
+|GOVERNMENT TAXATION POLICY: Discussion of Matter of Public Importance|1|
+|INCOME TAX ASSESSMENT AMENDMENT BILL 1978: Second Reading|1|
+|QUESTION: RECIPIENTS OF UNEMPLOYMENT BENEFIT|1|
+|QUESTION: MOST GRACIOUS SOVEREIGN:|1|
+|UNITED STATES OF AMERICA 1967: Tourist Ministers Conference (Question No. 1481)|1|
+|QUESTION: EMPLOYMENT OF MARRIED WOMEN|1|
+|MIGRANT EDUCATION PROGRAMS: Ministerial Statement|1|
+|DEFENCE FORCE RETIREMENT AND DEATH BENEFITS BILL 1973: Second Readings|1|
+|QUESTION: BROKEN HILL PTY CO. LTD|1|
+|DEATHS OF FORMER MEMBERS AND SENATORS|1|
+|UGANDA: Discussion of Matter of Public Importance|1|
+|AUSTRALIAN SCIENCE AND TECHNOLOGY COUNCIL BILL 1978: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Home Affairs: Polls and Surveys (Question No. 3772)|1|
+|GRANTS COMMISSION BILL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: War Widows (Question No. 5301)|1|
+|ADJOURNMENT: Vietnam Moratorium Campaign - Social Services - Aircraft Noise - Newspaper Article|1|
+|YOUNG COUPLES' HOME ASSISTANCE BILL 1973: Second Reading|1|
+|RURAL RECONSTRUCTION EMPLOYMENT TRAINING SCHEME: Ministerial Statement|1|
+|DC9-3: Cost of Maternity Leave Allowance (Question No. 3964)|1|
+|AUSTRALIAN GOVERNMENT INSURANCE OFFICE BILL 1975: Second Reading|1|
+|ADJOURNMENT: Whyalla: Unemployment- Prescribing of Drugs- Health Insurance Proposals- Ku Klux Klan- Aurukun and Mornington Island Aborigines- Public Broadcasting Licences- Recognition of Child Care Courses|1|
+|HEALTH CARE COSTS: Discussion of Matter of Public Importance|1|
+|QUESTION: CYCLONE TRACY|1|
+|STATES GRANTS (TECHNICAL TRAINING) BULL 1971: Second Reading|1|
+|WAR SERVICES HOMES BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cyprus (Question No. 2713)|1|
+|QUESTION: CLYDE R. CAMERON|1|
+|SOCIAL WELFARE COMMISSION: Report and Ministerial Statement|1|
+|CONCILIATION AND ARBITRATION AMENDMENT BILL 1979: Second Reading|1|
+|INDUSTRIAL RELATIONS: Discussion of Matter of Public Importance|1|
+|CUSTOMS TARIFF VALIDATION BILL (No. 2) 1976: Second Reading|1|
+|DEATH OF THE HONOURABLE R. F. X. CONNOR, M.P|1|
+|STUDENT ASSISTANCE BILL 1973: Second Reading|1|
+|BROADCASTING AND TELEVISION BILL 1972|1|
+|ABORIGINAL AND TORRES STRAIT ISLANDERS (QUEENSLAND RESERVES AND COMMUNITIES SELF-MANAGEMENT) BILL 1978|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Economy (Question No. 5034)|1|
+|QUESTION: NATIONAL SERVICE|1|
+|MOVES TO PREVENT OVERSEAS TAKEOVER OF NORTHERN TERRITORY URANIUM DEPOSITS: Special Additional Payments for Age and Invalid Pensioners|1|
+|QUESTION: UNEMPLOYMENT BENEFIT: SCHOOL LEAVERS|1|
+|WESTERN AUSTRALIA: Subsidised Health Benefits Plan (Question No. 6164)|1|
+|ADJOURNMENT: Palestinian Terrorist Raid- Ord River Scheme- Community Youth Support Scheme- Building Industry- Brisbane Airport: Baggage Trolleys|1|
+|QUESTION: ECONOMIC POLICIES|1|
+|ADJOURNMENT: Whitlam Government Policies- International Women's Year- Australia's International Relations|1|
+|THE AUSTRALIAN WORK FORCE: Discussion of Matter of Public Importance|1|
+|RALPH J. HUNT: From: G. D. Repin, Secretary General, Australian Medical Association|1|
+|QUESTION: ZAIRE|1|
+|QUESTION: POPULATION POLICY|1|
+|QUESTION: PAPUA NEW GUINEA: CONSTITUTIONAL DEVELOPMENT|1|
+|NATIONAL REHABILITATION AND COMPENSATION BILL 1977: Second Reading|1|
+|LOAN BILL 1975|1|
+|APPROPRIATION BILL (No, 4) 1973-74: Second Reading|1|
+|TELECOM DISPUTE: Ministerial Statement|1|
+|AUSTRALIAN SCIENCE AND TECHNOLOGY COUNCIL: Ministerial Statement|1|
+|APPROPRIATION BILL (No. 3) 1974-75: Third Reading|1|
+|FAMILY LAW AMENDMENT BILL 1976: Second Reading|1|
+|CUSTOMS TARIFF VALIDATION BILL (No. 2) 1973: Second Reading|1|
+|ANTI-BUDGET RALLIES: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Adult Education (Question No. 646)|1|
+|ACTIVE MANPOWER POLICY FOR AUSTRALIA|1|
+|RESIGNATION OF MINISTER: Suspension of Standing Orders|1|
+|REPORT OF AUSTRALIAN PARLIAMENTARY DELEGATION|1|
+|GALBALLY INFORMATION KIT: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: I.L.O. Conventions: Application to Cocos (Keeling) Islands (Question No. 725)|1|
+|ADJOURNMENT: Palestine Liberation Organisation- Purchase of Leyland Motor Corporation Site- Interest Rates|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Human Rights Conventions (Question No. 2303)|1|
+|ADJOURNMENT: C. J. Dennis- Chile- Australian Conservation Foundation|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Health: Female Appointments (Question No. 118)|1|
+|LOAN (AUSTRALIAN WHEAT BOARD) BILL 1970: Second Reading|1|
+|CUSTOMS TARIFF VALIDATION BILL 1975: Second Reading|1|
+|HOMELESS PERSONS ASSISTANCE AMENDMENT BILL 1978: Second Reading|1|
+|INDUSTRIES ASSISTANCE  COMMISSION BILL 1973: Second Reading|1|
+|NEW SOUTH WALES FUEL STRIKE: Department of Employment and Industrial Relations|1|
+|MUNICH OLYMPIC GAMES|1|
+|POKER MACHINE CONTROL (AMENDMENT) ORDINANCE: Motion for Disallowance|1|
+|NATIONAL HEALTH BILL 1970|1|
+|GRIEVANCE DEBATE: Order!|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Convention: Labour Standards (N on-metropolitan Territories) (Question No. 3267)|1|
+|BUDGET 1972-73|1|
+|RECOMMENDATIONS|1|
+|NATIONAL SERVICE BILL 1971|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Service Homes (Question No. 1012)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Federation of Consumer Organisations (Question No. 3114)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unemployment: Female Workforce (Question No. 1371)|1|
+|INCOME TAX ASSESSMENT BILL: Second Reading|1|
+|ADJOURNMENT: Regional Council for Social Development- Postal Commission: Commemorative Stamps- Death of Former|1|
+|AUSTRALIAN SECURITY INTELLIGENCE ORGANIZATION BILL 1979: Second Reading|1|
+|ANSWERS TO QUESTIONS: National Employment and Training System (Question No. 2177)|1|
+|COMMITTEE ON OVERSEAS PROFESSIONAL QUALIFICATIONS: Ministerial Statement|1|
+|ADJOURNMENT: Abolition of Price Maintenance - Textile Industry - Trade - The Parliament - Long Service Leave - Royal Australian Air Force Pay and Conditions - Taxation Concessions|1|
+|NATIONAL HEALTH AMENDMENT BILL (No. 3) 1978: Second Reading|1|
+|QUESTION: TAX REDUCTIONS|1|
+|AWARDS OF VC, MC, DCM AND MM FOR SERVICE IN 1939-45 WAR: Equal Pay (Question No. 802)|1|
+|TASMAN BRIDGE RESTORATION BILL (No. 2) 1975: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Amateur Sporting Organisations: Overseas World Championships (Question No. 40)|1|
+|ADJOURNMENT: Canneries Abortion|1|
+|QUESTION: ADJOURNMENT OF SITTING|1|
+|DEFENCE FORCE (RETIREMENT AND DEATH BENEFITS AMENDMENTS) BILL (No. 2) 1977: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Sports Council (Question No. 455)|1|
+|APPROVAL OF WORKS - PUBLIC WORKS COMMITTEE ACT: Telephone Exchange, Shepparton, Victoria|1|
+|ADJOURNMENT: Conduct of Parliamentary Business- General Aviation Industry: Aviation Gasolene- Tasmania-Political Parties: Policies-Accessibility of Information to Members of Parliament-Apex Clubs Anniversary- Vietnamese Refugees-Unemployment|1|
+|SOCIAL WELFARE COMMISSION (REPEAL) BILL 1976: Second Reading|1|
+|QUESTION: SOCIAL SERVICES: PENSION RATES|1|
+|ABORTION: Notice of Motion|1|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Pharmaceutical Benefits: Position of Dentists (Question No. 2542)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Non-Australian Military Personnel (Question No. 421)|1|
+|DEFENCE: Suspension of Standing Orders|1|
+|NATIONAL EMPLOYMENT AND TRAINING SCHEME: Discussion of Matter of Public Importance|1|
+|QUESTION: PRICE CONTROL|1|
+|ADJOURNMENT: Drugs - Vietnam - Water Conservation - Laos - Commonwealth Cars|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Citizenship (Question No. 772)|1|
+|ADJOURNMENT: Roads- Dairy Industry- Apprenticeship Scheme- East Timor- Corporate and Violent Crime|1|
+|ANSWERS TO QUESTIONS: Refuges for Women (Question No. 2366)|1|
+|ARBITRATION COMMISSION: Discussion of Matter of Public Importance|1|
+|QUESTION: AUSTRALIAN FOREIGN POLICY|1|
+|QUESTION: RURAL INDUSTRY: ADDITIONAL ASSISTANCE|1|
+|ADJOURNMENT: Advertising of Alcohol and Tobacco - Drugs - Health Insurance Scheme - Social Services - Employment - Aid for Refugees|1|
+|THE HUMAN TRAGEDY OF UNEMPLOYMENT: Mr Chairman and Fellow Christians:|1|
+|QUESTION: SOCIAL SERVICES|1|
+|QUESTION: NATIONAL RETIREMENT BENEFITS|1|
+|ELECTORAL LAWS AMENDMENT BILL 1974 [No. 2]|1|
+|QUESTION: TRADE UNION TRAINING COLLEGE|1|
+|QUESTION: HOUSING|1|
+|STUDIES CO-ORDINATED BY THE COMMONWEALTH/ STATE OFFICIALS' COMMITTEE ON DECENTRALISATION|1|
+|ALWAYS RECORD:: Finally:|1|
+|STATES GRANTS (CAPITAL ASSISTANCE) BILL (No. 2) 1976: Second Reading|1|
+|CUSTOMS TARIFF VALIDATION BILL 1977: Second Reading|1|
+|VICTORIA: Defence Service Homes (Question No. 572)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Chemists: Dispensing Fee (Question No. 1083)|1|
+|INDUSTRIAL RELATIONS: Dear Mr Leibler,|1|
+|ALBURY-WODONGA DEVELOPMENT BILL 1973|1|
+|STATES GRANTS (CAPITAL ASSISTANCE) BILL 1977: Second Reading|1|
+|MINISTERIAL TRAVEL: Discussion of Matter of Public Importance|1|
+|ADJOURNMENT: Mr Lyenko Urbanchich Taxation: Local Government Grants- Australian Labor Party Harbour Marine Radio Licence Fees Fastnet Yachting Tragedy|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Industrial Safety Laws (Question No. 298)|1|
+|ILO CONVENTION No. 107: Article 13|1|
+|QUESTION: UNEMPLOYMENT BENEFIT: ELIGIBILITY|1|
+|HOUSING LOANS INSURANCE BILL 1975: Second Reading|1|
+|ELECTORAL BILL (No. 2) 1975: Third Reading|1|
+|DEVELOPMENT OF ARMY SITE, BONEGILLA, VICTORIA: Reference to Public Works Committee|1|
+|QUESTION: PRODUCTIVITY AND THE COMMUNITY|1|
+|QUESTION: PORT AUGUSTA-WHY ALLA RAILWAY|1|
+|QUESTION: TAX REBATES|1|
+|QUESTION: MINISTER FOR EDUCATION AND SCIENCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Maternity and Paternity Leave (Question No. 1076)|1|
+|QUESTION: HOMOSEXUALITY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Women's Year (Question No. 1309)|1|
+|CONCILIATION AND ARBITRATION AMENDMENT BILL 1977|1|
+|QUESTION: MAY IT PLEASE YOUR EXCELLENCY:|1|
+|ADJOURNMENT: Trade Unions -The Parliament- Australia-Papua New Guinea Boundary- Universal Textiles, Tasmania- National Energy Policy|1|
+|COMMISSIONER OF TAXATION: Commissioner of Taxation|1|
+|CUSTOMS TARIFF BILL 1972|1|
+|WELFARE BENEFITS: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Human Rights Conventions (Question No. 45)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr V. Petrov (Question No. 3869)|1|
+|QUESTION: TASMANIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Women's Year (Question No. 1341)|1|
+|OMBUDSMAN BILL 1975|1|
+|WOMEN'S ROYAL AUSTRALIAN ARMY CORPS SLEEPING ACCOMMODATION, PUCKAPUNYAL, VICTORIA: Reference to Public Works Committee|1|
+|CENSORSHIP: The Future|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Convention No. 103 - Maternity Protection (Question No. 4152)|1|
+|OFFICE OF NATIONAL ASSESSMENTS BILL 1977: Second Reading|1|
+|THE ECONOMY AND ECONOMIC POLICY: Suspension of Standing Orders|1|
+|MARRIAGE BILL 1973: Second Reading|1|
+|HIGH COURT OF AUSTRALIA BILL 1979: Second Reading|1|
+|PRIVY COUNCIL APPEALS ABOLITION BILL 1975: Second Reading|1|
+|ADJOURNMENT: Textile Industry - Royal Australian Air Force|1|
+|HUMAN RIGHTS: Discussion of Matter of Public Importance|1|
+|PETROLEUM PRODUCTS PRODUCED IN AUSTRALIA: Discussion of Matter of Public Importance|1|
