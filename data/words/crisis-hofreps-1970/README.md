@@ -38,3 +38,30 @@
 * APPROPRIATION BILL (No. 1) 1971-72: Second Reading (Budget Debate) (18 uses)
 * UNEMPLOYMENT: Discussion of Matter of Public Importance (18 uses)
 * [View all...](topics.md)
+
+
+### Associated words:
+
+* energy crisis (238 appearances)
+* economic crisis (160 appearances)
+* oil crisis (133 appearances)
+* constitutional crisis (71 appearances)
+* present crisis (66 appearances)
+* [View all...](collocations.md)
+
+
+### Sample sentences:
+
+* We must develop immediately a national personal and family emergency assistance scheme so that people will not be crippled and thrown into personal bankruptcy, a scheme to keep them in times of persona] financial **crisis** of the nature caused by relative poverty and unemployment.
+
+* Let me restate to the House paragraphs (b) and (c) of the amendment: 
+the Speech makes no reference to the need for action to ensure that there cannot be a recurrence of the Constitutional **crisis** which threatens the continuation of the Australian Parliamentary system; and 
+At the present time the dairy industry in Australia is suffering from probably the greatest **crisis** in its history.
+
+* It has created a **crisis** of confidence in which long-term investment- especially risk investment- is no longer prudent or warranted.
+
+* An energy **crisis** must have an effect upon Australia when its full impact is felt in Europe, the United States of America and Japan.
+
+* This is really the **crisis** which we now have.
+
+* [View all...](contexts.md)

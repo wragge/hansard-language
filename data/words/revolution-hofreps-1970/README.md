@@ -38,3 +38,28 @@
 * STUDENT ASSISTANCE BILL 1973: Second Reading (6 uses)
 * APPROPRIATION BILL (No. 1) 1978-79 (5 uses)
 * [View all...](topics.md)
+
+
+### Associated words:
+
+* industrial revolution (40 appearances)
+* green revolution (21 appearances)
+* social revolution (17 appearances)
+* technological revolution (10 appearances)
+* cultural revolution (8 appearances)
+* [View all...](collocations.md)
+
+
+### Sample sentences:
+
+* One can take the fatalistic view and wait for the predicted bloody **revolution** or one can exert pressure in an attempt to effect change.
+
+* He publicly endorses and recommends **revolution** in the streets.
+
+* Anyone wilh any knowledge of history will know about the horrors of the first industrial **revolution** and how human beings were depersonalised into what were called 'factors of production'.
+
+* Intervention in a **revolution**, whether American, French or Russian, is a classic formula for failure.
+
+* If the **revolution** in accessibility to education is to be achieved, we must discriminate in favour of those children in greatest need.
+
+* [View all...](contexts.md)

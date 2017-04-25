@@ -38,3 +38,25 @@
 * AGED OR DISABLED PERSONS HOMES BILL 1974: Second Reading (4 uses)
 * HMA NAVAL DOCKYARD, WILLIAMSTOWN, VICTORIA: Approval of Work: Public Works Committee Act (3 uses)
 * [View all...](topics.md)
+
+
+### Associated words:
+
+* modernisation program (12 appearances)
+* overall modernisation (3 appearances)
+* [View all...](collocations.md)
+
+
+### Sample sentences:
+
+* -We know that the investment policies of this Government have been a very important factor in increasing the competitiveness of Australian industry through greater efficiency because of **modernisation** of plant and equipment.
+
+* It has a very small hull and, as a result, a limited capacity for **modernisation** later in its life.
+
+* These opportunities derive directly from China's new plans for economic **modernisation** and in addition reflect the strengthening of political and economic ties between our two countries.
+
+* The overall **modernisation** of Garden Island Dockyard in Sydney is part of the program.
+
+* He suggests that any future scheme of joint contribution towards industry decentralisation or development, structural adjustment, reconstruction or **modernisation** as well as schemes to improve industrial design or efficiency should be on the basis of Tasmania 's current personal income tax sharing arrangements (2: 1 Commonwealth/State ratio).
+
+* [View all...](contexts.md)
