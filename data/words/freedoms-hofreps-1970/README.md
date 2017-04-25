@@ -52,14 +52,14 @@
 
 ### Sample sentences:
 
-* If there is developed a conspiracy to subvert it can operate under the protection of the **freedoms** to which it is directly or indirectly opposed.
+* In place of the characteristic Australian philosophy which encourages innovation, initiative and personal choice, the Government by this scheme, seeks to impose a lumbering, bureaucratic monopoly that will stifle all those **freedoms** that Australians value.
 
-* My recollection is that Gibbon said that Augustus was conscious that mankind is governed by names and that if he respectfully assured the people that they still possessed their ancient **freedoms** they would submit to slavery.
+* In the exercise of his rights and **freedoms**, everyone shall be subject only to such limitations as are determined by law solely for the purpose of securing due recognition and respect for the rights and **freedoms** of others and of meeting the just requirements of morality, public order and the general welfare in a democratic society.
 
-* It is evident that many states still choose to ignore the terms of these human rights documents and to deprive their citizens of one or more of the basic human rights and **freedoms** to which all people are entitled.
+* To do otherwise is to sell out our children on the basic **freedoms** of access to information, vocational choice and even political choice which literacy alone can confer.
 
-* I think it is remarkable, when young people are conscripted to go to a war and make the maximum sacrifice in some cases and a great sacrifice in all cases, ostensibly to protect our **freedoms** and way of life that companies such as Broken Hill Pty Company Limited and Mount Isa Mines Ltd, which are making booming profits this year, do not make sacrifices.
+* They have seen Australia as a free country and they are astounded that those things which Australians cherished - the **freedoms** from too much government, from too much arbitrariness and from interfering nonsense - are in the melting pot if they are not out of the window today.
 
-* People must have **freedoms** to protest or to strike.
+* Perhaps they feel that they are in some way encroaching on personal **freedoms** and therefore are not willing to be tough.
 
 * [View all...](contexts.md)

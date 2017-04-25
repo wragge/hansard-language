@@ -52,14 +52,14 @@
 
 ### Sample sentences:
 
-* It will have responsibilities ranging over the whole field of health and **welfare** and will in fact absorb some of the ongoing activities of the Hospitals and Health Services Commission.
+* There may well be an electoral backlash against public servants, social workers and social **welfare** which is not wholly unjustified, but it extends also to the more vulnerable people who depend on **welfare** to survive, and that is wholly unjustified.
 
-* Should the **welfare** officer qualification be used as a stepping stone to a later qualification as a social worker, if desired?
+* As one who has a close association with hospitalisation, social **welfare** and handicapped people, 1 will be a very keen critic of any change in policy in this field, and again will welcome on behalf of these unfortunate people the assistance that has been promised.
 
-* Productivity is largely dependent on individual attitudes, and our national **welfare** and success in the broadest possible terms depend on the continued development of a positive approach to the manifold problems of using our limited resources in the most efficient way possible.
+* If we were able to study the accounts of a separate corporation dealing with postal services as closely as we should, we would note that the reasons for the deficit relate not only to interest charges but also to the fact that the Post Office provides **welfare** services and other very necessary services for the community generally.
 
-* Much more **welfare** housing should be available.
+* I have sought to highlight that the **welfare** of Australia as a whole and Australia's capacity to care for the social and **welfare** needs of her people increasingly will depend on the economic prosperity of northern Australia.
 
-* is of the opinion ( a ) that the membership of the Committee is too closely involved with the Capital market to provide a completely detached analysis of its imperfections and (b) that the terms of reference of the Committee (i) are couched in a way to justify claims of political overtones and (ii) give insufficient attention to the social **welfare** implications of the financial system, particularly its impact on the housing market.
+* But I think it is a little more than ironic for members of the Opposition to start lecturing this Government about the **welfare** of pensioners.
 
 * [View all...](contexts.md)

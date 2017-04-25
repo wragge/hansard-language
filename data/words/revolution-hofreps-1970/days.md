@@ -1,5 +1,7 @@
 ## Sitting days when the word "revolution" was used in the hofreps during the 1970s
 
+[![Chart of frequencies by date](revolution-hofreps-1970.png)](https://plot.ly/~wragge/511)
+
 | Date | Number of uses |
 |--------------|----------------|
 |1973-11-06|6|

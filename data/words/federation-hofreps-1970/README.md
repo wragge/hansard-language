@@ -52,14 +52,14 @@
 
 ### Sample sentences:
 
-* I am fearful of the infringements to the civil rights, liberties and freedoms of the Australian people that have been upheld since **federation**.
+* I pointed out that these guidelines had been operative since **Federation** and were laid down long before **Federation**.
 
-* The fact that an ordinance of this kind has to be debated in this Parliament after some 72 years of **federation** and after the Australian Capital Territory has been in existence for well over 40 years is the strongest condemnation of this Government's inertia and complete failure to provide a proper and alternative system of making, laws for the ACT.
+* This information has been supplied by the Commonwealth Steamship Owners **Federation**.
 
-* In other federations where this same question of the authority of the central government or the provincial or State governments over off-shore areas has been an issue, the Petroleum (Submerged Lands) Act has been held up as a hallmark of cooperation within a **federation** instead of a persistent confrontation between the 2 forms of government, which can lead only to divisiveness, a slackening of exploration and outrage by the provincial or State governments at the attempted takeover by the central government particularly because of the financial ramifications of such a takeover.
+* Who do you think presented the cup to the Communist official of that **Federation**?
 
-* With the deferment of Supply by the conservative senators late last year we saw the destruction of the system that had developed in the first three-quarters of a century of our development as a **federation**.
+* The **federation**'s assertion is confirmed by 'The Sydney Morning Herald's' classified advertising section.
 
-* Within the limits of this speech, the foregoing is an over simplified exposition naturally, but it is at the practical root, I believe, of the Government's disinclination to impose target dates, and that accounts for its policy - which is correct, in my view, on both philosophical and pragmatic grounds - to expedite development throughout the Territory so that, when the people determine for home rule, there will be, first, some prospect of a national outlook; secondly, some prospect for cohesion against secession movements - there are at least 4 active in Bougainville, the Gazelle, the Highlands and Papua - and personal ambitions for leadership, but perhaps they can form together a **federation**; and, thirdly, some prospects of government under a democratic system rather than relapse into army or political dictatorship under some strong man, a few of whom can be seen today striving mightily with the cry.
+* At the time of **federation**, as my learned friend from Moreton  (Mr Killen)  has said, there were various ways of determining where, in the case of a bay, one drew the base line.
 
 * [View all...](contexts.md)

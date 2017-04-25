@@ -28,6 +28,8 @@
 
 * Value in terms of potentially improved **welfare** services, improved education and improved environmental conditions will be lost and will never be achieved again no matter how much the performance of the economy is improved in subsequent years.
 
+* The Senate Standing Committee on Health and **Welfare** tabled a report on 5th May 1971 - nearly 12 months ago - in which it indicated the needs of the schools catering for the handicapped.
+
 * He simply said that there were 36 social workers and **welfare** officers employed by the Department whose services were available to all members of the community.
 
 * He is much better at chasing Corns on this issue, I would imagine, than he is at administering social **welfare**.
@@ -65,6 +67,8 @@
 * We have the situation that the Housing Department, the Department responsible for **welfare** housing in our State, had to spend $4m in the last month of the financial year.
 
 * Australia has one of the highest nursing home bed to population ratios in the world and the domiciliary nursing care program is probably one of the best social **welfare** initiatives that the Government is pursuing to try to deinstitutionalise the care of aged people.
+
+* The honourable member quoted at great length from the report of the Senate Standing Committee on Health and **Welfare** which investigated the Repatriation Act, in particular the provisions of the Repatriation Act relating to the payment of pensions.
 
 * Less will have to be spent on education and more on the social **welfare** system.
 
@@ -121,6 +125,8 @@ In contrast we have seen the present Government produce policies which have almo
 
 * In conclusion I would just make a plea for the social **welfare** of these people.
 
+* That just shows the deplorable ignorance of the Minister for Social **Welfare** of the procedures now available, yet he aspires to the Treasury portfolio.
+
 * It includes general medical practice and aspects of geriatric and rehabilitation services, counselling programs concerned with drugs, alcohol and family **welfare**, community mental health and maternal and child health services, again outside of hospitals.
 
 * It is almost as much as total government spending on **welfare**.
@@ -129,11 +135,15 @@ In contrast we have seen the present Government produce policies which have almo
 
 * The Cocos (Keeling) Islands will obtain revenue from these operations, primarily from philatelic sales, and the revenue so derived will be retained on the islands for the **welfare** of the inhabitants.
 
+* The appropriations for the child care program do not appear in the Budget Speech under 'Education' but under the functional classification of Social Security and **Welfare**'.
+
 * Nor should I have to spell out again that a referendum in 1967 overwhelmingly gave the Commonwealth the responsibility of ensuring the **welfare** and rights of Aboriginal Australians by giving it power to make laws concerning those rights- a responsibility which this Governnent continues to evade, with the excuse that the States also retain such legislative powers.
 
 * It will be recollected that when an Act was passed in this House last year which has enabled interest rates on **welfare** housing, even in their own State of New South Wales, to come down to levels such as Si per cent and 5) per cent they voted against such proposals.
 
 * We have seen too the splendid endeavours by many organisations and service clubs to make a contribution to their **welfare**.
+
+* Expenditure from the National **Welfare** Fund has amounted to $107,827,000.
 
 * I submit that the methods we have before us, whilst they go part of the way, will not relieve this situation that resulted from the Government's own actions, which were designed to bring to fruition in the Treasurer's words the Government's aims in the field of **welfare** housing- that is, by stifling private building in Australia.
 
@@ -151,9 +161,13 @@ In contrast we have seen the present Government produce policies which have almo
 
 * I believe the Department of Immigration is aware of these problems and by the provision of migrant educational services, social workers, **welfare** officers, trained contact workers, together with a host of voluntary workers, it does much to reduce the problems of migrants in this country.
 
+* Those organisations are the Central Council of Croatian Associations in Australia, the Italian **Welfare** Centre Co. As.
+
 * It does not matter whether this Government is concerned with the **welfare** of primary industry or not, it should have the courtesy to reply to a telegram sent to one of its Ministers.
 
 * A far better method of increasing individual participation in the community would be via the Labor Government's community **welfare** centre program- the Australian Assistance Plan.
+
+* By a vote of 197 to 163 the conference also decided to repudiate its Premier  Mr Hamer,  the  Deputy  Premier,  Mr Thompson,  the Minister for Social **Welfare**,  Mr Dixon,  and call for the restoration of the death penalty.
 
 * Even with adjustment assistance, the Government has laid down such stringent criteria that it will be virtually impossible for any industry, except the fruit industry, to qualify and that is virtually a once only **welfare** payment.
 
@@ -162,6 +176,8 @@ In contrast we have seen the present Government produce policies which have almo
 * The social **welfare** vote has increased from $1.1 79m to $1.595m.
 
 * When the historic appeal was made by John Curtin to the United States of America, he was speaking with fear in his heart for the **welfare** of his country.
+
+* These special appropriations include Parliamentary Allowances, bounties, National **Welfare** Fund, Payments to or for the States, Debt Charges and primary industry assistance.
 
 * Honourable members in this Parliament have been entrusted to look after the **welfare** of the people of this nation.
 
@@ -197,7 +213,11 @@ In contrast we have seen the present Government produce policies which have almo
 
 * It proposes to cut **welfare** and education expenditure; it would encourage Australia to be involved in another war in South-East Asia; and it would destroy national government by referring national responsibilities to the States.
 
+* It is probably true, as the Senate Standing Committee on Social **Welfare** said recently, that it is not just limited to narcotics and amphetamines.
+
 * Last week in this House the Opposition spokesman on health and **welfare** matters questioned the accuracy of a reference in the White Paper on our health insurance program.
+
+* The Social **Welfare** Commission's report in August 1975 adopted certain approaches.
 
 * The greatest difficulty that the industry could face would be if it were under a government the great majority of whose members lived in the metropolitan areas and had no sympathy for or interest in the **welfare** of wool growers.
 
@@ -218,6 +238,10 @@ In contrast we have seen the present Government produce policies which have almo
 * I hope that when legislation in respect of social **welfare** benefits is before this Parliament the Minister for Social Services  (Mr Wentworth)  will remind his colleagues that those who can well afford to put up with the hardship of living on the salaries that they receive today are being granted huge increases which are to be backdated.
 
 * Job vacancies filled by migrant workers with little regard for vocational qualifications, language disabilities, housing and accommodation, **welfare** provisions and adequate eduational facilities for their families, is to create such additional problems as would far outweigh the temporary stopgap policy of manning the assembly lines and filling the less-popular and often lower income vacancies available.
+
+* <para pgwide="yes">What is the (a) membership, (b) time-table and (c) charter of each of the following interdepartmental committees : (i) Arrangements for provisions of advice on ionising radiation, (ii) Assistance to Industries, (iii) Australian Government Office Space, (iv) Australian Investment Overseas, (v) Australian Participation in NASA Post-Apollo Program, (vi) Australian Trade with Developing Countries, (vii) Brussels Definition of Value for Duty and GATT Anti-Dumping Code, (viii) Consideration of First Report of the Aboriginal Land Rights Commission, (ix) Environmental Impact Studies, (x) Freedom of Information Legislation, (xi) GATT Trade Negotiations, (xii) Human Rights, (xiii) Metric Conversion Co-ordination, (xiv) Motor Vehicle Industry, (xv) National Archives Legislation (xvi) National Housing Policy, (xvii) Revaluation Adjustment Assistance for Rural Industries, (xviii) Shipbuilding Industry, (xix) Social Indicators - (Social **Welfare**), (xx) Soil Conservation, (xxi) Structural Adjustment - (Tariff), (xxii) The Production of Educational Publications, (xxiii) Unified Aid Administration, (xxiv) Urban and Regional Development, (xxv) Urban Transport and (xxvi) Purari River Project.
+
+* The Social **Welfare** Commission's report on the matter will be tabled in due course and we would expect a good deal of public discussion thereafter.
 
 * This in turn provides a major component of government revenue so that government can provide services in the areas of education, health and **welfare** and the other multitude of services that a government is expected to provide.
 
@@ -242,6 +266,8 @@ In contrast we have seen the present Government produce policies which have almo
 * If we look at the amount of money provided to a man with 2 children- the figures have been frequently quoted by various people in this place- and at the amount of money which it is claimed by various people in this place is the cost of protection, we find that it is far more expensive to pay a person unemployment benefit, service his family with the $7.50 allowance per child, and supply the free services which are provided under the social **welfare** program than it is to have a protected industry.
 
 * I remind the Government and the honourable members here that whatever criticism they may like to make of resource allocation in this country - the Minister for Social Security  (Mr Hayden)  talks of resource allocation with great frequency - and whatever new policies they think ought to be implemented, the wealth of this country today that they have to use to implement their **welfare** and other policies was created under the climate of Liberal-Country Party governments which were in power, as the House knows, for many years.
+
+* All reports which the Government has commissioned have been tabled; for example, the Coombs Task Force report; the Priorities Review Committee report; the Green and White Papers on Health Insurance; the Aboriginal Land Rights Commission - First Report; the Protection Commission Inquiry; a report from the Social **Welfare** Commission concerning Aged Person's Housing; the First Report of the Commission of Inquiry into Land Tenures; the Re-organisation of the Defence Group of Departments; the Care and Education of Young Children - a report of the Australian Pre-schools Committee; report of the Advisory Committee on CES Employment Statistics, and many others.
 
 * But because we are accustomed to the subdued attitude of the population we become alarmed when people express their displeasure at our ineptitude in foreign policy or social **welfare** programmes or salary provisions.
 
@@ -268,6 +294,8 @@ In contrast we have seen the present Government produce policies which have almo
 * Will members of the Opposition never learn that they are here in this place not as an official Opposition to the Governor-General but as duly elected representatives of the people, to make some significant contribution to their **welfare** and prosperity?
 
 * The economy cannot recover only by the stripping down of funds provided by Government for basic services such as transport, sewerage and **welfare** housing.
+
+* I think that when the investigation is carried out it will be found that the health situation of the child and the actual feelings of the parents for the child at the time were discussed between the foster parents and the **Welfare** Branch as it then was, of the Northern Territory Administration.
 
 * This Government has always held the view that the administration of social **welfare** schemes has been too fragmented and that their operation should be controlled by the one department.
 
@@ -329,6 +357,8 @@ In contrast we have seen the present Government produce policies which have almo
 
 * Government programs in the health, education and **welfare** fields are actively seeking to assist these persons.
 
+* I was involved in 2 meetings of the Public Works Committee, a meeting of the Publications Committee, a meeting of my Party's Aboriginal Affairs Committee and a short time ago a meeting of my Party's **Welfare** Committee was scheduled.
+
 * In all 3 areas of which I have been speaking - inflation, growth and social **welfare** - this is a Budget which deserves the commendation of this House just as it has had the commendation of the Australian people.
 
 * Fortunately, however, the people could see the dangers of a socialist government and the **welfare** state.
@@ -341,6 +371,8 @@ In contrast we have seen the present Government produce policies which have almo
 
 * A political party like the Country Party which rarely receives more than about 10 per cent of the votes of the Australian people has a disproportionate influence on the **welfare** of this nation.
 
+* Shortly after the Australian Labor Government came to office it commissioned a report from the Australian Government Social **Welfare** Commission.
+
 * Upon **welfare** programs last year expenditure by way of grants-in-aid and State grants totalled $2,994,000.
 
 * We have been in constant discussion with the Australian- Jewish **welfare** societies and the Federal Catholic Immigration Committee.
@@ -349,7 +381,11 @@ In contrast we have seen the present Government produce policies which have almo
 
 * Local government councils are continually pressed to provide child **welfare** establishments and associated social requirements.
 
+* It covers also the Workmen's Compensation Ordinance, Hire Purchase Ordinance, Advisory Council Ordinance, Child **Welfare** Ordinance, Maintenance Ordinance, Compensation (Fatal Injuries) Ordinance, Coroners Ordinance, Sale of Goods Ordinance and Lay-by Sales Agreements Ordinance.
+
 * This Bill represents but one component of a comprehensive programme being introduced by the Government in this session of Parliament to improve the health and **welfare** of aged persons.
+
+* It so happens that this is the first place on which the previous Director of **Welfare** in the Northern Territory Administration,  Mr Harry  Giese, established a wet canteen for the Aboriginal community.
 
 * It is no good the Minister for Social Security being so half smart about the Australian wool industry in its hour of need as he was this morning at question time because he is going to require thousands of millions of dollars to carry out the social **welfare** ambitions of the Government.
 
@@ -451,6 +487,8 @@ In contrast we have seen the present Government produce policies which have almo
 
 * This situation has been brought about by the Government's total lack of coherent planning or policy in social **welfare** matters, combined with a complete lack of responsibility in its decisions affecting the Australian economy.
 
+* The Minister-in-Charge of Aboriginal Affairs corresponded last year with the Minister for Native **Welfare** in Western Australia about the amendment of discriminatory provisions in legislation affecting Aborigines.
+
 * Firstly, at the Premiers Conference Loan Council meeting new arrangements for financing the construction of **welfare** housing were agreed upon.
 
 * It depends very heavily on skilled and expert knowledge in the social **welfare** area.
@@ -470,6 +508,8 @@ In contrast we have seen the present Government produce policies which have almo
 * Naturally, all of us feel that our own political party has a unique contribution to make towards the **welfare** of the people of our country.
 
 * Nobody would deny, I think, that the future **welfare** of a company such as the Broken Hill Pty Co. Ltd, for instance, has a very real effect on the national interests of Australia.
+
+* The principles laid down in the Karmel report and the principles laid down in the Social **Welfare** Commission's report on the ways in which these things ought to be done are the means by which the present Government will stay in office.
 
 * I must say that I am flattered that the Government of Western Australia seems to care so deeply for my **welfare** that it provides 16 police for this sort of demonstration.
 
@@ -523,6 +563,8 @@ In contrast we have seen the present Government produce policies which have almo
 
 * As we all know, the Australian Assistance Plan was an initiative of the former Labor Government to bring social **welfare** and so forth into the hands of the people.
 
+* I well remember Artie Fadden saying when I was Minister for Social **Welfare**, and doing well: 'Bill, we can't bloody well put up with you any longer.
+
 * This Government is responsible for at least five major housing problems that are causing increasing hardship for low and middle income earners; that is, the two out of three workers who receive below average weekly earnings, those on pensions and **welfare** payments and the unemployed who receive the miserable pittance that this Government calls an unemployment benefit.
 
 * We should put our principles, we should put the **welfare** of the people in our region ahead of the demands of corporate trade.
@@ -545,15 +587,23 @@ In contrast we have seen the present Government produce policies which have almo
 
 * So such wage rises do not benefit the working people, those on wages, and they certainly do not benefit the Australian economy upon which, in the final analysis, the **welfare** and prosperity of every Australian must depend.
 
+* B. M. Fuller, M.L.C., Minister for Decentralisation and Development, and Vice-President of the Executive Council, New South Wales; The Honourable R. C. Dunstan, D.S.O., M.P., Minister of Water Sup ply and Minister for Public Works, Victoria; The Honourable N. T. E. Hewitt, M.M., A.F.M., M.L.A., Minister for Conservation, Marine and Aboriginal Affairs, Queensland; The Honourable J. D. Corcoran, M P.,  Deputy  Premier, Minister for Works and Minister of Marine, South Australia; The Honourable W. F. Willesee, M.L.C., Minister for Community **Welfare** and Leader of the Government in the Legislative Council, Western Australia; The Honourable N. L. C. Batt, M.H.A., Chief Secretary and Minister for Transport, Tasmania.
+
 * This is a matter that I have taken up in deputations on a number of occasions and through many social **welfare** organisations.
 
 * It is not for me to allocate priorities for the Government between one social **welfare** expenditure against another.
+
+* We have had the Fry report, the Social **Welfare** Commission report and now, of course, the Priorities Review Staff has recommended that the commencement of the program be postponed so that the Government and the community would have time to prepare for its implementation.
 
 * They are so heartrendingly attached to the gospel of State rightism and so viciously opposed to this Federal Government that they put party politics before the **welfare** of the nation and refuse to give us the powers we need.
 
 * I think the commission which has been announced is indicative of the interest that we have taken in this matter because its administration in both the education and **welfare** fields will be undertaken by representatives of all the States.
 
+* As a result of the work of these men a community health service has been provided, an office of the Department of Social Security has been established, new roads have been put in to service the area- I will deal with the Old Beach Road at a later stage and will tell the House just what did occur in regard to that road- grants have been made to the Clarence Council, an office of the Department of Labor and Immigration has been set up as well as Social **Welfare** offices.
+
 * We are all aware that the family allowances scheme is one of the most significant changes in the social **welfare** system ever made in this country.
+
+* I thank the members of the Health and **Welfare** Committee, particularly the honourable member for Murray  (Mr Lloyd)  and the honourable member for Petrie  (Mr Hodges),  who have been most interested in this area, for the assistance that they gave to me as the Minister and to the Department.
 
 * Australia's social and economic objectives- rising living standards and adequate provision of proper **welfare** services for the disadvantaged and the poor- together with the acceptance of our responsibilities on the world scene, in terms of aid to developing countries and fair trade in their products, and in respect of defence- we have to pull our weight in these matters and not just look to our friends for help- require a sound economy with inflation under control.
 
@@ -721,6 +771,8 @@ If there is one area in which this Government can at least claim to be consisten
 
 * It may be that some form of income support scheme would be preferable, both on economic and **welfare** grounds, to a subsidy on one input such as superphosphate.
 
+* They are churned through the National **Welfare** Account, I believe it is called.
+
 * I ask the honourable member for Melbourne  (Mr Innes)  who will follow me whether he would care to explain how as a government they would increase dramatically spending on education, social **welfare**, housing, local government, and grants to the States, and how they would give indirect and direct tax cuts.
 
 * The philosophy of taxation is based on how much incentive a person has to earn income in order to produce the revenue that government- the Labor Government particularly, and this Government proceeds to follow suit- needs to pay for fairly lavish **welfare** and social programs.
@@ -755,11 +807,15 @@ If there is one area in which this Government can at least claim to be consisten
 
 * I suppose that would be a hope that many of us here would share because if he read the article and understood it he would realise that it dramatised and pointed out the significant and magnificent social **welfare** reforms that this Government has introduced.
 
+* Under those regulations it is possible for the Minister- in this case the State Minister for Community **Welfare**- to amend regulations of the Aboriginal Affairs Planning Authority Act to allow for all classes of people to go on to reserves with or without the consent of the local Aboriginal community.
+
 * The Government believes that, in order to make decisions about such matters as the Island's revenue potential and the nature and level of social **welfare** benefits, it is necessary to have much more information on the economic strengths, weaknesses and potential of the Norfolk Island economy.
 
 * Where are the decisions that have been so vital to the industrial **welfare** or the economy of this country which have so upset the Government that it has to introduce such a draconian measure?
 
 * We recognise that for the **welfare** of the industry inevitably there has to be a change.
+
+* On 1st June 1970 in Malta  Dr Vincent  Tabone, Minister of Labour, Employment and **Welfare** on behalf of the Maltese Government and I on behalf of the Australian Government initialled agreed draft texts of the proposed new Migration and Settlement Agreement and related Arrangement dealing with assisted passage provisions.
 
 * I believe if this approach could be adopted in Australia we would see a national water authority established which would be of tremendous and vital importance to the future planning and **welfare** of this nation.
 
@@ -784,6 +840,8 @@ If there is one area in which this Government can at least claim to be consisten
 * The modern laissez faire economy - that is monetary and fiscal policy, wage freeze and the **welfare** state - cannot get the allocation of resources needed for a great national effort or for any other purpose.
 
 * With all the major questions facing this nation - fiscal matters, international matters and matters of great concern on the domestic front such as housing, education and social **welfare** - the Parliament has wasted more than an hour this afternoon discussing this question.
+
+* Members of the Opposition seemed to become terribly upset, irate and indignant when a document containing the policy recommendations of the Liberal Party's Committee on Social Security, Health and **Welfare**, which they regard as confidential, was produced in the House today.
 
 * The last thing that motivates it is the **welfare** of the patient.
 
@@ -823,6 +881,8 @@ If there is one area in which this Government can at least claim to be consisten
 
 * Total expenditure this financial year on the pensions will rise to $ 10,530m, about 40 per cent of the total **welfare** budget.
 
+* Over a number of years, the Victorian Government, through its Department of Social **Welfare**, has given assistance to families receiving Commonwealth pensions, such as widow's pensions and so on.
+
 * It is less relevant today because of the increased scope of government expenditure which is directed at assisting individuals or organisations; for example, health, education, social security and **welfare** programs.
 
 * It has to maximise the **welfare** of the people.
@@ -861,6 +921,8 @@ If there is one area in which this Government can at least claim to be consisten
 
 * In the last financial year 86c out of every $1 collected by means of personal income tax from the Australian people was spent to meet the cost of health and social **welfare** at the Commonwealth level.
 
+* There is an amount, of $400tn in the National **Welfare** Fund.
+
 * It has the power to intervene in general wage cases to put logical arguments and economic realities to arbitration tribunals so that when they give their decisions - for it is the tribunals that give the decisions - they can have in mind all these factors which are so important to the economic **welfare** of this country and therefore to the social wellbeing of the Australian people.
 
 * In addition, greater emphasis will be placed on English language training and both the migrant education and the migrant **welfare** services in Australia will be expanded.
@@ -895,6 +957,8 @@ If there is one area in which this Government can at least claim to be consisten
 
 * If honourable members look at the family allowance scheme, about which the honourable member spoke at length, I am sure that they will realise that the **welfare** of people is uppermost in the minds of all Government supporters.
 
+* One concerns what goes into the National **Welfare** Fund, mainly for the payment of social services, which aggregate nearly $6 billion.
+
 * Nowadays, child endowment or family allowances are part of general **welfare** expenditure and payroll tax is just another revenue item.
 
 * At the 
@@ -912,9 +976,13 @@ We all know, whether it be in respect of tax laws, social **welfare** legislatio
 
 * It could be any issue - national or local, trade, commerce, social **welfare** or something of the kind.
 
+* Apart from the payments which the Commonwealth makes to the States the provision under the National **Welfare** Fund is the greatest single item in the Commonwealth Budget.
+
 * I believe that the permanent building societies have mushroomed far too fast for the general **welfare** of housing in Australia.
 
 * As I indicated yesterday during the debate on a matter of public importance, we are concerned that **welfare** housing is not receiving the attention that it should receive and we are hopeful this year that we will be able also to remedy that situation.
+
+* They are: **Welfare** housing, changes in the Defence Service Homes scheme, housing for the aged, indicative planning, the Australian Housing Corporation, the Australian Housing Research Council, the housing information and advisory service, modern housing techniques, uniform housing standards and housing tax relief.
 
 * Prior to the previous Federal election the Minister for Social Security  (Mr Hayden)  outlined the policy in respect of social **welfare** in the community.
 
@@ -931,6 +999,8 @@ We all know, whether it be in respect of tax laws, social **welfare** legislatio
 * -Recent express decisions by the Government have callously disregarded the **welfare** of rural people and rural producers.
 
 * I am not one of those who suggest that we should keep a social **welfare** benefit simply because it is there and has been there for some time, but I am not compelled to think otherwise by the arguments of the Minister for Health  (Mr Hunt).
+
+* When I talked with the Maltese Minister for Labour, **Welfare** and Culture, Miss Agatha Barbara in May of this year, she stressed that Malta does not want cash grants.
 
 * It is one of several Bills which must necessarily be passed through Parliament each year, and that is normal in the sense that funds are required and are authorised by Parliament in a series of Bills for the payment of government services such as **welfare**, grants to the States, administration, defence and so on.
 
@@ -960,9 +1030,15 @@ We all know, whether it be in respect of tax laws, social **welfare** legislatio
 
 * Instead we are asked to believe that a Government that runs down the aid program, that fails to spend even the meagre funds on foreign aid allocated in its own Budget and dismantles the expert, independent body set up to administer foreign aid is somehow committed to the **welfare** of our neighbours and the needy countries of the world.
 
+* The Commonwealth 's general support for the aims and philosophies expounded in the article is further demonstrated by the Government's continued funding, under the Community Health Program, of the national secretariat of the Association for the **Welfare** of Children in Hospital which prepared the document and has, with the aid of the Commonwealth's financial assistance, vigorously promoted these principles and philosophies.
+
+* These were two of the factors which prompted me to initiate the establishment of a committee of officials, under the chairmanship of  Dr S.  Sax,  Chairman  of the Social **Welfare** Policy Secretariat, from the Departments of Education, Health, Employment and Youth Affairs and Immigration and Ethnic Affairs and the Tertiary Education Commission.
+
 * I think that the election is fast approaching when the people of Australia will single out unemployment, job security, care, **welfare** and the opportunities that Australia should be giving to all its citizens.
 
 * So far as Australians in Iran are concerned, we naturally have a concern for their safety and **welfare**.
+
+* Although my Department has no direct responsibility in the matter, officers assisted the three seamen concerned with money from the Merchant Navy **Welfare** Society, Brisbane and drew the attention of the Papua New Guinea Consul and the Department of Transport and Civil Aviation in Papua New Guinea to the living conditions on board the vessel.
 
 * In other circumstances it might be desirable for him to be absent, and with the sort of Prime Ministerial leadership we are getting it might be better if he stayed absent, but the facts are that at this moment the Parliament is meeting and I doubt if his contribution to the nation's **welfare** by his absence overseas warrants his being away from the Parliament when it is meeting.
 
@@ -992,6 +1068,8 @@ We all know, whether it be in respect of tax laws, social **welfare** legislatio
 
 * As honourable members will be only too well aware, the cost of transport in a country as large and as isolated as ours is important to the **welfare** of the nation.
 
+* When the directors of Hanover **Welfare** Services were negotiating in relation to Gordon House, the State Housing Commission refused to be part of that deal.
+
 * Thus, during 1969-70 I made grants totalling $203,000 to Aboriginal organisations and other bodies to enable them to make their **welfare** and other activities more effective.
 
 * The Prime Minister  (Mr Gorton)  announced last year that this Government has given rehabilitation a high priority in the **welfare** field.
@@ -1011,6 +1089,8 @@ We all know, whether it be in respect of tax laws, social **welfare** legislatio
 * The proposals contained in this Bill are a further indication of the Government's concern for the **welfare** of nursing home patients.
 
 * I agree that domestic matters, inflation and unemployment, have a greater priority in our thinking and are more important to the nation 's **welfare** than any of the matters with which I had to deal overseas.
+
+* **Welfare** housing, roads, and the question of various council programs for employment are adequately covered.
 
 * All these changes indicate the Government's interest in the **welfare** of those who have served their country in the Defence Force in war and peace.
 
@@ -1039,9 +1119,13 @@ To return to the issue of local government authorities, the document to which I 
 
 * From their contributions, it is apparent that they will play an important part in the deliberations of this chamber and the **welfare** of this nation.
 
+* In the past a lot of damage has been done by the very sincere efforts of the authorities - I refer particularly to the **Welfare** Branch of the Northern Territory Administration - by pressure-cooking the job.
+
 * Therefore the aim of Speld is to advance the education and general **welfare** of children and others who are handicapped by specific learning difficulties.
 
 * He says that the Government's policy rests on the belief that Australia is well placed to make a serious contribution to the preservation of peace and the promotion of the **welfare** of our neighbours while at the same time and by the same path promoting her own interests and security.
+
+* A study undertaken recently by a task force in the United States of America for the Department of Health, Education and **Welfare** has found that coronary disease is directly attributable to the work style and mode of living.
 
 * As powers in respect of adoption and related child **welfare** matters are retained by the State governments under the Constitution, consultation with State governments is necessary and a national conference has been arranged for 24 and 25 July.
 
@@ -1067,6 +1151,8 @@ To return to the issue of local government authorities, the document to which I 
 
 * The honourable member for Deakin  (Mr Jarman)  has said that Australia should be concerned primarily with Australia's **welfare** and that if we are not concerned with it nobody else will be.
 
+* My Department has been in correspondence with  Dr LeClair,  the  Deputy  Minister for Health and **Welfare** in Canada, about this quotation which, incidentally, has been used by those bodies in Australia in reference to the Canadian health insurance program.
+
 * In the 9 months that this Government has been in office its record in social **welfare**, administration, world affairs and presentation to the Australian people stands unequalled in the annals of this country.
 
 * Together with the anomaly relating to the single male parent, I think these are 2 basic weaknesses in our present social **welfare** cover.
@@ -1089,9 +1175,13 @@ To return to the issue of local government authorities, the document to which I 
 
 * I realise that unrestricted growth could eventually result in a situation where a union's officials cease to have rapport with the union's members and lose awareness of their needs and aspirations, where the energy and devotion of union officials could become absorbed in the material advancement of their union as an institution to the detriment of its members ' **welfare**.
 
+* They have been contributing to the National **Welfare** Fund in the form of taxation and getting shrunken benefits in return.
+
 * The share of gross national expenditure going through Government hands is still far too low in order to provide adequately for the community's needs in such areas as education, health and **welfare**.
 
 * Australians, as a whole, will see the response of these corporations as a real test of how much they are concerned about the **welfare** and stability of Australia's economy, and of the Australian community.'
+
+* Recently I witnessed an excellent demonstration of marching, counter-marching and quick and slow-marching during the visit to the city by the State Minister for Youth and **Welfare**.
 
 * The experiment of the **welfare** state was something new and its consequences were not appreciated.
 
@@ -1108,6 +1198,8 @@ To return to the issue of local government authorities, the document to which I 
 * Quite frankly, as one who has taken a great deal of interest in Aboriginal **welfare**, I believe that it is quite proper for money received from that source- namely, royalties- to be taxed.
 
 * We are told that **welfare** expenditure is creating a community in which people are waiting for handouts, and that too is rubbish.
+
+* As for the other matter that he raised about unemployment benfits, should the Budget estimate prove to be inadequate, additional funds will automatically be made available to make payments to those qualified by reason of the automatic appropriation provisions in the Social Services Act and the National **Welfare** Fund Act.
 
 * He was also an ever-ready advocate for the **welfare** of servicemen.
 
@@ -1151,6 +1243,8 @@ To return to the issue of local government authorities, the document to which I 
 
 * The National Country Party stands deeply committed to this objective and to the interests and **welfare** of all the people who live outside the capital citiesMelbourne and Sydney in particular.
 
+* We have before us a report from Peter Bailey's Task Force on Co-ordination in **Welfare** and Health and the report of the Holmes Committee of Inquiry into Care of the Aged and Infirm.
+
 * We ought to pay less attention to committees and more attention to the **welfare** of Australia.
 
 * They are more concerned with pursuing their philosophy than with looking after the **welfare** of Australians.
@@ -1163,6 +1257,8 @@ To return to the issue of local government authorities, the document to which I 
 
 * In these teams would be people whose principal job was to evaluate development proposals and compare alternatives and give the Government the facts about the alternatives so that the Government could make up its mind which was the best proposition in which to invest funds on behalf of the people of Australia and in the best interests of Australia, taking into account of course the **welfare** of Australia and the commercial principles involved.
 
+* He thought the terms 'social' and 'social problem' might mean that, with children such as this in foster care, the hospital's social work department and the Community **Welfare** Department could become involved.
+
 * At the same time the new health benefits plan will retain the basic principles which the Government believes are essential in any national **welfare** measure.
 
 * By these proposals the Government seeks: - to provide for a large increase in essential expenditures, especially on payments to the States, **welfare**, development and assistance to industry, including emergency relief for woolgrowers hard hit by drought and low prices; - to make reductions in personal income taxation, especially on lower and middle income earners, estimated to have a value to the taxpayers concerned of $289m in a full financial year and $228m in 1970-71; we thereby make good - indeed more than make good - our undertaking to give substantial income tax relief to this large body of people; - notwithstanding these large commitments, to produce a responsible budget, a balanced budget, a budget shaped to the requirements of an economy that is dynamic and fast-growing - but an economy still threatened by disruptive inflation.
@@ -1170,6 +1266,8 @@ To return to the issue of local government authorities, the document to which I 
 * It is the instrument for carrying out the Government's policies in the fields of social **welfare**, health and education, defence, the development of the nation's resources and other essential areas.
 
 * There is pressure for increased **welfare** benefits, social service benefits, repatriation benefits, assistance to the family man and assistance to the States.
+
+* other than requiring them, under the conditions of the Child **Welfare** Ordinance, to be licensed with the Department of the Interior.
 
 * The problems of working mothers, of single parent families and the need for social **welfare** support are all highly relevant.
 
@@ -1188,6 +1286,8 @@ To return to the issue of local government authorities, the document to which I 
 * The **welfare** people, the fire organisations and the Red Cross were all on the scene very quickly indeed and behaved magnificently.
 
 * I believe the States, which are now $640.5m better off as a result of the Fraser federalism policies, should be playing a greater role than they have played in the past in looking after the health, education and other **welfare** aspects of the people who live within their States.
+
+* One is to be operated by the Australian-Greek **Welfare** Society in Melbourne and the other is to operate in Sydney.
 
 * All members of this Parliament will be fully aware of my longstanding concern for the **welfare** of the people of East Timor, not merely because of Australia's debt of gratitude to them for their stalwart and loyal support in the dark days of World War II, but because I believe, and all Australians believe, in the sanctity of basic human rights, including self-determination and, of course, all of us would be concerned about the threat to Australia's integrity and national security posed by the continuation of major military action involving all forms of conventional warfare in an area that is less than half an hour flying time from Darwin.
 
@@ -1208,6 +1308,8 @@ To return to the issue of local government authorities, the document to which I 
 * Again it is suggested for future consideration that perhaps the Department of Social Security might pay the **welfare** benefit or the social security entitlement plus the amount awarded by the court on the basis that the Department of Social Security could recover that amount from the person compelled to pay the award and not have the unfortunate wife trying to enforce this arrangement.
 
 * Those of us who sat with him in the Parliament and in Cabinets are well aware of his tremendously wide interest in what he conceived to be the basic **welfare** and security of the country.
+
+* 1 ) Has a decision been made on assistance for the erection of two toilets at the kindergarten at Borden, Western Australia, submitted by the Gnowangerup Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department.
 
 * I commend the honourable member for the Northern Territory on his obvious concern for the **welfare** of the people of Darwin and the very soundly based thoughts that he brought to bear on this proposal.
 
@@ -1232,6 +1334,8 @@ To return to the issue of local government authorities, the document to which I 
 * But I make this plea to the Minister: If the Government wants an efficient and effective police force it should ensure that the provisions for the **welfare** of the members in respect of promotions, appeals and transfers, whether they are written into the Act or made by way of regulations, safeguard the rights of the members.
 
 * The worst way, the method adopted in this Bill, is to destroy the AUS, to make it less representative by interfering with the tradition of academic freedom and to prohibit the councils of tertiary institutions from enabling fees to be paid except for very narrow- one might say, almost selfishpurposes confined to 'student **welfare**', narrowly defined.
+
+* They did not start because some grand idea was formulated within the Commonwealth Department of Social Services or a State Department of Social **Welfare**.
 
 * This has been necessitated, no doubt - we have to face it - by the need to find additional funds to pay increased amounts to the States as general revenue and the need for further large sums to meet the bill for education, health services and national **welfare** generally.
 
@@ -1261,12 +1365,17 @@ To return to the issue of local government authorities, the document to which I 
 
 * That export income is vital to Australia's growth, particularly as it allows for the imports of capital and consumer goods which are essential to the economic **welfare** of the labour intensive manufacturing sections which are highly protected by tariffs.
 
+* In 1979, three years after the Horton committee reported, and after some months of letter writing, the Minister of Community **Welfare** in South Australia received the following incredible epistle from the Minister for Home Affairs.
+
+* The letter is dated 24 April 1979 and states: 
+Who are the members of the Manly Warringah Social **Welfare** Co-ordinating Committee, and what organizations do they represent.
+
 * It is helpful and beneficial in its social services and in the many **welfare** increases given right across the board.
 
 * Those payments are increased by S395m to a total of 
 In view of the statement I made to the House today about the additional $2 5 m to be provided for Aboriginal affairs in pursuance of the undertaking by the Treasurer, I think all Aborigines and others interested in their **welfare** can be well satisfied with the commitment of this Government to their advancement.
 
-* Does the Attorney-General intend to alter the family law legislation to take account of views expressed by State Ministers for Child Welfare that children continue to be supervised and advised by State **welfare** officers.
+* Does the Attorney-General intend to alter the family law legislation to take account of views expressed by State Ministers for Child **Welfare** that children continue to be supervised and advised by State **welfare** officers.
 
 * During these months before the more active and official negotiations commenced a series of documents on environmental, conservation and social **welfare** matters was prepared.
 
@@ -1280,6 +1389,8 @@ There are only three court rooms in the High Court building, each containing all
 * He said that the Budget produces no programmes for high national objectives of social **welfare**, economic strength or national security.
 
 * I want to know how long it will be before we take the most positive step and employ at least one male and one female Aborigine on the staff of this Parliament and let overseas visitors who come here see that some positive step has been taken to train them in the Parliament that purports to be so concerned about the **welfare** of these indigenous people of our country.
+
+* The Government has established the Australian Commission on Social **Welfare** and through it, the Australian assistance plan.
 
 * It would include expenditure on education, health and social **welfare**.
 
@@ -1355,6 +1466,8 @@ There are only three court rooms in the High Court building, each containing all
 
 * Such action would not duplicate Australian Government **welfare** housing assistance which is presently provided under the housing agreement with the States.
 
+* Did the Senate Standing Committee on Health and **Welfare** recommend overall planning of rehabilitation for the handicapped to increase efficiency.
+
 * &gt;  &gt; 
 If so, will the Minister take steps to set up a semi-governmental authority for this purpose, including representatives of Departments concerned with education, social **welfare** and vocational matters, and voluntary organisations.
 
@@ -1363,6 +1476,8 @@ If so, will the Minister take steps to set up a semi-governmental authority for 
 * It has been prepared to sacrifice important community programs such as housing, **welfare**, urban affairs and employment.
 
 * The Congress will bring from 1500 to 2000 visitors to Australia, including Ministers, judges, academic and other leading figures in the field of law, criminology, police, corrections, social **welfare**, mental health, sociology, education and related areas and disciplines.
+
+* The former  Chairman  of the Commission,  Dr Sidney  Sax, has taken control of the Social **Welfare** Policy Secretariat which is to coordinate and absorb most of the functions of the Commission and its relationship to the Department of Social Security.
 
 * Because the motion and many of the amendments fail to take account of the long term physical and mental **welfare** of the potential mother I can support only the Baume and Simon amendments and nothing else.
 
@@ -1468,6 +1583,8 @@ I come back to the situation of **welfare** housing.
 
 * In general, the Bill ensures that the Wheat Board and, through it, the wheat industry, sustain no extra costs through undertaking alternative financing arrangements for the 1978-79 crop and so contributing to the economic **welfare** of the nation as a whole.
 
+* In consultation with the New South Wales Minister for Child **Welfare** and Minister for Social **Welfare**,  Mr Hewitt,  I arranged for the Army to make available emergency tentage especially for the relief of these Aboriginals.
+
 * Australia's minerals, its industries and laws and its social **welfare** are involved in the relationships between the Commonwealth and State governments.
 
 * The reforms in the area of social **welfare** introduced by that Labor Government make a long list.
@@ -1481,6 +1598,8 @@ I come back to the situation of **welfare** housing.
 * Is the Minister aware that there is a widespread distrust - rightly or wrongly - in the Services of the part played by civil servants in matters affecting the **welfare** of servicemen?
 
 * His  concern for poverty is gratifying and T am sure that we can look forward to his support for our **welfare** and low income housing policies which have been outlined in the Governor-General's Speech.
+
+* On that basis,  Mr Justice  Woodhouse met IS members of the Liberal Party and the Liberal Party **Welfare** Committee some time ago.
 
 * What is more important- good roads or the arts, the alleviation of poverty or increasing the bureaucracy, **welfare** housing or payments of $120 a week to unemployed Regional Employment Development scheme workers?
 
@@ -1529,13 +1648,24 @@ If local government is to play the greater and more effective role that the peop
 
 * Under the Australian Assistance Plan, special aid will be made available to local government authorities to enable them more effectively to provide **welfare** and health services to their communities.
 
+* That there is a crisis in Aboriginal **Welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
+
 * It seems that the Commonwealth Parliament has insufficient legislative power to make proper provision for the protection of the health and **welfare** of the community as a whole from dangers which can arise from the use of radioactive materials and isotopes.
 
 * We all know from experience the uneven standards which will result from that and the neglect that will occur in the non-Labor States where **welfare** rates a poor priority by State governments.
 
 * The Government did that because it had to pay for another **welfare** benefit, the reintroduction of the superphosphate bounty- a bounty to subsidise the wealthy graziers like the Prime Minister  (Mr Malcolm Fraser)  at the expense of the aged in the community.
 
+* The Queensland Sub-normal Children's **Welfare** Association operates a school for sub-normal children at Ipswich where I live, in a very old building called Claremont, an historic building, a building totally unsuitable for use as a school for sub- normal children.
+
+* The money provided from the purchase would enable the Queensland Sub-normal Children's **Welfare** Association to build a new school suitable for subnormal children, who are probably the most disabled and most disadvantaged children in our community.
+
+* Now that the subsidy has been reduced to $2 for $1, the Ipswich committee of the Queensland Sub-normal Children's **Welfare** Association cannot afford to erect a school building.
+
 * It helps Liberals obscure the truth that government expenditure is, or should be and could be, the community's own investment in its own prosperity and its own **welfare**.
+
+* Social **Welfare** 
+One of the most striking illustrations of this point is in that very field of expenditure which is regarded by orthodox Liberals as a deadweight on the community - as a straightout unproductive cost to the revenue.
 
 * I refer to social **welfare**.
 
@@ -1545,7 +1675,7 @@ If local government is to play the greater and more effective role that the peop
 
 * In his first year of office we had from the Prime Minister what was to be a **welfare** Budget.
 
-* Without committing himself to any attitude, will he undertake to have the question of Commonwealth responsibility for the **welfare** of a single mother and her child included on the agenda for the forthcoming meeting of State and Commonwealth Ministers for Social Services and Welfare.
+* Without committing himself to any attitude, will he undertake to have the question of Commonwealth responsibility for the **welfare** of a single mother and her child included on the agenda for the forthcoming meeting of State and Commonwealth Ministers for Social Services and **Welfare**.
 
 * If we were able to study the accounts of a separate corporation dealing with postal services as closely as we should, we would note that the reasons for the deficit relate not only to interest charges but also to the fact that the Post Office provides **welfare** services and other very necessary services for the community generally.
 
@@ -1571,7 +1701,11 @@ If local government is to play the greater and more effective role that the peop
 
 * There are a number of other factors, particularly in the social **welfare** area, to which it is more related.
 
+* What is the estimated cost of these proposals as a percentage of total current expenditure (a) from the National **Welfare** Fund and (b) by the Commonwealth Government from consolidated revenue.
+
 * It is not reasonable to expect that gross returns to primary producers should remain static and I hope that the Minister for Primary Industry  (Mr Sinclair)  and the Government will give consideration to examining the position of the wheat growers to ensure that they too receive their share of the prosperity of this country and that they are contributing generally to the **welfare** of the community.
+
+* The Opposition's Health and **Welfare** Committee considered ways in which we could most expeditiously handle the proposed amendments but the time allotted is altogether too short.
 
 * To have such a cavalier attitude towards the rights of those who have earned their Australian pensions and have received less than justice all their lives is surely the mark of one who has scant regard for the **welfare** of migrants or pensioners.
 
@@ -1579,11 +1713,15 @@ If local government is to play the greater and more effective role that the peop
 
 * There are numerous social **welfare**, economic and industrial problems that cry out for urgent remedy.
 
+* It is my intention to send a proposal to the National Commission on Social **Welfare** and to ask it for a complete review of the basis on which the programs so far operated have been established and asking it to consider whether there are in fact better ways of providing such a program of accommodation for the aged.
+
 * I am very pleased with the attitude that has been adopted by the Government to the **welfare** of these people.
 
 * I submit that to oppose this Bill at this time and to frustrate the introduction of this Bill is to consolidate further the position of monopolies and cartels within our community at a time when it has long since become apparent that they militate against the general **welfare** of the community.
 
 * Those who do not need compensation very often would be afforded assistance that would in fact be to their detriment, not to their **welfare**.
+
+* The Minister for Social Security, through the Social **Welfare** Commission and the Australian Assistance Plan, also is assisting local government.
 
 * It was a political decision; it was not even an economic decision nor a decision in favour of social **welfare**.
 
@@ -1614,6 +1752,8 @@ If local government is to play the greater and more effective role that the peop
 * We on this side of the House regard ourselves as having an equal right at least - and I say that with some reservations - to debate the measures which affect the community and the **welfare** of this country which is so sadly and shockingly neglected by those who sit on the Government benches.
 
 * I would need  21/2  hours to point out to honouraoble members opposite how dismally they have failed in regard to social **welfare**, education and defence, you name it.
+
+* Working Party on Social **Welfare** Manpower  (Question No.
 
 * 1697) 
 There are many dedicated public servants working in the field of unemployment and **welfare** benefit payments.
@@ -1721,6 +1861,8 @@ We are all in favour of research, but in East Gippsland there is a desperate nee
 
 * The attitude of the **welfare** officer is that a vital part of tha process of educating Aboriginal children is beeping them well enough to attend school.
 
+* They have been contributing to the National **Welfare** Fund in the form of taxation and they have been getting shrunken benefits in return.
+
 * There has been a great slashing of migrant services in terms of education, **welfare**, health and language training.
 
 * We are being asked to believe that the Country Party is not just a mouthpiece of the big grazing and farming interests but has always been concerned with the health, education, housing and social **welfare** of Australians and is dedicated to solving the growing problems of the environment, namely urban congestion pollution, conservation and decentralisation.
@@ -1821,6 +1963,8 @@ We are all in favour of research, but in East Gippsland there is a desperate nee
 * When asked by a puzzled interviewer how the Government could so readily abandon quite firm promises to the Australian people  Mr Fraser  said: 
 -On occasions such as this when we have a general debate before the House, I always try to make some constructive suggestions to the Government about the direction of its economic policies or its social **welfare** policies.
 
+* The Committee, under the chairmanship of  Dr Sidney  Sax,  Chairman  of the Social **Welfare** Policy Secretariat, included representatives from my Department and from the departments of Education, Employment and Youth Affairs, Immigration and Ethnic Affairs and from the Tertiary Education Commission.
+
 * I saw one Press release from a major rural organisation saying that it is fair enough at this point to impose this levy for that gives the Government a good reason to be able to get stuck into the social **welfare** area in the Budget to be presented in a couple of months.
 
 * The collapse of the Government's subsidised scheme shows clearly that its interest was not in the **welfare** of the poor but in the continuation of its health insurance scheme.
@@ -1830,6 +1974,8 @@ We are all in favour of research, but in East Gippsland there is a desperate nee
 * Nothing in the field of human relations could be so calculated to damage what residue of good feeling remains between the marriage partners or to jeopardise the future **welfare** of their children.
 
 * Have honourable members opposite ever stopped to think of the needs of most people in our community, to consider what could have been provided for them with the money which has been wasted on the Fill aircraft, how many schools could have been built, how many pre-schools might have been constructed or what burden could have been lifted from the pensioners, to refer to one narrow field of **welfare**?
+
+* The present system operates in an uncoordinated fashion with the Minister for the Interior prevailing on the one hand over so many matters concerning the Northern Territory and with, on the other hand, the Northern Territory Administration and the Director of Native **Welfare** and his personnel infiltrating into certain spheres of operation there.
 
 * More particularly related to this Bill is the fact that the area is deprived of a great number of other community facilities such as roads, libraries, child care centres, recreational centres, social **welfare** services and all the facilities which are provided by local governments.
 
@@ -1844,6 +1990,8 @@ We are all in favour of research, but in East Gippsland there is a desperate nee
 * Business must be aware of the fact that many hold it responsible for what they see as the castration of Labor's social **welfare** program.
 
 * It is apparent to all that the program has been controlled by the motive of securing an affluent economy for the nation and virtually nothing has been done towards securing the **welfare** of migrant families.
+
+* I appreciate the fact that the Minister for Social Security  (Mr Hayden)  has acknowledged my representations to him on this matter and has pointed out that a report from his Department on the current maximum subsidy limits has been referred to the Social **Welfare** Commission for consideration.
 
 * Initiatives of this Government in the fields of health, education and **welfare** are making heavy demands on the Commission which is actively involved both in the formulation of policy concerning the education of professionals in the areas mentioned, and in the implementation of other decisions and initiatives supported by the Government in respect of the colleges of advanced education.
 
@@ -1886,6 +2034,8 @@ There are some who see the objective as not one of self-management, of the abili
 
 * Has the Minister considered widening the scope of national service to include matters of civil defence such as natural disaster relief and a coastguard service which would at once constitute a constructive contribution to the national **welfare** and obviate the protests of those who oppose national service as a means by which they can be involved in a particular war?
 
+* Some areas are still subject to examination- for example, by the Task Force on Co-ordination in **Welfare** and Health.
+
 * This action did malicious damage to the wine industry and has placed the future viability of wine makers and the **welfare** of many producers at risk.
 
 * I would like to challenge the Opposition to state exactly what is its pension policy and exactly what areas of social **welfare** would be savagely cut back under its proposals consistent with its statement.
@@ -1895,6 +2045,10 @@ There are some who see the objective as not one of self-management, of the abili
 * The Government's understanding of the needs of the serviceman under today's conditions, and deep concern for the **welfare** of members of the Services, are reflected in the many improvements already made in conditions of service, as well as the further improvements which are under active study.
 
 * Very often Australian industry has been accorded too much attention in the changes that have to take place in a world where we have a responsibility to have regard to the **welfare** of our own people and also to make our contribution to the development of peoples in other countries, especially the lesser developed countries.
+
+* 1 ) What decisions have been made on assistance for projects submitted to the Southern Regional Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department, in respect of (a) Boddington Tennis Club, (b) Mandurah Soccer Club, (c) Broome Hill Cricket Club, (d).
+
+* One immediate direct result of the meeting is that we expect shortly to welcome to Australia the Maltese Minister of Labour, Culture and **Welfare**.
 
 * In addition, the Bill clarifies certain provisions of the principal Act- the Family Law Act- relating to maintenance and custody where the child or children concerned are in the care of State **welfare** authorities.
 
@@ -1910,6 +2064,10 @@ There are some who see the objective as not one of self-management, of the abili
 
 * It is one of the absurdities of our society that representatives of an industry which is exposing its workers and the community to the risks of asbestos-caused diseases are advising governments on issues of public health and **welfare**.
 
+* When in Canada a few weeks ago 1 checked on this claim with top officials of the Canadian Department of National Health and **Welfare**.
+
+* 2 on the Australian Assistance Plan, a report prepared by the Social **Welfare** Commission.
+
 * We are sorry that Opposition members have so little real interest in health insurance and health care that they have been unable to do more in this debate than to reiterate unproven - and unproveable - assertions that health care will suffer if the means of financing it is rationalised and to demonstrate that they are more concerned about the material self-interest and the private ambitions of a small clique of people than they are about the **welfare** of Australians generally.
 
 * Ten per cent of Commonwealth revenue to local government for general activities which now include social **welfare**, health, conservation and other community needs.
@@ -1921,6 +2079,8 @@ There are some who see the objective as not one of self-management, of the abili
 * for instance, a cardiac problem, and some apprehension exists about his **welfare**, he would go into hospital for that sort of treatment.
 
 * In my view- I have to admit that I do not have a degree in biology, but I have a great interest in the **welfare** of my electorate- the present regeneration of our native forests is being very well managed, especially in the area of wildlife and some of the areas mentioned in the report of the Standing Committee on Environment and Conservation.
+
+* In regard to the recommendation concerning an inquiry into the problems associated with the special care and treatment of the physically and mentally handicapped of all ages, this recommendation is closely related to the series of recommendations made by the Senate Standing Committee on Health and **Welfare** in its Report on Mentally and Physically Handicapped Persons in Australia which was tabled on 5th May 1971.
 
 * 1 just want to point out to the House and to the Minister for Defence  (Mr Barnard)  that members of the armed services stationed at Butterworth near Penang have mentioned to me lately that they feel that their **welfare** could be improved considerably if on humanitarian grounds the Government were to organise periodic charter flights so that the relations of those people who are up there for a long term could visit the serving personnel in those areas.
 
@@ -1947,6 +2107,8 @@ Whilst the Opposition strongly supports the decisions taken to protect the **wel
 
 * The main features are that the Minister- and I stress that it is the Minister- may apply to the Full Bench of the Commission for a declaration that industrial action by an organisation, or a group of its members, has had, is having, or is likely to have a substantial adverse effect on the safety, health or **welfare** of the community or a part of the community.
 
+* A review of the existing maximum subsidy limits is one of the matters being considered by  a  Committee of Inquiry into Aged Persons Housing, set up by the Social **Welfare** Commission.
+
 * the need for a comprehensive health and **welfare** service for the ACT.
 
 * Let me say in rebuttal of what has been said by the honourable member for Angas that there is not a redundancy problem insofar as the sulphuric acid plant is concerned which is affecting the social **welfare** of some members of families both at Nairne in the honourable member's electorate or in the Largs North area.
@@ -1954,6 +2116,8 @@ Whilst the Opposition strongly supports the decisions taken to protect the **wel
 * By introducing this measure, the Government wishes to assist Australian woolgrowers further in their efforts to advance the **welfare** of their industry.
 
 * A Cabinet **welfare** committee report came before my predecessors in 1970 suggesting that it be phased out in Australia.
+
+* The Opposition is just a little late on that because we have put that up, and this is part of our proposals which the honourable member for Hotham (Mr Chipp) and others have acclaimed as one of the good features of our scheme - more than I can say, unfortunately, for the Federal  President  of the Australian Medical Association who informed us at a meeting of the Caucus **Welfare** Committee in Canberra some months ago that he could see no good thing in the scheme and there was no point in discussing it.
 
 * I have found that they are in the main - there are probably exceptions to the general rule - completely dedicated to trying to promote the **welfare** of primary industry and that they do not spare themselves when there is need for a special effort in that direction.
 
@@ -1983,6 +2147,10 @@ Whilst the Opposition strongly supports the decisions taken to protect the **wel
 
 * We also want to ensure that proper provision is made for the **welfare** and interests of Aboriginal people in the Alligator Rivers Region and of all other people living in the region and working on the development projects.
 
+* **Welfare** housing, to use that general term, has probably nowhere else in Australia been promoted as successfully as it has been in South Australia.
+
+* It is unfortunate, however, that some of the matters raised by you don't seem to have been properly answered by the Social **Welfare** Commission's 'Green Paper'.
+
 * The Western Adelaide Regional Council for Social Development has at its disposal $456,000 to be given to the community in grants to support community **welfare** activities.
 
 * 1.3 The AAP should be seen as complementing other planning mechanisms which may be established between the Commonwealth Government and State Governments within the social **welfare** sector.
@@ -1993,11 +2161,17 @@ Whilst the Opposition strongly supports the decisions taken to protect the **wel
 
 * Other specific Commonwealth Government programs such as Community Health, Child Care, Community Arts, Tourism and Recreation, and the Aged and Handicapped Persons programs, for example, are the main source of funds for particular aspects of community **welfare**.
 
+* The Western Adelaide Regional Council of Social Development is fortunate to have amongst its members such notable people as 3 local Mayors, a number of Aldermen, several medical practitioners, a Regional Director of the Department of Community **Welfare**, a member of Parliament, Chairman of Community Councils for Social Development, a Superintendent of Police, a Baptist Minister and other activists in the community.
+
 * May I quote further from the same statement: 'The Liberal and National Country Parties reiterate their commitment to supporting and enlarging participation in the decision-making structures relating to the AAP and reaffirm their commitment to the on-going nature of the Plan as a means of assisting individuals, groups and areas in greatest need of social **welfare** assistance at the community level .
 
 * 'We are in favour of increased funds for social **welfare** projects and agree that the AAP is, basically, a suitable vehicle through which social **welfare** funds may be channelled to the community .
 
+* May I on this occasion also quote from the official Liberal and National Country Parties Social **Welfare** Policy Document: 'We welcomed the introduction of the Australian Assistance Plan, because we believed that provision of some Commonwealth funds and assistance would act as a catalyst for citizen involvement in positive community service.
+
 * Let me stress once more that due to the representation of all three levels of government and non-government voluntary community **welfare** agencies the Western Adelaide Regional Council for Social Development serves very well the role of a co-operating and liaising body which does not impose its views on the community but is representative of community opinion.
+
+* On behalf of actual beneficiaries, involved individuals, agencies and organisations, such as the Commonwealth Employment Service offices at Preston and Heidelberg, Preston Employment Action Group, Program for Unemployed SelfHelp (West Heidelberg), the 2 community health centres situated in the large Housing Commission estates of Preston/Reservoir and West Heidelberg, Preston and Northcote Community Hospital, Austin Hospital and North Eastern Suburbs Regional Office (Social **Welfare** Department), we request that you give your most urgent consideration to the relocation of an unemployment and sickness benefit component at the Preston regional office.
 
 * He is about more unemployment; he is about imposing sacrifices on people; and he is about cutting back on important **welfare** programs and neglecting many areas of need.
 
@@ -2005,9 +2179,13 @@ Whilst the Opposition strongly supports the decisions taken to protect the **wel
 
 * He is an appointed spokesman for the Australian Labor Party on health matters but I would like to draw his attention as a fell'ow Queenslander and somebody who I would like to believe is interested in the **welfare** of the people of my State to a statement made by his leader during the last election campaign.
 
+* For example, at present the following programs are among those being evaluated: the Family Day Care Scheme of the Children 's Services Program the role of the Aged Persons Hostels in the Aged Persons **Welfare** Program the pilot **Welfare** Rights Program the pilot Citizens Information Centre Program.
+
 * This is another reason why there would be interference to something that is already contributing greatly to the **welfare** of the people of Australia.
 
 * But the overriding concern of governments should be the interest and **welfare** of the disabled worker or employee, not the establishment of fault in the causation of the injury which has caused disability.
+
+* Since the present Government came into office on 2 December it has provided grants of $225,000 for the United Nations Fund for Population Activities, $125,000 for the International Planned Parenthood Federation, $200,000 for the Family Planning Association of Australia and $100,000 for the National Catholic **Welfare** Committee of Australia which will be repeated as an annual commitment.
 
 * It occurs to me that the way to demonstrate real concern for social **welfare** recipients is not by advancing the implementation of a single increase by a fortnight, hut by ensuring that increases are in fact adequate to the need and directed as quickly and effectively as can be done to areas of maximum need.
 
@@ -2028,6 +2206,8 @@ Whilst the Opposition strongly supports the decisions taken to protect the **wel
 * These are the trends: Commonwealth expenditure on social security and **welfare** programs has increased from less than 1 7 per cent of the total outlay in 1 967-68 to more than 27 per cent today, 10 years later.
 
 * This Government believes in encouraging people in the community to try to help those less fortunate than themselves rather than leave all **welfare** on the shoulders of big brother government.
+
+* I do see in this a possible danger - I do not say that it is an actual danger; it is a danger against which we have to guard - that the proposed Social **Welfare** Commission will cut into the field of the voluntary bodies and to some extent impair their successful operation.
 
 * I am a little bit worried by sub-clause (vi) of clause 14 (b) of the Bill which states: 
 ... for avoiding the duplication of social **welfare** programs .
@@ -2051,6 +2231,8 @@ Whilst the Opposition strongly supports the decisions taken to protect the **wel
 The 1974-75 Budget is predicted on an assumption of 20 per cent inflation- a complete abrogation of the Prime Minister's pre-election assurance, repeated in this Parliament, that inflation would be reduced to 8 per cent by the end of this year.
 
 * In short, it is a Budget which has attempted to purchase a **welfare** program at the expense of the economy required to sustain it.
+
+* I believe that the report fully justifies the stand taken by the then Minister for Aboriginal Affairs,  Senator Cavanagh,  who, against great odds and despite the reluctance of the Western Australian Premier, despite the reluctance of the Minister for Community **Welfare** in the Western Australian Government and despite the opposition of the Police Commissioner and the  Deputy  Police Commissioner, persisted with the idea of probing this unfortunate incident.
 
 * Indeed, since there has been large scale evidence of bad treatment of Aboriginal people by the courts, the police, institutional people and many others associated with justice, I sought at the request of the Aboriginal Legal Service and a large number of other legal people and persons involved with social **welfare** organisations to extend the terms of that inquiry past the Northern Territory on to a Australia wide basis.
 
@@ -2085,6 +2267,10 @@ Let us never forget that the introduction of indexation of pensions was a major 
 
 * In addition the Department administers payments to the States for housing, education, health, **welfare** and employment responsibilities.
 
+* Appeals Regulations, the Conciliation and Arbitration Act, the Trade Practices Act, the Family Law Act, the Social **Welfare** Ordinance, the Legal Assistance Ordinance and the Racial Discrimination Act.
+
+* The second point I make is in regard to the National **Welfare** Fund which was mentioned by my friend the honourable member for Lilley  (Mr Kevin Cairns).
+
 * This area has now been covered by the present Government, which is determined to look after the **welfare** not only of the building industry but of the young home builders and the industrial builders of this nation.
 
 * They will accumulate all of the funds and leave the rest of the community to struggle along on social **welfare**.
@@ -2096,6 +2282,8 @@ Let us never forget that the introduction of indexation of pensions was a major 
 * I would have thought that that council should include people such as those interested in social **welfare** who would know the needs and the wants of people who at this time in Australia do not appreciate the niceties of a classical painting or a classical graphic drawing but who can be stimulated to satisfy their minds more in a way in which would add to their enjoyment of life.
 
 * I reflect the concern that was expressed for my **welfare** in a number of speeches from honourable members opposite because at the moment I am on the receiving end of lobbyists who exert enormous pressure.
+
+* That there is a crisis in Aboriginal **Welfare** in the South West Land- Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
 
 * It was popular once to pour money into education firmly in the belief that money would solve all problems but I think that we have found in this area and in a number of other areas such as **welfare** and health- in fact, just about any field we have had anything to do with recentlythat money is not the answer.
 
@@ -2116,6 +2304,8 @@ Let us never forget that the introduction of indexation of pensions was a major 
 * Medibank will gallop away with such a proportion of gross national product that there will not be sufficient funds available for the other important health and **welfare** services that the people need.
 
 * Perhaps some well-meaning Fabians believe that we should spend the money on **welfare** and other matters.
+
+* The Minister for Social **Welfare** in the Liberal Government in Victoria reacted critically to this proposal and said that all that the Government - his colleagues here in the Liberal Federal Government - was seeking to do was to have an inquiry which would shift the responsibility from the Federal Government to State Government authorities because of the imminent Federal election.
 
 * I said that we would set up a wide-ranging committee of inquiry with open terms of reference to inquire into the broad aspect of social **welfare** that would have special emphasis on the subject of poverty and would progressively report to a Labor government and that we would establish this inquiry, announce its terms of reference and announce the personnel of such an inquiry within 3 months of being elected to the government.
 
@@ -2158,6 +2348,8 @@ Let us never forget that the introduction of indexation of pensions was a major 
 * Members of the Australian Labor Party are particularly aware of the deficiencies of our **welfare** services as they affect migrants because most migrants live in electorates represented by members of the Australian Labor Party in this House.
 
 * There could scarcely be anything more begrudging than this in any social **welfare** legislation.
+
+* However, the honourable member may be interested to know that an interdepartmental committee has been set up to study and report on the recommendations of the Report on Mentally and Physically Handicapped Persons in Australia made by the Senate Standing Committee on Health and **Welfare**.
 
 * We must never ignore from now on the **welfare** and security of the South Pacific, to which area the Minister for Foreign Affairs very properly devoted a large part of his statement.
 
@@ -2227,12 +2419,18 @@ Medibank.
 
 * Expenditure by State and local governments and voluntary agencies adds another $400m to the nation's health and **welfare** bill.
 
+* t Social **Welfare** Claims and Payments  (Question No.
+
 * 4120 (Hansard, 2nd November 1971, pages 2880-1) regarding social **welfare** claims received and payments made in Canberra during the last 5 years, was the increase in the number of claims received between 1966-67 and 1970-71 attributable to the increase in population during the period or was it due to other reasons.
+
+* Can he give details of how the sum of $53,226 paid out as **Welfare** benefits in Canberra in 1970-71 was spent.
 
 * Huge government spending in Great Britain in socialist **welfare** experimentation and interference in supply and demand through buying into industry have left huge deficits and enormous industrial losses.
 
 * I think the  Australian  newspaper, with which I do not always agree, summed up the situation pretty well on Tuesday of this week, It said: 
 Financial assistance has been granted for travel by rural workers under certain circumstances; subsidies have been paid to employers taking more than the normal number of apprentices; goods and services have been provided in decentralised areas by the Commonwealth in the areas of cultural and recreational facilities, public health, **welfare** and housing.
+
+* This raises a major consideration, namely, the additional burden which would be placed on the Australian taxpayer who, in 1971-72, is expected to provide some $510m from the National **Welfare** Fund for health services.
 
 * In the present we require a very large degree of it, and in the future it will be equally indispensable for the **welfare** and the growth of this young Australian nation.
 
@@ -2243,6 +2441,8 @@ Financial assistance has been granted for travel by rural workers under certain 
 * The Government acknowledges that those who have put forward these views have been motivated by genuine feelings of concern for the **welfare** of the Timorese.
 
 * The speech of the Leader of the Opposition  (Mr Malcolm Fraser)  in response to the Budget Speech proposed the lifting of these levies and the payment of **welfare** payments to beef producers in critical financial situations.
+
+* There are already certain limitations upon the right of entry on to Aboriginal land which are administered through the Social **Welfare** Ordinance of the Northern Territory.
 
 * It has also been pointed out to me that when it comes to the implementation of programs to fund community health centres, Aboriginal **welfare** programs and the like, the Labor Government had full consultation with the States.
 
@@ -2266,7 +2466,16 @@ Financial assistance has been granted for travel by rural workers under certain 
 
 * I say that because it is the private sector which generates the wealth on which the public sector relies for its growth and the funding of social **welfare** programs.
 
+* What steps have been taken to implement recommendations of the Senate Standing Committee on Health and **Welfare** concerning drug abuse, in particular the adjustment of excise to ensure that the cost of beverage alcohol does not decrease relative to average consumer costs or incomes.
+
+* The Melbourne-Centre will employ: 1 Sessional Psychiatrist 1 Sessional Clinical Psychologist 2 Sessional Remedial Teachers 1 Executive Officer 1 Social Worker (number of positions will be dependent on the size of the case-load) 1 Senior Vocational Counsellor 1 **Welfare** Officer 1 Workshop Manager 2 foremen 4 Instructors 1 Storeman 1 Liaison Officer 1 Clerical Assistant 2 Typists 1 Labourer 
+In the calculations that I have made in regard to particular councils it would seem that the situation that has been found by Victorian local authorities will be duplicated within New South Wales.
+
 * A budget that sets out to achieve the **welfare** and the best objectives for the individual will be a budget which proves that at a government level the security of those individuals has best been effected.
+
+* The Task Group comprises representatives from the Departments of Employment and Youth Affairs, Education, Finance, Health, Industry and Commerce, Prime Minister and Cabinet and Social Security (Social **Welfare** Policy Secretariat).
+
+* Honourable members may recall that the Home Savings Grant Act 1964 provides that grants under that Act are paid from the National **Welfare** Fund under a special appropriation.
 
 * There is a range of justifiable reasons for abortions- matters like the physical and mental health of the person involved and their social **welfare**, which is not unimportant.
 
@@ -2288,6 +2497,8 @@ We have heard much about grants-in-aid and money for housing, health, education,
 * He told the States that they would receive the same money for **welfare** housing as before.
 
 * In fact he is on public record in 2 speeches as having guaranteed the States that their allocations for **welfare** housing would not be cut back.
+
+* The report of the Senate Standing Committee on Health and **Welfare** in respect of mentally and physically handicapped persons is very  far  reaching  in  its implications for both the Commonwealth and the States, and the recommendations of the report cover  a  wide range of issues which could affect questions of major policy in several Commonwealth Departments.
 
 * We have heard only in the last few days that as a result of the General Agreement on Tariffs and Trade discussions these expectations can no longer be realised because it is believed there has been a block and that that block will mean, of course, that international trade will not be generated at the predicted figure of 7.5 per cent but will fall to an ever much lower figure with a consequent impact on commodity prices and the **welfare** of the people of this country.
 
@@ -2339,9 +2550,17 @@ We have heard much about grants-in-aid and money for housing, health, education,
 
 * The Council will advise the Government on responsibility and revenue sharing as well as provide a medium for consultation and co-operation between Federal, State and local governments in vital areas such as health, **welfare**, education and community services.
 
+* Regarding social services, I think that the House sometimes has been inclined to overlook that payments this year from our National **Welfare** Fund will reach the all-time level of $ 1,473m, which is an increase of SI 31m over last year or an increase of almost 10 per cent.
+
+* Except for 1969-70 this is the largest increase in the whole history of the National **Welfare** Fund.
+
+* Behind this increase in expenditure from the National **Welfare** Fund there are several factors, and I should like to list three of them.
+
 * However, I would suggest that the House might consider that one reason for this is that in this **welfare** field 1970-71 is the year of health services.
 
 * That all words after That' be omitted with a view to inserting the following words in place  thereof: 'the House condemns the Budget because (a) it breaks the Prime Minister's pledge to Parliament on taking office to bring into effect for 1971-72 a fundamental review of social services and of methods for adjusting them, (b) it contains no proposals to balance the finances and functions of the Commonwealth, the States and local government and (c) it produces no programmes for high national objectives of social **welfare**, economic strength and national security'.
+
+* While he was in Australia his  4  children were under the care of the Child **Welfare** Department; so government departments had some knowledge of him.
 
 * That all words after 'That' be omitted with a view to inserting the following words in place thereof: 'the House condemns the Budget because (a) it breaks the Prime Minister's pledge to Parliament on taking office to bring into effect for 1971-72 a fundamental review of social services and of methods for adjusting them, (b) it contains no proposals to balance the finances and functions of the Commonwealth, the States and local government and (c) it produces no programmes for high national objectives of social **welfare**, economic strength and national security'.
 
@@ -2379,11 +2598,16 @@ We have heard much about grants-in-aid and money for housing, health, education,
 
 * I was urged to be brief but I want to close by making a considered statement and I do so as one whose only interest in this exercise is the **welfare** of his State.
 
+* If I take random headings from the Treasurer's speech, I see: 'Defence', 'Payments to the States', Social **Welfare**', 'Sheltered Workshops', Repatriation Benefits', 'Mental Health Institutions', 'External Aid', 'Assistance to Woolgrowers' and 'Aboriginal Advancement'.
+
 * They are not interested in the **welfare** of those particular people.
 
 * the matters which I have mentioned we can now in this Parliament, thanks to last Friday's historic decision by the High Court, at last achieve national codes in matters which concern the **welfare** of all Australians.
 
 * That amendment expresses the concern of the Australian people for our future and our **welfare**.
+
+* The amendment states: this House is of the opinion that the Budget fails to tackle Australia's economic crisis, in that: 
+1 ) Grants are available to Aboriginal communities and groups from funds voted to the Department of Aboriginal Affairs by the Parliament for a variety of purposes, including **Welfare**, Housing, Education, Health, Community Amenities, Aboriginal Land Fund Commission, Loans Commission and Legal Aid.
 
 * system does not result in a minimisation of social costs there will be a **welfare** loss to the community.
 
@@ -2415,12 +2639,16 @@ We have heard much about grants-in-aid and money for housing, health, education,
 
 * The Budget Speech of the Treasurer  (Mr Crean)  contained a great many items concerned with this country's **welfare** services.
 
+* We support the suggestion made to the Minister by that group and by the Regular Defence Forces **Welfare** Association that a new committee be constituted to make recommendations in relation to servicemen who retired prior to October 1972.
+
 * Last Tuesday, I think it was, the honourable member for Grayndler  (Mr Antony Whitlam)  and I, as members of the Opposition's **welfare** committee, met with delegates of the Australian Hospitals Association.
 
 * 1 ) The assistance provided under the Homeless Persons Assistance Act is not payable direct to homeless men and women, but to the eligible organisations that provide assistance to homeless persons by way of food, accommodation or a social **welfare** service.
 
+* My authority is a volume publised by the United States Department of Health, Education and **Welfare** which I obtained from the Parliamentary Library.
+
 * The volume states clearly: 
--I refer the Minister for Aboriginal Affairs to the fact that the Western Australian Government intends to provide for the Minister for Community Welfare in that State to override the Commissioner for Aboriginal Planning and, by extension, the Aboriginal Land 
+-I refer the Minister for Aboriginal Affairs to the fact that the Western Australian Government intends to provide for the Minister for Community **Welfare** in that State to override the Commissioner for Aboriginal Planning and, by extension, the Aboriginal Land 
 In the light of these recommendations one would expect that a government which for the time being was custodian of the great social **welfare** powers of this Commonwealth and which was formed by a Party which has claimed to be the traditional guardian of the poor would have committed itself immediately and irrevocably to a program to rescue them from their worsening plight.
 
 * The social **welfare** program which the Government has unfolded is one that gives to the haves - albeit in part - at the expense of those who now have more.
@@ -2428,6 +2656,8 @@ In the light of these recommendations one would expect that a government which f
 * Of course the Government has adorned the Governor-General's Speech with the old familiar phrases - 'protection for the weaker section of the community', **welfare** housing will be provided 'as soon as circumstances permit', the next Budget will make further increases in social security, and it will also provide for increased assistance for the handicapped and disabled.
 
 * Unless the people are to be taxed to an inordinate extent the community just cannot afford the social **welfare** program, however attractive it may seem to some, which the Government urges upon us and at the same time adopt an effective program against poverty.
+
+* The Social **Welfare** Commission is not a satisfactory vehicle.
 
 * There is another broad aspect of the Government's social **welfare** program to which I would like to refer.
 
@@ -2453,6 +2683,8 @@ In the light of these recommendations one would expect that a government which f
 
 * I am sure that honourable members will agree with me that the Australian airlines have made a very significant contribution to the development and **welfare** of this country, with an air safety record equal to the world's best.
 
+* The ban on saccharin in the United States and Canada is based on toxicological investigations carried out by the Health Protection Branch of the Canadian Ministry of Health and **Welfare**.
+
 * At the time the Government took the opportunity to say to the Premiers that the position in **welfare** housing is very much derivative from the stop-go policies which were pursued by the previous Labor Administration.
 
 * As I recall the figures, subject to checking after question time, the amount of money provided for **welfare** housing some 3 years ago under the Labor Administration was $ 169.8m.
@@ -2460,6 +2692,8 @@ In the light of these recommendations one would expect that a government which f
 * The taxpayer gains through increased social **welfare** benefits, education, roads, sewerage, and so on.
 
 * Even today, those of us who have been concerned with migrant **welfare** and have achieved some assistance for family reunions, find that there is discrimination continuing in the matter of the issue of visas.
+
+* If the Leader of the Opposition and other honourable gentlemen were to read the report of the committee of inquiry into preschool education by Miss Fry which was tabled about 8 months ago, the report by the Australian Social **Welfare** Commission which was tabled yesterday and the report by the Priorities Review Staff which also was tabled yesterday, they would see that this is a very complex matter; that in fact there are very great difficulties in carrying out a program of care and education of children before they go to primary school, particularly in the light of the varied circumstances in the different States.
 
 * But in this particular industry in the last few months, what we have seen has been an almost co-ordinated approach by members of various unions to sabotage the future **welfare** of the entire Australian people.
 
@@ -2525,6 +2759,8 @@ In the light of these recommendations one would expect that a government which f
 
 * Yet, members of the Labor Party go home and say that they have increased **welfare** benefits and that the people should be happy about that The people will realise, as the months roll on, just what a disaster this Budget has been.
 
+* Task Force on Co-ordination in **Welfare** and Health  (Question No.
+
 * Let Government supporters tell us what the position is today in Phuoc Tuy Province and those areas where Australian blood was shed, where Australian money was spent and where we devoted a great proportion of our resources to help establish the sort of administration that we believed should be established in South Vietnam - an honest, forthright administration working for the **welfare** of the people of South Vietnam.
 
 * The Child Care Standards Committee has five educationists qualified as pre-school teachers, an authority on child psychology who was a principal of a Kindergarten Teachers Training College, one eminent psychiatrist, one social worker with special experience in child care and a senior administrator in a State **welfare** depanment.
@@ -2545,6 +2781,8 @@ In the light of these recommendations one would expect that a government which f
 
 * It certainly concerns the **welfare** of ex-servicemen.
 
+* Accordingly, on Thursday, 27th September, 1979, I telephoned the prison and spoke to the acting **Welfare** Officer.
+
 * The Government decided that improvements must be effected in all aspects of our aid endeavours- in the machinery for formulating policy, in ensuring greater attention to the **welfare** and distributive effects of our aid, in evaluating the effectiveness of our various programs, in bringing greater expertise into our staffing arrangements and in more directly associating the community with the Government's aid efforts.
 
 * The humble petition of citizens of Australia respectfully showeth: 1, It is obvious the people of Australia are vitally concerned about the **welfare** of some nine million East Pakistan refugees that have crossed the border into India.
@@ -2554,6 +2792,8 @@ In the light of these recommendations one would expect that a government which f
 * The field services and counselling services of the child **welfare** branch have been delayed.
 
 * He said that all Territory residents eventually would have sufficient income to live without work or **welfare** if they so chose.
+
+* 1 ) Has a decision been made on assistance for building extensions and purchase of equipment for the Mandurah Girl Guides Association submitted by the Mandurah Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commissioner to his Department.
 
 * This will be used for grants to non-governmental organisations for a wide range of purposes - for **welfare** work, adult education, the provision and running of hostels, support of the arts, crafts and cultural activities, support of youth and sporting activities, Aboriginal housing societies and for pre-schooling provided by private organisations.
 
@@ -2599,6 +2839,8 @@ In the light of these recommendations one would expect that a government which f
 
 * The amendment merely supports the contention of those who have responsibility to attend to matters affecting the **welfare** of servicemen of this country.
 
+* That the Commissioners have access to all Federal authorities' records relating to health, social security, matrimonial causes and income tax and have power to seek the co-operation of the respective State authorities in these jurisdictions and including the State Law Enforcement and Child **Welfare** agencies.
+
 * As far as practicable the Commissioners to comprise a mother experienced in social **welfare**, a medical practitioner, and a criminologist.
 
 * As a nation we have far to go and we have much to do in areas such as education, health, **welfare** and the development of human and natural resources.
@@ -2607,7 +2849,11 @@ In the light of these recommendations one would expect that a government which f
 
 * Contrary to continuing and unfounded rumours, the Bill confirms the Government's continuing and vital interest in the **welfare** of those who have served their country.
 
+* However, the Department arranged, on behalf of the Social **Welfare** Commission, for  Mr R.  Myers of the University of New South Wales to plan and conduct a training course for Social Planners.
+
 * I am glad to see that the Opposition spokesman for social **welfare** and related matters is at the table because I believe he would agree wholeheartedly with this view.
+
+* Finally, would he be prepared to receive some members of the deputation of the **Welfare** Committee for Refugees from Indo-China who I understand are in Canberra today?
 
 * Nobody could criticise the **welfare** payments which are being made to people who are in need.
 
@@ -2624,9 +2870,9 @@ In the light of these recommendations one would expect that a government which f
 * Sir Billy  Snedden who is not exactly an unimportant authority said at a  meeting  of local government councillors in Melbourne in 1974: 
 3 ) Any current or future planning for the further development of Commonwealth rehabilitation services and facilities on a regional basis would have regard to the existence of all health, education and **welfare** services and facilities within the region.
 
-* The Australian Labor Government established the Social Welfare Commission in 1973 with a broad range of responsibilities in the social **welfare** area.
+* The Australian Labor Government established the Social **Welfare** Commission in 1973 with a broad range of responsibilities in the social **welfare** area.
 
-* The Commission, in turn, set up on 12 November 1973, a Working Party on Social Welfare Manpower under Section 1 4 (f) of its Act- to consider and report to the Minister on measures designed to provide skilled staff for the successful implementation of social **welfare** programs.
+* The Commission, in turn, set up on 12 November 1973, a Working Party on Social **Welfare** Manpower under Section 1 4 (f) of its Act- to consider and report to the Minister on measures designed to provide skilled staff for the successful implementation of social **welfare** programs.
 
 * The right honourable member's questions are being considered within the general context of the Working Party's examination of **welfare** manpower issues.
 
@@ -2644,9 +2890,13 @@ In the light of these recommendations one would expect that a government which f
 
 * Thirdly, there is the new provision regarding Service housing, which is intended to assist the States to allocate more funds to **welfare** housing proposals.
 
+* 1 give an undertaking to the honourable member for Sturt that the report on his proposal will be available as quickly as possible and on the Treasurer's return this weekend I will put to him for consideration the suggestion that the proposal should go to the Social **Welfare** Policy Secretariat.
+
 * It is true also that there have been discussions over a couple of years now about a series of multi-lingual **welfare** officers to help in the attack on the problems which have been created by the unplanned movement of people into the cities.
 
 * Similarly, expenditure on health, hospitals and **welfare** is the lowest for any State.
+
+* The Albury-Wodonga Interim Regional Working Committee for **Welfare** Education and **Welfare** Coordination is the body initially funded under the Australian Assistance Plan.
 
 * Quite clearly it is designed to achieve a political aim and not to contribute to the **welfare** of the people the honourable member for Hindmarsh  (Mr Clyde Cameron)  claims to support, namely the professional engineers of Australia.
 
@@ -2661,6 +2911,8 @@ In the light of these recommendations one would expect that a government which f
 * The Government also looked at the 6 official members of the Legislative Council and, against the backdrop that it thought the Northern Territory should have a much greater degree of attention than it has been given before, the Government decided that rather than have the 6 official members from the Department of the Northern Territory, and as the new approach is specialisation with special attention being given to health, education and Aboriginal **welfare**, that each of those specialised departments should be represented on the Legislative Council.
 
 * These include State National Fitness Councils, youth and community services organisations, sporting groups, local authorities, **welfare** agencies, schools and churches.
+
+* 1 ) There have been eight meetings held between Federal and State officials to discuss the possible implementation of recommendations in the first report of the Task Force on Coordination in **Welfare** and Health and the report of the Committee on the Care of the Aged and the Infirm.
 
 * I believe the Government's action in this matter has again shown its concern for the **welfare** of the Australian communities suffering adverse effects from international economic conditions.
 
@@ -2678,6 +2930,8 @@ In the light of these recommendations one would expect that a government which f
 
 * 1 ) While my Department does not undertake or commission opinion polls, considerable survey work is undertaken in conjunction with its evaluation of ongoing programs, internal administrative arrangements and overall assessment of the **welfare** needs of the community.
 
+* The Research Information System maintained by my Department indicates that since 1975 the Department has been involved in 87 research projects, excluding Commission of Inquiry into Poverty and Social **Welfare** Commission undertakings.
+
 * It has cut back on education, on **welfare** housing for Aborigines, on child minding centres and on a host of other things on which it cannot properly justify cutting back.
 
 * The main thrust of my argument will be directed at showing that inflation and inadequate increases in **welfare** benefits are causing intolerable hardships for people in these groupings.
@@ -2686,8 +2940,12 @@ In the light of these recommendations one would expect that a government which f
 
 * I believe that both sides of this House ought to try to stop scoring political points on the question of social **welfare**.
 
+* Let me quote again from 'Health and **Welfare** in Canada 1969*.
+
 * This publication states: 
 It extends federal sharing to include the following costs, which were not shared under the Unemployment Assistance Act: The cost of assistance to needy mothers with dependent children, maintenance of children in the care of provincially approved child **welfare** agencies, health care services to needy persons, and the extension of **welfare** services to prevent or remove causes of  dependency or to assist recipients in achieving self-support.
+
+* **Welfare** services may include rehabilitation services; casework; counselling and assessment services; adoption services and homemaker, day-care and similar services supplied to persons in need or  to  persons to whom the service is essential if they are to remain selfsupporting.
 
 * I would hope that a longer term effect will be to cause all registered organisations to attempt to manage their operations with greater economy and efficiency and to be mindful of their principal objective which must be the **welfare** of their contributors.
 
@@ -2698,6 +2956,8 @@ It extends federal sharing to include the following costs, which were not shared
 * In the last 12 months the Council has been continuing to exchange correspondence with the Minister for Social Security  (Senator Guilfoyle),  protesting about the fact that the subsidy which has traditionally been paid by the Commonwealth Government towards the salary of the **welfare** officers has been reduced from twothirds to one half, which seems to me to be a fairly penny-pinching sort of operation, anyhow.
 
 * I would think that there would be a reasonable argument that could be made out to try to coerce the Minister for Health to do something about his sister department, the Department of Social Security, seeing whether some good sense could be brought to bear to ensure that subsidies- as low as they were before with two-thirds of the salary of **welfare** officers being found by the Government- were restored to a reasonable level and also with a view to seeing that the 50c a day pittance paid to Meals on Wheels was increased to a figure more in line with the actual cost.
+
+* The final report of the Committee will be submitted to the Social **Welfare** Commission and it is expected that a report and recommendations will be presented to the Government before the end of May.
 
 * It does seem though, as honourable members from this side have pointed out, that the Minister for Social Services  (Mr Wentworth),  with all his great talk about social justice and what he would do for the people of Australia, has proved that he is a bits and pieces and patch up man in respect of social **welfare**.
 
@@ -2732,6 +2992,9 @@ It extends federal sharing to include the following costs, which were not shared
 * I believe that this Bill, which is designed to grant financial assistance to the States in connection with the **welfare** and advancement of the Aboriginal people of Australia, is an anachronism in anybody's language.
 
 * Their confidence must be sapped and it would scarcely be surprising if they became rather bitter and anti-social, particularly when the Government that is doing nothing to alleviate their position also adopts a suspicious, if not hostile attitude to them and treats them as bludgers on the **welfare** rolls rather than as people in need of help.
+
+* I quote the following from a booklet entitled,  Towards a New Australia,  containing an article attributed to the honourable member for Oxley and entitled  New Horizons in Health and **Welfare** Services: 
+There has been a severe restriction and scrutiny of government expenditure.
 
 * Despite these cuts in revenue, the funding of health, education, transport, defence and **welfare** has been maintained at very adequate levels.
 
@@ -2772,6 +3035,8 @@ It extends federal sharing to include the following costs, which were not shared
 * Provides for cuts in real terms in expenditure for traditional federal areas such as **welfare** housing, hospital and health services, pre-school and child care centres, legal aid, school dental schemes, growth centres, sewerage and other programs; 
 I consider, moreover, that the aspects to which I have referred represent only the 'tip of the iceberg' and that there is a need for a complete re-assessment of the whole concept of this aged persons homes program.
 
+* I have accordingly referred the matter to the National Commission on Social **Welfare**, which in turn has appointed a Committee of Inquiry into Aged Persons Housing Policies.
+
 * I appeal to people involved in local government to submit their views on measures that could be taken to stimulate the interest of councils, because I consider them to be uniquely situated to play a leading role in this field of social **welfare**.
 
 * As I explained at the outset, in the context of the Government's comprehensive **welfare** plans this Bill represents only a small interim measure, designed to maintain the value, in terms of purchasing power, of the assistance being given to aged persons hostels.
@@ -2791,7 +3056,7 @@ It is foolish to ignore the very real problems of the poor people in Bourke and 
 
 * I was interested in this regard in an observation made a few weeks ago by the Premier of Queensland when talking about the difficulties which he and his Government face in recruiting sufficient people to work in the field of **welfare** for Aborigines, lt has often seemed to me that those who demonstrate, whatever the form of demonstration, might well look to more beneficial and fruitful form in displaying their concern than simply to seek publicity, whatever the form of search might be.
 
-* Information has been provided by the New South Wales Directorate of Aboriginal Welfare: 
+* Information has been provided by the New South Wales Directorate of Aboriginal **Welfare**: 
 It is obvious the people of Australia are vitally concerned about the **welfare** of some nine million East Pakistan refugees that have crossed the border into India.
 
 * people of Australia are vitally concerned about the **welfare** of some nine million East Pakistan refugees that have crossed the border into India.
@@ -2814,6 +3079,8 @@ It is obvious the people of Australia are vitally concerned about the **welfare*
 My concern- I repeat this because it is an important factor which I want to stress- is that in an endeavour to get a balanced budget, or close to a balanced budget, the Commissions will reduce those services which are not profitable to them without regard to the contribution made by the less densely populated areas; and without regard to the national prosperity through increases in gross domestic product and the increase in national export earnings which, in themselves, are essential to the **welfare** and the prosperity of Australia and, through that, to all Australians.
 
 * He tells us he is going to put value back in the **welfare** dollar, whatever that may mean.
+
+* However, research is continuing under the auspices of the Department of Health, Education and **Welfare** in the United States of America.
 
 * The question of promotion of dairy products is one which must be pursued vigorously by the Australian Dairy Corporation and by anybody who has any interest in the **welfare** of dairy farmers in Australia.
 
@@ -2869,6 +3136,10 @@ My concern- I repeat this because it is an important factor which I want to stre
 
 * Indeed, I go further than that and acknowledge that the Bill presently before the House, even unamended, represents an important advance in our social **welfare** thinking.
 
+* 1 ) Has a decision been made on assistance for establishing facilities at the Pinjarra Methodist Youth Club submitted by the Murray Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department.
+
+* The Minister, in his second reading speech, stated that a reassessment of the aged persons homes program is being undertaken at the moment by the National Commission on Social **Welfare** and pending the receipt of the Commission's report no major changes are contemplated.
+
 * As I said in my second reading speech, there are a number of people outside the scope of the present **welfare** housing assistance programs run by the States who are unable to make satisfactory financial arrangements to purchase a dwelling.
 
 * Second there is a tendency for even the most representative organisation to become inward-looking and to get out of touch with the people whose **welfare** it is supposed to serve.
@@ -2883,11 +3154,19 @@ My concern- I repeat this because it is an important factor which I want to stre
 
 * Nobody in the fruit industry wants a repeat of that **welfare** performance.
 
+* The records of the Aborigines **Welfare** Boa id relating to Crown Land reserved for the use of Aborigines were incomplete and at present action is in hand to bring those records up to date.
+
 * In 1952, the then Minister for Commerce and Agriculture, introducing the Fisheries Bill, informed the House that the intention of the legislation was to provide for conservation of the fishery resources of Australia, The Government now believes that the Act should be broadened to provide not only for conservation but also for the orderly conduct and general **welfare** of the fishing industry, including the rational utilisation of the living marine resources and the rational development of the fishing industry at all levels.
 
 * Under the States Grants (Home Care) Act, financial assistance may be granted by the Commonwealth to the States in relation to the provision of Home Care Services and Senior Citizens' Centres, and **welfare** officers employed in connection with Senior Citizens' Centres.
 
+* Mr CHIPP (Hotham)- by leave - When the Minister for Health  (Dr Everingham)  is replying will he also answer the question asked by the honourable member for Isaacs  (Mr Hamer)  as to whether between now and the passage of this Bill through the Senate he will give consideration to amending the Bill to allow for reports under this Bill to be treated in the same way as are reports that are submitted to the Minister under the Social **Welfare** Commission Bill?
+
 * That all words after 'That' be omitted with a view to substituting the following words: 'this House congratulates the Government on its continuing action to restrict inflation and its effects on people with low incomes receiving superannuation or receiving **welfare** payments and condemns the Opposition for placing in jeopardy the improvement in living standards of all Australians since 2 December 1972 by its action to defer the passage of the Budget.'.
+
+* The breach of our promises to continue the Australian Assistance Plan, wage indexation, the value of the currency, the Social **Welfare** Commission, increased research on solar energy, are matters which have disturbed me greatly.
+
+* Pursuant to section 34 of the Services Trust Funds Act 1947 I present the annual report of the Royal Australian Air Force **Welfare** Trust Fund, the Austraiian Military Forces Relief Trust Fund and the Royal Australian Navy Relief Trust Fund for the year ended 31 December 1977, together with financial statements and the report of the AuditorGeneral on these statements.
 
 * It will destroy once and for all the right of the trade unions to organise their own affairs and to work fearlessly for the **welfare** of their union members.
 
@@ -2907,7 +3186,11 @@ My concern- I repeat this because it is an important factor which I want to stre
 
 * The problem is that this Government has allowed its ideological obsessions with this problem and with many others completely to obscure its view of the Australian community and its overall **welfare**.
 
+* In this financial year $750,000 has been allocated to the States for the family planning associations within the States, including the Australian Catholic Social **Welfare** Commission for educational programs.
+
 * Severe cutbacks in areas vital to the realisation of equal opportunity- education, child care, retraining, health, **welfare**, legal aid, et ceterahave been the order of the day under the Fraser administration.
+
+* Was the Senate Standing Committee on Social **Welfare** in 1976 informed of the intelligence, surveillance and legal enforcement work carried out by the preventative section of his Department; if not, why not.
 
 * Shops (to provide day-to-day needs); play areas, infant health and pre-school child **welfare** centres; meeting hall; and schools.
 
@@ -2919,8 +3202,12 @@ My concern- I repeat this because it is an important factor which I want to stre
 
 * There are more and more parents who are concerned about the direction of education, about the fact that some of the basic skills which we in Australia for many years have taken for granted as part of the education system are not being taught and that some of the other factors to which I have referred tonight are being stressed to the detriment of the **welfare** of the students of Australia.
 
+* I quote from an article headed 'Benefits Paid Abroad Under OASDHI' which is a publication of the United States Department of Health, Education and **Welfare**.
+
 * The experience to which this article refers is as follows: 
 to (6) A suitably qualified worker was appointed to conduct research into community **welfare** needs in the Mount Morgan area but was unable to take up the appointment.
+
+* (a) and (b), (i) and (ii), (A) and (B) The following tables show enrolments in Northern Territory Community Schools operated by my Department and enrolments in ' schools operated by the **Welfare** Branch of the Northern Territory Administration.
 
 * In view of his address to the Victorian State Council of the Liberal Party in which he foreshadowed further reductions in expenditure on health and **welfare** services in this year's Budget, I ask: Will he assure the House that the Government will not restore the means test on pensions for persons over the age of 70 years or reintroduce university fees and loans in breach of the 1975 election commitments?
 
@@ -2950,16 +3237,22 @@ to (6) A suitably qualified worker was appointed to conduct research into commun
 
 * It is designed both to clear the decks for progress in the years ahead and to ensure that in major areas of concern- social **welfare**, education, the quality of urban life- real forward moves are made immediately.
 
+* On 2 December 1972, the Government established the Department of Aboriginal Affairs incorporating the former Office of Aboriginal Affairs with a large part of the **Welfare** Division of the Northern Territory Administration.
+
 * The Council for Aboriginal Affairs advised the government on all 
 The decision to reorganise the administration of our economic aid programs is based on the view that improvements in aid must be effected in almost all aspects of our aid endeavours - in the machinery for formulating policy,, in ensuring greater attention to the **welfare** and distributive effects of our aid, in evaluating the effectiveness of our various schemes, in bringing greater expertise into our staffing arrangements and in more directly associating the community with the program.
 
 * In company with my friend from Lilley I hold the view that the problems which are coming up and which must be dealt with in the Budget for 1975-76 are problems which will affect the **welfare** of all Australians, and in their direct capacities they must be able to withstand the impact of the policies that will be introduced.
+
+* The other projects were received too late to be considered within the 1974-75 capital assistance program for recreation facilities but have been referred by the Social **Welfare** Commission to the Community Recreation Council of Western Australia and will be considered for assistance in the context of the 1975-76 program.
 
 * Members of the Labor Opposition are always mouthing platitudes about social priorities in **welfare**, education, urban renewal and so on, but from the way they talk one would think that they want to dissipate the recovery in a consumer boom.
 
 * The Opposition believes that a proper immigration programme must have a basis of and work towards ensuring Australia's national and economic security, the **welfare** and integration of all its citizens and the balanced development of our nation.
 
 * Chain migration enables the base families to act as **welfare** officers to migrants.
+
+* The view that I have just expressed on the basis of the recommendations of the Poverty Commission was further supported in the paper by that Commission entitled  The **Welfare** of Migrants.
 
 * In other words, that sector of the economy which does not produce wealth but tends to consume it took an increasing proportion of this nation's capacity to refill the pool from which **welfare** payments must be drawn.
 
@@ -2987,6 +3280,10 @@ The decision to reorganise the administration of our economic aid programs is ba
 * Yet the Opposition claims to be concerned about the **welfare** of the disadvantaged groups in our community.
 
 * I urge the Government, in its assessment and reexamination of the social **welfare** system, to get a co-ordinated plan to ensure that retention rates for people on low incomes are increased, that the tax system and the social security system are harmonised, that one department is used to administer the test to be applied, and that the heavy burden placed on low income earners is removed.
+
+* I mention a few -  Mr James  Oswin in the Department of the Media -  Dr Don  McMichael in the new Department of Environment and Conservation -  Mrs Marie  Coleman as head of the new Social **Welfare** Commission -  Mr Charles  Halton in the amalgamated Department of Transport.
+
+* Some of the organisations have been given permanent statutory form, such as the Schools Commission, the Social **Welfare** Commission, the Hospitals and Health Services Commission, the Prices Justification Tribunal and the Pipeline Authority; others have had their statutory charter utterly transformed, such as the Grants Commission, the Cities Commission and the Industries Assistance Commission.
 
 * No Government has done more for the **welfare** of women - and I do not mean simply women in need or women in obvious hardship.
 
@@ -3017,6 +3314,9 @@ The decision to reorganise the administration of our economic aid programs is ba
 * The Committee has made a comprehensive examination of legal aid and has sought submissions from and has had discussions with legal professional bodies and **welfare** organisations throughout Australia.
 
 * The Bill is an extension of the policy propounded by the previous Liberal-Country Party Government and an extension of the policy outlined by the then Prime Minister, the right honourable member for Lowe  (Mr McMahon),  in his well known Australia Day address on Aboriginal **welfare**.
+
+* Under the sub-heading 'Land Off Reserves' he said: 
+The Research Advisory Committee assesses all research proposed under the aegis of the Social **Welfare** Commission.
 
 * It is a kick in the teeth for all those groups of concerned people, the people who set up the child minding collectives, the members of the residents associations, the people working in the area of social **welfare**, the Aboriginal groups with their legal and medical services and their housing projects.
 
@@ -3052,6 +3352,8 @@ The decision to reorganise the administration of our economic aid programs is ba
 
 * What requests or suggestions were made by the Ministers concerned with child **welfare** at their meeting in March 1970 for legislative or administrative action by (a) the Commonwealth, (b) the Territories and (c) the States.
 
+* Staff to comprise of a full-time Project **Welfare** Officer and total budgetary requirements are for administrative purposes.
+
 * They must be integrated with related economic and social policies in the areas of industry development, social **welfare** and education.
 
 * The precise level of each grant will depend in part on the classification of the social worker or **welfare** officer employed.
@@ -3065,6 +3367,8 @@ The decision to reorganise the administration of our economic aid programs is ba
 * The Government is placing increasing emphasis on migrant counselling and selection, and also on English language training and migrant **welfare** services.
 
 * The honourable member for Mackellar was Minister for Social Services and has taken a tremendous interest in social **welfare** over a long time.
+
+* The Social **Welfare** Commission has appointed 6 independent evaluators of the Australian Assistance Plan who will be producing separate reports evaluating the AAP in the 6 States.
 
 * We are strongly and resolutely opposed to the Labor Party's preference for social **welfare** and wealth redistribution instead of production and productivity, and to its preference for irresponsible Government spending instead of the meaningful and rewarding jobs which we plan to give to the Australian people.
 
@@ -3108,7 +3412,14 @@ The decision to reorganise the administration of our economic aid programs is ba
 
 * However, for almost 20 years the Liberals stuck to this balance, ignoring the fact that gradually over the years the circumstances that originally warranted a target of one per cent had changed drastically and, consequently, in the minds of many economists and others actively concerned with the **welfare** of migrants and their assimilation into the Australian way of life, the target became economically unjustifiable.
 
+* Social Security seen a statement alleged to have been made by the Canadian Deputy Minister for Health and **Welfare** and used by the Australian Medical Association, the General Practitioners Society and professional letter writers employed by Messrs Turner and Cade of the hospitals contribution fund and medical benefits funds who quoted the Canadian Deputy Minister as saying: 
+ The answer to the right honourable member's question is as follows: (1), (2) and (3) In my Social **Welfare** policy speech on behalf of the Australian Government at Melbourne on 1 May 1974, I said 'the actual time of the introduction of this program will be a policy decision and accordingly will be announced once that decision has taken place.'
+
+* **Welfare** and counselling services are attached to the family court created by the legislation under debate.
+
 * and the work they perform, in order that he can make a better assessment of the adequacy of the number of social workers that have been allocated to his Department, and whether there is unnecessary duplication in the work undertaken by Government employee social **welfare** workers and those employed by other organisations in the A.C.T.
+
+* For the information of honourable members I present the final report of the Darwin Disaster **Welfare** Council dated March 1976, together with the text of a statement by the Minister for Social Security relating to that report.
 
 * But, corresponding to what I have been saying about capital works, if one looks at the particular areas of spending, such as health, education and **welfare**, one will see that the cutbacks are much more obvious and one will see the implications of the Government's strategy much more clearly displayed.
 
@@ -3124,9 +3435,13 @@ The decision to reorganise the administration of our economic aid programs is ba
 
 * The need for such a research project was discussed and agreed upon at the annual meeting of State **welfare** Ministers and myself held in Brisbane last June.
 
+* Social Services,  Mr W.  C. Langshaw, Under Secretary of the New South Wales Department of Child **Welfare** and Social **Welfare**, who will also be representing equivalent departments from other States, and  Mr A.  S. Colliver, senior lecturer, School of Social Work in the University of New South Wales.
+
 * The study will have great significance for the long term development of Australian social **welfare**.
 
 * In that case, the Prime Minister does not think that States should choose between spending the money on **welfare** housing or on rural roads.
+
+* The Northern Territory regulations provided for the vote for serving or former defence force members but not for wards declared under the **Welfare** Ordinance, which was another paternalistic provision.
 
 * The Statistician has advised that he is examining the practicability of obtaining separate classifications of 'certified nurses', 'probationers or trainees' and 'nursing personnel not elsewhere classified', for purposes of both the next Census and the annual returns from health and **welfare** institutions.
 
@@ -3138,11 +3453,15 @@ The decision to reorganise the administration of our economic aid programs is ba
 
 * The only result will be the betterment of the **welfare** of all Australian people.
 
+* Proposed Multi-purpose **Welfare** Clinics (Question No.
+
 * One of these was our social services and **welfare** programme which has to be looked at in a complementary way.
 
 * I said then that the Government felt that so far as **welfare** was concerned it was 'unfinished business', to quote my words.
 
 * So, too, in the **welfare** services do we believe the same.
+
+* It accords also with the report of the Senate Standing Committee on Social **Welfare**.
 
 * I have no doubt that the previous Government would have liked to introduce such a grandiose budget - a budget to advance the **welfare**, standard of living, education and quality of life of the average Australian.
 
@@ -3151,6 +3470,10 @@ The decision to reorganise the administration of our economic aid programs is ba
 * For **welfare** housing the Queensland Government was assured of a blank cheque by me on 7 June last, as all State governments were.
 
 * Health and **welfare**, roads and urban and rural development in Queensland are.
+
+* The Task Force on Co-ordination in **Welfare**, Health and Community Development has produced an interim report only and a full examination of its implications is still being undertaken.
+
+* I should say,  Sir, that  alcohol is banned from native reserves unless there is a special dispensation by the Social **Welfare** Department in the Northern Territory.
 
 * We have the extraordinary situation that on the one hand the Government, by means of this measure, is spending money in providing these benefits- I do not know how much; the Minister did not put any cost on the proposals- but, on the other hand, in the interests of economy and in order to find money to finance the vast **welfare** proposals which this Government has it is ruthlessly cutting back on defence expenditure as a whole.
 
@@ -3162,13 +3485,29 @@ The decision to reorganise the administration of our economic aid programs is ba
 
 * Anything that is done to improve the conditions of service and the **welfare** of servicemen will receive our support but we condemn the Government for its overall approach to defence.
 
+* More than a quarter of the money allocated for the Migrant Social **Welfare** Advisory Council-$4,000 out of $14,000-has been cut.
+
 * Grants to organisations for **welfare** rights services have been cut by one-fifth.
 
+* A cut of $127,000 is to be made in the allocation of $437,000 for research on special projects for the Social **Welfare** Commission.
+
+* The Canadian Minister for National Health and **Welfare** announced an increase in the budget for the 'Smoking and Health Programme'.
+
 * I should have thought that any measures the Government might want to introduce or announce which would improve post-arrival services for migrants in Australia would have had the support of the honourable gentleman if he were concerned with the real **welfare** of migrants.
+
+* That there is a crisis in Aboriginal **Welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
+
+* 1 ) The honourable member will be aware that the Task Force on Co-ordination in **Welfare** and Health recommended that negotiations be commenced for the transfer of the laboratory at Port Pirie to South Australian administration.
+
+* The Western Australian Minister for Community **Welfare** has communicated with me about proposals to amend the Regulations made under the Aboriginal Affairs Planning Authority Act in relation to the authorisation of entry to Aboriginal reserves in Western Australia.
+
+* The approvals have been the subject of joint press releases by the Minister for Social Security and the former Victorian Minister for Community **Welfare** Services, the  Hon.
 
 * There is a **welfare** problem concerning very low income groups; I grant that.
 
 * Along with other **welfare** policy questions, invalid pension conditions will be considered when social service benefits are being reviewed.
+
+* However, it should be noted that not all meetings that have been held on the Australian Assistance Plan are necessarily recorded on the Social **Welfare** Commission's files, or known about by the Commission as meetings are convened by local groups, which may not advise the Commission of their action.
 
 * Families throughout the country will be greatly helped by the provisions of this Budget not only in regard to taxation but in the whole field of social **welfare**.
 
@@ -3202,6 +3541,15 @@ The decision to reorganise the administration of our economic aid programs is ba
 
 * Under the 1973 Housing Agreement the Australian Government provides substantial financial assistance to the States for **welfare** housing and the Agreement specifically provides that the advances may be used for the purpose of providing accommodation for couples of which the main breadwinner is an invalid, and for single invalid persons as well as for families in receipt of low incomes.
 
+* Pursuant to section 34 of the Service Trust Fund Act 1947, I present the annual reports of the Royal Australian Air Force **Welfare** Trust Fund, the Australian Military Forces Relief Trust Fund and the Royal Australian Navy Relief Trust Fund for the calendar year 1975.
+
+* I draw the Minister's attention to the remarks of the Liberal Victorian Minister for Social **Welfare**,  Mr Brian  Dixon, on 30 July last.
+
+* He went on to say: 
+Has the Minister's attention been drawn to the film Warm Blood on White Ice and the book  Seal Song  produced by Brian Davies, Executive Director of the International Fund for Animal **Welfare**, to direct attention to the annual slaughter of adult and baby harp and hood seals in the north and north east of Canada.
+
+* 1 ) Has his attention been drawn to a report on page 7 of the  Australian  of 8 May 1979 that the United States of America Secretary of Health, Education and **Welfare**,  Mr Joseph  Califano, has launched a national campaign against alcohol abuse with a counselling and referral service in his own department which has about one problem drinker for every 1 8 staff members.
+
 * I know that the Minister for Social Security is most concerned about the overpayment of benefits to social **welfare** beneficiaries.
 
 * This legislation is further evidence of his desire to bring about major changes in our **welfare** system.
@@ -3222,19 +3570,39 @@ The decision to reorganise the administration of our economic aid programs is ba
 
 * I feel that there is not a member on either side of this House who would not desire to assist in providing **welfare** for handicapped people.
 
+* Was the Office of Aboriginal Affairs or the **Welfare** Branch of the Northern Territory Administration consulted before the licence was granted?
+
 * Has action been taken to appoint the long discussed and long prom ised multi-lingual **welfare** officers to assist migrant integration and settlement?
 
 * Has the Minister for Social Security noted in the Press recently reports that Aborigines in Western Australia were alleged to be spending their money on taxis, liquor and in other ways rather' than on family **welfare**?
 
+* Schooling for Aboriginal children at Yirrkala, or at any of the schools formerly administered by the **Welfare** Branch of the Department of the Interior, was not compulsory until December 1973, when by amendment to the Northern Territory Education Ordinance, compulsory education was extended to all Northern Territory children between the ages of 6 and 15, subject to accessibility to school facilities.
+
 * The Government is constantly re-assessing its priorities in the social **welfare** field.
+
+* **Welfare** services catering for the aged could be put out of business because of Federal Government financial restrictions, the director of aged services at Melbourne's Brotherhood of St Laurence,  Mr N.  Brooke, said yesterday.
+
+* I am aware of the situation at Indulkana and recently discussed it with the South Australian Minister for Community **Welfare** in the context of the application of the principle behind the recommmendations of the Aboriginal Land Rights Commission to South Australia.
 
 * On the broader issues, I would hate anybody to think that this is a **welfare** program.
 
+* Has he replied to a letter of 4 May 1978, from the Western Australian Minister for Community **Welfare** indicating an intention of the State Government to remove from the Commission under the Aboriginal Affairs Planning Authority Act, the final authority to approve Aboriginal reserve entry permits and to confer this authority by regulation on the Minister.
+
 * Clause 8 stands as pan of that general pattern and that general principle which has been enunciated right throughout the Bill and which limits the existing standards and conditions of those who are receiving social **welfare** payments.
+
+* Is it a fact, as estimated by the Senate Standing Committee on Social **Welfare** in its report on Drug Problems in Australia, that in the 6 years prior to 1 979 the tobacco industry in Australia spent close to $ 100m on advertising whereas expenditure on anti-smoking campaigns over the same period was of the order of $ 1.5m.
+
+* That there is a crisis in Aboriginal **Welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
+
+* I had a deputation in Sydney just a couple of days ago from the Turkish **Welfare** Association which has been newly established.
 
 * I want to remind the honourable member that we are in the course of appointing 48 multilingual **welfare** officers which will act as liaison officers.
 
 * They must work in conjunction with the **welfare** bodies.
+
+* If there are any members of the Treasury here tonight, particularly, as I said earlier, those who are interested in economic affairs, they would know of the report that was released yesterday by the Australian Institute of Applied Economics and Social **Welfare**, located in Melbourne.
+
+* I had hoped today that I would have been able to ask the Treasurer  (Dr J. F. Cairns)  how he could explain the inconsistency between the answer the Prime Minister gave to me in answer to a question I asked in the House on Monday and the report today of the Australian Institute of Applied Economics and Social **Welfare** in Melbourne.
 
 * The committee specifically points to health and **welfare** benefits.
 
@@ -3282,11 +3650,17 @@ The decision to reorganise the administration of our economic aid programs is ba
 
 * This matter will be dealt with as soon as the national commission on social **welfare** is established and this should be announced quite soon.
 
+* This application is before the Social **Welfare** Commission for consideration and recommendation.
+
 * The decision to recognise the administration of our economic aid programs is based on the view that improvements in aid must be affected in almost all aspects of our aid endeavours- in the machinery for formulating policy, in ensuring greater attention to the **welfare** and distributive effects of our aid, in evaluating the effectiveness of our various schemes, in bringing greater expertise into our staffing arrangements and in more directly associating the community with the program.
 
 * The very structure of modern society with giant firms on the one hand and, on the other, big unions (and if the Government's legislation fostering union amalgamation goes through, there will be still bigger unions) and with neither side necessarily or primarily concerned with the public **welfare** - this very structure of modern society makes government oversight of the economy and government intervention in the economy in some measure essential.
 
 * Yet the major and unrestrained thrust of Government policy is in the field of social **welfare**.
+
+* 1 ) Has a decision been made on assistance for the purchase of a new ambulance for the Ravensthorpe St John Ambulance Association submitted by the Ravensthorpe Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department.
+
+* -Mr Chairman, you will notice that the provision for the appointment of Director of Counselling and **Welfare** does not appear until clause 37 of the Bill whereas reference to him is made in clauses 14 and 15 of the Bill.
 
 * The only time the Opposition gives a thought for the **welfare** of those who have fought for Australia or who are currently fighting for this country is when it thinks it can achieve some political end.
 
@@ -3295,6 +3669,10 @@ The decision to reorganise the administration of our economic aid programs is ba
 * The **welfare** problems created by these peculiar features of Vietnam have produced immense problems in the United States.
 
 * After consultation with the State Ministers on the requirements of the States for **welfare** housing, during which regard shall be taken, among other relevant matters, of the numbers seeking assistance, the cost of land and of dwelling construction and the capacity of the State to use advances, the Minister shall determine the amount to be advanced to the State in respect to the financial year as Housing Authority advances and as Home Builders' Account advances in accordance with clause 9.
+
+* 1 ) Has a decision been made on assistance for the purchase of a projector for use at Lake King, Western Australia, submitted by the Lake Grace Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department.
+
+* 1 ) Has any ( a ) financial or ( b ) other assistance under the Australian Assistance Plan been received by (i) Australian Red Cross Society, (ii) Catholic Family **Welfare** Bureau (Victoria), (iii) Salvation Army, (iv) The Childrens Protection Society (Victoria ) and (v) International Social Service.
 
 * This followed growing concern by people working in **welfare** agencies, and local community groups, that many elderly people were either being forced to live in squalid conditions or placed in Nursing Homes because of the lack of flexibility in the types of services being offered to the residents of the Inner city area.
 
@@ -3309,6 +3687,8 @@ The decision to reorganise the administration of our economic aid programs is ba
 * That social problem is one of a **welfare** society.
 
 * That is getting back to the **welfare** society to which I referred earlier.
+
+* The Task Force on Co-ordination in **Welfare** and Health sought submissions from persons or organisations willing to contribute to its work.
 
 * Is it a fact that the Government has responded to its social **welfare** commitment by increasing pension payments twice since last December?
 
@@ -3328,6 +3708,8 @@ The decision to reorganise the administration of our economic aid programs is ba
 
 * I ask them: Which of these priorities that we have so far chosen in the social **welfare** area would they argue should not have been chosen so that some other action could have replaced what we did?
 
+* The Social **Welfare** Committee of the Government under the distinguished and inspiring leadership of the honourable member for Prospect  (Dr Klugman)  has a working party thoroughly researching a system of guaranteed income.
+
 * We will hold our record in social **welfare** up against the record of any previous government.
 
 * Finally, to establish beyond any doubt the credentials of this Government, I point out that in the 1 972-73 Budget the previous Liberal-Country Party Government increased expenditure on social security and **welfare** by 15.8 per cent.
@@ -3336,9 +3718,15 @@ The decision to reorganise the administration of our economic aid programs is ba
 
 * I have had the records checked, but no letter has been found from the Premiers written either to me or my predecessor as a result of discussions by the State Ministers concerned with child **welfare** at their meetings in March 1970.
 
+* As explained in the answer to the previous question asked by the Honourable Member, the admin istration of education by the Commonwealth in the Northern Territory is shared by the Department of Education and Science and the **Welfare** Branch of the Northern Territory Administration.
+
 * The Government announced its desire to introduce a scheme to assist with child-care centres in November last year against a background of concern that the care and **welfare** of the children of working parents should be adequately safeguarded and that such children should have every opportunity for the fullest development, intellectually, socially and physically.
 
 * The Department of Social Security has recently conducted a staff utilisation review of its social **welfare** division.
+
+* That division has been decimated by the Government's abandonment of the Australian assistance plan and the remnants of the Social **Welfare** Commission, and further changes are mooted.
+
+* Yet, incredibly, the staff utilisation review of the Social **Welfare** Division of the Department of Social Security is in the process of recommending that the branch be disbanded and absorbed into a new structure not recognising a specifically migrant oriented branch.
 
 * As tomorrow's  Hansard  will show,  Senator Guilfoyle,  in answer to a question from  Senator Mulvihill  in another place, today expressed her unqualified opinion that an identifiable migrant-oriented **welfare** service needs to be maintained.
 
@@ -3352,7 +3740,14 @@ The decision to reorganise the administration of our economic aid programs is ba
 
 * They do not realise that if we allow the productive base of our society to be damaged by this Government, we are allowing our chances of a better standard of living and real advances in social **welfare** to be damaged also.
 
+* Has a decision been made on assistance for improvements to be made to the Murray Music and Drama Club submitted by the Murray Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to the Australia Council for the Arts.
+
+* 1 ) Has a decision been made on assistance for the purchase of equipment for the Mandurah Emergency Water Rescue Organisation submitted by the Manudurah Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department.
+
 * I too have felt that the withdrawal of this benefit may cast doubts on our overall aims in social **welfare** policy, but I know that the Government faces severe economic problems.
+
+* In studies sponsored by the United States Department of Health Education and **Welfare**, comparisons between Federal employees who are covered by Blue Cross (where doctors receive a fee for service) and those enrolled in a prepaid group health plan (where the physicians are paid the same amount whether they operate or not) showed that - 
+What new grants for 1976-77 will the Australian Government now make under the program for Capital Assistance for Leisure Facilities as a result of its examination of the Task Force on Co-ordination in **Welfare** and Health  (Hansard,  6 October 1 976, page 1611).
 
 * I refer to reports that the Government is considering cutbacks in social **welfare** expenditure.
 
@@ -3380,9 +3775,13 @@ The decision to reorganise the administration of our economic aid programs is ba
 
 * There too, despite the fact that social workers and the like would say that this is an area of great deprivation and with not a great initiative, the residents took the opportunity to ask for and receive from the last Government an appropriate health and community **welfare** centre which they are helping to manage and which they are using.
 
+* The Government is closely studying the reports of the Task Force on Co-ordination in **Welfare** and Health and of the Committee of Inquiry into the Care of the Aged and Infirm.
+
 * The average working class man who arrives in Australia with his family is struck by the inordinate costs of social **welfare** in Australia both in the field of education and in the field of health, lt would pay honourable members to make a study of the advantages and disadvantages of the British medical service.
 
 * I refer to the concern the Minister expressed yesterday about the development of migrant education and **welfare** programmes.
+
+* Secondly, we saw the report of the Social **Welfare** Commission and more recently and thirdly, the report of the Priorities Review Staff.
 
 * The creation of another commission outside existing departments will further fragment social policy making and the administration of child care and family **welfare** programs.
 
@@ -3390,7 +3789,7 @@ The decision to reorganise the administration of our economic aid programs is ba
 
 * The report continues: 
 That the Government institute a committee of inquiry to include medical, religious, social **welfare** and economic representatives with wide terms of reference, to consider fully and advise this Parliament on the manner in which all citizens irrespective of their economic circumstances can be assisted, advised, and helped in such matters as: 
-Has a decision been made on assistance for improvements to ablutions facilities and the installation of a telephone at the Ravensthorpe kindergarten submitted by the Ravensthorpe Community Centre to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department.
+Has a decision been made on assistance for improvements to ablutions facilities and the installation of a telephone at the Ravensthorpe kindergarten submitted by the Ravensthorpe Community Centre to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department.
 
 * I suggest that the very way in which the taxation concessions have been administered in this Budget illustrates that the **welfare** principle has been honoured by this Government.
 
@@ -3410,11 +3809,15 @@ Has a decision been made on assistance for improvements to ablutions facilities 
 
 * Leven District of the Boy Scouts Association in which they state that they would like: ... to make known to you and the Australian Government that our particular project has been extremely successful both from the point of view of employment and at the same time contributing to the **welfare** of the young people in this Municipality, not only for the present generation but for generations to come.
 
+* I have to inform the Committee that we have present in the gallery this evening members of the Swedish Parliament's Standing Committee on Social Affairs (**Welfare**) led by  Mr Goran  Karlsson,  Chairman  of the Committee.
+
 * Voluntary **welfare** agencies will be assisted in their emergency relief programs.
 
 * The Government, quite wisely, has extended the thrust of the legislation in time to give the States the opportunity to continue their uncompleted programs while a reappraisal of housing on a **welfare** basis is being carried out.
 
 * I support the Bill to extend the period of operation of the States Grants (Dwellings for Pensioners) Act 1974 for 12 months to 30 June 1978 because self-contained units for pensioners entitled to supplementary benefits are an urgently needed health and **welfare** facility.
+
+* The Minister informed the House that the Government was studying reports of the Task Force on Co-ordination in **Welfare** and Health and of the Committee of Inquiry into the Care of the Aged and Infirm.
 
 * The least of his interests is the **welfare** of Aboriginal people.
 
@@ -3423,6 +3826,8 @@ Has a decision been made on assistance for improvements to ablutions facilities 
 * So far the Tribunal has no jurisdiction in the **welfare** field.
 
 * I ask the Minister for Social Security: In addition to his comprehensive program for social **welfare** will he give urgent consideration to the problems of families, and the need to provide increased family assistance so that mothers will not be compelled by economic circumstances to seek employment which would disadvantage her children?
+
+* Can he say which recommendations for the report of the Senate Standing Committee on Health and **Welfare** on mentally and physically handicapped children have been accepted by the Government and when these recommendations win be given effect to?
 
 * But it is obvious that no one person is able to fulfil all the needs that are so apparent in investigating the areas of social **welfare**, housing, health and the like as they bear on the aged pensioner section of our community.
 
@@ -3439,6 +3844,12 @@ Has a decision been made on assistance for improvements to ablutions facilities 
 * It may be of interest to the honourable member that social workers of the Repatriation Department have been attending inter-agency discussions arranged by the Hanover Centre with a view to finding an alternative to Gordon House, a community problem of which **welfare** agencies in general are well aware.
 
 * Quickly pass the legislation necessary to make the kangaroo a protected animal throughout Australia - the culling of herds for the protection of the few property owners genuinely threatened by excessive numbers, or for the **welfare** of kangaroos themselves, to bc carried out by or under direct supervision of Government officers.
+
+* Will he seek details from the Public Service Board of the progress that has been made in implementing the system of reporting on the placement of physically handicapped persons which the Board indicated it was planning to introduce when it gave evidence to the Senate Standing Committee on Health and **Welfare** in 1971.
+
+* The answer to the right honourable member's question is as follows: (1), (2) and (3) I have no record of having received a letter from  Mr Thompson,  former Minister for Community **Welfare** in Western Australia, requesting that a subsidy be paid to families based on the number of children.
+
+* In government we indicated that we were intending to abolish the Social **Welfare** Commission.
 
 * One of the many reasons, and I shall not canvass them all, which prompted the Labor Government to establish the Commission was that we felt that for far too long the community's attitude to social **welfare** had been determined in large measure by politicians and bureaucrats, prompted perhaps by pressures arising for support or assistance for a particular group in the community which was perceived to be suffering some severe disadvantage.
 
@@ -3460,14 +3871,27 @@ Has a decision been made on assistance for improvements to ablutions facilities 
 
 * I suppose that the fundamental point the Labor Party perceived, and I like to think accepted, was that social **welfare** is not a privilege.
 
+* **Welfare** services provided to the underprivileged members of a community are not a form of charity.
+
+* When we do have unfortunate members of the community who are unable to sustain themselves- and the Social **Welfare** Commission investigated a whole range of things- we are all the poorer for their suffering and misery.
+
 * Often they were people who, quite apart from moves made by the Government, were actively engaged in helping the voluntary social **welfare** groups in their local areas.
+
+* Inevitably, because of the nature of its actions, the Social **Welfare** Commission was going to come into conflict with the bureaucracy at all levels and whatever political persuasion.
 
 * All of these actions by the conservationists have been taken with a disregard for the immediate **welfare** of 
 The Government's overriding objective is to get on with our various initiatives in the fields of education, health, social **welfare** and urban improvement.
 
+* Has a decision been made on assistance for the construction of a kindergarten building at Nyabing, Western Australia, submitted by the Kent Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department.
+
+* 1 ) Has a decision been made on assistance for conversion of a hall for the Mandurah Pensioners League submitted by the Mandurah Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department 
+Has a decision been made on assistance for the purchase of equipment for the Dwellingup Hills Youth Centre submitted by the Murray Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department.
+
 * They are now involved in providing a huge range of social **welfare** services on a very closely integrated basis.
 
-* For interest sake I add that the Regular Defence Forces Welfare Association has communicated with my constituent saying: 
+* Has a decision been made on assistance for the purchase of equipment for the Nyabing Girl Guides Association submitted by the Kent Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department.
+
+* For interest sake I add that the Regular Defence Forces **Welfare** Association has communicated with my constituent saying: 
 Although many millions of dollars have been spent on **welfare** housing, thousands upon thousands of people on the poverty line or below do not receive the benefit of this money.
 
 * The enormity of this haemorrhage of national funds can be understood when one considers that in the last Budget a total of only $390m was made available to the States for **welfare** housing which funds State housing commissions and terminating building societies.
@@ -3477,6 +3901,8 @@ Although many millions of dollars have been spent on **welfare** housing, thousa
 * When all is said and done, we should not be staggered or surprised if this Government were to bring the rate of interest for **welfare** housing to a level near that of the bond rate, because that is what was done for 23 years under a Liberal-Country Party government.
 
 * These things are important to the **welfare** and the living standards of the Australian people.
+
+* Has his attention also been drawn to comments by the Victorian Minister for Social **Welfare**, the Honourable Brian Dixon, M.P., that the scheme suffers from lack of recognition under Federal awards which could make employers liable to pay full award rates to students participating in the scheme; if so, have any steps been taken to overcome this difficulty.
 
 * It is simply a Fraser Government device to get **welfare** housing out of the custodial care of the corporate caring process of governments and into the hands of the private sector.
 
@@ -3514,11 +3940,19 @@ Broadly speaking the objectives of the Union are to promote the educational **we
 * The Minister for Social Services at that time said: 
 I have also instructed my Department to examine more effective ways of encouraging eligible persons to participate in the Plan, lt is envisaged that the examination will encompass wider use of social workers, charitable organisations and other appropriate **welfare** groups in the community.
 
+* The Senate Standing Committee on Health and **Welfare** made a number of recommendations concerning some areas of assistance to the handicapped where, in the view of the Committee, further governmental assistance both Commonwealth and State would be appropriate; and also concerning the co-ordination of Commonwealth activities in this field.
+
 * There are a variety of consultative systems concerning such matters as grievance procedures, safety, employee **welfare** and the introduction of technological and other types Of change.
 
 * Would the Opposition increase social **welfare** payments as well?
 
 * The Treasurer announced in the Budget that $25m of the money allocated to the States for **welfare** housing was unused at the end of the 1973-74 period.
+
+* 1 ) Has a decision been made on assistance for the purchase of equipment for the Pingrup kindergarten submitted by the Kent Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department.
+
+* 1 ) Has a decision been made on assistance for alterations to the kindergarten building at Ongerup submitted by the Gnowangerup Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department.
+
+* 1 ) Has a decision been made on assistance for equipment for the Mandurah Meals on Wheels submitted by the Mandurah Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department.
 
 * Members however do come from all three levels of government, from service organisations, from members of churches and professional social worker groups and from **welfare** consumer groups.
 
@@ -3529,6 +3963,8 @@ I have also instructed my Department to examine more effective ways of encouragi
 * The names, contract points, and addresses of organisations which have been established with the principal aim of assisting single parent families, including lone fathers; are: 
 But it is not just our economy or our social **welfare** programs that are at stake in this.
 
+* I am just about to ask the Minister for Aboriginal Affairs  (Mr Viner),  who is at the table, for permission to incorporate in  Hansard  a letter from the Australian Greek **Welfare** Society in which very strong exception is taken to this kind of reporting.
+
 * The debate is catalysed by irregular but frequent changes to health financing arrangements by the Commonwealth Government of the time, sometimes for reasons of community health and **welfare** and sometimes to help balance the books.
 
 * The aged, sick and infirm who rely on social **welfare** payments are being denied the right to eat the food of their choice.
@@ -3536,6 +3972,8 @@ But it is not just our economy or our social **welfare** programs that are at st
 * The fact that prices have been allowed to set the pace has created great hardship for those who rely on **welfare** payments and fixed incomes.
 
 * The Government also has significantly improved **welfare** benefits.
+
+* The expenditure on social services from the National **Welfare** Fund for 1972- 73 other than that resulting from this Bill, is estimated to reach $l,327m which is an increase of $119m over the expenditure for the previous year.
 
 * As well as increasing the amounts spent on social **welfare**, 1 believe we have significantly increased the efficiency of our expenditure, so that each dollar spent provides more real **welfare** than it would have done if the older system had remained unchanged.
 
@@ -3548,11 +3986,13 @@ I say to the people, particularly those who live in the State and Federal electo
 
 * I think I can give his assurance as well as mine that whilever he is Minister he Will see that the people's interests are protected, in contrast to what people like the honourable member for Lilley- a future Minister for Transport in the far distant timemight do, and that is put profits before the **welfare** of people.
 
-* Departmental Social Workers, Welfare Officers and field staff also explain the services available from the Department and how to use these in their contacts with migrants, refugees, ethnic groups and **welfare** workers employed by other Government Departments and voluntary organisations engaged in migrant/refugee **welfare** activities.
+* Departmental Social Workers, **Welfare** Officers and field staff also explain the services available from the Department and how to use these in their contacts with migrants, refugees, ethnic groups and **welfare** workers employed by other Government Departments and voluntary organisations engaged in migrant/refugee **welfare** activities.
 
 * It is envisaged that these Units will have **welfare** staff who possess multi-lingual skills, and they will work in close liaison with regional and district offices of the Department especially those located in areas of high migrant concentration.
 
 * The Department of Aboriginal Affairs, through its Northern Territory Division, inherited overall responsibility for the self-help housing scheme from the **welfare** division of the former Northern Territory Administration which as we know was part of the Department of the Interior.
+
+* The evidence shows that suitable arrangements had not been made by the **Welfare** Division of the Northern Territory Administration for the delivery and storage of these houses at the settlements and that damage and deterioration had resulted.
 
 * Do you want to remain an individualist not only for yourself but also for your children and your children's children or do you want a giant **welfare** state where initiative is taken away from you, incentives are abolished and the people of this nation fade into a murky oblivion?'
 
@@ -3587,6 +4027,10 @@ Our social **welfare** policy seeks to enhance the security, dignity, self-relia
 * Our desire to give power and responsibility back to individuals and groups in order to effectively meet the requirements of social **welfare**, distinguishes our policy from alternative approaches.
 
 * Ensure that the real value of **welfare** programs is not eroded by inflation.
+
+* The National Consultative Committee on Social **Welfare** is a token body giving advice only and taking only single references.
+
+* There is no suggestion that it will take the place of the Social **Welfare** Commission, which the Labor Government set up and which was in a position to take a continuing over-view of policy.
 
 * Indicative of our concern in this vital field of housing is that, notwithstanding our statesmanlike decision to curtail government expenditure, we have maintained the level of expenditure for **welfare** housing at that which was appropriated in the 1975-76 Budget.
 
@@ -3643,27 +4087,50 @@ The medical system at present puts a high premium upon individual practice.
 
 * Broadly, the publications in the Department's library cover the subjects of immigration, emigration, the education, health and **welfare** of migrants, automatic data processing and demography.
 
+* Has a decision been made on assistance for equipping the Community Centre at Fitzgerald submitted by the Ravensthorpe Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department.
+
 * Quite frankly, what has been done by Nkomo and Mugabe proves that they are not interested in the blacks in Rhodesia or the **welfare** of the people in Rhodesia.
+
+* The Government has taken no specific action on this recommendation; however it was aware that the Senate Standing Committee on Health and **Welfare** had received a referral related to this subject.
 
 * Have the Premiers been in touch with him or his predecessor on matters discussed by, the State Ministers concerned with child **welfare** at their meeting in March 1970 (Hansard, 13th October 1970, page 2082 and 9th March 1971, page 750).
 
 * That has been given away by the simple fact that the Bill was introduced by the Minister for Labour and National Service  (Mr Lynch)  rather than by a **welfare** minister, such as the 
 
- Mr and Mrs King have made representations to me and, as a result of investigations made by my Department, I wrote to the then Minister for Youth and Community Welfare in New South Wales, the Honourable J. L. Waddy, seeking his assistance in this matter.
+ Mr and Mrs King have made representations to me and, as a result of investigations made by my Department, I wrote to the then Minister for Youth and Community **Welfare** in New South Wales, the Honourable J. L. Waddy, seeking his assistance in this matter.
 
 * 2 IBM 370/168 computers- Details of medical insurance claims, financial data, statistical data, bibliographical data and personal data pertaining to **welfare** systems.
 
 * The world is well on the way to the acceptance of this profound truth, that the **welfare** of all the people in all lands depends primarily on full employment.
 
+* Such issues as fostering were left to the Northern Territory Administration and the Director of Social **Welfare**.
+
+* In such cases the Director of Social **Welfare** operated within the bounds of the Child **Welfare** Ordinance and in particular, part V of the Ordinance.
+
+* If the proper course had been followed in regard to Nola's case a children's court would have granted an order under section 36 (1) (b) of the Child **Welfare** Ordinance, which would have placed the child under the care of the Director as in paragraph (i), or in the hands of the foster parents as in paragraph (ii).
+
+* So the parents and indeed the Aboriginal Legal Aid Service which advises them could always apply to the same court to revoke an order under the Child **Welfare** Ordinance.
+
+* Thirdly, was Nola Brown a child in respect of whom an order had been made under section 36 (1) (b) of the Child **Welfare** Ordinance committing her to the care of either the Director of Social **Welfare** and Child **Welfare** in the Northern Territory or foster parents?
+
 * Our real concern should be for the **welfare** of the child and the right of the court to make a decision in such a matter.
 
+* Red Cross, Parents and Citizens, Sporting Bodies, all Service Clubs, Aged **Welfare**, Youth Groups, Local Government, Asthma Foundation, Arts and Cultural Groups, Silver Chain, Education and many others.
+
 * The Department employs thirty-six social workers and **welfare** officers whose services are available to all members of the community.
+
+* Has a decision been made on assistance for park improvements at Kojonup submitted by the Kojonup Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department 
+(a) In respect of item (b)I below the survey was undertaken by officers of the Bureau of Agricultural Economics (BAE).
 
 * As pan of an on-going program of BAE research, to evaluate farmers' attitudes and opinions on a range of farm adjustment **welfare** and motivation issues including the rural adjustment scheme.
 
 * The honourable gentleman will be aware of widespread demands from the Opposition and elsewhere in the community for a curb on the rate of increase of social services and **welfare** services provided by this Government.
 
+* I also have great pleasure in indicating, if the House is interested, that  Mrs Marie  Coleman, the  Chairman  of the Social **Welfare** Commissionwhich the previous Administration indicated that it wished to abolish- will be the first Director of the Office of Child Care.
+
 * Engage in ancillary activities such as **welfare**, adoption agencies etc., but may refer clients requiring help in these areas to appropriate agencies, and undertake such liaison as is necessary to ensure access to such agencies comparable to that available to other Australians.
+
+* 1 ) Can he state whether the United States Secretary of Health, Education and **Welfare** recently stated that it was his opinion that a full 20 per cent of cancers may be caused by occupational exposure to industrial carcinogens.
 
 * The purpose of the survey was to gather information not previously available about amputees to assist maintenance and development of the health and **welfare** services provided to these amputees.
 
@@ -3707,9 +4174,11 @@ The residents of the mainland Territories are just as much entitled to be repres
 * In view of his stated determination to take over the responsibilities of the States for **welfare** and advancement of Aboriginal people, what plans has the Government approved to improve housing, recreation and living conditions in Wreck Bay over which it has direct responsibility and control.
 
 * a public institution or public fund established and maintained for the comfort, recreation or **welfare** of members of the armed forces of any part of His Majesty's dominions, or of any allied or other foreign force serving in association with His Majesty's armed forces; 
-1 ) Has he set a date for the transmission to him of the second report of the Task Force on Co-ordination in Welfare and Health in which it is proposed to concentrate on the development of proposals for the more effective coordination of social policy development at the Commonwealth level.
+1 ) Has he set a date for the transmission to him of the second report of the Task Force on Co-ordination in **Welfare** and Health in which it is proposed to concentrate on the development of proposals for the more effective coordination of social policy development at the Commonwealth level.
 
 * Any proposed changes would of course take full account of the rights and **welfare** of the employees involved.
+
+* Is the approval of the **Welfare** Branch sought before prospecting authorities are issued on reserves?
 
 * 'convivial' industries (to adopt the language of Ivan Illich) which are intended to promote the quality of life, but do not produce tangible goods or services which are capable of being exported or sold at a profit, for example, education, health and **welfare** services.
 
@@ -3718,6 +4187,8 @@ The residents of the mainland Territories are just as much entitled to be repres
 * We called it the Special Broadcasting Service because it may well prove desirable for the Government, in the years ahead, if there is a request, to provide some special broadcasting service for example, to the Aborigines throughout Australia or to the social **welfare** area.
 
 * The understanding of the productivity and maintenance ... of ecosystems will enable them to be manipulated scientifically for the **welfare** of mankind.
+
+* Yes; this matter has been condered in detail by the Conference of Ministers for Labour and the Departments of Labour Advisory Committee, and the views of members of the National Labour Consultative Council are being sought on possible approaches fore dealing with the difficulty to which the Victorian Minister for Social **Welfare** referred.
 
 * Firstly, there is the circumstance that fishing is really part and parcel of the sustenance of very many people around the coastline of Papua New Guinea, and in particular it is of great importance to their **welfare** and their future stability in terms not only of sustenance but also of the gradual development of commercial fishing.
 
@@ -3731,7 +4202,17 @@ The residents of the mainland Territories are just as much entitled to be repres
 
 * Nearly 3 years have elapsed since the Government was given the responsibility for Aboriginal **welfare** and still no accurate figures are available about almost any area that requires concentrated attention - health, education or housing.
 
+* and (4) Assistance similar to that given in the States is provided in the Northern Territory by the Director of Social **Welfare** after assessment of the needs and circumstances of each applicant.
+
+* The RSL is concerned at a spate of rumours drifting round the corridors of power that the Repatriation Department may be absorbed into a Health and **Welfare** complex, and Repatriation hospitals transferred to either Commonwealth or State control.
+
+* and (2) Australian Government assistance for the redevelopment of Launceston General Hospital and for the construction of a new women's hospital in Hobart have been the subject of correspondence between the Tasmanian Minister for Health, Social **Welfare** and Road Safety and myself.
+
+* 1 32 1 in which I sought details of the workings of the Social **Welfare** Commission, in the interests of open Government will he review the answer he gave to that question and provide the information sought.
+
 * Is it a fact that the proposed social **welfare** centres to be set up in the main cities - I refer particularly to the Collingwood, Fitzroy and Northcote areas and the western suburbs of Melbourne - have been cut back or deferred?
+
+* A decision on programs and projects in the community development area will be reached after examination of the report of the Task Force on Co-ordination in **Welfare** and Health which is expected to be availabel to the Government in November 1 976.
 
 * A reduced level of economic growth in turn makes it more difficult for the community as a whole, generally working through the Government, to provide those **welfare**, education, health, and other services that modern communities seem increasingly to demand.
 
@@ -3745,19 +4226,29 @@ The residents of the mainland Territories are just as much entitled to be repres
 
 * The appointee needs to be a sound administrator and possess the appropriate social **welfare** background.
 
+* The Report of the Senate Standing Committee on Social **Welfare** has been the subject of detailed consideration and 1 expect to make an announcement of the Government's response to licit drugs aspects of the Senate Committee's recommendations soon.
+
 * Insofar as the State governments' public **welfare** housing is concerned, nearly 100,000 families are on the housing commission lists, waiting for homes.
 
 * Let me illustrate in more detail the Draconian cuts that this Government has inflicted on the **welfare** housing programs of the State governments.
 
 * Within the limits necessarily imposed by available resources, it is the policy of the Government to improve progressively the **welfare** of elderly citizens.
 
+* Now, this expenditure is taken from the National **Welfare** Fund, as I think it is" called.
+
 * The function of the Chaplain is, in liaison with the Police Chaplaincy Advisory Council consisting of representatives of Papua New Guinea churches, to give assistance to members of the Regular Constabulary in matters of religion, morality and **welfare**, in particular by arranging for services, pastoral care and other facilities for the free exercise of the religion of members.
+
+* I also point out to the 2 honourable members opposite, both of whom are former Ministers for Aboriginal Affairs and ought to know- if they do not, I will tell them now- that there is in existence the Social **Welfare** Ordinance of the Northern Territory which presently controls entry to Aboriginal land.
 
 * Hitherto, child **welfare** has always been regarded as the responsibility of the States and the voluntary organisations, although the Commonwealth has been paying $1.50 per day as a subsidy towards the accommodation of certain handicapped children who are living away from home.
 
 * There are 11 such regional advisory committees in New South Wales consisting of representatives of education and public health bodies and child and social **welfare** officers, to help guide and advise the New South Wales Government and local workers for the cause.
 
+* School facilities will be acceptable only if the schools receive certification under the Public Instruction Act, while residential facilities for children or pre-school kindergarten facilities require to be licensed under the Child **Welfare** Act of New South Wales.
+
 * Young Aboriginals educated at Darwin's highly rated Kormilda College are living in 'insanitary kennels' at a **welfare** settlement without job opportunities, a doctor claimed this week.
+
+* Sisters are employed at bush hospitals run by the **Welfare** Division of the Department of the Interior.
 
 * That solution was rejected in deference to the islanders' known political and constitutional views, to obviate complications as regards social **welfare** benefits and to avoid imposing tax on the islanders in respect of genuine Island source income and foreign source income.
 
@@ -3768,12 +4259,16 @@ Are these services provided free to exservice personnel while other applicants a
 
 * In one fell swoop the Federal Treasurer cleared the decks, as he put it, to initiate Labor's great **welfare** program and at the same time he put the kiss of death on every Union journal in Australia.
 
-* The Treasurer  (Mr Crean)  has authorised me to make this announcement: A joint meeting of the Caucus Economic and Trade Committee and the Welfare Committee, of which I am the Secretary, was held today with the concurrence of the Treasurer and with his agreement has recommended - 
+* The Treasurer  (Mr Crean)  has authorised me to make this announcement: A joint meeting of the Caucus Economic and Trade Committee and the **Welfare** Committee, of which I am the Secretary, was held today with the concurrence of the Treasurer and with his agreement has recommended - 
 The Australian Legal Aid Office will provide a community legal aid service that will work in conjunction with the private legal profession and with other legal aid and community **welfare** organisations.
 
 * The world is well on the way to the acceptance of this profound truth, that the **welfare** of all the people in all lands depends primarily on full employment.
 
-* As I announced on 2 March, the Commission is to be wound up and  Dr Sax  is to head the new Social Welfare Policy Secretariat which will have responsibilities ranging over the wide field of health and **welfare**.
+* As I announced on 2 March, the Commission is to be wound up and  Dr Sax  is to head the new Social **Welfare** Policy Secretariat which will have responsibilities ranging over the wide field of health and **welfare**.
+
+* A decision on programs and projects in the community development area will be reached after examination of the report of the Task Force on Co-ordination in **Welfare** and Health which is expected to be available to the Government in November 1976.
+
+* When did the Task Force on Co-ordination in **Welfare** and Health present its interim report and to whom  (Hansard,  12 October 1976, page 1784 and 1 1 November 1976, page 2594).
 
 * I know that the honourable member for Murray is a member of the Government parties health and **welfare** committee and that he has a very keen interest in ensuring that this policy is maintained and strengthened.
 
@@ -3789,7 +4284,12 @@ The Australian Legal Aid Office will provide a community legal aid service that 
 
 * We have seen that throughout social **welfare** services and other services in this country.
 
+* Task Force on Co-ordination in **Welfare** and Health  (Question No.
+
 * Nobody hearing or reading the Treasurer's Budget Speech could realise that there has been a tremendous squeeze on the States and local government; that the Government has broken its promises on education spending; that spending on health programs is down; that the provision for pensioner dwellings is down by 18 per cent in real terms; that funds for Aboriginal advancement are down 16 per cent in real terms; that provision for urban public transport has been cut by 25 per cent in real terms and funds for leisure and recreation facilities by 60 per cent in real terms; that urban programs have virtually disappeared; that the national sewerage program has been abandoned; that all migrants' special serviceseducation, **welfare**, housing, health, languagehave been cut; that the growth centre agreements with the States have been unilaterally repudiated; that environment programs suffered cuts ranging from 24 per cent to 99 per cent in real terms; that the area improvement program has been abolished.
+
+* These groups include the Central Council of Croation Associations in Australia, the Italian **Welfare** Centre of Sydney, the Netherlands Society of Sydney, the Estonian Society in Sydney, the Hungarian Council of 
+And I would agree with those remarks -  and indeed the frequency with which the young seemed to have swallowed this argument whole was one of the factors that almost inclined us to leave the age of majority firmly where it was - not that the young were alone in this.
 
 * And, finally, the age at which it is appropriate for the country's **welfare** to call up young men or women could well vary; the military might decide that they needed them at 15 or at 20 or at 25.
 
@@ -3801,9 +4301,15 @@ The Australian Legal Aid Office will provide a community legal aid service that 
 
 * It favours the provision of migrant advisory services and assistance schemes in industry and will encourage industry to take a greater responsibility for the **welfare** of migrant workers.
 
+* In the Northern Territory the administration of education by the Commonwealth is shared by the Departments of Education and Science and the **Welfare** Branch of the Northern Territory Administration.
+
 * I will answer that with just one example of the contribution which Labor made to the **welfare** of Aborigines.
 
 * I should add that if such a concession were to be granted on the same basis as the age allowance, it would apply not only to persons in receipt of pensions but also to persons qualified by widowhood or invalidity but not in receipt of social **welfare** pensions on this account.
+
+* I present a paper which is entitled Liberal Party of Australia - Committee on Social Security, Health and **Welfare**, Policy Recommendations.'
+
+* 1 ) The Broadmeadows **Welfare** Advisory Committee has been renamed the Interim Committee for the North-Wes Regional Council for Social Development.
 
 * Members of the Interim Committee and the organisations they represent are as follows: 
 Low and middle income earners who need houses now know by how much the waiting period for **welfare** housing and co-operative building society loans will be increased.
@@ -3811,6 +4317,8 @@ Low and middle income earners who need houses now know by how much the waiting p
 * The purpose of the U.N. Security Council Resolutions on Rhodesia is the **welfare** of the presently disadvantaged coloured majority of that country's population.
 
 * Farmers really do have to ask themselves whether their **welfare** and their future have been discounted by their organisation leaders in the interests of Country Party politics.
+
+* The shadow Minister for Social Security and **Welfare**,  Mr Chipp,  flew from Canberra to Sydney yesterday to give a press conference because he claimed the Opposition was being gagged and guillotined into silence by the Government.
 
 * If so, which institutions are involved and what arrangements have been made for the **welfare** of the patients and staff at those institutions?
 
@@ -3863,11 +4371,15 @@ The assistance being provided for these refugees in the areas of housing, employ
 
 * If so, will he assist those in the community who have the **welfare** of youth at heart by taking steps to remove sporting equipment from the Schedule of the Act which requires sales tax : to be paid on this type of equipment.
 
+* No action was taken by the Minister, but an officer of the Department of Aboriginal Affairs gave notice in writing to former employees of the Council that their authorisation to be on the reserve was terminated under the provision of the Social **Welfare** Ordinance.
+
 * Can the Minister say what efforts the Australian Government is making on behalf of  Mr Francis  James, as to his whereabouts and **welfare** and the possibility of facilitating his release from China?
 
 * I commend the intention of the Government to take an energetic part in the great matters affecting the **welfare** of the whole world and of this country in particular.
 
 * How many of these were selected on (a) a health professional, (b) Government department, (c) social **welfare**, (d) consumer organisation, (e) women's organisations and (f) political, basis.
+
+* Health and **Welfare** programmes will be protected against inflation.
 
 * 1 ) Is it a fact that while reports are being issued in relation to cut-backs in social **welfare** and the public service an additional $660 million is to be spent on the Army during the next 5 years.
 
@@ -3876,6 +4388,8 @@ The assistance being provided for these refugees in the areas of housing, employ
 * I ask the Prime Minister: When will the Government complete its review of Aboriginal services and revise expenditure on Aboriginal **welfare**, as foreshadowed by the Treasurer in his Budget Speech last week?
 
 * Senator Bonner said the Federal Government had broken a promise before the December election that Aboriginal **welfare** spending would be maintained.
+
+* Pursuant to section 34 of the Services Trust Funds Act 1947, I present the annual report of the Royal Australian Air Force **Welfare** Trust Fund 1978.
 
 * The money is allocated to the States for purposes of housing, health, education, employment, **welfare**, enterprises, management, public utilities and recreation.
 
@@ -3894,6 +4408,10 @@ The assistance being provided for these refugees in the areas of housing, employ
 * The honourable member for Perth and I are concerned about the **welfare** of Australian people and a new sense of dynamism - 
 I want to congratulate the Minister for Health  (Mr Hunt),  who is sitting at the table, for the implementation of that policy.
 
+* However, behind the scenes, patient negotiation did continue between the Minister, members of the Government Members Health and **Welfare** Committee and members of the Pharmacy Guild.
+
+* It contains a report of a recent seminar held in the United States organised by the United States Department of Health, Education and **Welfare** in which the national health schemes of 6 countries were discussed.
+
 * On that occasion the argument was, and I believe that the argument remains now, that money spent through these sources is spent more efficiently than money spent through the other sources of funds that are available for **welfare** housing.
 
 * At a time when the acid corrosion of a socialist **welfare** state is staining the idea of a responsible society and cluttering up the money printing presses, it is to be hoped that this initiative of the Minister will act as a catalyst to other Ministers to come out from behind the barricades of officialdom and allow the eyes of the nation to be focused on their actions.
@@ -3907,6 +4425,8 @@ This Bill involves advances by the Australian Government of $3 10m for **welfare
 
 * The social **welfare** program has some desirable aims, but it will clearly take a sharp rise in national output to make these objectives feasible.
 
+* Acting on a brochure we received from the Sub-Normal Children's **Welfare** Association, we  inspected The Chalet, and were immediately taken with the 'family' type atmosphere, and the progressive outlook of the director .
+
 * The less consumption  it  takes to maintain a given state of **welfare**, the more efficient the economic system.
 
 * That there is a crisis in Aboriginal **welfare** in the South West Land Division of Western Aus-, tralia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
@@ -3914,6 +4434,11 @@ This Bill involves advances by the Australian Government of $3 10m for **welfare
 * That there is a crisis in Aboriginal **welfare** in tha South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
 
 * Will he take steps with the appropriate authorities to correct this imbalance of trade between the two countries and convert it into one which will benefit the economic and moral **welfare** of Australia.
+
+* The estimated 'cost of the above proposals as a percentage of estimated expenditure for 1971-72 from (a) the National **Welfare** Fund and (b) by the Commonwealth Government from the Consolidated Revenue Fund, is as follows: 
+Is the **Welfare** Branch of the Northern Territory Administration taking any action to discourage the child bride practice; if so, what are the details and when will the Administration invoke the appropriate laws against offenders.
+
+* I may add that the whole question of funeral benefits for deceased social service pensioners has been referred to the Advisory Council on Social Security/ **Welfare** for examination and advice.
 
 * That is the Labor Treasurer - cleared the decks, as he put it, to initiate Labor's great **welfare** program and at the same time he put the kiss of death on every union journal in Australia.
 
@@ -3925,9 +4450,13 @@ This Bill involves advances by the Australian Government of $3 10m for **welfare
 
 * As one who has supported this addition strongly, and one who has supported an 87.75 per cent increase in social **welfare** funding in the Australian Capital Territory, I felt obliged to rise tonight to answer this partisan and propagandist statement.
 
+* A determination by the Remuneration Tribunal relating to positions in the Health Insurance Commission, the Hospitals and Health Services Commission, the Law Reform Commission and the Social **Welfare** Commission.
+
 * Was the Australian Minerals Council established to facilitate co-operation between the Australian and State Governments in the promotion of the general **welfare** and progressive development of the Australian mineral industry.
 
 * Has the Commonwealth Government extended to these descendants of the Kanakas the same **welfare** rights given to Aborigines and Torres Strait Islanders in the areas of health, education, housing and legal aid.
+
+* 1 ) The National Health Services Advisory Committee is chaired by  Dr Sidney  Sax who heads the Social **Welfare** Policy Secretariat.
 
 * The members of the Committee are as follows: 
 This afternoon the Parliament involved itself in another very interesting debate on the **welfare** of Aborigines.
@@ -3935,6 +4464,8 @@ This afternoon the Parliament involved itself in another very interesting debate
 * After 3 disastrous years he still does not recognise that the people's **welfare** rests upon the **welfare** of businessespecially when 75 per cent of employment is created by the private sector.
 
 * Is it a fact as stated in the article, that the new arrivals, despite some help from church **welfare** agencies or close relatives who are virtually new arrivals themselves, live by borrowing money, accepting low-paid jobs, paying lowstandard rentals and on handouts of food, clothes, furniture and hire purchase.
+
+* First, we propose to supplement Consolidated Revenue Fund receipts, and thereby reduce the size of the prospective Consolidated Revenue Fund deficiency, by paying into that Fund unrequired balances held in the National **Welfare** Fund Trust Account.
 
 * That also includes the responsibility for **welfare**, morale, discipline and personnel under his control.
 
@@ -3946,11 +4477,27 @@ This afternoon the Parliament involved itself in another very interesting debate
 
 * An entirely different approach is adopted when money is required for a complete review of penal reform or social **welfare** corrective agencies.
 
+* That there is a crisis in Aboriginal **Welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
+
+* That there is a crisis in Aboriginal **Welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor bousing and hygiene and unemployment and unemployability.
+
 * The **welfare** of the country and its people have been placed second to the personal spleen of the Prime Minister  (Mr Malcolm Fraser)  and many of his Ministers and advisers.
+
+* For the information of honourable members I present a report prepared for the Social **Welfare** Commission by David Griffiths of the Brotherhood of St Lawrence with recommendations by the Commission, entitled Emergency Relief.
 
 * My Government will review the field of social **welfare** with the object of assisting those in dire need, while at the same time not discouraging thrift, self-help and self-reliance.
 
 * That there is a crisis in Aboriginal **welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
+
+* That there is a crisis in Aboriginal **Welfare** in the South West Land Division of Western Australia resulting from a population -explosion, poor housing and hygiene and unemployment and unemployability.
+
+* That there is a crisis in Aboriginal **Welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
+
+* That there is a crisis in Aboriginal **Welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
+
+* That there is a crisis in Aboriginal **Welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
+
+* That there is a crisis in Aboriginal **Welfare** In the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
 
 * That there is a crisis in Aboriginal **welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
 
@@ -3958,11 +4505,22 @@ This afternoon the Parliament involved itself in another very interesting debate
 
 * I would suggest that in order to avoid any queries regarding the Minister's administration of his important office he should deal more openly with the public and advise them fully of his intentions and plans for the **welfare** of our Australian coloured people.
 
+* That there is a crisis in Aboriginal **Welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
+
 * That there is a crisis in Aboriginal **welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
 
 * That there is a crisis in Aboriginal **welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
+
+* That there is a crisis in Aboriginal **Welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability,.
+
+* I believe that there is a strong case for the formation of an advisory board on the lines of the Council for Aboriginal **Welfare** to investigate and report upon the needs of aged people.
 
 * Are oral or other contraceptives ever provided free or below cost by the social **welfare** or other branches of his Department in the Australian Capital Territory or the Northern Territory; if so, what is the estimated cost.
+
+* In considering this matter I am reminded of the report from the Senate Standing Committee on Health and **Welfare** concerning repatriation.
+
+* I am sure that the Minister for Defence is interested also in this report as 
+-For the information of honourable members I present a paper dated July 1975 prepared by the Priorities Review Staff entitled  Possibilities for Social **Welfare** in Australia.
 
 * There are many other aspects with regard to the whole field of social **welfare** to which I would have liked an opportunity to have addressed some remarks, but the ambit of this Bill is limited to the proposals contained in it.
 
@@ -3984,6 +4542,8 @@ This afternoon the Parliament involved itself in another very interesting debate
 
 * Honourable members may like to contrast this Chifley pension with the rates of $16 a week for a single person and $14.25 a week for each of a married couple, proposed in the present Bill, and to draw their own conclusions about the extent of the Government's continuing interest over the years in the **welfare** of pensioners.
 
+* Has a decision been made on assistance for the construction of toilets at Katanning Arts and Crafts Society submitted by the Katanning Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to the Australian Council for the Arts.
+
 * It would not be appropriate to give any details about meetings of representatives of the Departments concerned with **welfare** policy except to say that liaison and consultation is constantly taking place.
 
 * The report also identifies potential improvements with communications associated with defence, transport, health, **welfare**, and education.
@@ -4002,7 +4562,7 @@ This afternoon the Parliament involved itself in another very interesting debate
 
 * Up to $456,900 has been approved for both 1974-75 and 1975-76. 
 to examine the awareness of specific learning difficulties among the community generally and among the medical, health, teaching and social **welfare** professions in particular; 
-Government Health and Welfare Committee about looking at a range of options that we can consider in trying to overcome the problems to which the honourable member for Isaacs has referred.
+Government Health and **Welfare** Committee about looking at a range of options that we can consider in trying to overcome the problems to which the honourable member for Isaacs has referred.
 
 * Where the appointment is not made by the pensioner, the Depanment of Social Security satisfies itself that the proposed warrantee has taken and will continue to take an interest in the **welfare** of the pensioner.
 
@@ -4034,16 +4594,22 @@ Government Health and Welfare Committee about looking at a range of options that
 
 * It is estimated that 1,000 **welfare** representatives of all categories served overseas during the Second World War, plus an estimated 100 who served in warlike operations since then.
 
+* I take the opportunity of thanking the honourable member for Murray  (Mr Lloyd),  the  Chairman  of the Government members Health and **Welfare** Committee, for his very constructive speech and for the work that his Committee has done in assisting the Government in the formulation of its policy in the health insurance area.
+
 * My Government will review the field of social **welfare**, with the object of assisting those in dire need while at the same time not discouraging thrift, self help and self reliance.
 
 * To this end my Government will set up  a  standing Cabinet committee, including the Ministers for Health, Social Services, Repatriation and Housing, and that Committee will direct its attention to coordinating the approaches and proposals qf the various departments concerned with social **welfare**.
 
 * I summarise my remarks by emphasising that the Government stands condemned for its callous disregard for the **welfare** of the pensioners and for its insulting and disgusting increase of 50c a week in pensions.
 
+* Task Force on Co-ordination in **Welfare** and Health (Question No.
+
 * 1472) 
 A survey of social **welfare** manpower in Western Australia and Queensland.
 
 * The lack of a registration requirement for some **welfare** personnel presents difficulties in data collection.
+
+* Reports of the Social **Welfare** Commission are tabled in the Parliament.
 
 * 1) The Ballarat Council of Social Services has numerous members representing organisations such as local government, **welfare** groups, service clubs, individuals interested in the Australian Assistance Plan.
 
@@ -4060,6 +4626,8 @@ What is the budget of, and what results have been obtained by, Professor Harris 
 
 * Those are the basic principles that should be the basis on which we develop our whole approach to **welfare** services.
 
+* Yes.I understand the undertakings were made following representations to the U.S. airlines by officials of the Departments of Transportation and Health, Education and **Welfare**.
+
 * Rural poverty should be treated as a social **welfare** problem.
 
 * People suffering rural poverty should be treated by social **welfare** measures designed selectively to help those people who are most in need.
@@ -4068,7 +4636,11 @@ What is the budget of, and what results have been obtained by, Professor Harris 
 
 * Invitations were sent to members of Parliament, to local government leaders, to churchmen and other officials in the local community, and to representatives of community and **welfare** organisations.
 
+* Will he provide an outline of all methodology being employed in all social analysis work being undertaken by or through the Social **Welfare** Commission for the Australian Assistance Plan.
+
 * Is it not a fact that negotiations for the transfer were initiated as a result of repeated representation from the pupils, teachers and others interested in the **welfare** of the school children in this district?
+
+* 1 ) What is the function and composition of the Research Grants Advisory Committee established by the Social **Welfare** Commission under section 1 7 of its Act.
 
 * This concern was expressed by the present Government when in Opposition, as well as by many Aboriginal groups and organisations interested in Aboriginal **welfare**.
 
@@ -4094,6 +4666,8 @@ What is the budget of, and what results have been obtained by, Professor Harris 
 
 * The Prime Minister  (Mr Gorton)  foreshadowed this in his policy speech before the last elections when he laid it down that rehabilitation would be one of our major objectives in the **welfare** field.
 
+* What were the names and portfolios of the Ministers who attended the Conference of Child and Social **Welfare** Ministers held in Brisbane on 5th June 1972.
+
 * That citizens of this Division place great value on the sanctity of human life, and on the physical, mental, and social **welfare** of mothers and children; 
 Expenditure by the Department of Aboriginal Affairs on Aboriginal **welfare** for the period 2 December 1972 to 31 August 1973 was as follows: 
  I direct my question to the Prime Minister.
@@ -4108,6 +4682,8 @@ Expenditure by the Department of Aboriginal Affairs on Aboriginal **welfare** fo
 
 * I believe that people in defence service homes are getting a good deal, particularly those who have been on the **welfare** homes list for so many years.
 
+* The position formerly held by  Mr Giese  was Assistant Administrator, **Welfare** (Level 2).
+
 * The employment of staff to be responsible for matters of safety, health and **welfare** and to provide student counselling services at institutions of technical and further education; 
 The functions of the Australian Minerals Council are: 'To promote the general **welfare** and progressive development of the Australian mining and mineral industry'.
 
@@ -4115,11 +4691,17 @@ The functions of the Australian Minerals Council are: 'To promote the general **
 
 * It took place in this Parliament at 1.14 a.m. because even then the Government of the day, which was of the same political complexion as the present Government, had no idea at all of and no interest in the national **welfare** of Australia or, indeed, of the world.
 
+* I am advised that the Task Force on Co-ordination in **Welfare** and Health is working towards presenting me with its first report before the end of the year.
+
+* Livestock-Rural Development Sponsorship and Child **Welfare** Australian-Asian Livestock Society Ltd. 18 March 1977.
+
 * Furthermore, this House endorses the view that support for the continued viability of the family remains an integral prerequisite for the future **welfare** of this nation.
 
 * Provisions exist for the entry of persons for retirement purposes but it is a firm requirement that they should be selfsupporting without recourse to social **welfare** payments.
 
 * So far as the major point of the honourable gentleman's question is concerned, that is to say the family allowances and the major increase in child endowment, if I may say so,  Mr Speaker,  that is one of the most significant measures of social **welfare** introduced in this country by any government.
+
+* I have read statements attributed to  Dr Hecker  which reportedly were made in Sydney yesterday when he was making a submission to the Senate Standing Committee on Health and **Welfare**.
 
 * Migrants received assistance via **welfare** rights programs and were able to establish more effective communication through ethnic and community radio.
 
@@ -4129,9 +4711,13 @@ The functions of the Australian Minerals Council are: 'To promote the general **
 
 * that there is a crisis in Aboriginal **welfare** in the south west land division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
 
+* With the concurrence of honourable members I incorporate in Hansard a table which I have received from the State Minister for Native **Welfare** showing the amounts that have been received from the Commonwealth and the amounts that have been spent by the State on Aboriginal housing from 1955-56 to the present time.
+
 * Joint planning, and even conduct, of schools by educational, health, **welfare**, cultural and sporting agencies could provide additional facilities for the school, allow the community access to its resources, and thus generally increase its fruitfulness.
 
 * In the latter category are 1041 staff for the Department of Social Security- 913 for processing unemployment benefits and other social **welfare** payments and 128 for Darwin re-settlement activities.
+
+* The State Ministers concerned with Child **Welfare** held their Second Annual Conference in Hobart from 15th to 18th March 1971.
 
 * I could see little point in continuing a confrontation which contained a real possibility of jeopardising the whole education program, and the **welfare** of all of our school pupils.
 
@@ -4155,7 +4741,11 @@ If the claims were substantiated, did or will, the Government take steps to alle
 * I wish each level of government to be in a position to perform better its assigned functions for the better **welfare** of all our citizens wherever they live.
 
 * That where rebates are transferred to social **welfare** payments the transfer compensates for the value of the rebates for each taxpayer or the household supported by the taxpayer; and 
-1 ) Has his attention been drawn to paragraph 1 60 of the Report of the Task Force on Co-ordination in Welfare and Health.
+1 ) Has his attention been drawn to paragraph 1 60 of the Report of the Task Force on Co-ordination in **Welfare** and Health.
+
+* 1 ) Has his attention been drawn to recommendations 26, 27 and 28 of the Task Force on Co-ordination in **Welfare** and Health.
+
+* 1 ) How many meetings have been held between Federal and State representatives to discuss the implementation of the Bailey Report on Social **Welfare**.
 
 * He was not concerned with the interests or the **welfare** of the people of that State.
 
@@ -4184,11 +4774,40 @@ It is clear that in countries where **welfare** services are advanced- England, 
 
 * sees a danger of domination and possible elimination of State Government and voluntary agency **welfare** Services'.
 
+* As honourable members know, the Bill is designed officially to establish the Social **Welfare** Commission.
+
+* In the Labor Party's policy speech there was no mention of this new instrumentality, to be known as the Social **Welfare** Commission, being set up.
+
+* The second reading speech of the Minister for Social Security  (Mr Hayden)  was vague, as was the first annual report of the Social **Welfare** Commission which, incidentally, this Bill seeks to establish although it has already produced an annual report, and also the booklet entitled 'The Australian Assistance Plan'.
+
+* The Minister's second reading speech, the booklet entitled 'The Australian Assistance Plan' and the annual report of the Social **Welfare** Commission are full of references to links between the Commonwealth and regional areas.
+
+* They are the second reading speech of the Minister for Social Security, who is obviously a strong disciple of Parkinson's law, the first annual report of the Social **Welfare** Commission, the Australian Assistance Plan compiled by members of the Social **Welfare** Commission and the transcript of the comments made by  Mrs Coleman  on the television program 'Monday Conference' a few weeks ago.
+
+* The  'Mrs Coleman'  to whom I have referred will be the full time  Chairman  of the Social **Welfare** Commission - at least, I presume she will be.
+
+* I presume that if this Bill is passed by both Houses of the Parliament she will be appointed as full time  Chairman  of the Social 
+**Welfare** Commission, which has been operating for 6 months or so without any authority from this Parliament.
+
+* I have in front of me the first annual report of the Australian Social **Welfare** Commission.
+
+* setting up of the Social **Welfare** Commission.
+
+* As far as I know the position of  Chairman  of the Social **Welfare** Commission, which carries with it the status of Permanent Head of a Government department and a salary of $25,000 a year plus allowances, including a $34 a day travelling allowance, was not advertised.
+
+* He has just spent more than Sim of the taxpayers' money on putting out a pamphlet supporting his health scheme but he would not spend a couple of hundred dollars advertising the position of  Chairman  of such a far reaching and important body as the Social **Welfare** Commission.
+
 * is there some much bigger, granted social **welfare** plan quite unlike anything we've even known before, that the Government has in mind?
 
 * Well, whether it's in the mind or whether it's a gleam in somebody's eye at the moment I guess is the operative question, but we certainly do not want to try to completely restructure the social **welfare** system .
 
 * if one is talking there about the network of cash benefits that are paid as income supports for various people, and the range of personal **welfare** services that are provided  f -  various people for particular purposes.
+
+* But in addition to that I think the  function of the Social **Welfare** Commission is very much broader than to think in terms of even an amended system which will catch the casualties, so to speak.
+
+* It looks as if every government department is going to have a member of the Social **Welfare** Commission within its organisation - that is, if they are not all swallowed up by it.
+
+* 1 and the Social **Welfare** Commission Annual Report consist of cliches, vague statements, no expenditure estimates - which is typical of many of the pieces of legislation which recently have been brought into this Parliament - and hard to define technical jargon.
 
 * There seems to be a desire and an aim to encourage more people to involve themselves in a much wider range of **welfare** activities.
 
@@ -4199,6 +4818,8 @@ It is clear that in countries where **welfare** services are advanced- England, 
 * However, I pose the question: Do we need a huge new national **welfare** commission to achieve these aims?
 
 * It must be conceded that the objective and concept of improved provision and awareness of social **welfare** will assist many Australians.
+
+* As my time is almost up I remind the House that I moved the amendment to put on record some of the concerns of members of this Parliament towards the Social **Welfare** Commission Bill.
 
 * Even though the Government has emerged so belatedly, in this pre-election period, with concern about Aboriginal **welfare**, environmental matters and many other things, it will help to compound the efforts that have been made by the Australian Labor Party to make these real issues for the whole country.
 
@@ -4220,10 +4841,14 @@ It is clear that in countries where **welfare** services are advanced- England, 
 
 * Since the inception of the scheme in 1 968 numerous inquiries have been made about the availability of funds for social **welfare** purposes and it is not possible to provide details of these inquiries.
 
+* There is only one formal application outstanding for a grant-in-aid- INCA Institute Nazionale Confederate di Assistenza (**Welfare** Institute for Italian Workers in Australia ) which at this stage has been neither accepted or rejected.
+
+* Has his attention been drawn to recommendation 15 and paragraph 171 of the Task Force on Co-ordination in **Welfare** and Health.
+
 * If there is no provision for a clearance to be given, does it follow that Commonwealth **welfare** officers and others will not be able to give evidence?
 
 * Expenditure by the Department of Social Security (and its predecessor, the Department of Social Services) on **welfare** is shown in the following table: 
-1 ) The second report of the Task Force on Co-ordination in Welfare and Health is expected to be received in October.
+1 ) The second report of the Task Force on Co-ordination in **Welfare** and Health is expected to be received in October.
 
 * He is making no contribution towards the common **welfare** of the community.
 
@@ -4234,6 +4859,10 @@ It is clear that in countries where **welfare** services are advanced- England, 
 * Of more significance, expenditure on health and **welfare**, as a share of total government expenditure, expanded from 28.3 per cent in 1972-73 to 36.7 per cent by 1975-76.
 
 * Is it new thinking which has caused the revision of social **welfare**?
+
+* Alamgir, 'Poverty, Inequality and Social **Welfare**: Measurement, Evidence and Policies',  Bangladesh Development Studies,  Vol.
+
+* <para pgwide="yes">Philippines- M. A. S. Abrera, 'Philippine Poverty Threshholds' in  Measuring Philippine **Welfare**,  Development Academy ofthe Philippines, Manila, 1975.
 
 * This means that laws made by the Assembly will no longer be subject to veto by the Australian Government; that all matters affecting the **welfare** of the New Guinean people except defence and foreign affairs will be subject to laws made by the Assembly alone; and that  those  laws will be administered by a public service responsible only to the House of Assembly.
 
@@ -4267,6 +4896,8 @@ It is clear that in countries where **welfare** services are advanced- England, 
 
 * It is quite apparent from  Dr Lopert's  statement that she was very disturbed, not only that it embarrassed her but she was concerned for the **welfare** and safety of the patient.
 
+* Has the attention of the Minister been drawn to recommendation 24 of the Task Force on Co-ordination in **Welfare** and Health.
+
 * This decision does not mean, of course, any diminution in the Government's interest in the **welfare** of those who made sacrifices in the defence of our country.
 
 * The officers of the Department of Social Security and of the Commonwealth Employment Service also deserve considerable credit for their understanding of the situation and the fact that they were able to operate within the changes made to various parts of the **welfare** legislation, which for the first time enabled selfemployed persons to benefit in times of stress from the social **welfare** system.
@@ -4281,15 +4912,18 @@ It is clear that in countries where **welfare** services are advanced- England, 
 
 * How can any responsible person think that the payout on social **welfare**, involving as it does about one-fifth of the total Budget, can be disregarded when the financial aspects of Australia's annual Budget are being considered.
 
-* The members of the Rockhampton Social Welfare Development Planning Council and the organisations they represent are as follows: 
+* The members of the Rockhampton Social **Welfare** Development Planning Council and the organisations they represent are as follows: 
 the industrial action has had, is having, or is likely to have, a substantial adverse effect on the safety, health or **welfare** .
 
-* Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department 
+* Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department 
 That's because Medibank, like other social **welfare** services, will be financed by money from tax revenue.
 
 * The Government will place great emphasis on directing **welfare** assistance to those in real need.
 
 * I would like to reply very briefly to the comments of the honourable member for Corio  (Mr Scholes)  when he suggested that members on this side of the House had less than a passing interest in the **welfare** of our returned men.
+
+* Mr Acting Speaker  - 
+Task Force on Co-ordination in **Welfare** and Health: Recommendation 24  (Question No.
 
 * The Bill brings in representatives of certain **welfare** organisations, and I think that is quite proper too.
 
@@ -4329,6 +4963,8 @@ That's because Medibank, like other social **welfare** services, will be finance
 
 * It is expected in a civilised society that he or she must be taken care of by some form of payment or social **welfare** benefit.
 
+* In America the former Secretary of Housing, Education and **Welfare** and now head of the Urban Coalition, John W. Gardner, has bluntly stated that the present system of medical care delivery is outworn, expensive and outrageously inefficient.
+
 * In an article headed 'The $60 Billion Crisis over Medical Care' the reputable United States magazine 'Business Week' in January this year stated: 
 I think it is about time we measured our achievements in terms of people and **welfare** and not money and statistics.
 
@@ -4348,6 +4984,11 @@ I think it is about time we measured our achievements in terms of people and **w
 
 * A study of the achievements of the Government since the setting up of the Department of Aboriginal Affairs in 1967 must prove that the Government has not been niggardly or lacking in its approach to the **welfare** of our coloured people.
 
+* Has the Social **Welfare** Commission established committees to inquire into various matters.
+
+* 1 ) The members of the Townsville **Welfare** Council and the organisations they represent are as follows: 
+1 ) Who are the members of the Mackay Council of Social **Welfare** and what organisations do they represent.
+
 * It is vital to the **welfare** of thousands of whole communities in Australia and to decentralisation.
 
 * I challenge it to state unequivocally whether abolition of the means test is or is not one of the casualties of the rather massive public expenditure cuts which it is proposing as part of its economic administration of this country in which major **welfare** fields, such as education, **welfare** housing, urban and regional development, **welfare** services, hospitals and community health services will all be cut back substantially according to a secret document circulating among a small number of senior members of the Liberal Party.
@@ -4355,6 +4996,8 @@ I think it is about time we measured our achievements in terms of people and **w
 * Australia's finance, the future security of Australians, their employment opportunities and their **welfare**.
 
 * We would have, people associated with **welfare** societies and people associated with churches.
+
+* Task Force on Co-ordination in **Welfare** and Health  (Question No.
 
 * There is an actual effect on the **welfare** of the migrants in this country.
 
@@ -4366,6 +5009,10 @@ I think it is about time we measured our achievements in terms of people and **w
 
 * My department has a **welfare** officer to look after the needs of overseas students in every State of the Commonwealth.
 
+* Darwin Disaster **Welfare** Council: final report (5 copies).
+
+* Task Force on Co-ordination in **Welfare** and Health (Question No.
+
 * But as the people are well aware, the relic Opposition majority in the Senate has continually blocked major items of our mandate - our policies on health, education, social **welfare**, urban living, land acquisition- 
 The Opposition parties may bleat about that too but remember their great leader of earlier years,  Sir Robert  Gordon Menzies, over a quarter of a century ago promised to abolish the means test.
 
@@ -4373,7 +5020,17 @@ The Opposition parties may bleat about that too but remember their great leader 
 
 * Over the whole range of social **welfare** services this Government has acted promptly to improve the lot of the less fortunate and the under privileged.
 
+* Task Force on Co-ordination in **Welfare** and Health (Question No.
+
 * The Government has made a decision which, as far as I can make out, has not led to the executive of the Returned Services League, the main body representing the **welfare** of ex-servicemen and women in Australia, appearing to complain to the Parliament.
+
+* Included in this figure are 153,000 wards of the nation for whom basic responsibility lies with the Ministry of Social **Welfare**.
+
+* The Ministry of Social **Welfare** in Vietnam has indicated that it is not completely correct to speak of 'destitute orphans': those not being cared for by the Government are, for the most part, cared for in family groups.
+
+* The matter of adoption of foreign children in Australia is one which chiefly concerns Child **Welfare** Authorities in each of the Australian Slates.
+
+* The Vietnamese Ministry of Social **Welfare** and Refugees and the Ministry of Health have advised that, generally speaking, the Government of Vietnam does not favour the adoption of Vietnamese children in foreign countries.
 
 * I believe that this matter is one in which the Parliament as a whole can make a real contribution to the **welfare** of the Australian people.
 
@@ -4381,9 +5038,15 @@ The Opposition parties may bleat about that too but remember their great leader 
 
 * I regard the organisational and administrative responsibilities accepted by these committees as being a most important contribution that they make to the scheme and to the **welfare** of the aged people who are residents under it.
 
+* This report was prepared by the Australian Government Social **Welfare** Commission.
+
 * But the unfortunate aspect of this approach is that it seems to generate a greater resentment towards Aboriginal **welfare**.
 
+* 1 ) Funds will be made available to the Indulkana Community in June 1979 to enable it to assume responsibility from the Department of Community **Welfare** on 1 July 1 979.
+
 * 1 ) It is considered that there is a responsibility for the **welfare** of pensioners at all levels of Government.
+
+* **Welfare** relief is not the responsibility of the Department of Aboriginal Affairs and no provision is made for it in my Department's budget.
 
 * Labor's policies in these fields are policies for women; they are part of our program to improve the **welfare** and widen the rights and opportunities of the whole community.
 
@@ -4397,13 +5060,24 @@ The Opposition parties may bleat about that too but remember their great leader 
 
 * Third, the health and **welfare** of their families.
 
+* That there is a crisis in Aboriginal **Welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
+
+* Native **Welfare** Act 1963 (section 17) 
+Opposition spokesman on Social Security, Health and **Welfare**.
+
+* Who are the members of the Townsville **Welfare** Council and what organisations do they represent.
+
 * The legislation then provides that they shall be able to perform functions or services in respect of such matters as housing, health, sewerage, water supply, electricity, communications, education, relief work, roads and associated works, garbage collection and disposal, and **welfare** and community amenities.
+
+* 1) The Social **Welfare** Commission has an establishment of30.
 
 * the need to protect the rights of children and to promote their **welfare**; and 
 the need to protect the rights of children and to promote their **welfare**; and 
 The committee met for the first time on 23 and 24 June 1976, and it was resolved that the Department of Social Security should prepare working papers for consideration by State officials, which led to the preparation of a comprehensive document.
 
 * At the same time as consultations were being held with the States, discussions took place with the private insurance industry, employer organisations, trade unions, the medical and legal professions, **welfare** organisations and motorists' organisations.
+
+* What banking facilities are available at the Wave Hill Aboriginal **Welfare** Settlement in the Northern Territory.
 
 * He is also known as 'cut Johnson' because it was during this period that he cut by 19 per cent the Federal Government's contribution to **welfare** housing in Australia.
 
@@ -4421,15 +5095,21 @@ The committee met for the first time on 23 and 24 June 1976, and it was resolved
 
 * The Australian Labor Party in 1973 allocated 20.4 per cent of our income to social security and **welfare**.
 
+* 1 ) When will funds be made available to the Indulkana Community Council to allow that body to take over the services now provided by the South Australian Department of Community **Welfare**.
+
 * Is the **welfare** of pensioners primarily a Commonwealth responsibilty 
 I am sure that the honourable gentleman as the father of a teenage daughter shows for her **welfare** the proper solicitude that all Victorian members of 
-Social Welfare Ordinance 1964-1974.
+Social **Welfare** Ordinance 1964-1974.
 
 * It is referring to the **welfare** spending in this country.
 
 * The low income earner has been protected by the provision of **welfare** housing and by schemes such as that instituted in my own State of Western Australia by the State Liberal-Country Party Government to provide support in hardship cases and of course there is limited financial capacity on the part of State governments to provide for all hardship cases.
 
 * The low income earners, the people who need **welfare** housing- hardship cases- have been provided for in these hard times of high interest rate policy but it is the middle income earner who has been caught in the squeeze and there is nothing in this legislation that the Corporation can do to assist those middle income earners who are already buying their home and who are caught by the continuing high interest rate policies of this Government.
+
+* When was the National **Welfare** Fund established.
+
+* What is the establishment of the Social **Welfare** Commission.
 
 * For example, in the case of social **welfare** expenditure, there is a whole range of policies concerned with social **welfare** objectives or affecting the distribution of income which require appraisal before valid international comparisons can be made.
 
@@ -4462,6 +5142,9 @@ Social Welfare Ordinance 1964-1974.
 * Claims by  Mr Holgate,  the Tasmanian Minister, that the Commonwealth is opting out or the disgraceful allegation that he has spread around that we were trying to push up pensioners ' rents - 
 As I said, the Bill will extend the scheme from 3 years to 4 years and will pump $10m into **welfare** housing for single pensioners.
 
+* That, regrettably, is a fact of life, But Headline Harry should be reminded who created inflation and also - 
+I mentioned 2 reports- the Task Force on Coordination in **Welfare** and Health, known as the Bailey report, and the report of the Committee of Inquiry into the Care of the Aged and Infirm.
+
 * In the field of health and **welfare** it offers a new hope to an Australian marching towards the twenty-first century.
 
 * Sixthly, towards the end of this century Australia will need to spend relatively more on such things as aged pensions and other age related **welfare** schemes and relatively less- I am sad to say this- on such things as child endowment, education, creches and the like.
@@ -4469,6 +5152,9 @@ As I said, the Bill will extend the scheme from 3 years to 4 years and will pump
 * The Bailey Task Force has proposed the establishment of a SHACC- that is, sheltered accommodationprogram as one of 4 programs in the **welfare** and health area.
 
 * Indeed, I believe, in the approach and the commitment of our Government that we have demonstrated to the pensioners of Australia, to the poor of Australia, and to the under-privileged of Australia that we have a genuine commitment to their **welfare** and to their betterment, that we are determined that they shall be properly and appropriately housed, and that they shall be cared for in the twilight years of their lives.
+
+* **Welfare** Committee 
+Social **Welfare**.
 
 * The electors have inflicted stinging rebuffs at the ballot box to those politicians who have sought to push the **welfare** state so far that it has become an intolerable tax burden to the people and so that all the other spending in the public sector is constrained by what is going on there.
 
@@ -4480,6 +5166,8 @@ As I said, the Bill will extend the scheme from 3 years to 4 years and will pump
 
 * The term 'social **welfare** worker' includes a social worker, **welfare** officer, psychologist, occupational therapist or other person providing a service or treatment for homeless people.
 
+* The funds for these subsidies will be provided from the National **Welfare** Fund and provision has been made for expenditure of up to $550,000 for the remainder of the year 1974-75.
+
 * The Government's belief in social justice, which has been demonstrated by massive inputs to our social **welfare** program, opens up the possibility of programs such as this leading to a diminution of the problem through the rehabilitation of this group of the socially disadvantaged.
 
 * It is my intention to establish these committees as quickly as possible, ensuring that all involved in the **welfare** of the homeless participate in the work of the committees.This then is the substance of the Bill.
@@ -4487,6 +5175,8 @@ As I said, the Bill will extend the scheme from 3 years to 4 years and will pump
 * It has become increasingly obvious with the development of modern technology, the changed way and pace of life and the increasing acceptance on all sides of the **welfare** state that there has been increasing government involvement in the citizens' daily life and a dramatic expansion of the Executive 's power.
 
 * The **welfare** of whole communities depends on the well-being of the world sugar industry.
+
+* 1 ) Who are the members of the Rockhampton Social **Welfare** Development Planning Council, and what organisations do they represent.
 
 * That report is neither a full nor accurate assessment of the contribution made by the mining industry to Australia's economic **welfare**.
 
@@ -4517,7 +5207,7 @@ Within our society the position of economic independence in the light of what I 
 
 * Surely, the Parliament has justification for hoping that these wielders of the scalpel would also have incisive minds, that they would be men able to cut quickly to the core of concern in this debate, namely, the **welfare** of the people of Australia, the **welfare** of the patients.
 
-* We would probably soon reach the position that is applying in Canada, where the Minister for National Health and Welfare has announced that reductions of 25% in votes for both emergency health services and emergency **welfare** services will be effected in 1970-71.
+* We would probably soon reach the position that is applying in Canada, where the Minister for National Health and **Welfare** has announced that reductions of 25% in votes for both emergency health services and emergency **welfare** services will be effected in 1970-71.
 
 * It is a fact that in areas which have no relationship to Aboriginal Affairs but which impinge upon the **welfare** of Aboriginal people States have responsibilities.
 
@@ -4528,6 +5218,9 @@ Within our society the position of economic independence in the light of what I 
 * The inquiry was commenced in 1963 and was a longstanding commitment of members of Parliament to the **welfare** of people who were affected by mining development.
 
 * Many members of the Services will recall with respect and appreciation the great contribution that such people made to the morale and **welfare** of the Services, often in dangerous and difficult circumstances.
+
+* a survey of hostel accommodation for young Aboriginals in Perth conducted by the Western Australian Director of Community **Welfare** has shown that there is sufficient Aboriginal hostel accommodation either currently available or already planned in Perth for the present need and 
+I believe that the farmers of this country have shown the way to the rest of the community.
 
 * The net incomes of people in other sectors of the community, whether they be doctors, people in industry or social **welfare** workers, are higher than those of the farmers.
 
@@ -4596,6 +5289,9 @@ This is not specific enough.
 
 * What action has the Government taken to ensure that the **welfare** of these citizens is protected?
 
+* Child **Welfare** Ordinance 1961-1968 
+Is it because of Government policy (Hansard, 28th September 1971, page 1602) that the Senate Standing Committee on Health and **Welfare**, in inquiring into the problems of, and the provisions for assistance to, mentally and physically handicapped personsin Australia, did not have the benefit of access to reports of the interdepartmental committee established to make a survey of handicapped children and the facilities available for their use (Parliamentary Paper No.
+
 * It is a scheme that has been condemned by the medical profession, by pharmacists, by hospital administrators, by social workers and by **welfare** organisations.
 
 * Anyone with the slightest understanding of health and social **welfare** knows that this scheme simply cannot operate effectively; but then, of course, it never was intended to do so.
@@ -4629,6 +5325,8 @@ This is not specific enough.
 * One of the primary causes of the domestic inflation in Australia has not only been the Government's misjudgment but its failure to encourage further investment in the productive sector at a time when the Government's budgetary and **welfare** policies are injecting excess liquidity into the economy.
 
 * We do not need a cradle-to-the-grave society in which the Government will dictate all aspects of our daily lives, and expect those of us who still want to work to pay dearly for the ultimate **welfare** state in which the individual will lose all freedom of choice and the capacity to plan his destiny.
+
+* Is the inter-departmental committee established to consider the recommendations of the Senate Standing Committee on Health and **Welfare** in its report tabled on 5th May 1971 on Mentally and Physically Handicapped Persons in Australia, whose membership was disclosed by the Minister for Health in the Senate on 9th December 1971 (Senate Hansard, page 2560), the same as the inter-deparimental committee established to make a survey of handicapped children and the facilities available for their use, whose membership he himself refused to disclose on 28th September 1971 (Hansard, page 1602).
 
 * During the last 33 months the Government has presided over the deliberate erosion of financial support for Aboriginal **welfare** and development programs.
 
@@ -4683,6 +5381,8 @@ The State Grants (Home Care) Act, which was passed in 1969, has used less than o
 * Speakers on both sides of the Houses have made observations and suggestions on social **welfare** matters which I have noted, and I will make sure that the Minister for Social Security  (Senator Guilfoyle)  in the other place is made aware of them.
 
 * He accused us of dismantling and distorting the social **welfare** program, of breaking promises and of dealing coldly and harshly with pensioners.
+
+* Previously the Social **Welfare** Commission was also represented; but, in view of the abolition of the Commission in the near future, it will not have continuity of representation in that Committee.
 
 * Mr Deputy Speaker,  these 2 Bills represent the first step of the Government in achieving its social **welfare** and repatriation policy objectives.
 
@@ -4740,6 +5440,8 @@ The State Grants (Home Care) Act, which was passed in 1969, has used less than o
 
 * I do not believe that education is a matter of a **welfare** benefit.
 
+* That there is a crisis in Aboriginal **Welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
+
 * He is assisted by an unsalaried, live-in **welfare** worker, and a youth being paid under the NEAT scheme.
 
 * Referrals come from a vast number of sources, including general purpose voluntary **welfare** bodies, churches, government bodies and youth oriented programs such as CYSS centres and the Brisbane Youth Service.
@@ -4774,11 +5476,17 @@ The State Grants (Home Care) Act, which was passed in 1969, has used less than o
 
 * My illustration demonstrates the view of the Liberal Party about private **welfare**.
 
+* What is the composition of the committee of evaluators set up by the Social **Welfare** Commission to evaluate the Australian Assistance Plan.
+
 * I suggest to this Parliament that the help thus given is more meaningful than any single social **welfare** measure introduced by the Labor Government notwithstanding its claim- its usual hollow claim- to have a monopoly of concern in this area.
 
 * I stress that measure, first, because it highlights the concern of the Government in this its first Budget to push ahead with its social **welfare** program notwithstanding the difficult economic climate and, secondly, because it links up with the second major initiative I referred to, the indexing of personal taxation.
 
 * The Oenpelli Mission is to be commended for the very important part it plays in contributing to the **welfare** of our Aboriginal people, but I was surprised that people at the mission did not show greater keenness towards the construction of the road.
+
+* (a) In November, 1973 the Social **Welfare** Commission requested the Queensland Council of Social Service to study and make recommendations on the implementation of the Australian Assistance Plan in the Brisbane Metropolitan' area, particularly in relation to suitable boundaries for Regional Councils for Social Development.
+
+* Copies will be distributed to anyone interested by the Queensland and New South Wales Councils of Social Service, and will be available from the Social **Welfare** Commission.
 
 * The distribution of Commonwealth funds for **welfare** housing is a highly emotional area.
 
@@ -4825,6 +5533,8 @@ The State Grants (Home Care) Act, which was passed in 1969, has used less than o
 * The growth of our **welfare** services and community advancement programs are desirable- but they must ultimately depend upon our economic prosperity and upon our willingness and ability to pay for additional services through higher taxation.
 
 * It is impossible for any government to continue to spend record amounts on **welfare** and community services and at the same time seriously attempt to restrain rises in costs and prices.
+
+* That there is a crisis in Aboriginal **Welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
 
 * We have said that employment, development of the country and the **welfare** of our citizens are important matters which must be seen within the context of the whole Australian economy.
 
@@ -4888,6 +5598,9 @@ The State Grants (Home Care) Act, which was passed in 1969, has used less than o
 
 * It is now allowing takeovers by multinational corporations, a practice which it claimed and has claimed consistently over the years to be detrimental to the **welfare** of the Australian people and to this country.
 
+* The article which follows states: 
+Has a decision been made on assistance for development and equipment of an Aboriginal community centre at Pinjarra submitted by the Murray District Aboriginal Association to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to the Department of Aboriginal Affairs.
+
 * As usual, the Opposition could well be asked how it would finance its vast but indefinite expenditure on defence, social **welfare**, local government, education and overseas aid, without increasing taxation.
 
 * Why then, for the sake of politics, does the ALP support those who are not interested in the **welfare** of Australia?
@@ -4919,13 +5632,21 @@ It is true and it has been said from this side of the House on a number of occas
 
 * Broadly, press statements are distributed to media organisations, members of Parliament, Government departments, embassies, political party organisations and members, **welfare** organisations, libraries and individuals from whom requests are received.
 
+* Pursuant to section 34 of the Services Trust Funds Act 1947 I present the annual reports of the Royal Australian Air Force **Welfare** Trust Fund, the Australian Military Forces Relief Trust Fund and the Royal Australian Navy Relief Trust Fund for the calendar year 1976, together with financial statements and the report of the Auditor-General on those statements.
+
 * It also enables the Commonwealth to pay 50 per cent of the salary of a social **welfare** worker employed at a homeless persons assistance centre.
 
 * In accordance with our policy of concentrating **welfare** assistance on people in the greatest need, the Government is in favour of making the Act more effective in meeting the needs of a wider range of homeless people.
 
+* At this stage, however, the Government has not yet reached a decision on the proposals of the Task Force on Co-ordination in **Welfare** and Health, one of which is that the homeless persons assistance program should become part of a wider 'Sheltered Accommodation Program', administration of which might be devolved to the State governments.
+
+* Expenditure under the National **Welfare** Fund on accommodation and meal subsidies for the period from 13 December 1974 to 30 June 1977 amounted to $1.7m.
+
 * Salary subsidies were paid for 34 social **welfare** workers.
 
 * But, when Opposition members have to debate a specific issue- whether it be medical research, defence, the **welfare** area, education or anything else- they say that we should have given more money.
+
+* The statistics that are uncovered and reported in the report of the Social **Welfare** Commission for 1972-73 are worth considering.
 
 * The decision to reorganise the administration of our economic aid programs is based on the view that improvements in aid must be affected in almost all aspects of our aid endeavours - in the machinery for formulating policy, in ensuring greater attention to the **welfare** and distributive effects of our aid, in evaluating the effectiveness of our various schemes, in bringing greater expertise into our staffing arrangements and in more directly associating the community with the program.
 
@@ -4950,6 +5671,8 @@ If so, will a condition of these payments be that expenditure, employment, housi
 
 * How were the various objectives emphasised by the Australian Labor Party prior to the 1972 election, and shared by this side of the House, in the field of social **welfare**, in education, urban development and in assistance to the poor to be achieved?
 
+* The Minister for Aboriginal Affairs will be meeting with various State Ministers including  Mr Ron  Payne, the South Australian Minister for Community **Welfare**, in Sydney this Friday to discuss matters pertaining to the Australian Aboriginal Affairs Council.
+
 * When a conclusion is reached this will involve funding for education and other aspects of Aboriginal **welfare** related to the outstation movement.
 
 * The Aboriginal Benefit Trust Account formula is for 40 per cent of the royalty payments for minerals extracted from the land to be paid to land councils, 30 per cent to be paid to the local traditional owners of the land concerned, and the remaining 30 per cent to be paid towards the general **welfare** of Aborigines in the Northern Territory.
@@ -4959,6 +5682,8 @@ If so, will a condition of these payments be that expenditure, employment, housi
 * The Government has already shown that it does not intend to forget mining centres which are already employing many thousands of people and which contribute millions of dollars yearly to the State and national **welfare** in royalties and taxes.
 
 * High grade ore at Broken Hill is reaching the end of its life but there is a large body of low grade ore. We believe that the Government should be conscious of the contribution that Broken Hill has made to the **welfare** of Australia and that some assistance should be given towards the exploration for and the mining of this body of low grade ore.
+
+* If necessary she is placed in the custody and care of the Director of Social **Welfare**.
 
 * In the field of social **welfare** nothing significant has been achieved in the 23 years the previous Government held office.
 
@@ -4974,11 +5699,21 @@ If so, will a condition of these payments be that expenditure, employment, housi
 
 * These projects, one for the South Sydney Municipal Council and the other for the Leichhardt Municipal Council are for **welfare** centres.
 
+* The South Sydney Municipal Council has an architect's estimate of the cost of one project- the renovation of the Reg Cope **Welfare** Centre which has been in existence for approximately 20 years.
+
+* There is a plan indicating the location of the Reg Cope **Welfare** Centre.
+
 * The project is designed to provide dining and **welfare** facilities for approximately 130 persons daily.
 
 * The Council is already operating 4 other **welfare** centres within the municipality.
 
+* The 4 centres are the Ron Williams **Welfare** Centre, the Gordon Ibbett **Welfare** Centre, the Harry Burland **Welfare** Centre and the Cliff Nobel **Welfare** Centre.
+
+* It will help the Reg Cope **Welfare** Centre in South Sydney.
+
 * There are 2 **welfare** centres in Leichhardt.
+
+* One is the Harry Hannaford **Welfare** Centre.
 
 * The City of Sydney has 5 **welfare** centres.
 
@@ -5020,9 +5755,13 @@ If so, will a condition of these payments be that expenditure, employment, housi
 
 * But I cannot help feel that in large measure it is a power given to judges to bolster their need for believing that the sentences they impose will not be undone by subsequent decisions by psychologists, social and **welfare** workers, and others who are charged with the duty of observing prisoners and assessing their chances of successful reintegration into society.
 
+* Its members consist of the Director-General of Social **Welfare** and 3 other members who at present are the  Chairman  of the Prisoners' Aid Society, an ex-Chief Parole Officer, and a medical practitioner.
+
 * The parole boards receive opinions from psychiatrists, psychologists, prison officials and **welfare** people, and with the growing experience and expertise that they, acquire, they make a decision as to, whether a prisoner should be released by being parolled.
 
 * There is nothing in the Ordinance to direct a departmental officer or officers to take account of medical reports, psychological reports or reports of social or **welfare** officers, or to take account of the opportunities or lack of opportunities for gainful employment outside gaol.
+
+* Another matter to which I refer is the Northwest One Stop **Welfare** Centre in my electorate.
 
 * If we are to increase the amount provided for expenditure by the States, are we to reduce the amount that is to be spent on social **welfare** measures?
 
@@ -5084,6 +5823,10 @@ If so, will a condition of these payments be that expenditure, employment, housi
 
 * The performance to date has been that of a stop-go economy, of stop-go **welfare** schemes and broken promises, particularly on the means test, and of Federal Government bond rate moves which have caused soaring home loan interest rates that have been passed on by building societies.
 
+* Industrial safety in the Territory of Papua and New Guinea is provided for by the Industrial Safety, Health and **Welfare** Ordinance 1961, and orders made under the Ordinance; the Industrial Safety, Health and **Welfare** Regulations 1965; and sections of other Ordinances, such as the Papua and New Guinea Electricity Commission Ordinance 1961-69.
+
+* -Is the Prime Minister aware that  Mr Dixon,  the Victorian Minister for Social **Welfare**, has called on the Federal Government to pay unemployment benefits to men and women who have been stood down because of the power dispute and stated that any decision to abolish these payments would cost the Victorian Government $7.6m a week.
+
 * Can he assure the House that the Government will heed  Mr Dixon's  plea or has he once again put his policy of 'salvation through stagnation' ahead of the **welfare** of the unemployed?
 
 * The rehabilitation part of it is supposed to have been a major social **welfare** step in rural reconstruction.
@@ -5108,11 +5851,15 @@ If so, will a condition of these payments be that expenditure, employment, housi
 
 * There are others in this Parliament, certainly in my own Party, who are better qualified than I am to speak on Aboriginal **welfare**.
 
+* The Standing Interdepartmental Committee on Rehabilitation (SIDCOR) comprises representative from the Departments of the Special Minister of State (chair), Education, Health, Labor and Immigration, Repatriation and Compensation, Social Security and the Treasury, and the Hospitals and Health Services Commission and the Social **Welfare** Commission.
+
 * The regional organisations of Councils were set up exclusively for the purposes of the Grants Commission Act, but it now appears that the Australian Government favours these organisations accepting at least some degree of responsibility in relation to other programmes in the field of Urban and Regional Development and social **welfare** (Australian Assistance Plan).
 
 * Land purchase for recreation, erection of community buildings and several much needed **welfare** and youth programmes that would involve the appointment of staff.
 
 * Let us hope that this sort of attitude is gone forever because it should be obvious to anyone interested in the **welfare** of local government, which is related to the **welfare** of disadvantaged citizens and_ areas, that the Liberal-Country Party coalition Government and its counterparts in the State governments had no intention of giving any real assistance to local government.
+
+* These measures, however, are only an interim step pending receipt of the report of a Committee of Inquiry into Aged Persons Housing, which was set up by the Social **Welfare** Commission about twelve months ago at my direction.
 
 * Finally, do his Government's policies in favour of the big cities mean that the **welfare** of the small States which export much more than they import is to be sacrificed in favour of the most populous States?
 
@@ -5174,6 +5921,8 @@ If so, will a condition of these payments be that expenditure, employment, housi
 
 * So in 10 years the outlays on the social security and **welfare** function have risen from 18 per cent to an amount roughly equivalent to 25 per cent.
 
+* **Welfare** spending increased steadily in the 1960s.
+
 * The trend, rather than getting better, is expected to get worse, barring a sudden and drastic overhaul of the whole **welfare** state.
 
 * I believe that Australia needs to look at **welfare** and at the emotional and extreme demands on Federal Government outlays in this direction.
@@ -5208,6 +5957,10 @@ If so, will a condition of these payments be that expenditure, employment, housi
 
 * I know that I am speaking on the same subject as did the honourable member for Mackellar  (Mr Wentworth)  but I am quite happy to do that because I believe that there is one area still outstanding which is the single most serious area of social **welfare** injustice in Australia, and that is the single male parent with dependent children, the widower, the divorced or the deserted father.
 
+* It is certainly not the view of this Committee based on the evidence it received, or of the Senate Select Committee on Aborigines and Torres Strait Islanders in its report 'The Environmental Conditions of Aborigines and Torres Strait Islanders and the Preservation of their Sacred Sites', and the Senate Standing Committee on Social **Welfare** in its recent report 'Drug Problems in Australia- An Intoxicated Society?'
+
+* Indeed, the Senate Standing Committee on Social **Welfare** voiced its concern when it said: .
+
 * He could not justify the Government's inaction and the fact that it had completely ignored the representations that had been made to it by those who are responsible for the **welfare** of exservicemen in this country.
 
 * I think it is time that a responsible Minister - one who spoke with, I believe, some sincerity when he sat on the back bench, on the abolition of the means test and the inadequacy of the income received by pensioners - spoke in his reply about the miserable 50c increase that he gave to the pensioners in this Budget and which has led to the kind of representations that every honourable member in this Parliament, whether he sits on the Opposition side or the Government side, has received from the various organisations which are concerned about the **welfare** of these people.
@@ -5222,11 +5975,19 @@ If so, will a condition of these payments be that expenditure, employment, housi
 
 * The involvement of the local community and local government bodies in the provision of **welfare** services is not entirely a new concept or one exclusive to the proposed assistance plan.
 
+* In Victoria the State Government has for a number of years, since 1969, provided a subsidy through the Social **Welfare** Department to pay the salary costs of a full time social worker to promote local government involvement in community services.
+
+* In such pilot programs and the proposed action research the hope can be expressed that heed is paid to the experience, pitfalls and insights gained from similar research conducted in countries such as the United States and the United Kingdom, of which I am sure the Social **Welfare** Commission is aware.
+
 * Since the Bill was introduced the Minister has indicated that the Australian Government has decided to emphasise support for **welfare** pro jects proposed by local communities under the assistance plan rather than to proceed with **welfare** centres operated by the Department of Social Security.
+
+* I presume the reason for it was specifically to cover the position of  Mr Tom  .Roper, who was a member of the Interim Committee of the Social **Welfare** Commission and who after joining the Interim Committee was elected as a member of the Victorian Parliament.
 
 * Has his attention been drawn to a report in The Review, 27th May-2nd June 1972, (a) that the present manager of the Foundation has abolished the Foundation's **welfare** program and cancelled such things as providing amenities for showering and shaving or a free meal for **welfare** cases who needed help to get back their self-respect and dignity before looking for a job or housing and (b) that the second floor of the building used by the Foundation, once used as emergency accommodation for Aboriginals in need, has been converted into a comfortable apartment for the present manager and his family at an alleged cost of $7,900; if so, will he investigate these allegations.
 
 * If the allegations in parts (2) and (3) are correct, will he take whatever action is necessary to ensure that Commonwealth funds appropriated for Aboriginal **welfare** are spent as the Parliament intended.
+
+* They have been contributing to the National **Welfare** Fund in the form of taxation and getting shrunken benefits in return.
 
 * a joint select committee should be established to inquire into and report upon the social **welfare** needs of the Australian community'.
 
@@ -5256,7 +6017,9 @@ If so, will a condition of these payments be that expenditure, employment, housi
 
 * I see in this bypassing, as I see in other legislation, evidence of another example of what I think is a disturbing trend in social **welfare** legislation and something about which I intend to speak in this House on the estimates for the Department of Social Security, that is, the tendency to institutionalise our social **welfare** services.
 
-* The domiciliary nursing care benefit has been the subject of examination by 2 Government established enquiries in the health and **welfare** fields- the Committee on Care of the Aged and the Infirm and the Task Force on Co-ordination in Welfare and Health.
+* The domiciliary nursing care benefit has been the subject of examination by 2 Government established enquiries in the health and **welfare** fields- the Committee on Care of the Aged and the Infirm and the Task Force on Co-ordination in **Welfare** and Health.
+
+* The Task Force on Co-ordination in **Welfare** and Health proposed in its report that the domiciliary nursing care benefit, with envisaged possible modifications, be included in a Community Health and Care Program.
 
 * Is the Minister for Immigration aware that there is considerable anxiety among applicants for positions as multi-lingual **welfare** officers with the Department of Immigration at the delay in finalising the appointments?
 
@@ -5271,6 +6034,10 @@ If so, will a condition of these payments be that expenditure, employment, housi
 * In the social **welfare** sphere, the present Government has carried on many of the policies which were instituted by us when we were in government.
 
 * In the social **welfare** field, we raised the pension right across the board when it was necessary.
+
+* 30 August: A Report from the Social **Welfare** Commission - Tabled by  Mr Hayden.
+
+* 4 December: A Report from the Social **Welfare** Commission concerning Aged Person's Housing - Tabled by  Mr Hayden.
 
 * The honourable member for Wills  (Mr Bryant)  who was very vocal in opposition to this item has a motion before the House seeking standing committees on foreign affairs and defence, finance and trade, health and **welfare**, primary industry and national development, transport and communications, education, science and the arts, legal, home and internal territory affairs.
 
@@ -5306,9 +6073,13 @@ If so, will a condition of these payments be that expenditure, employment, housi
 
 * What worries me is that, as with so many other aspects of social **welfare** policy brought into this Parliament, no comprehensive report has been produced to the Parliament indicating the basis upon which the Government has made its decision to embark on particular legislation.
 
+* I am not talking of the general public relations booklet which the Department has produced but the sort of report that is produced as a command paper by the **Welfare** Department in Great Britain.
+
 * The grandiloquence of the Minister on this aspect of social **welfare** scarcely seems justified.
 
 * There is, however, an understandable reluctance on the part of many firms- and also of employees- to leave areas of activity with which they are familiar, even if those activities may be costly to the community or may not be contributing fully to national **welfare**.
+
+* Recommendation concerning Seafarers' **Welfare** at Sea and in Port.
 
 * These nurses, who work mainly in maternal and child **welfare** clinics, said that their survey showed that it was not practical for a family to try to live on one low income.
 
@@ -5348,9 +6119,13 @@ What amount was spent on Aboriginal **welfare** (a) in total and (b) per capita 
 
 * We must do this with the knowledge that our own **welfare** and security are inextricably bound up with the **welfare** and security of others.
 
+* National Commission on Social **Welfare**  (Question No.
+
 * In Queensland additional **welfare** housing funds are justifiable on both human and economic grounds.
 
 * That is possibly why there is a waiting list for **welfare** housing in New South Wales of 32 000 people whereas in Victoria the figure is only 21 000.
+
+* 1 ) Did he say on 20 July 197S that advances for the States **Welfare** Housing Program will not be less than in the previous financial year.
 
 * Undesirable is defined as any publication that 'brings any section of the inhabitants of the Republic into ridicule or contempt; is harmful to the relations between any sections of the Republic; is prejudicial to the safety of the State, the general **welfare** or the peace and good order'.
 
@@ -5370,6 +6145,13 @@ What amount was spent on Aboriginal **welfare** (a) in total and (b) per capita 
 
 * These matters include such aspects as economic affairs, health, social **welfare** and whatever a member's interests may be, particularly in dealing with certain aspects of legislation.
 
+* The Trustees of the Royal Australian Air Force **Welfare** Trust Fund; 
+Omitted from this year's statement are the former tables No.
+
+* 9, National **Welfare** Fund, and No.
+
+* Information in respect of the National **Welfare** Fund can be  found in the table published on page 25 of the attachments to my Budget Speech and full details of the war service homes insur- ance account are provided in the report of the Director of war service homes.
+
 * Therefore in matters which concern wages policy, social **welfare** policy, government legislation arrangements, industrial policy and general policy, members of the Ministry take decisions as part of a team without the Prime Minister's presence.
 
 * Such a result could be achieved only by slashing into existing **welfare** programs.
@@ -5381,6 +6163,8 @@ What amount was spent on Aboriginal **welfare** (a) in total and (b) per capita 
 * By contrast, the Opposition would cut back sharply on health, education, social **welfare** and urban and regional development.
 
 * It ignores the dependence of individual **welfare** on the **welfare** of the whole community.
+
+* This matter comes within the scope of this debate because it is the Department of Social Services which is charged with the task of looking after the National **Welfare** Fund from which these benefits come.
 
 * They know this so well because they, together with the Society of St Vincent de Paul, the Methodist missions, and also the Church of England **welfare** associations, are the organisations to which these people must go.
 
@@ -5404,6 +6188,8 @@ What amount was spent on Aboriginal **welfare** (a) in total and (b) per capita 
 
 * In some instances a regional profile (including existing **welfare** services) is being drawn in conjunction with the development of a set of social indicators.
 
+* Did the Minister for Social Security note during February newspaper reports from Western Australia relating to claims made before the Western Australian Royal Commission into Aboriginal Affairs by a  Mr R.  W. Crosbie,  District Officer of the Western Australian Community **Welfare** Department at Katanning, and other allegations made by  Mrs B.  Hayward of Gnowangerup?
+
 * I would despair if the health insurance field were left to a government monopoly because I am vitally interested in social **welfare**.
 
 * I have been publicly critical of some of the cutbacks that this Government has made in social **welfare** because I believe that from humanitarian and cost benefit points of view cutbacks in some areas are not sound common sense.
@@ -5422,6 +6208,10 @@ What amount was spent on Aboriginal **welfare** (a) in total and (b) per capita 
 
 * It produces no programme for high national objectives of social **welfare**, economic strength and national security.
 
+* Pursuant to the provisions of the Services Trust Fund Act 1947-1950 I present the annual reports of the Australian Military Forces Relief Trust Fund, The Royal Australian Navy Relief Trust Fund and the Royal Australian Air Force **Welfare** Trust Fund for the year ended 30th June 1972, together with the reports of the Auditor-General on the books and accounts of the funds.
+
+* Did he receive a letter from  Mr Thompson,  former Minister for Community **Welfare** in Western Australia, requesting that a subsidy be paid to families based on the number of children.
+
 * As one who has a close association with hospitalisation, social **welfare** and handicapped people, 1 will be a very keen critic of any change in policy in this field, and again will welcome on behalf of these unfortunate people the assistance that has been promised.
 
 * As I mentioned on Tuesday night of last week, this should be seen as part of the total development of health and **welfare** services in the community - an integrated, balanced plan for the provision of adequate health and **welfare** protection for the community.
@@ -5434,11 +6224,18 @@ What amount was spent on Aboriginal **welfare** (a) in total and (b) per capita 
 
 * The honourable P. Howson, as the then Minister for the Environment, Aborigines and the Arts, in a debate in Parliament on 14 September 1972 set out the number of organisations which had been set up to care for the **welfare** of the Aboriginal.
 
+* Contraceptives are provided free by the **Welfare** Division of the Northern Territory Administration to Aboriginal women where contraceptives are required on medical advice or where a woman wishes to plan her family and would otherwise be unable  to  do so for economic reasons.
+
 * Does the Commonwealth's concern with **welfare** housing suggest that people who do this should be penalised?
 
 * Honourable members will be aware that the Bailey task force found that the total expenditure in the health and **welfare** areas of Commonwealth government responsibility exceeded $8,800m in 1975-76, or 40 per cent of the total government outlay.
 
+* A report submitted recently to the Government by its Health and **Welfare** Committee referred to this matter in the following terms: 
+The right honourable member for Lowe  (Mr McMahon)  who preceded me in this debate said that changes had to be made in the law.
+
 * The right honourable member for Lowe referred to children and the need for **welfare** workers.
+
+* **Welfare** workers have their place, but there is no substitute anywhere for parents, home and the love and affection which may come from a well adjusted and well organised home.
 
 * We have tended to cut back on the material services but we have maintained and not cut back our priorities for **welfare** services and projects concerned with physically handicapped people, hostels for young people, women's refuges and programs of this type.
 
@@ -5451,11 +6248,23 @@ As pan of this approach the Government will place great emphasis on directing **
 
 * I hope that the Government will direct its **welfare** assistance to those people.
 
-* The most important aspect of the Social Welfare Commission, which I would have thought would appeal to the present Prime Minister and the people behind him- it certainly appeals to me, although I do not share many of the Government's views, but I hold the view, and I am glad that the Government at least expresses the view- that it is important for the **welfare** dollar or whatever it might be calledthis applies not only to **welfare** but to education and health etc.- to be spent in the most efficient and the most appropriate manner.
+* I note that in an interview that the Prime Minister gave to Allen Barnes and which was published in the  Age  of 1 3 February, he said: 
+I think that when one deals with policy questions in the field of social security one has to pay tribute to the Department of Social Security and also, to my mind, to the Social **Welfare** Commission which was set up by the previous Government.
 
-* One is in the form of a speech by  Mrs Marie  Coleman which deals with priorities in social **welfare**; the other is a social policy reference paper which also includes all the other Social Welfare Commission publications, of which there are many.
+* The present Government has now announced it will abolish the Social **Welfare** Commission.
+
+* For example, the Government proposes to abolish the Social **Welfare** Commission and therefore  Mrs Marie  Coleman, who is the  Chairman  of that Commission, as I understand it, is left without any sort of recourse against the Government.
+
+* The most important aspect of the Social **Welfare** Commission, which I would have thought would appeal to the present Prime Minister and the people behind him- it certainly appeals to me, although I do not share many of the Government's views, but I hold the view, and I am glad that the Government at least expresses the view- that it is important for the **welfare** dollar or whatever it might be calledthis applies not only to **welfare** but to education and health etc.- to be spent in the most efficient and the most appropriate manner.
+
+* I think that the Social **Welfare** Commission did a lot of policy analysis work and I think that work is one of the most important aspects of the Commission.
+
+* One is in the form of a speech by  Mrs Marie  Coleman which deals with priorities in social **welfare**; the other is a social policy reference paper which also includes all the other Social **Welfare** Commission publications, of which there are many.
 
 * It is very attractive to be able to say that we do not want means tests, stigmas and so on attached to social **welfare** payments and that therefore we opt for universalism.
+
+* If the Government is going to give something to everybody all over Australia, if, for example, it is going to provide child care services all over Australia, it will be terribly expensive, but if it can be argued that such things should be provided only in certain geographical areas or to certain disadvantaged families - 
+Is he considering the United States Department of Health Education and **Welfare** Secretary's Advisory Committee Report on Automated Personal Records Systems as a basis for licensing data banks under Government control.
 
 * Goods came into the country which had been manufactured by a work force getting $A 1 2 a month, with no workers' compensation and no social **welfare** benefits at all.
 
@@ -5470,7 +6279,7 @@ Is a grant provided to local governing bodies under the States Grants (Home Care
 
 * However, the Leader of the Opposition is opposed to public expenditure and is opposed to Government intervention in the provision of **welfare** services.
 
-* 1 ) On 19 December 1977 I announced the establishment of the Social Welfare Policy Secretariat which will be responsible for the development of plans and policies and review of existing policies and programs in the broad field of health and **welfare**.
+* 1 ) On 19 December 1977 I announced the establishment of the Social **Welfare** Policy Secretariat which will be responsible for the development of plans and policies and review of existing policies and programs in the broad field of health and **welfare**.
 
 * The social security measures outlined in the Governor-General's Speech quite correctly emphasise the urgency of **welfare** provisions.
 
@@ -5486,11 +6295,15 @@ Is a grant provided to local governing bodies under the States Grants (Home Care
 
 * I also asked the Union whether it would favour a situation in which the needy benefited from **welfare** payments and whether **welfare** should be redirected to the needy.
 
+* Grant made under the Commonwealth Government's program of Grants to Community **Welfare** Agencies (Special Assistance Scheme) in 1976-77 in the Federal Electorate of Banks.
+
 * But he was given the doubtful responsibility as a Minister of giving guidance on the **welfare** of the people.
 
 * People's rights are better protected when the people themselves are involved, particularly in policies for their own **welfare**.
 
 * We recognise the need for social **welfare**.
+
+* Is it a fact that the Minister for Social Security has appointed  Ms Eva  Learner to the Social **Welfare** Commission as a **Welfare** Education Consultant to provide advice on curriculum in the context of educational programs developed within institutes such as universities, colleges of advanced education and technical colleges, concerning training for social work.
 
 * and (4) A doctor providing any medical procedure should have regard to the laws of the State or Territory in which he practises, professional ethics and the patient's interest and **welfare**.
 
@@ -5522,13 +6335,23 @@ Is a grant provided to local governing bodies under the States Grants (Home Care
 
 * But we call upon the specific persons running this Embassy to take heed of Australia's obligations, to close its activities and to allow members of the Croatian community in this country to continue to develop and contribute to the **welfare** of Australia as a whole.
 
-* provides for a Welfare Fund Payment to the ITF which is used by the ITF to support **welfare** facilities for seafarers throughout the world and which replaces the contributions made by National Flag carriers either by donation or taxation to maintain such centres.
+* Under the Social **Welfare** Ordinance 1964- 1969, section 10, the Director of Social **Welfare** may provide to persons who in his opinion are socially or economically in need of assistance such legal assistance as in the Director's opinion may be necessary or appropriate.
 
-* On 1 October I announced jointly with the Minister for Community Welfare of Western Aus tralia, the honourable Ronald Thompson, a major social **welfare** co-ordinating project in the south-west and southern agricultural region of Western Australia, as part of the development stage of the Australian Assistance Plan.
+* provides for a **Welfare** Fund Payment to the ITF which is used by the ITF to support **welfare** facilities for seafarers throughout the world and which replaces the contributions made by National Flag carriers either by donation or taxation to maintain such centres.
+
+* On 1 October I announced jointly with the Minister for Community **Welfare** of Western Aus tralia, the honourable Ronald Thompson, a major social **welfare** co-ordinating project in the south-west and southern agricultural region of Western Australia, as part of the development stage of the Australian Assistance Plan.
 
 * Funds will be provided for the establishment and operation of a Regional Council for Social Development, which will also be able to recommend financial assistance for a wide range of **welfare** activities, as listed in the schedule in chapter four of Discussion Paper No.
 
+* This project involves close co-operation between the Western Australian Department for Community **Welfare**, the Social **Welfare** Commission and my Department.
+
+* Pursuant to section 16 of the Social **Welfare** Commission Act 1973 I present a Social **Welfare** Commission report on the Australian Assistance Plan, together with a statement by the Minister for Social Security relating to that report.
+
 * It has been allotted to the Army and the Air Force for use in their **welfare** and amenities programs.
+
+* These programs are administered through funds such as the Army Central Amenities Fund and the RAAF **Welfare** Trust Fund.
+
+* **Welfare** pensioners and the unemployed are denied indexation of their payments, but people at the Prime Minister's salary level and companies in the super-profit category get the benefit.
 
 * Here, the Government might think of increasing capital funds available for **welfare** housing, freeing up savings bank funds even more for private home building, and look at ways of increasing investment in public facilities such as sewerage services, bridges, highways and hospitals.
 
@@ -5556,13 +6379,19 @@ Is a grant provided to local governing bodies under the States Grants (Home Care
 
 * It is nonsense for any government to talk about **welfare** and say that it is a **welfare** government when these 2 very basic social obligations have been forgotten.
 
+* 1 ) The Australian Capital Territory Consultative Committee on Social **Welfare** (ACTCCSW) and the Northern Territory Consultative Committee on Social **Welfare** (NTCCSW) each have a member of the respective Legislative Assemblies on their committee.
+
 * We are moving now to things such as community health centre committees and the various community **welfare** organisations which have an interest in a particular kind of disability and an interest in setting up a service for persons with particular diseases and handicaps.
+
+* Was Nola Brown a child in respect of whom an order had been made under section 36 (1) (b) of the Child **Welfare** Ordinance committing her to the care of (a) the Director of **Welfare** or (b) foster parents.
 
 * There has been talk about **welfare**, of people on low incomes, and of pensioners.
 
 * We can justify our actions in the **welfare** area even though we have had to try to constrain public expenditure where possible, and we have been able to strike a healthy balance between meeting the needs of the people and, at the same time, trying to stabilise the economy after the chaotic period when Labor was in office from 1972 to 1975.
 
 * It is an indication of the attitude that has been adopted generally by this Government in regard to migrant **welfare**.
+
+* from the Senate Standing Committee on Social **Welfare**.
 
 * We would be concerned with social **welfare**, health and education programs, and we are determined that there would be no better systems of social **welfare**, health and education in any other country.
 
@@ -5576,7 +6405,7 @@ Is a grant provided to local governing bodies under the States Grants (Home Care
 
 * He can also tell us why there has been a real reduction of $22.5m in the amount of money made available to Victoria this year for **welfare** housing.
 
-* Has the Social Welfare Commission taken any part in ensuring that any organisations interested in matters of community **welfare** are invited and involved.
+* Has the Social **Welfare** Commission taken any part in ensuring that any organisations interested in matters of community **welfare** are invited and involved.
 
 * The proposition that I put before Parliament gives every member an opportunity to consider his own **welfare** and that of everybody about him.
 
@@ -5599,6 +6428,8 @@ Is a grant provided to local governing bodies under the States Grants (Home Care
 * Will the Minister say which other **welfare** schemes of the Government require repayment of the funds provided and have an interest rate of at least 1 1 per cent?
 
 * It is important that these mills do continue in existence and do remain viable operations because the whole **welfare** and, indeed, the economy of quite a section of that part of the State depends upon the continuing operations of the New South Wales sugar industry.
+
+* Did the Queensland Supreme Court on S October 1976 decide that  Mr Killoran  as trustee of an Aboriginal reserve must account for all moneys in respect of mining on that reserve, keep properly audited books and devote the proceeds to the reserve, not to the Aboriginal **Welfare** Fund.
 
 * I doubt the honourable member's real interest in the **welfare** of these children, whether they were black or white.
 
@@ -5625,6 +6456,8 @@ Is a grant provided to local governing bodies under the States Grants (Home Care
 * In the last Budget of the previous Government there were massive cuts in **welfare** housing.
 
 * There has been an increased commitment to the States for **welfare** housing.
+
+* Is the Minister aware that the Regular Defence Forces **Welfare** Association is establishing a fighting fund to brief senior counsel and obtain a legal opinion on the recovery of the surplus for the benefit of the people to whom it rightfully belongs - pre- 1 959 contributors, retirees and widows as at 30 June 1969?
 
 * 1 simply point out once more, as I have pointed out in this House for about 10 years, that the logic of the taxation system of deductions runs counter to the logic of social **welfare**.
 
@@ -5660,6 +6493,10 @@ Is a grant provided to local governing bodies under the States Grants (Home Care
 
 * It is taxing **welfare** organisations that have miserable income far less than is needed for Aboriginal **welfare** in the Northern Territory.
 
+* Under the Child **Welfare** Ordinance 1961-1968 of the Territory of Papua and New Guinea an allowance not exceeding Seven dollars per week may be granted by tha Director of Child **Welfare** where one or both of the parents of a child under the age of sixteen years is imprisoned.
+
+* **Welfare** officers regularly visit all major corrective institutions in the Territory and detainees are encouraged to discuss with them domestic matters including fears they may have for the well-being of their families.
+
 * The second part of the motion moved this morning deals with social **welfare** implications and housing.
 
 * I think it demonstrates that the proposer of the motion misunderstands the question when he brings forward social **welfare** aspects of a capital market inquiry.
@@ -5668,7 +6505,7 @@ Is a grant provided to local governing bodies under the States Grants (Home Care
 
 * I am bound to say that I deprecate the possibility that there will be stoppages of this magnitude - with their obvious harm to Australian industry, commerce and the general **welfare** of the people - while claims are before the national conference, which has the support of all parties including the Waterside Workers Federation and the employers.
 
-* I ) What progress has been made by the working party on social **welfare** manpower, established by the Social Welfare Commission under section 17 of its Act.
+* I ) What progress has been made by the working party on social **welfare** manpower, established by the Social **Welfare** Commission under section 17 of its Act.
 
 * Maybe the featherbedding will be at the expense of a lot of other general **welfare** in the community.
 
@@ -5684,6 +6521,10 @@ Is a grant provided to local governing bodies under the States Grants (Home Care
 
 * Such a class was established last year in Doveton in my electorate at the local infant **welfare** centre where women could attend and leave their babies under the care of the infant **welfare** teacher.
 
+* This proposal was examined by the Social **Welfare** Commission and was later considered by the Annual Conference of Australasian Administrators of Social **Welfare** held in Wellington, New Zealand in February.
+
+* A Conference of Australasian Ministers for Social **Welfare**, in endorsing that conclusion, considered there was a need for a conference of the Australian State adoption officers and interested Australian Government Departments to discuss, inter alia, such an agency.
+
 * This coutry has been witness to, some of the most severe and, in many cases, quite unjustified expenditure cuts on very worthwhile community programs, in such areas as health, **welfare**, education and urban improvement.
 
 * One of its first and highest priorities when it came into government in the **welfare** field was to reintroduce the $30m superphosphate bounty.
@@ -5695,6 +6536,8 @@ Is a grant provided to local governing bodies under the States Grants (Home Care
 * The development of those resources, while serving the objectives just mentioned, must also be regulated and controlled so as to ensure full protection of the environment and the **welfare** of the Aboriginal people, and yield the economic benefits to Australia and its people that were described in the report of the Ranger Uranium Environmental Inquiry.
 
 * Honourable members will be aware of the Government's determination to bring about a greater coordination of health and **welfare** programs.
+
+* This determination was illustrated by the recent appointment of the Social **Welfare** Policy Committee of Ministers and its supporting Permanent Heads Committee.
 
 * These Committees have been established to ensure the integrated development of plans and policies and to review existing policies and programs in the health and **welfare** field.
 
@@ -5721,6 +6564,9 @@ For example, the honourable member for Moore talked about the need for the Gover
 
 * The director of the Link-Up **welfare** group in Melbourne,  Mr John  Dickinson, said recently that his group's telephone service for desperate people was averaging a suicide call every 30 hours.
 
+* Mr Dickinson,  of Link-Up, who talks regularly to these sorts of people, was quoted recently as having said: 
+Health and **Welfare** Committee this year by the director of the New South Wales Health Commission's central drug and alcohol advisory service, in which he stated that substantial groups of heroin addicts had been detected recently in three parts of Sydney- areas with high youth unemployment levels.
+
 * In other words, last week I indicated that the Government made representations to the Ugandan authorities about the Archbishop's safety and **welfare**, shortly after his arrest.
 
 * Why did not honourable members opposite introduce those sorts of provisions if, in fact, they are really interested in the **welfare** of the rank and file trade unionists of Australia?
@@ -5734,6 +6580,8 @@ For example, the honourable member for Moore talked about the need for the Gover
 * This provision will be amended so that a conference can be ordered with counsellors or the court can order a report on the **welfare** of children to the marriage.
 
 * The court can make these orders whenever the **welfare** of the children to the marriage is affected.
+
+* **Welfare** bludgergets $700 a week.
 
 * But let me concentrate for a moment on what I consider to be our most serious immediate economic problem - a problem reaching disastrous proportions - intiation, increasing costs and prices undermining the social **welfare** of ordinary Australians, families, young and old; inflation with its crippling costs bearing down on industry and services; inflation undermining the morals of the people and leading to inevitable restlessness and industrial troubles.
 
@@ -5818,6 +6666,8 @@ He was talking about the crisis in the building industry and about pumping money
 
 * In the last few years the Government has been put into a straight jacket situation due to the **welfare** schemes put forward by the Labor Government at a time when the expectations of the people to receive more were very readily grasped.
 
+* The Committee comprises five members- The Assistant Director of **Welfare** Branch, a representative of Women's Electoral Lobby, National Council of Women and A.C.T.
+
 * What is the nature of the assistance available to local authorities, through his Department, for the provision of **welfare** services  or  buildings.
 
 * Private companies are to be given assistance and beef producers are to be given increased eligibility for **welfare** payments.
@@ -5868,6 +6718,8 @@ He was talking about the crisis in the building industry and about pumping money
 
 * Those governments ensure, not only that private enterprise prospers, but that individuals and families have a minimum standard of living and social **welfare** and that the private sector accepts its share of the cost of providing it.
 
+* The Department of Social **Welfare** there is the one which seems to be given the most attention.
+
 * This Bill continues the Government's curious notion of **welfare** reform.
 
 * This Bill represents miserable **welfare** policy.
@@ -5912,6 +6764,8 @@ Despite the fact that people are now back at work, rural incomes have trebled, p
 
 * Two further areas where the Government has taken new initiatives are in the road safety and social **welfare** fields.
 
+* An amount of $20,000 has been provided for reflectorised markings on the Pacific Highway and for special turning lanes at the Tuggerah turn-off, and $5,000 has been provided for the Central Coast Social **Welfare** Co-ordinating Council.
+
 * Social **welfare** payments will account for $ 1,820m.
 
 * Today we see the social **welfare** provision amounting to almost that total.
@@ -5929,6 +6783,14 @@ Despite the fact that people are now back at work, rural incomes have trebled, p
 * Money incomes rise to preserve purchasing power and the Government can adjust social **welfare** payments to protect lower income earners, pensioners and so on.
 
 * We note also that there have been backdowns in other significant areas, particularly with regard to the taxation of some social **welfare** payments to handicapped persons.
+
+* I also want to comment on the remarks of the honourable member for Melbourne Ports with regard to the National **Welfare** Fund balance.
+
+* In 1952 an amendment to the National **Welfare** Fund Act provided a standing appropriation for the automatic replenishment of the NWF from the Consolidated Revenue Fund in respect of all moneys paid from the NWF.
+
+* Given the standing appropriation provisions for automatic replenishment of all amounts paid from the National **Welfare** Fund for social security, the balance of the Fund, of course, has been continually replenished.
+
+* In these circumstances there is no need for any working balance in the National **Welfare** Fund and in fact the balance serves no useful purpose.
 
 * It is division 873 and refers to assistance for **welfare** housing under the 1973-74 Housing Agreement.
 
@@ -5963,6 +6825,12 @@ Despite the fact that people are now back at work, rural incomes have trebled, p
 * One of the factors which has affected the American experience has been the collapse of the capacity of the city to carry its **welfare** programs, which was the historical means by which **welfare** was financed in that country.
 
 * In Australia a not dissimilar situation has occurred in recent years with regard to State **welfare** programs being substantially taken over by Federal funding, in some instances- I would think significant instances- without a greater expenditure of actual funds on **welfare** services.
+
+* Hunt, Minister for the Interior; the Honourable J. L. Waddy, Minister for Child **Welfare** and Social **Welfare**, New South Wales; the Honourable E. R. Meagher.
+
+* King, Minister for Social **Welfare** and Aboriginal Affairs, South Australia; the Honourable W. F. Willesee, Minister for Community **Welfare**, Western Australia; and the  Hon  ourabls D. F. Clark, Minister for Housing, Industrial Development and Sea Fisheries, Tasmania.
+
+* The Assistant Secretary, **Welfare** Services Branch, **Welfare** Division has been nominated as the Department's Ethnic Liaison Officer.
 
 * The amount to be spent this year on Aboriginal **welfare** is up 70 per cent to $53m.
 
@@ -6031,6 +6899,8 @@ Notwithstanding this desirable method of administering a **welfare** policy, I t
 
 * Does the Minister see any justice in a man who has been deserted by his wife and who has been left with 4 children to care for receiving no assistance under the social **welfare** program of the Labor Government?
 
+* The Government is closely studying the reports of the Task Force on Co-ordination in **Welfare** and Health and of the Committee of Inquiry into the Care of the Aged and Infirm.
+
 * Let me reiterate what this Government has done for persons covered by the social **welfare** budget.
 
 * The Leader of the Opposition talked about **welfare** housing.
@@ -6075,6 +6945,8 @@ Notwithstanding this desirable method of administering a **welfare** policy, I t
 
 * Funds for **welfare** housing are reduced by $23m.
 
+* That there is a crisis in Aboriginal **Welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
+
 * At the conclusion of his speech he stated that I had not made any speeches on **welfare** in the time that I have been in this House.
 
 * I would like it noted that I have made the following speeches on **welfare**: On 5th March 1970 in my maiden speech; on 12th March 1970 on Aborigines; on 3rd June 1970 on handicapped children; on 17th September 1970 on the Social Services Bill in relation to pensioner poverty; on 22nd October 1970 on Aboriginal advancement; on 1st April 1971 on the Social Services Bill; on 15th 
@@ -6089,6 +6961,8 @@ September 1971 on superannuation pension increases; on 2nd December 1971 on home
 * Extensive **welfare** policies based on race and not on need can create, and in my opinion and in the opinion of a lot of people are creating, a white backlash in many parts of Australia.
 
 * We hear of the question mark over the Broken Hill Pty Company Ltd steel expansion program and the new exploration and development, private investment generally which sustains and creates for the future the capacity for the greater production of goods and services to meet all our national goals in the social **welfare** and other fields that we wish to pursue.
+
+* The FACS program, established in April 1977, is administered by the Department of Community **Welfare** Services in Victoria.
 
 * They were broadcasters, actors, writers, film makers, producers, trade unions, representatives of home and school associations, co-operatives, advertisers, churches, **welfare** and voluntary groups, students- but all members of the public.
 
@@ -6119,6 +6993,8 @@ The reports make numerous recommendations on migrant **welfare** but they are to
 
 * If in the **welfare** state this is a process of robbing Peter to pay Paul, then it is the Peters to whom I am referring, and it is the Pauls on behalf of whom my friend, the honourable member for Barton, is complaining.
 
+* I was one of those who participated at great length in the introduction of Medibank when I was  Chairman  of the then Government Members **Welfare** Committee.
+
 * In the four Budgets introduced by the Fraser Government it has significantly re-ordered priorities in the area of income, security and **welfare**.
 
 * Commonwealth support for **welfare** services now places greater emphasis on need.
@@ -6129,7 +7005,14 @@ The reports make numerous recommendations on migrant **welfare** but they are to
 
 * The Commonwealth has increased its allocation for subsidies for **welfare** officer salaries, housekeeping, home repairs, gardening, laundry and other home care services under the States Grants (Home Care) Act by some $4m or 60 per cent compared with the expenditure in 1975-76.
 
+* The Government in 1976 announced a $12 lm program under the Handicapped Persons **Welfare** Scheme.
+
 * At this point, I would like to interpose and say that I am anxious to have all cash social **welfare** payments made by the Commonwealth in an effort to reduce anomalies.
+
+* Further discussions will take place at a meeting of Commonwealth and State **Welfare** Ministers expected to be held in June next.
+
+* I still regard the position brought about by this Bill on its enactment, 
+Letter from former Western Australian Minister for Community **Welfare**  (Question No.
 
 * 700) 
 proper arrangements in all the circumstances nave been made for the **welfare** of those children .
@@ -6138,7 +7021,7 @@ proper arrangements in all the circumstances nave been made for the **welfare** 
 
 * Government programs in the health, education and **welfare** fields are actively seeking to assist these persons.
 
-* In practice the power and responsibilities of that guardianship have been delegated to the Director-General, the Department of Community Welfare in South Australia, and to the principal officers of the relevant child **welfare** authorities in other States and Territories.
+* In practice the power and responsibilities of that guardianship have been delegated to the Director-General, the Department of Community **Welfare** in South Australia, and to the principal officers of the relevant child **welfare** authorities in other States and Territories.
 
 * Hence the **welfare** and status of these children will continue to be protected.
 
@@ -6160,10 +7043,12 @@ proper arrangements in all the circumstances nave been made for the **welfare** 
 
 * Will there also be a decline in the number of new **welfare** houses being built.
 
+* Task Force on Co-ordination in **Welfare** and Health: Second Report (Question No.
+
 * 135) 
-Welfare Services 
+**Welfare** Services 
 Grants to organisations involved in integration activities/migrant **welfare** activities 
-Migrant Social Welfare Advisory Council 
+Migrant Social **Welfare** Advisory Council 
 What assistance is being provided for these refugees in the area of (a) housing, (b) employment, (c) **welfare** and (d) language training.
 
 * He was supporting what one leader writer called Labor's 'cherished program for lavish expenditure on education, health, transport and social **welfare** generally'.
@@ -6197,6 +7082,8 @@ What assistance is being provided for these refugees in the area of (a) housing,
 * This is an enormous increase in the allocation for **welfare** housing, and it signifies tha great priority which the Federal Labor Government puis on providing housing for families with a limited income.
 
 * The Labor Government, because of its prime commitment to the less privileged, has increased its expenditure on **welfare** housing.
+
+* That there is a crisis in Aboriginal **Welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
 
 * 1 ) With reference to his statement made at the June 1978 Premiers ' Conference that the recycling of rental income and sale proceeds would make possible total expenditure on **welfare** housing in 1978-79 at least equivalent to that in 1977- 78, what was the total expenditure by **welfare** housing authorities (a) by State, (b) by Territory and (c) for Australia in (i) 1976-77 and (ii) 1977-78 for (A) construction, (B) repairs and maintenance, (C) loans, (D) land purchases, (E) repayments of interest and principal to the Commonwealth and (F) other purposes.
 
@@ -6243,11 +7130,15 @@ The honourable member for Reid spoke of interest on loans over a 25-year term, b
 
 * Since 1952, by agreement with the State and Territory authorities, those powers and functions of guardianship of the Federal Minister for Social Security under the Immigration (Guardianship of Children) Act, have been delegated to the principal officers of the relevant State and Territory child **welfare** authorities excepting the power of delegation.
 
+* In the case of adoption, the preparation of a recommendation by a State or Territory Child **Welfare** authority involves a careful examination of the situation which can be a lengthy process.
+
 * This will enable child **welfare** authorities to take all the necessary action in connection with adoption, marriage or departure from Australia without the necessity of referring the matter to the Federal Minister for Social Security unless there are exceptional circumstances.
 
 * To ensure that the children's **welfare** is safeguarded, the Minister for Social Security has requested that child **welfare** authorities continue to refer for attention, matters of an unusual nature or where malpractices occur, and has asked to be kept informed on a regular basis of the number of children in their State or Territory who are known to come within the provisions of that Act or are exempted therefrom.
 
-* The addresses of the relevant Child Welfare Authorities to whom all enquiries regarding adoption should be addressed, are as follows: 
+* At the conference of the Council of Ministers of Social **Welfare** at Darwin on 24 May 1976, it was agreed that a standing Committee of Australian Adoption Officers be established to assist States and Territories to liaise with the Federal Government and to consider matters affecting intercountry adoptions and other related issues.
+
+* The addresses of the relevant Child **Welfare** Authorities to whom all enquiries regarding adoption should be addressed, are as follows: 
 A Luddite approach seeking to block changes is too despairing to tolerate and too damaging to the future **welfare** of the country.
 
 * Will he provide the names of all persons currently employed in Tasmania, full or part-time, whose salaries or stipend are paid out of Commonwealth funds and whose responsibilities relate primarily to the **welfare** of Aboriginal people.
@@ -6295,6 +7186,10 @@ The people find themselves in a situation in which their families represent a so
 
 * Our association over the years, whether I was in or out of this House, related to the **welfare** of the people in his or my electorate.
 
+* Firstly, it approved the establishment of 2 experimental migrant resource centres- one in Melbourne to be operated under contract by the Australian Greek **Welfare** Society, and one in Sydney at a total cost not exceeding $70,000 in the current financial year.
+
+* Thirdly, it agreed that the Departments of Immigration and Ethnic Affairs and Social Security should draw up a formal agreement between the Commonwealth and the Australian Greek **Welfare** Society setting out the basis of the provision of services by the Society for and on behalf of the Commonwealth.
+
 * They will be expected to provide a multi-lingual reference and information point for migrants, particularly in respect of services provided by Commonwealth, State and local government intrumentalities, and a range of resources which would be accessible to social workers and **welfare** officers working with migrants, to ethnic community leaders, **welfare** administrators, teachers and students interested in migrant problems, and so on.
 
 * I have grave doubts whether in our society health or **welfare** services should be part of the profit making system.
@@ -6318,6 +7213,8 @@ I do not think many people outside those who are working in this field realise j
 * If you like to go back even further and look at the relevant figures when this Administration was previously in office, in 1970-71 some $142m was made available for **welfare** housing and that was then 1.74 per cent of government expenditure.
 
 * I am trying to bring out the fact that this Government has downgraded its contribution to **welfare** housing as a proportion of public spending even though public spending overall has been cut by this Government.
+
+* For instance, Hanover **Welfare** Services in Melbourne runs an extensive organisation including Gordon House, a very large institution with 200 or 300 beds.
 
 * Perhaps a **welfare** committee of this House or an appropriate Senate committee could examine the matter so that we can provide money in such a way as to fulfil the initiatives taken three years ago.
 
@@ -6352,9 +7249,17 @@ I should like to see a study done on a vehicle with a specially designed interio
 
 * The information refers only to expenditure on Aboriginal **welfare** as distinct from expenditure on benefits available to all Australians.
 
+* Since June 1969 Aborigines in New South Wales have been the responsibility of the Directorate of Aboriginal **Welfare** in the Department of Child **Welfare** and Social **Welfare** and separate records are not maintained.
+
+* Expenditure which was normally a charge against the Department of Native **Welfare** in respect to medical and education for Aborigines is now carried by the relevant Departments and not included in the above figures since 1962-63.
+
 * It is obvious the people of Australia are vitally concerned about the **welfare** of some nine million East Pakistan refugees that have crossed the border into India.
 
+* Thus we have the situation in Victoria referred to by the Maternal and Child **Welfare** Officer of South Melbourne Council, Doctor Dora Bialestock, who was quoted in the 'Age' of 14th November last year as saying that the largest portion of the Victorian Government's subsidy for preschools was going to the more affluent suburbs.
+
 * While it guarantees to all children in the Australian Capital Territory the right to 1 year of preschool education, the assistance which the Commonwealth gives to the States in the form of capital grants for pre-school teacher colleges if of only marginal assistance and reflects a sense of concern for the **welfare** of Australian children which is only slightly greater than English governments in the eighteenth century showed towards Dame Schools.
+
+* Pursuant to the provisions of the Services Trust Funds Act 1947-1950 I present the annual reports of the Australian Military Forces Relief Trust Fund, the Royal Australian Navy Relief Trust Fund and the Royal Australian Air Force **Welfare** Trust Fund for the year ended 30th June 1970, together with the reports of the Auditor-General on the books and accounts of the funds.
 
 * Attention is given to the social **welfare** section in the Budget and to the primary industries which are still vitally important and which in some quarters are still not given the consideration that is due.
 
@@ -6366,14 +7271,22 @@ I should like to see a study done on a vehicle with a specially designed interio
 
 * The attendant's allowance is a worthy **welfare** provision but again the application is extremely limited.
 
-* He quoted from the Social Welfare Commission Bill which states: 
+* The fact that the amendments mentioned tonight - those that have been moved and those that have been discussed with me but not moved - were never mentioned in relation to the Bill which led to the setting up of the Social **Welfare** Commission suggests to me that this is a rather late, panic reaction in the hope that something will be done by the Hospitals and Health Services Commission.
+
+* However, nobody seemed very much afraid that it would happen with the Social **Welfare** Com mission although, essentially, the functions of the 2 Commissions will run parallel.
+
+* He quoted from the Social **Welfare** Commission Bill which states: 
 If you take the view that the Country Party style of politics, of using political muscle for a narrow band of special interests, is counterproductive to the cause of optimising resource allocation and maximising economic growth consistent with economic **welfare**, this new institution might offer an attractive alternative.
+
+* **Welfare** among migrants, which is a very important area and which requires attention even more now than it possibly did in the past, is neglected and, I am sorry to say, appears to be administered on the basis of political patronage at the moment.
 
 * The organisation concerned indicates that this gentleman has provided a valuable service in the field of migrant **welfare**.
 
 * It aims to consolidate and to extend the help which is given to voluntary organisations which undertake the task of looking after the **welfare** of handicapped people.
 
 * In many spheres of **welfare** the States have said that they have had to fill in the gap which, in the past, has been left by Commonwealth legislation.
+
+* I have read articles by the Sub-Normal Children's **Welfare** Association which state that it is all very well to subsidise the establishment of buildings but it is another matter to keep up with the running costs of those institutions.
 
 * I feel that the aircraft- certainly the passengers- are constantly under threat from anything from did.geridoos to French umbrellas which, in the hands of a person deranged or with malicious intent, could imperil the **welfare** of the aircraft.
 
@@ -6429,6 +7342,8 @@ I regard that as a very important election undertaking also.
 * Interwoven into the economy is the need for organisations like the Post Office to pay their own way in order that we may be able to assist in avenues of social **welfare** those who are needy instead of subsidising a service that should pay its own way.
 
 * The proposed increases are an endeavour to make up this leeway and to make available money for social **welfare** schemes, pensions and other things of that nature.
+
+* However, there is one such organisation and one such home that I have had something to do with, namely, the Judge Book Memorial Village in Eltham which is run by the Community **Welfare** Foundation of Melbourne.
 
 * I think this should be borne in mind in view of the comments that come from members of the Opposition suggesting that the Government is not concerned with social **welfare**.
 
@@ -6510,6 +7425,8 @@ In dealing with the tremendously important field of social **welfare** the Leade
 
 * If in a Budget of $8.654m a sum of about S2,000m is for social **welfare**, surely this represents a reasonable deal for the people concerned.
 
+* However, a number of Government members- quite a small number- members on the Government parties' Health and **Welfare** Committee brought this matter to my attention.
+
 * Members of the Opposition wish to place on record that the Labor Government was elected to promote the **welfare** aspects of our society.
 
 * One of those **welfare** aspects was the abolition of the means test for age pensioners.
@@ -6558,8 +7475,8 @@ In dealing with the tremendously important field of social **welfare** the Leade
 
 * In housing, as in so many other areas of national **welfare**, this Government substitutes inertia and expediency for planning and positive policy.
 
-* The Social Welfare Commission has established three Committees under Section 17 of its Act- 
-The permanent Working Party on Social Welfare Manpower 
+* The Social **Welfare** Commission has established three Committees under Section 17 of its Act- 
+The permanent Working Party on Social **Welfare** Manpower 
 Honourable members will notice that the estimates of my Department for the Northern Territory this year provide for a total expenditure of $16m on Aboriginal **welfare** which is an increase of 13.7 per cent on the estimates for the previous year.
 
 * I believe that I should say something about the dimension of the problem of Aboriginal **welfare** because it is only when there is a real appreciation in this regard that there will be an awareness of what has to be done in the future and the time scale to which this can reasonably be related.
@@ -6569,6 +7486,8 @@ Honourable members will notice that the estimates of my Department for the North
 * This is another Bill in the series being introduced in this session to improve **welfare** services for elderly people.
 
 * In broad terms the Principal Act provides three forms of assistance: Firstly, for home care service schemes which provide housekeeping and other domestic assistance for aged people in their own homes; secondly, for the building of senior citizens' centres; and thirdly, for the employment of **welfare** officers employed by, or in association with, senior citizens' centres.
+
+* This is in accordance with one of the recommendations made in the First Annual Report of the Interim Committee of the Social **Welfare** Commission which I tabled in the House recently.
 
 * The third provision of the Bill concerns assistance towards the employment of **welfare** officers.
 
@@ -6623,6 +7542,8 @@ In relation to this Bill the Opposition is saying that State housing authorities
 
 * (a), (c) and (d) Financial assistance in the form of Direct Grants is available to incorporated Aboriginal groups and organisations in a variety of fields such as housing, health, education, employment, **welfare**, economic enterprises, town management, recreation and agricultural activities and legal aid.
 
+* What research projects have been initiated and supported by the Social **Welfare** Commission, what cost was involved, and who or what institution conducted the research.
+
 * I would urge members of the Storemen and Packers Union to think of the **welfare** of their fellow workers in the present circumstances.
 
 * It is a sad thing that this legislation was not brought down in circumstances which would have enabled the whole range of people interested in Aboriginal **welfare** - no less the Aborigines themselves - to express their views on the legislation in order that whatever emerged from the Queensland Parliament might be the best possible legislation.
@@ -6648,6 +7569,8 @@ In relation to this Bill the Opposition is saying that State housing authorities
 * The Labor initiatives in the social **welfare** field at one stage made Australia attractive to immigrants but the Government has now, I believe- I think we can be critical of this-attempted to dismantle the Labor initiatives in that social **welfare** area.
 
 * That means that payments to people on social **welfare** in those countries are far in excess of what we can offer.
+
+* Staats, former consultant to the Social **Welfare** Commission, of the changing composition of the Australian workforce.
 
 * Family unity, growth centres, **welfare** and other requirements, representations on bodies that affect the **welfare** of their own future and representations throughout the occupational structures that give a voice to the individuals are some of the matters to which I make reference.
 
@@ -6699,6 +7622,10 @@ In relation to this Bill the Opposition is saying that State housing authorities
 
 * The Government has not increased family allowances this year even though it seems to think that is the jewel in its social **welfare** crown.
 
+* Without consulting the land rights body in Western Australia and without consulting the Commissioner for Aboriginal Planning, the Western Australian Government intends to hand over to the Minister for Health and Community **Welfare** the absolute control of entry by diamond prospectors, including the De Beer group from South Africa.
+
+* The Minister for Health and Community **Welfare** would be one of the most racist people in any government in Australia.
+
 * As the **welfare** and development of Aboriginals affect more than one department, a ministerial committee will be appointed to study the special needs and problems of Aboriginals and to advise ways of improving them.
 
 * These vary from day to day but range across such matters as the state of the economy, the Commonwealth's role in **welfare**, relations with the States - so important in a Federation - and external relations and defence.
@@ -6717,11 +7644,17 @@ In relation to this Bill the Opposition is saying that State housing authorities
 
 * My officers also interviewed  Mr Vrettos,  who said that there seemed to be far more worry back home about his **welfare** and whereabouts than he had himself.
 
+* Loans made under Section 12/2E of the Social **Welfare** Ordinance; 
+Child **Welfare** Council operating subsidy; 
+Before I divert from that on to the further points on the subsidy I would like to refer to statements made by the Minister in his second reading speech in the House in which he claimed there had been substantial cuts in the expenditure on health in Canada last year.
+
 * The first thing he referred  to  was a 25% cut in the votes for emergency health and emergency **welfare** services which were effective during this financial year.
 
 * Without meaning in any way to be argumentative but simply putting it as a fact as I see it, I think it is true to say that the last Government would have divided the provisions contained in this single Bill into at least six or seven separate Bills so as to squeeze out the last drop of public approval and political advantage to which social **welfare** measures lend themselves.
 
 * Fourthly, it is recognised that a responsible **welfare** system cannot be based on some simple view that more of everything for everybody will solve all.
+
+* 1 have in my hand, to illustrate that it is no dis covery at all, a paper presented to the very first meeting of the Health and Social **Welfare** Committee of the Labor Caucus held after the last election.
 
 * In my view a proper order of social **welfare** priorities should give greater emphasis to pension levels than to means test abolition.
 
@@ -6733,6 +7666,8 @@ In relation to this Bill the Opposition is saying that State housing authorities
 
 * In reaching its decision on the mining of uranium the Government had as a fundamental concern the **welfare** of the Aboriginal people in the Ranger Region.
 
+* Another fully qualified teacher found refuge in the office of Catholic **Welfare** in Sydney.
+
 * I also ask him to explore the proposal being advanced by a **welfare** officer with the Catholic Migration Office in Sydney to establish some improved and continuing hostel accommodation.
 
 * Translation and **welfare** services for our other ethnic groups were woefully inadequate but for the Turks they were non-existent.
@@ -6740,6 +7675,8 @@ In relation to this Bill the Opposition is saying that State housing authorities
 * During that period the Kensington group, which represents a wide spread of Turkish migrants, formed their own social **welfare** group, hired their own premises and conducted a survey of their community.
 
 * They say that the Government's import parity fuel policy has added a most significant indirect tax to the Government's income armoury which has allowed the Government to reduce the deficit and to hand out some well deserved improvements in the **welfare** sector.
+
+* When listing these points it would be wrong for me as  chairman  of the Government Members Health and **Welfare** Committee not to congratulate the responsible Ministers and the Cabinet on such measures as the reintroduction of twiceyearly indexation of pensions, increases in permissible earnings to retain eligibility of pensioner health benefit cards, the extension of the eligibility for pensioner health benefit cards and other fringe benefits to supporting parents, the increased capital allocations for the aged persons and senior citizens' programs, the extension of service pensions to all allied ex-service personnel and the accelerated animal quarantine program.
 
 * In rejecting these reasonable representations and this expression of United Nations opinion, by continuing atmospheric testing in the Pacific and by announcing that further tests are yet to be held, the Government of France has shown what I can only describe as an inexplicable disregard for the **welfare**, well being and the clearly expressed views of the people of Australia, the Pacific and the littoral states of the region.
 
@@ -6763,6 +7700,9 @@ In relation to this Bill the Opposition is saying that State housing authorities
 
 * The article said that according to an analysis of the Friedman thesis- which has been followed to a great extent by this Government- **welfare** states with a high ratio of government expenditure are more prone to inflation than others.
 
+* The following State and Commonwealth Ministers attended the Conference of Child and Social **Welfare** Ministers held on 5th June 1972: 
+A further important factor is that there will be reduced financial strain on the parties because of the cost of proceedings in dealing with a break-up of marriage.
+
 * It seems to me that the Bill places the **welfare** and custody of children on a reasonably enlightened basis.
 
 * I am anxious that we concentrate on how we can best solve the problems of the family with less legalism and at the minimum of cost and how we can support the parties in coming to an agreement in advance on the property distribution, the maintenance problems and the **welfare** of the children.
@@ -6777,6 +7717,13 @@ In relation to this Bill the Opposition is saying that State housing authorities
 
 * This committee revealed that one of the main factors affecting the attraction of migrants to Australia and their decision to remain here was Australia's social **welfare** programme.
 
+* The report states: 
+and (3) Under the Social **Welfare** Ordinance 1964-1971, the Director  of  Social **Welfare** hat authority to provide assistance to persons, including pensioners, who are in need of it.
+
+* In October 1972 the Child **Welfare** Grants Act was passed.
+
+* That was followed by the Social **Welfare** Commission report of July 1974.
+
 * These reports were directed at trying to overcome the very real problems which were faced both by the Fry committee and by the social **welfare** committee in this context.
 
 * In 2 years living in Israel I had the opportunity of seeing at first hand the effective operation of a well integrated system of community **welfare** organisations under the control of local government.
@@ -6787,13 +7734,23 @@ In relation to this Bill the Opposition is saying that State housing authorities
 
 * In other words, the Children's Bureau will act as a collector of information and a disseminator of trends and information to the Departments of State responsible for various aspects of social **welfare** matters.
 
+* I would prefer the Government to reject the recommendations of the Priorities Review Staff on administration and adopt those put forward by the expert working party of the Social **Welfare** Commission in this regard.
+
 * The important factor which we need to emphasise, however, is that social **welfare** programs at this level must emphasise the need for local participation at the grass roots level.
 
 * It came in because it knew that deficit financing, financed by a bank for social **welfare** benefits, was disastrous so far as inflationary pressures were concerned.
 
 * If we have a deficit of this kind not for productive services but for **welfare** services, that amount of money- it was $2,648m or a lesser amount according to the amount that is properly attributable to Medibank- must have inflationary consequences for us.
 
+* What sum was paid to Queensland from the National **Welfare** Fund for (a) hospital benefits and (b) payments to public hospitals for pensioners in each of the last 10 years.
+
+* and (b) No payments are made direct to Queensland State authorities from the National **Welfare** Fund in respect of Commonwealth hospital benefits.
+
+* **Welfare** would be the first place to suffer.
+
 * It has involved local resident groups in area improvement programs, in social **welfare** activities and in the establishment of community health centres.
+
+* You will be aware that in my policy speech I said that the government would continue to make general improvements in the Social **Welfare** field as and when we can responsibly do so, without causing inflation or increasing the tax burden.
 
 * -Speaking in the debate on the estimates for Aboriginal Affairs last year I made the point that the whole question of the **welfare** of Aboriginal people should not be allowed to become a party political issue.
 
@@ -6812,6 +7769,8 @@ In relation to this Bill the Opposition is saying that State housing authorities
 * This contact ensures that frail or isolated people receive a daily check on the state of their health and provides them with an entree to many other **welfare** service that are available in the district.
 
 * The Government has major responsibilities demanding its attention in the traditional areas of social **welfare**, education, defence, and so on.
+
+* I refer to such bodies as the proposed Minerals and Energy Authority, the National Pipeline Authority, the Industries Assistance Commission, the Social **Welfare** Commission and the Australian Industries Development Corporation.
 
 * It is my personal hope that the States will be generous in allocating amounts to that purpose in clause 14 which is concerned with the provision of staff to promote safety, health and **welfare** in individual colleges.
 
@@ -6873,6 +7832,8 @@ In relation to this Bill the Opposition is saying that State housing authorities
 
 * One can find similar impressive achievements in the area of social **welfare**: Family allowances, the supporting parent's benefit and the indexation of pensions and benefits.
 
+* Honourable members would be aware, of course, that the Prime Minister  (Mr Whitlam)  has already given an undertaking that the recommendations of the Senate Standing Committee on Health and **Welfare** on the mentally and physically handicapped relating to sheltered workshops and other matters, insofar as they are an Australian Government responsibility, will be implemented by this Government.
+
 * The council will have a major responsibility for the general **welfare** of the handicapped and because of the importance with which this is regarded the council will be reporting direct to the Prime Minister.
 
 * One of the reasons why people who have migrated to Australia are now leaving Australia, and why there are so many leaving, particularly those from the prime source countries, is that Australia does not now compare with those countries in **welfare**, health and housing standards.
@@ -6884,6 +7845,8 @@ In relation to this Bill the Opposition is saying that State housing authorities
 * However, there are many other things apart from the market price that are detrimental to the woolgrowers' **welfare**.
 
 * The way to regard this is that $2.2m is left for expenditure throughout the 6 States for all the other purposes under the headings of **welfare** and difficulties.
+
+* There is the Migration Act 1958-1968; the Navigation Act 1912-1968; in Queensland the Aborigines and Torres Strait Islanders' Affairs Acts 1965-67; the Vagrants, Gaming and Others Offences Acts 1931-1967; in Western Australia the Licensing Act 1911-1968; the Native **Welfare** Act 1963; the Native (Citizenship Rights) Act 1944-1964.
 
 * I have visited businessmen and private residents in these places and also in the Lower Nudgee area, and I have no doubt that all these people recognise my interest in their **welfare**.
 
@@ -6935,6 +7898,10 @@ the need to protect the rights of children and to promote their **welfare**.
 
 * Is he aware of the rising resentment amongst the staff of Parliament House at all levels at the callous disregard of their personal **welfare** shown by his handling of the hours of meeting?
 
+* In 1963 the total cost of all expenditures under the Social **Welfare** Act was $590m.
+
+* In other words, the increases in this Bill, for all practical purposes, equal the entire cost of the pension program as recently as 7 years ago and the entire cost of all Social **Welfare** Act benefits as recently as 12 years ago.
+
 * Secondly and more uncomfortably, the sheer scale of the finance involved again serves to remind us that social security accounts for such a large proportion of Commonwealth expenditure and the growth of social **welfare** expenditure represents such a large proportion of growth overall that it is impossible to ignore social **welfare** as an aspect of the more general economic debate in which the Parliament is involved.
 
 * I believe that this social **welfare** debate provides a useful and appropriate occasion to take the matter at least one small stage further.
@@ -6966,6 +7933,8 @@ the need to protect the rights of children and to promote their **welfare**.
 * The means test as we know it would, ipso facto, disappear and a very limited **welfare** fund would exist for cases for dire emergency where a new and much more stringent means test would apply.
 
 * Whilst one is critical of the **welfare** aspect of the Budget in particular, it is more important to see the way that the Leader of the Opposition has approached the economy as a whole.
+
+* The Minister will recall that in Townsville we have formed a sporting association for Aboriginals known as the All Blacks **Welfare** and Sporting Association.
 
 * There is increased social security and **welfare** spending.
 
@@ -7008,6 +7977,8 @@ Since coming to office this Government has certainly provided substantial assist
 
 * These 2 Bills will be of great benefit to aged people right across Australia and clearly spell out the Government's regard and concern for the **welfare** of the aged.
 
+* Under these arrangements, the **Welfare** and Social Services Branch (comprising nine officers) of the Government and Social Affairs Division of the former Department of the Interior was the only branch of that department to become part of the Department of Aboriginal Affairs.
+
 * The estimated expenditure from the national **welfare** fund for this year is $423m.
 
 * Providing the State governments act with responsibility within the framework of the federalism policy there is no reason to believe that there will be any reduction in the level of **welfare** officer and home care services.
@@ -7029,7 +8000,11 @@ Since coming to office this Government has certainly provided substantial assist
 * In his Speech, the Governor-General on 17 February said: 
 It is believed by the Government that voluntary **welfare** organisations are a critically important part of the Australian **welfare** system.
 
+* I turn now to the report of the Senate Standing Committee on Social **Welfare** entitled  Drug problems in Australia- an intoxicated society?
+
 * The have encouraged members of Parliament to go out amongst the forces and to attend exercises to show to the Australian community that members of the Government- I know that members of the Opposition have done this also- are vitally interested in the **welfare** of the Services.
+
+* National Catholic **Welfare** Committee of Australia $100,000 a year from 1 April 1973.
 
 * Soil and water are ultimate resources on which much of the nation's economic activity and **welfare** depend.
 
@@ -7091,6 +8066,8 @@ It is believed by the Government that voluntary **welfare** organisations are a 
 
 * Further widening of access to the concession would raise issues of social **welfare** policy and, in so doing, prompt the question whether the sales tax law is the proper channel for providing social **welfare** benefits.
 
+* What is probably the most current and authoritative body of information is the report of the Secretary of Health, Education and **Welfare** issued on 3 1st January 1971.
+
 * The enormous increase in expenditure shown in the trust accounts is equal to one-third of the amount made available as grants to the States for **welfare** purposes.
 
 * I firmly believe that a royal commission should be established to inquire into the whole area of Aboriginal **welfare** and administration.
@@ -7098,6 +8075,12 @@ It is believed by the Government that voluntary **welfare** organisations are a 
 * This is the procedure allegedly adopted on environmental matters, on **welfare** matters and on matters concerning the trade union movement.
 
 * Millions of Australians now rely on the life insurance industry for their long-term security and the **welfare** of their families.
+
+* I instance for example the Jewish Family **Welfare** organisation in Melbourne, which has been interesting itself in this field, but lately this matter has taken on a new dimension by reason of the pioneering work done by Alderman Joan Pilone and the City Council in Sydney in the establishment of the Beehive Industries.
+
+* I gratefully acknowledge the lead that has been given in this field by such activities as those of the Jewish **Welfare** organisation in Melbourne and particularly of course the initiative shown by Beehive Industries in Sydney.
+
+* Now, as then, the honourable member and those who sit behind him show a complete disinterest in the reports on conditions in government and Catholic schools which have been prepared by bodies such as the Inner Suburban Education Committee, the Senate Standing Committee on Health and **Welfare**, various organisations of teachers and parents, the migrant education task force and the Interim Schools Commission itself.
 
 * Everywhere I go I find local government people speaking with excitement and enthusiasm about the functions such as social **welfare**, health care, conservation and the development of leisure facilities, which they can perform so much better than either the Australian Government or the State governments.
 
@@ -7248,9 +8231,15 @@ In supporting the legislation that is now before the House, 1 would like to cong
 
 * Advances for **welfare** housing for Queensland per head of population have increased under this Government from $8, when this Government took office, to over $15 in this Budget.
 
+* Let us look at the Social **Welfare** Commission.
+
+* -On 18 February 1973 the proposed establishment of the Social **Welfare** Commission was announced by the then Minister for Social Security.
+
 * I gave the justification for that in the following words: 'It would be self-defeating if the system of wage indexation were to attempt to insulate the community from tax measures designed to redistribute resources for the benefit of the community in the form of improved public facilities in fields such as education, health, **welfare**, personal benefits, urban improvement and so on.
 
 * I advocate that we should have an Australian taxation foundation such as already exists in Canada, a body of people outside our Taxation Branch who are knowledgeable in this field - lawyers, accountants and people in business - and who are interested in this field which is vital to the **welfare** of our nation and vital to our level of economic activity.
+
+* I draw the attention of the House to the Institute of Economic and Social **Welfare** which has been set up in the United Kingdom and subsidised by that Government.
 
 * As I understand it, it was not so long ago that the Minister for Social Services - [ would pray that he would correct me if I am wrong - endeavoured to prevail upon Cabinet and the Prime Minister  (Mr Gorton)  to increase social **welfare** benefits.
 
@@ -7282,6 +8271,8 @@ In supporting the legislation that is now before the House, 1 would like to cong
 
 * All we have said is that there are clear areas of public need in Australia in health, hospital and **welfare** services.
 
+* I am therefore pleased that  Dr Sax  has been transferred to head the new Social **Welfare** Policy Secretariat.
+
 * I believe very strongly that there is an overlap between the fields of health and **welfare**.
 
 * We can often push costs away from health but all we are doing is pushing them on to **welfare**.
@@ -7311,6 +8302,9 @@ In supporting the legislation that is now before the House, 1 would like to cong
 * The honourable member, who has just resumed his seat, omitted to mention the fact that the truly remarkable achievement of the Minister, and the Prime Minister  (Mr Whitlam)  who has worked so closely with him in matters of urban affairs, was to bring about that deathbed repentance of the previous Government over the **welfare** of the cities of this country of which the National Urban and Regional Development Authority was the first and only expression.
 
 * Inadequate education, health care, social **welfare** and law enforcement as well as a deteriorating physical environment are the price of our having chosen to move so far so fast within such narrow confines.
+
+* Resources should be redirected to making good the shortcomings of our own society and increasing our assistance to neighbouring countries in the reasonable certainty that if Armageddon comes it will be for reasons other than ovr failure to sustain a 2 per cent per annum rate of population browth 
+The position of Interpreter- Receptionist, North West One Stop **Welfare** Centre, Coburg, Melbourne.
 
 * It should remind us that other matters besides our economic health are important to our **welfare** and can be forgotten only at our own peril.
 
@@ -7409,6 +8403,12 @@ In supporting the legislation that is now before the House, 1 would like to cong
 
 * At the same time they spoke about introducing a national superannuation scheme for social **welfare** benefits.
 
+* the honourable member for the interjection, 
+The executive members of the Manly- Warringah Social **Welfare** Co-ordinating Committee and the organizations they represent are as follows: 
+I speak now on completely non-party lines when I say to the present Minister for Defence and to the Prime Minister that we of the Opposition can see the need for such a joint party committee of investigation.
+
+* The Regular Defence  Forces  **Welfare** Association can see it.
+
 * The so-called mini Budget has been presented to the man in the street as some great advance in **welfare**.
 
 * The package presented to the wage earnerthe plus items of wage indexation and increased endowment, combined with the minus of the Medibank levy and the loss of deductibility for children- was presented as a 'sensible policy' that would add to his, the wage earner's, **welfare**.
@@ -7438,6 +8438,8 @@ In supporting the legislation that is now before the House, 1 would like to cong
 * The fact is that new ventures in social **welfare** or security, as in housing, higher education or transport, have, ever since the Second World War, always come from the Federal GovernmentLiberal or Labor- and the original funding for them has come from the Federal GovernmentLiberal or Labor.
 
 * Already there have been a number of social **welfare** programs amalgamated or transferred to the States by the Fraser Government.
+
+* After consultations with interested groups and a report from the Social **Welfare** Commission recommending its retention, the Minister for Social Security announced on 21 May 1976 that the Government would not continue to fund the program beyond June this year.
 
 * It is perfectly clear that the Fraser Government is obsessively concerned with administrative arrangements and with reducing federal expenditure rather than with providing effective social **welfare** services.
 
@@ -7508,6 +8510,8 @@ In order further to encourage and assist the provision of the **welfare** servic
 
 * It outlines a common task which is achieved only in close partnership with the State, the schools, the parents, the churches, the political parties and all other social organisations serving man and the common **welfare**.
 
+* **Welfare** housing has felt the axe and the allocation for that has been cut from $400m last year to $330m this year.
+
 * However, if one believed that governments should be responsible for the **welfare** of its citizens- all its citizens- and that governments should show the way in job creation programs, in providing health services, education, transport, et cetera, one would agree that this government is a miserable failure.
 
 * It is possible to tackle the big items of health, education and **welfare** in a way that will not do anything to disadvantage the needy but in fact will improve their position- by placing means tests on benefits paid to those who are not needy.
@@ -7523,7 +8527,14 @@ What sum has been (a) available and (b) granted for (i) home care services, (ii)
 
 * As we have a large percentage of migrant people, this money has been spent correctly by social workers who have been appointed to bodies such as the Italian communities **welfare** committee.
 
+* It is true that I have received an interim report from the Social **Welfare** Commission.
+
+* Those matters will require subsequent consideration by the Government following a later report which we expect in the early part of next year from this working party set up by the Social **Welfare** Commission.
+
 * Mr Neil expressed concern that the Liberal Party- may have alienated itself from the Greek community because of the mass prosecutions of Greek migrants involved in allegations of social **welfare** fraud.
+
+* Some Greeks thought it strange that immigration officers should be despatched on a mission which appeared to be on behalf of the Liberal party 
+1 ) Has a decision been made on assistance for the construction of a garage for the Newdegate St John Ambulance Association submitted by the Lake Grace Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department.
 
 * Advances by the Australian Government for the States' **welfare** housing programs will not be less than in the previous financial year - 
 Our economies are the most prosperous on earth: our technology and productive genius have proven indispensable for all countries seeking to better the **welfare** of their peoples, be they socialist or developing.
@@ -7556,7 +8567,7 @@ Our economies are the most prosperous on earth: our technology and productive ge
 
 * The **welfare** dollar must be more effectively and efficiently administered.
 
-* The findings ofthe Senate Standing Committee on Social Welfare, which indicate that the **welfare** system is out of hand and largely unaccounted for, must be considered very seriously indeed by this Government.
+* The findings ofthe Senate Standing Committee on Social **Welfare**, which indicate that the **welfare** system is out of hand and largely unaccounted for, must be considered very seriously indeed by this Government.
 
 * It is also looking for equity in the **welfare** system.
 
@@ -7586,7 +8597,11 @@ Our economies are the most prosperous on earth: our technology and productive ge
 
 * I wish to confine my remarks to one small section of the estimates for the Department of Social Securityindeed, it accounts for only about 0.2 per cent of the Government's proposed expenditure on social security and **welfare** in this current financial year- and I refer to the Australian assistance plan which, in my opinion, is one of this Government 's most constructive and exciting initiatives.
 
+* The Australian assistance plan was formulated by the Social **Welfare** Commision.
+
 * The basic objective of the plan is to involve people in regional social **welfare** activities and to assist them in the development of integrated patterns of **welfare** services within their community.
+
+* To achieve this aim, the Social **Welfare** Commission, in its Discussion Paper No.
 
 * The regional council was expected to involve representatives of the Australian, State and local governments, trade unions and employer groups, **welfare** consumer groups and non-government bodies associated with social **welfare**.
 
@@ -7594,9 +8609,11 @@ Our economies are the most prosperous on earth: our technology and productive ge
 
 * They would also be handling and allocating Australian Government funds to meet these **welfare** needs in their community and this was probably an even bigger break with the past.
 
-* The Social Welfare Commission recognised these difficulties and recommended that a pilot program be undertaken with one regional council in each State being given administrative finance and also funds for allocation for social **welfare** purposes; the amount of these funds for allocation to be determined on the basis of $2 per person living in the region.
+* The Social **Welfare** Commission recognised these difficulties and recommended that a pilot program be undertaken with one regional council in each State being given administrative finance and also funds for allocation for social **welfare** purposes; the amount of these funds for allocation to be determined on the basis of $2 per person living in the region.
 
 * A government which was not genuinely interested in community involvement or in overcoming the **welfare** deficiencies most acutely concerning the people would not have taken the chances that this plan clearly involves.
+
+* I say this with some feeling because my electorate is in the western suburbs of Melbourne and this region of Melbourne was chosen by the Social **Welfare** Commission as the area in which to have a full scale trial of the plan within Victoria.
 
 * The reasons for choosing this region presumably were that it is a lower income region with pressing needs in all areas of social **welfare** and that in recent years an active group of concerned people had come together within the region to assess the needs of the area, to draw attention to the deprived nature of the region and to press for action to overcome these social deficiencies.
 
@@ -7614,6 +8631,17 @@ Our economies are the most prosperous on earth: our technology and productive ge
 
 * But much of this increase, like that on pensions and social **welfare** and education- much more than half of the total- was essential if the poorer members of the community were to be kept up with inflationinflation, I remind honourable members, with which the present Government had nothing to do- and if real standards in education were to be maintained, let alone advanced.
 
+* 1 ) Has a decision been made on assistance for the purchase of a mobile van for use by service groups catering for shows and sporting, civil defence and other functions submitted by the Dumbleyung Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department 
+I am aware that Commonwealth legislation does not provide for the payment of pensions to a deserted wife with children before 6 months has elapsed from the time of desertion.
+
+* I am also aware that the New South Wales Department of Child **Welfare** and Social **Welfare** relentlessly has opposed the granting of maintenance payments to widows who have received consent orders from a court.
+
+* She is receiving $42 a fortnight from the State **Welfare** Department because of the desertion.
+
+* I appeal to him to do something about the Act in general and to take away from the New South Wales Department of Social **Welfare** the handling of this type of case.
+
+* Pursuant to section 16 of the Social **Welfare** Commission Act 1973 I present the annual report of the Social **Welfare** Commission.
+
 * These concerned **welfare** officers, school programs, a special telephone service and expanded facilities for English language teaching.
 
 * Areas like the Central Coast where building booms had taken off were already years behind in basic amenities, such as water, sewerage, roads, drainage, kerbing and guttering, **welfare**, recreational, sporting, health and educational facilities.
@@ -7625,6 +8653,8 @@ Our economies are the most prosperous on earth: our technology and productive ge
 * How are we to deal with those inquiries that must be made by State **welfare** organisations if they are to give relief?
 
 * They will impede the operations of State **welfare** departments.
+
+* I am hoping that we will be able to present evidence of his work before the Senate Standing Committee on Health and **Welfare**.
 
 * In what way does the extension of the integration services to meet the special needs of migrant children by the provision of bilingual or multi-lingual officers trained in **welfare** work, announced by him as an initiative of his Government, differ from the proposal on the same subject announced by the previous Minister on 31 August 1972.
 
@@ -7667,9 +8697,13 @@ In addition, the Government 's continued support for the education and **welfare
 
 * Four of these settlement hospitals have infant **welfare** clinics.
 
+* In recommending this, I do not detract from the excellent work that has been done by the nursing staffs, by the **Welfare** Branch of the Northern Territory Administration and by everyone connected with the running of these hospitals.
+
 * Now the honourable member for Hotham  (Mr Chipp),  who is the Opposition spokesman on social **welfare**, is saying that we should also have a Medibank levy.
 
 * Members of the Opposition do not have any real interest in the Government's economic programs at the moment which are designed to provide better educational opportunities for the ordinary children in Australia, better **welfare**, better urban development and a better environment.
+
+* Also, the Senate Standing Committee on Health and **Welfare** is to inquire into all aspects of repatriation.
 
 * I would now like to deal with some of the individual items in the estimates for social **welfare** and repatriation.
 
@@ -7699,6 +8733,12 @@ In addition, the Government 's continued support for the education and **welfare
 
 * Contrary to what Liberal supporters say when they refer to their **welfare** programmes, notably in education, it was the right honourable member for Melbourne  (Mr Calwell)  who, as the Leader of the Federal Labor Party in 1966, proposed that per capita grants to independent schools be made on the basis of $30 per annum for primary school students and $40 per annum for secondary school students.
 
+* 1 ) Is he able to say whether the United States of America Department of Health, Education and **Welfare** has launched a campaign to impress upon Medicare and Medicaid recipients the desirability of having a second opinion before surgery.
+
+* The New South Wales Department of Child **Welfare** and Social **Welfare** has advised that at the same date State assistance was being paid to 1,257 deserted wives with children.
+
+* The New South Wales Department of Child **Welfare** and Social **Welfare** has advised that at the same date State assistance was being paid to 197 wives of prison inmates with children.
+
 * But it could be the most significant legislation under the social **welfare** heading which the Parliament is to deal with in 1970.
 
 * The Speech was silent on very important matters affecting the **welfare** of aged people in our community and, indeed, invalids as well.
@@ -7714,6 +8754,10 @@ In addition, the Government 's continued support for the education and **welfare
 * The **welfare** officer was Reverend Bruce Thorton.
 
 * He also said in the course of his remarks that he has heard a rumour that I had washed my hands of any interest in social **welfare**.
+
+* The Melbourne Centre will employ- 1 Sessional Psychiatrist 1 Sessional Clinical Psychologist 2 Sessional Remedial Teachers 1 Executive Officer 1 Social Worker (number of positions will be dependent on the size of the case-load) 1 Senior Vocational Counsellor 1 **Welfare** Officer 1 Workshop Manager 2 Foremen 4 Instructors 1 Storeman 1 Liaison Officer 1 Clerical Assistant 2 Typists 1 Labourer 
+The proposed staffing for the Sydney Centre includes - 1 Sessional Medical Consultant 1 Sessional Clinical Psychologist 2 Sessional Remedial Teachers 1 Executive Officer 1 Case Work Coordinator (Psychologist)  1 Social Worker (Number of positions will be dependent on the size of the case-load)  1 Senior Vocational Counsellor 1 **Welfare** Officer 1 Workshop Manager 2 Foremen 4 Instructors 1 Storeman 2 Clerical Assistants 1 Typist 1 Labourer 
+Some progress in meeting interpreter needs has been achieved through a growing range of services in my Department.
 
 * These include the employment of more than 120 bi-lingual or multi-lingual officers; the recent appointment of 48 specially qualified multi- ' lingual **welfare** officers, including 16 to work in the education field, and the provision of a telephone interpreter service in no fewer than 42 languages in Sydney and Melbourne and soon to be extended to other States.
 
@@ -7745,7 +8789,9 @@ In addition, the Government 's continued support for the education and **welfare
 
 * -It is very gratifying to know that some people of that tender age are interested in the **welfare** of this House.
 
-* One of the functions of the Welfare Division is to provide for the **welfare** and advancement of Aborigines in the Northern Territory and to carry out its functions the Division is staffed with experienced and qualified officers.
+* The training of Aboriginal men and women is the responsibility of the **Welfare** Division of the Northern Territory Administration within the Department of the Interior.
+
+* One of the functions of the **Welfare** Division is to provide for the **welfare** and advancement of Aborigines in the Northern Territory and to carry out its functions the Division is staffed with experienced and qualified officers.
 
 * Thirdly, social **welfare** should be adequate to enable our physically and mentally retarded, our aged, invalid, sick or widowed people to live in dignity.
 
@@ -7816,6 +8862,8 @@ It is clearly time that the area of health, was looked at.
 
 * The welding together of a practical approach involving considerations of scientific advances which, these days, can make possible efficiency if there is an economic basis, together with considerations of community **welfare** give us the spectacle of an industry that concerns people; and people are the concern of this Parliament.
 
+* Part of the continuing work of **Welfare** officers is Instruction on the need for moderation in the consumption of alcohol with individual counselling given in problem cases.
+
 * He was later asked to return to Australia for a certain period to assist in establishing a **welfare** office for the Italian communities in the areas of Coburg and Brunswick and also to establish a newspaper in the Italian language so that these people would be assisted in their integration into Australia society.
 
 * So in February 1974  Mr Salemi  came back to Australia and helped to establish a **welfare** office in Coburg.
@@ -7830,7 +8878,10 @@ It is clearly time that the area of health, was looked at.
 
 * Do not look very much for the **welfare** of the handicapped children in our community because they are still running chocolate wheels to raise funds to maintain their own schools.
 
-* Does he remember what the previous Government did not do about the report of the Senate Standing Committee on Health and Welfare which was tabled in May 1971 in respect of the **welfare** of the mentally and physically handicapped children in Australia?
+* Does he remember what the previous Government did not do about the report of the Senate Standing Committee on Health and **Welfare** which was tabled in May 1971 in respect of the **welfare** of the mentally and physically handicapped children in Australia?
+
+* The final report of the Social **Welfare** Commission noted this very attitude when it said: 
+Imposing restraints on government spending has inevitably meant that many desirable programs can move ahead only at a slower pace than we might have hoped.
 
 * In making choices we have been concerned to protect areas such as **welfare** payments where people are affected as individuals or areas especially important to opportunity, such as education where real growth in expenditure will be encompassed especially in areas related to the trades which have been so much neglected even under the previous Administration.
 
@@ -7877,6 +8928,8 @@ I repeat that I and my colleagues have fought hard and will continue to fight ha
 
 * We also recognise that only a healthy and vibrant economy can provide the resources our **welfare** agencies so properly call for.
 
+* If the honourable member for Darling Downs has read closely the 3 reports that the Government has commissioned on this matter- the report of the Interim Committee for the Pre-school Education Commission, the report of the Social **Welfare** Commission and the report of the Priorities Review Staff- he will know that the maintenance of standards has been a matter of very great concern to the Government and its advisers and that very properly provision has been made to see that standards are maintained.
+
 * In the 3 years Australia laboured under a Labor Government there was an unprecedented transfer of resources- from profits to wages and **welfare**; from the private to the public sector.
 
 * One of the Henderson reports on Aboriginal **welfare** stated: .
@@ -7902,6 +8955,8 @@ I repeat that I and my colleagues have fought hard and will continue to fight ha
 * An electoral system is already established and there is a traditional involvement by people in local government and in **welfare** which gives an historical head start to community participation.
 
 * There are in our towns and in our cities people who will work on committees or **welfare** and charitable programs without any personal gain except for the feeling of satisfaction that they are doing something for their fellow man or woman.
+
+* To this end it was recommended by the Public Service (Canberra) **Welfare** Committee that  a  Board of Review should be created to investigate the whole question.
 
 * What sum has been (a) available and (b) granted for (i) home care services, (ii) senior citizens' centres and (iii) **welfare** officers at senior citizens' centres under the States Grants (Home Care) Act 1969 to each of the States and Territories in each year of operation of the Act 
 That there is a crisis in Aboriginal **welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
@@ -7948,6 +9003,12 @@ That there is a crisis in Aboriginal **welfare** in the South West Land Division
 
 * In the Budget, $2 19m is made available to assist the States to provide **welfare** housing.
 
+* The Public Service Board has agreed to the creation of a further nine positions and, subject to completion of the necessary formal processes, the establishment of the Social **Welfare** Commission will increase to 29.
+
+* The Social **Welfare** Commission has been responsible for the formulation of policy for the Australian Assistance Plan.
+
+* Committee and Working Party meetings between the staff of the Social **Welfare** Commission and the Department of Social Security are held frequently.
+
 * I think it is fair to say that this is one of those difficult areas in relation to taxation and social **welfare** policy.
 
 * I say to the honourable gentleman, secondly, that if indeed the community believes that some amongst its number, by reason of their disabilities, should be deserving of additional assistance, the right method of doing that is by direct support and social **welfare** payments.
@@ -7955,6 +9016,10 @@ That there is a crisis in Aboriginal **welfare** in the South West Land Division
 * But to return to this Appropriation Bill, this is a very clear and tangible expression by this Australian Government of its concern for the **welfare** of thousands of my own electors, some 45 per cent of them, who have been so severely hit by this bridge disaster and the consequences that followed.
 
 * There are provisions in the Bills for the further funding of the Deakin University at Geelong, for the establishment of a central office of the State College of Victoria, for the establishment of diploma courses in **welfare** studies at one or two colleges of advanced education and for the further expansion of the study centre of the Albury-Wodonga centre of the Riverina College of Advanced Education.
+
+* Surgeon General Jesse L. Steinfeld disclosed all of the actions at a hearing of a Senate Commerce Sub-committee following their approval by the Secretaries of Health, Education and **Welfare**, Agriculture and Interior.
+
+* A circular on 2,4,5-T was published by the United States Department of Agriculture, Department of the Interior, and Department of Health, Education and **Welfare** on 15 April 1970.
 
 * Since the tabling of the Report there have been many important changes in health and **welfare** benefits available to the Australian community.
 
@@ -7965,7 +9030,11 @@ The administrative machinery I have described will be the foundation on which fu
 
 * It is completely in accord with the recommendations of the Ranger Inquiry and will provide a proper and adequate basis on which uranium development will proceed so as to harmonise the interests of development, environmental protection, National Park values and Aboriginal **welfare**.
 
+* For the information of honourable members I present a report entitled 'The Contribution of the Mineral Industry to Australian **Welfare**'.
+
 * The other matter to which I want to draw the attention of the Goverment is an anomaly which recently was brought to my attention concerning the reason why many people suffer embarrassment in the field of social **welfare**.
+
+* Mostly, these families are in the low income group, and are severely affected by the delays in workers compensation, insurance, Commonwealth sickness and unemployment benefits, and pensions, and worst of all by delays in initial payments of Social **Welfare** Department assistance.
 
 * The Bill is a conglomeration of four or five separate health and **welfare** proposals.
 
@@ -7997,7 +9066,11 @@ The administrative machinery I have described will be the foundation on which fu
 
 * Will the Prime Minister invite Archbishop Loane to supply him with a report on the degree and nature of hardship suffered by certain sections of the community in the Sydney diocese, derived from information available through the **welfare** and pastoral services of his Church, with a view to providing appropriate and more adequate aid to those who are suffering hardship?
 
+* Andrew was interviewed by the Child **Welfare** Department because of truancy.
+
 * I cannot recall his ever being accused of lacking in compassion and interest for the **welfare** of ex-servicemen.
+
+* The Government is taking action in other ways through its Social **Welfare** Commission under the leadership of  Mrs Marie  Coleman, to look at the causes of drug addiction.
 
 * Will the Minister assure the House that the Government's admirable nationalistic zeal will not be allowed to run so wild that it will be counter productive in its impact on the development of the Australian economy and the **welfare** of the Australian people?
 
@@ -8066,25 +9139,40 @@ The Budget contains a far-reaching **welfare** programme, part of which will be 
 
 * In relation to handicapped persons' **welfare**, we have announced major new initiatives to improve services to the handicapped people and voluntary, religious and similar organisations caring for them.
 
+* In the electorate of Bonython the Handicapped Person's **Welfare** Act has benefited greatly 2 caring services.
+
 * maternal and child **welfare**, 
 I believe that the Prime Minister is covering up in regard to the activities of Assistant Ministers.
 
 * By way of passing reference I say that most honourable members know that Assistant Ministers were appointed not to assist the **welfare** and development of this Parliament but to give the Prime Minister the numbers in an evenly divided caucus; of the Liberal Party.
 
+* The first recommendation of the Standing Orders Committee states: 
+The Senate Standing Committee on Social **Welfare** published a report entitled 'Drug Problems in Australia- An Intoxicated Society?'.
+
+* In conclusion, I refer again to the report of the Senate Standing Committee on Social **Welfare** entitled 'Drug Problems in Australia- an intoxicated society?'
+
 * greater emphasis on special procedures to identify claimants and to detect abuse; personal interviews of new claimants of unemployment benefit; additional staff and counter facilities in response to increases in workload; upgrading of managerial resources and the granting of wider discretionary powers to local managers; advance payment of the initial benefit cheque in cases of hardship to avoid recourse to **welfare** agencies; and greater readiness to issue counter cheques to persons in need.
 
+* I table 2 reports: The report of the Committee on Care of the Aged and the Infirm and the first report of the Task Force on Coordination in **Welfare** and Health entitled Proposals for Change in the Administration and Delivery of Programs and Services.
+
 * In June and July 1976 the Government established 2 inquiries in the health and **welfare** fields.
+
+* The second, the Task Force on Co-ordination in **Welfare** and Health, chaired by  Mr P.  H. Bailey, was announced on 23 July.
 
 * The 'Holmes' Committee was asked to examine and report on: 
 The relationship between programs for the aged and the infirm and other health and **welfare** programs.
 
-* Honourable members will recall the decision to establish the Task Force on Co-ordination in Welfare and Health arose out of the Government's concern at the proliferation, duplication and overlap of Commonwealth programs and services in the health, **welfare** and community development fields.
+* Honourable members will recall the decision to establish the Task Force on Co-ordination in **Welfare** and Health arose out of the Government's concern at the proliferation, duplication and overlap of Commonwealth programs and services in the health, **welfare** and community development fields.
 
 * The report also contains a range of other recommendations relating to specific programs including, for example, pathology laboratories, rehabilitation centres, and the immediate post-arrival **welfare** of migrants.
 
 * In proposing various administrative changes, both reports make suggestions as to how the Commonwealth can safeguard the role of local and voluntary agencies delivering health and **welfare** services in the community.
 
 * Our view is that these reports raise important issues in the health and **welfare** fields which merit serious consideration, not only by governments but also by all those involved.
+
+* The Committee on Care of the Aged and the Infirm and the Task Force on Co-ordination in **Welfare** and Health are to be commended for their efforts.
+
+* Task force on Co-ordination in **Welfare** and HealthProposals for Change in the Administration and Delivery of Programs and Services'- Ministerial Statement, 17 February 1977.
 
 * Spending on social security and **welfare** is up $2 10m on the Budget estimate.
 
@@ -8103,6 +9191,11 @@ The relationship between programs for the aged and the infirm and other health a
 * During the 1939-45 War representatives of **welfare** organisations served in such areas as North Africa, Greece, Crete, Papua, New Guinea, Malaya and Singapore and there were many casualties including some who died on service or became prisoners of war.
 
 * The enactment of this legislation will ensure that the scheme will go on making its important contribution to the national **welfare** by enabling eligible persons in all parts of the Commonwealth to obtain a home of their own.
+
+* People from the Social **Welfare** Department, which is a State organisation in Victoria, visit there regularly.
+
+* It is called the Dallas **Welfare** and Youth Services 
+We were supposed to debate the Wheat Industry Stabilisation Bill today.
 
 * And expressions of the sort that it is reported the Prime Minister used in the Caucus yesterday in relation to artists are quite surprising for people who thought that they could trust his interest in their **welfare**.
 
@@ -8164,6 +9257,8 @@ The relationship between programs for the aged and the infirm and other health a
 
 * The funds set aside for preventive medicine are relatively small by comparison with the enormous expenditure on health services and social **welfare** payments provided in this Budget.
 
+* Members will be aware of the sacking of Joseph Califano Jnr, the former Secretary of State for Health, Education and **Welfare** in the Carter administration in the USA.
+
 * We are not getting the return we ought to be getting, a return which can be ploughed back into the community in many ways such as investment, as better **welfare** provision and as better consumption standards for people in the community.
 
 * No assessment had ever been made to establish whether these payments should be provided, whether they should be continued or whether the taxpayer should be required to continue paying to surrender some of his living standards so that in some cases a particular powerful supporter could continue to get what can be fairly termed as a **welfare** payment at the expense of the rest of the community.
@@ -8171,6 +9266,10 @@ The relationship between programs for the aged and the infirm and other health a
 * Originally the advocacy of protection was closely related to the view that national independence and the **welfare** of wage earners in this country would be promoted by the effect of tariffs in redistributing income from the owners of land to industrial labour and capital.
 
 * If that investment is taking place in the wrong parts - that is, if unwise decisions are being made not according to rational economic criteria but according to the pay-off that can be achieved in the back room deals between the Country Party and the people, who are its backers, or it hopes will be its backers - we will not achieve the sort of growth we should achieve; we will not achieve the sort of progress and prosperity we should achieve; and we will not achieve the living standards that should be provided in the community and the **welfare** services that should be achieved.
+
+* He has acted as a volunteer house father for the Elizabeth Family Home which cares for disturbed children and is organised by the State Department of Community **Welfare**.
+
+* He acts as a handyman in a handyman's scheme run by volunteers through the Department of Community **Welfare**.
 
 * Because of that it contributes greatly to the progress and economic **welfare** of country towns and the people who reside in them.
 
@@ -8194,13 +9293,23 @@ The relationship between programs for the aged and the infirm and other health a
 
 * It gives me considerable pleasure to speak on the Aged Persons Hostels Bill this afternoon, and at the outset I offer my sincere congratulations to both the Minister for Social Services  (Mr Wentworth)  and the Government for what they have done in this field of social **welfare**.
 
+* July 1977- The Western Australian State Departments for Community **Welfare** and Mental Health Services; 
+ofthe 1959 Annual Report of the Western Australian Depanment of Native **Welfare**, on 20 March 1979, as a result of it being quoted in the report mentioned in (c) below; 
+of the 1976 report by the Western Australian Department for Community **Welfare**, on 18 November 1976.
+
 * The Labor Party's policy is that, having regard to the present unresolved economic, social, biological, genetic, environmental and technical problems associated with the mining of uranium and the development of nuclear power in particular, until Australian sovereignty, the needs of our environment, the economic **welfare** of our people and the rights and wellbeing of the Aboriginal people are understood we will not assist in any way the Government's actions to carry out uranium mining in the Northern Territory.
 
 * Conference recognises that the provision of Australian uranium to the world nuclear fuel cycle creates problems relevant to Australian sovereignty, the environment, the economic **welfare** of our people, and the rights and well-being of the Aboriginal people.
 
+* The Priorities Review Staff Report on Early Childhood Services tabled on 30 July 1 974 refers to ' a scheme for classifying local government areas according to need' developed by the Social **Welfare** Commission, and went on to give some examples of local government areas for the three categories of highest priority as put forward in that scheme.
+
+* The table below sets out by State and by time period of the initial approval related to each particular centre, the number of centres approved for assistance under the Child Care Act 1972 in each of the three categories of highest priority of the five-point rating scale developed by the Social **Welfare** Commission.
+
 * If so, is there any reason why the law should not be amended to provide that persons or organisations affected by aircraft noise at all hours of the day and night should be entitled to take similar action against the Government or the airline companies responsible for this menace to their health, homes and **welfare**?
 
 * There is also the matter that relates to the size of aid projects and their nature, which in the case of voluntary agencies are sometimes small and of a **welfare** nature rather than a developmental nature.
+
+* However, the Orana Regional Rehabilitation and Social **Welfare** Council which is located at Dubbo, in the Electorate of Darling, was provided with the $2,000 Initiating Grant in 1974-7S under the Plan.
 
 * What has been his response to representations made to him on 28 October 1977 by the NSW Local Government Community Workers' Association in which concern and dismay was expressed about the drastic curtailment of funding for the following Government responsibilities: (a) **welfare** workers under the States Grants (Home Care) Act, (b) Family Law Court Counselling Service, (c) education programs, including after school care, child care and other family care programs, and migrant classes for adults, (d) health care services including community health centres, domiciliary care services and women's health centres, (e) unemployment and unemployment relief schemes, (0 housing, in particular housing for the aged and invalid people, (g) pension and benefit reductions in real values and proposed transfers of responsibility for these, (h) 470 community programs funded under the Australian Assistance Plan, (i) programs for the handicapped, (j) the Legal Aid Commission Bill, (k) Aboriginal affairs, (1) grant in aid services for migrants and interpreter services, (m) Australian Government printing services, (n) national co-ordinating bodies for youth affairs, (o) women 's refuges subsidies reductions and (p) Australian Bureau of Statistics processing.
 
@@ -8238,6 +9347,10 @@ The relationship between programs for the aged and the infirm and other health a
 
 * It will open up new concepts of **welfare** care with far less rigidity than we have seen previously.
 
+* The **Welfare** Division of the Northern Territory Administration has a substantial collection which is to be made available to the Territory Museum and Art Gallery Board for display, etc.
+
+* As part of a continuing programme over many years the **Welfare** Division of the Northern Territory Administration, the Australian Institute of Aboriginal Studies and linguists have recorded and catalogued a considerable amount of oral literature and history from Aborigines in the Northern Territory.
+
 * Can any honourable member tell me that the social **welfare** POliCY of the Labor Party is not different from the social **welfare** policy of the Liberal Party?
 
 * The **welfare** of whole communities depends on this industry.
@@ -8245,6 +9358,8 @@ The relationship between programs for the aged and the infirm and other health a
 * The answers received have been more concerned with legalistic matters and an alleged reluctance to legislate for a small distinct section of the community than with any essential approach to the considerations of human **welfare**.
 
 * He is well known to you,  Mr Deputy Speaker,  for his research and his dedication to the **welfare** of retired miners.
+
+* -Pursuant to section 34 of the Services Trust Fund Act 1947-1973 I present the annual reports of the Royal Australian Air Force **Welfare** Trust Fund, the Australian Military Forces Relief Trust Fund and the Royal Australian Navy Relief Trust Fund for the calendar year 1 974, together with financial statements and the report of the Auditor-General on those statements.
 
 * The **welfare** measures announced under the household support provision also receive the support of the Opposition.
 
@@ -8267,6 +9382,8 @@ Let us see what such a cut in expenditure would mean for individuals who are ver
 
 * I think he is the spokesman for the Opposition on **welfare** matters, although one can never quite detect who is really the spokesman for the Opposition on such matters.
 
+* The Government also has under study a report of the Senate Standing Committee on Social **Welfare** which has made recommendations on this matter.
+
 * No doubt the people in receipt of increased payments will be very delighted  -  I shall deal with that matter in detail later - but their feelings of pleasure could easily be dampened by the overall effect on costs, prices and general productivity caused by the Labor Government's **welfare** state policies.
 
 * Of course, they are concerned not only about the **welfare** policies of the Labor Government but also about its defence and security policies.
@@ -8274,6 +9391,8 @@ Let us see what such a cut in expenditure would mean for individuals who are ver
 * The policy speech delivered by the then Leader of the Opposition in the recent Federal election campaign stated that a Labor Government would be prepared to take the financial aspects of **welfare** out of budgetary considerations.
 
 * It is a completely irresponsible and even dishonest approach for the Prime Minister  (Mr Whitlam)  to claim that his Government will ignore the financial considerations of **welfare** provisions in the national Budget.
+
+* However, I am informed that the Victorian Department of Community **Welfare** Services, through which Commonwealth Community Health Program funds are channelled, has advised the solicitors administering the deceased estate of the terms of the Commonwealth's approval for funding of this refuge under the Community Health Program.
 
 * I believe there is a real and pressing casefor decentralisation of authority and that local governments will best perform many governmental functions in such critical areas as **welfare**, culture and the environment.
 
@@ -8331,6 +9450,12 @@ seeking to have States Grants Commissions consider the diverse **welfare** needs
 
 * The community will lose control over the services it is receiving and individuals will cease to have sufficient responsibility for their own care and **welfare**.
 
+* Complete figures were not available for South Australia, but the Department of Social **Welfare** and Aboriginal Affairs reports that 94 Aboriginal children are known to have attended pre-schools in 1969.
+
+* As at 30th June 1969, 342' children were known to the Commissioner of Native **Welfare** to be attending pre-schools in Western Australia.
+
+* In 1969, 540 Aboriginal children were attending Administration (**Welfare** Branch) pre-schools in the Northern Territory; 150 were attending mission pre-schools and 79 were attending community pre-schools operated by the Department of Education and Science - a total of 769 children.
+
 * It is now becoming obvious to anyone with half a brain that with a rising long-term bond rate the pegged concessional rate of interest is producing serious inequities and the benefits of those obtaining **welfare** housing compared to the rest of the community, especially including those without any house at all, are staggering.
 
 * I believe that this Agreement has also created serious social problems because of its discriminatory effect upon those persons in the community unfortunate enough to have to pay the market rate of interest, which may be perhaps 11% per cent or 12 per cent It seems to me to be totally unfair that the action of this Government has forced the majority of home buyers and home builders to pay 4 per cent or 5 per cent more in interest than the select few who will be able to purchase a home as a result of this so-called **welfare** housing agreement.
@@ -8347,6 +9472,12 @@ seeking to have States Grants Commissions consider the diverse **welfare** needs
 
 * As I pointed out last week, that was the underlying motive of the Government in appointing the Bailey and Holmes inquiries into aspects of social **welfare**.
 
+* Expenditure from the National **Welfare** Fund on pensions and benefits payable under the Social Services Act is estimated to be $7390m for 1979-80 which will be an increase of $650m over expenditure in 1978-79.
+
+* The American Health, Education and **Welfare** Committee, which published its report early this year, reached the same sort of conclusions.
+
+* Education and **Welfare** issued on January 31 1971, titled 'Marihuana and Health'.
+
 * We cannot expect and get increased social **welfare** benefits, reduced taxes and other concessions - be paid more and then work less.
 
 * the provision, adequacy and viability of pregnancy support services, adoption services, counselling and other forms of assistance for families, mothers and mothers-to-be, given the social, economic, medical and social **welfare** problems in which they may find themselves involved.
@@ -8354,6 +9485,8 @@ seeking to have States Grants Commissions consider the diverse **welfare** needs
 * We are faced by a rising tide of human misery for which our present social **welfare**, health and law enforcement agencies can provide no remedy.
 
 * This would aggravate the fragmentation of community **welfare** services, weaken the capacity for co-operation between such bodies, and defeat the objective of community involvement in regional decision-making on such matters.
+
+* 1 published by the Social **Welfare** Commission.
 
 * My Government has also reviewed important aspects of social **welfare**.
 
@@ -8370,6 +9503,18 @@ seeking to have States Grants Commissions consider the diverse **welfare** needs
 * Conversely, a program of financial assistance in the field of education to provide training facilities is a waste if social **welfare** lacks vision and planning.
 
 * We want increased technology to advance the **welfare** of the whole of the country, but we have to plan for its introduction.
+
+* 1; that is the first report to which the honourable gentleman referred - the Social **Welfare** Commission, .
+
+* Yet just recently the honourable gentleman, referring to the Social **Welfare** Commission's report, said that it was tabled yesterday.
+
+* Does the honourable gentleman also say that the Social **Welfare** Commission report which was tabled on Tuesday is different from the Social **Welfare** Commission report of last year?
+
+* When the Prime Minister announced on 18 February that the Government had asked the Social **Welfare** Commission to examine the Fry Committee report he made this announcement in this House.
+
+* Whilst this may have meant a few weeks' delay, and whilst we have been getting a second opinion on the matter and also asking the Fry Committee to discuss this question with the Social **Welfare** Commission to see what can be done to accelerate the whole program the whole intention of the Government is to accelerate.
+
+* The Report of the Senate Standing Committee on Health and **Welfare** on Mentally and Physically Handicapped Persons in Australia of May 1971 noted the absence of accurate data on the numbers of handicapped people', in Australia.
 
 * It stated: 
 Certainly, if this situation could be improved, then it would mean, not only a reduction in the Government's social **welfare** commitment, but greater production and higher productivity.
@@ -8392,9 +9537,13 @@ Certainly, if this situation could be improved, then it would mean, not only a r
 
 * Some of us had hoped that the appointment of a new Minister for the Navy who comes from Sydney would see a mellowing of the old hard line which characterised the attitude of some of his predecessors from Victoria, South Australia and Western Australia, none of whom could be expected to have the indigenous interest in Sydney's **welfare** of the present Minister for the Navy  (Dr Mackay).
 
+* I also attended a Conference of Child and Social **Welfare** Ministers held in Tasmania in March 1971 for which the particulars sought were given in my answer to Question No.
+
 * Parramatta Branch of the Young Liberal Movement is active in all matters affecting the **welfare** of young people in the western area.
 
 * It should be compared with what the honourable member for Parramatta says about  Mr Eric  Butler whom he invited to address the Young Liberal Movement in Parramatta and whom he said would inform it on all matters affecting the **welfare** of young people in the western area.
+
+* The Phoenix **Welfare** Association Limited- R. A. Bender, W. T. Schacht, R. Stobbs, R. Pettigrew, J.
 
 * Ten per cent of Commonwealth revenue to local government for general activities which now include social **welfare**, health, conservation and other community needs.
 
@@ -8402,11 +9551,17 @@ Certainly, if this situation could be improved, then it would mean, not only a r
 
 * It is not fit to administer the **welfare** of this country if it cannot be honest and open.
 
+* That was the Social **Welfare** Commission- for an outstanding document and I extend my appreciation to the Minister for embracing it and its philosophies.
+
 * A commitment to continue the AAP was in the social **welfare** policy of the Parties.
 
 * Ten per cent of Comonweallh revenue to local government for general activities which now include social **welfare**, health, conservation and other community needs.
 
 * Royal Commission or other form of public enquiry into Australia's social **welfare** structure that Australia may be brought into line with accepted world standards of the most advanced countries. '
+
+* I would like to refer to the book containing the constitution, rules and platform of the Australian Labor Party and particularly to page 20. which under the heading 'Social **Welfare**' deals with pensions.
+
+* I was dealing with page 20 of the document setting out the Labor Party's constiutiion, platform and rules under the heading 'Social **Welfare**'.
 
 * He worked tirelessly to improve and develop New Zealand's **welfare** state, already one of the most advanced and humane in the world and largely a memorial to his country's first Labour Government.
 
@@ -8418,28 +9573,62 @@ Certainly, if this situation could be improved, then it would mean, not only a r
 
 * I think it is also incumbent on any society, regardless of whether it is affluent or not, to sharpen up in the provision of its social **welfare** benefits, because otherwise we are in danger of creating a **welfare** state.
 
+* I want to look particularly today in speaking to the Social **Welfare** Commission (Repeal) Bill at the role of the Commission and its association with government and also its association with the Minister for Social Security  (Senator Guilfoyle).
+
+* I want also to look at where the Social **Welfare** Commission went wrong.
+
+* The honourable member for Maribyrnong mentioned some of the background to the Social **Welfare** Commission.
+
 * Some of its activities in the social **welfare** context were referred to the Royal Commission on Australian Government Administration.
+
+* A little later I would like to refer to the Coombs Royal Commission on Australian Government Administration in the context of the Social **Welfare** Commission.
+
+* I remind the House that it was the decision of the Labor Government to abolish the Social **Welfare** Commission.
+
+* This should not be underestimated in understanding the rationalisation of establishing bodies such as the Social **Welfare** Commission.
+
+* Significantly, although the Leader of the Opposition mentioned the Australian Assistance Plan which was generally associated with the Social **Welfare** Commission, he made no mention of the Commission at that stage.
+
+* The Leader of the Opposition's rationalisation for utilising commissions is best summed up in his statement on the establishment of the Children's Commission, when he said: 
+It should be noted also that the Social **Welfare** Commission was established as a statutory body, and it must be differentiated from the numerous other advisory committees or task forces.
+
+* I turn now to the Social **Welfare** Commission Act 1973 which outlines the basic functions of the Commission.
 
 * They are as follows: 
 1 ) To ascertain the social **welfare** needs of the community and report these to the Minister.
 
 * To make recommendations for the establishment of a nationally integrated social **welfare** plan including: 
 Co-ordination of **welfare** activities- State, local, voluntary 
-It is significant to note in the Social Welfare Commission report covering the period to 30 June 197S that the Commission chairman, Marie Coleman, said at page 10: 
-However, unlike the Universities Commission and the Schools Commission, the Social Welfare Commission has only advisory powers and cannot exercise executive powers.
+It is significant to note in the Social **Welfare** Commission report covering the period to 30 June 197S that the Commission chairman, Marie Coleman, said at page 10: 
+However, unlike the Universities Commission and the Schools Commission, the Social **Welfare** Commission has only advisory powers and cannot exercise executive powers.
 
-* The report reads: ... the Social Welfare Commission regards social **welfare** as a basic integrated institution in society ensuring not only the provision to all of primary material needs, but also genuine opportunities for social and cultural satisfaction.
+* The Social **Welfare** Commission was directly responsible to the Minister for Social Security.
 
-* I think it is quite pertinent to quote from page 21 of the report of the Social Welfare Commission: 
-If one looks at the reasons for the abolition of the Commission I think they can be pin-pointed to two main areas: Firstly, the Minister for Social Security may have found the Social Welfare Commission dysfunctional and duplicating work done by the Minister's department, and may have found its reports contributing little to the area of social **welfare**.
+* The report reads: ... the Social **Welfare** Commission regards social **welfare** as a basic integrated institution in society ensuring not only the provision to all of primary material needs, but also genuine opportunities for social and cultural satisfaction.
+
+* I think it is quite pertinent to quote from page 21 of the report of the Social **Welfare** Commission: 
+If one looks at the reasons for the abolition of the Commission I think they can be pin-pointed to two main areas: Firstly, the Minister for Social Security may have found the Social **Welfare** Commission dysfunctional and duplicating work done by the Minister's department, and may have found its reports contributing little to the area of social **welfare**.
 
 * Indeed, the Commission instead of rationalising social **welfare**, only contributed further to the fragmented nature of social **welfare**.
 
 * Although the Commission talked a great deal about regionalisation of social **welfare**, it was the Royal Commission on Australian Government Administration which conducted practical experiments into this procedure, which were done at Ringwood, Victoria.
 
-* Thus, the Social Welfare Commission received a charter which apparently was intended to give it authority to review the whole field of **welfare** programs and to advise on their rationalisation both from the point of view of policy content and administration.
+* It was not the Social **Welfare** Commission which did them.
 
-* The total amount of $53,226 paid in Social Welfare Benefits in the Australian Capital Territory in 1970-71 was distributed as follows: 
+* Thus, the Social **Welfare** Commission received a charter which apparently was intended to give it authority to review the whole field of **welfare** programs and to advise on their rationalisation both from the point of view of policy content and administration.
+
+* It proposed an amalgamation of the Social **Welfare** Commission and the Health Services Commission.
+
+* I think that the quotation from  Sir Robert  Menzies' speech is very pertinent to this debate today for the repeal of the Social **Welfare** Commission Act.
+
+* and (2) The number of claims for Social **Welfare** Benefits received in the Australian Capital Territory in 1970-71 (1,749) as compared with 1966-67 (1,352) had increased by 29.4 per cent.
+
+* During the same period the mean population of the 
+The increase in total Social **Welfare** Benefit payments between 1966-67 ($16,466) and 1970-71 ($53,226) amounted to 223.3 per cent.
+
+* and (5) Social **Welfare** Benefits are intended primarily to help people awaiting statutory aid, such as deserted wives with children, or persons who are unable to qualify for Commonwealth pensions or benefits and for various reasons cannot support themselves and their families.
+
+* The total amount of $53,226 paid in Social **Welfare** Benefits in the Australian Capital Territory in 1970-71 was distributed as follows: 
 In Australia 30 per cent of taxes go to education and social **welfare**.
 
 * Foreign policy must serve the interests and promote the **welfare** and security of the Australian people.
@@ -8498,6 +9687,8 @@ In Australia 30 per cent of taxes go to education and social **welfare**.
 
 * The freeze on **welfare** and public service salaries should be viewed in context.
 
+* **Welfare** payments were generous- perhaps too generous- and public servants enjoy very high pension entitlements at the expense of other taxpayers.
+
 * A declaration may be made if it is held that industial action is adversely affecting the health, safety and **welfare** of the community.
 
 * But it is not necessary to show that industrial action is having an adverse effect on health and safety if it can be shown simply that a strike is against the **welfare** of the community the certificate has to be issued - 
@@ -8520,6 +9711,8 @@ I accept that but I will show that even with those words injected into the provi
 * We have heard nothing in this regard except abuse in the Press from State Premiers who are taking cheap political points on **welfare** housing by claiming that the Fraser Government is seeking simply to increase the repayments and other dues of people who are in needy circumstances.
 
 * The article in the AGP Journal, contributed by  Dr Kerry  Burrow headed 'Rent a Digger for Two Bucks' is false, untrue, publicly mischievous, misleading, unprofessional, in bad taste and capable of damaging the reputation and future financial **welfare** of the Home.
+
+* of the Social **Welfare** Commission Act 1973, I present a progress report by the Social **Welfare** Commission entitled  Social **Welfare** Manpower.
 
 * But I think we should do a ' number of things to enlarge the provision of health **welfare** services in a way which will absorb or eat up the enormous amount of accumulated reserves which these funds have, and quite unreasonably have, given the fact that the money has been contributed for the provi sion of health services in the community.
 
@@ -8597,9 +9790,13 @@ I accept that but I will show that even with those words injected into the provi
 
 * Secondly, I believe, and my Party believes, very strongly in the principle of a right to **welfare** benefits according to need and not according to any pompous and selfrighteous moral judgment as to the cause of a person's deprivation or disadvantaged position.
 
+* and (2) The Australian Assistance Plan will be developing in response to community reaction to the concepts and procedures outlined by the Social **Welfare** Commission in Discussion Paper No.
+
 * In accordance with the guidelines laid down in the discussion paper it is required that the composition of the Council be as pluralistic as possible thus widening the cross-section of the community which takes decisions on local social **welfare** problems.
 
 * Section 2.3 of the Australian Assistance Plan advises* that: 'Each Regional Council should involve representatives of the Australian, State and Local Governments, trade unions and employer groups, **welfare** consumer groups and non government bodies concerned with social **welfare**.'
+
+* So far within the pilot phase of the Plan the Social **Welfare** Commission has selected a total of 20 regions to be funded to establish and operate Regional Councils for Social Development in New South Wales, Victoria, Queensland and Western Australia.
 
 * Of these, 4 will receive in addition block grants paid on a basis of $2 per capita for the support of **welfare** programs proposed by the Regional Councils.
 
@@ -8622,6 +9819,10 @@ I now leave you in the faith that Divine Providence will always guide your delib
 
 * I agree with the honourable member for Capricornia  (Dr Everingham)  who recognised and who stated in this House, albeit indirectly, that many people who were interfering in the Aboriginal negotiations had no basic interest whatsoever in the **welfare** of the Aboriginal people and were involved in this matter simply to further their own particular cause.
 
+* The State Social **Welfare** Minister,  Mr Dixon,  telegramed two Federal Ministers warning of the possibility of family breakdown if the benefits were not paid.
+
+* The State's Minister for Social **Welfare**,  Mr Dixon,  said: It's stupid to use unemployment benefits as a possible lever in an industrial dispute and such a move would be ill-advised and ill-considered.'
+
 * This afternoon we have heard Opposition speakers very clearly illustrate that the Government cannot continue to pass the buck in regard to responsibility for Aboriginal **welfare**.
 
 * I believe that he had a genuine interest in the **welfare** of these people and certainly a genuine interest in the social work that  Mrs Wilding  was carrying out.
@@ -8630,9 +9831,9 @@ I now leave you in the faith that Divine Providence will always guide your delib
 
 * The Minister who at present administers the Department must bear a heavy responsibility for the failure to see the problems not only in this field but also in other areas of Aboriginal **welfare** in Queensland which are developing so quickly that it is almost too late to overcome them.
 
-* Aged or Disabled Persons' Welfare Program which provides assistance to 
-Welfare Rights (Pilot Program) 
-Grants to National Welfare Organisations (0 Financial Assistance for Community Welfare Agencies 
+* Aged or Disabled Persons' **Welfare** Program which provides assistance to 
+**Welfare** Rights (Pilot Program) 
+Grants to National **Welfare** Organisations (0 Financial Assistance for Community **Welfare** Agencies 
 To assist State and Local Government bodies to provide supportive **welfare** services which will enable aged persons to continue to reside in their own homes.
 
 * To make grants to eligible organisations providing **welfare** advice and information to minority groups.
@@ -8660,13 +9861,17 @@ To assist State and Local Government bodies to provide supportive **welfare** se
 
 * already engaged in migrant **welfare** or prepared to undertake this work; 
 unable to extend otherwise its **welfare** service because of existing financial limitations; 
-The AAP was proposed by the Social Welfare Commission as a Discussion Paper 'pilot' program, funds for which were included in Appropriation Bills No.
+The AAP was proposed by the Social **Welfare** Commission as a Discussion Paper 'pilot' program, funds for which were included in Appropriation Bills No.
+
+* (a) The Aged Persons **Welfare** Program is widely publicised by way of information booklets, brochures, various other governmental publications and promotional drives by Departmental officers, backed in some cases with publicity films.
+
+* I tabled in the Parliament the Social **Welfare** Commission's Discussion Paper No.
 
 * Regular consultation has been maintained between the migrant **welfare** staff of the State Offices and voluntary agencies active in providing a **welfare** service to the migrant community.
 
 * Migrant **welfare** staff in the normal course of liaison work with ethnic groups have made known the provisions of the scheme.
 
-* (a) Applications lodged under the Aged for Disabled Persons Welfare Program are as follows: 
+* (a) Applications lodged under the Aged for Disabled Persons **Welfare** Program are as follows: 
 
  Mrs M. Nott who is suitably qualified, conducted the research into community **welfare** needs in isolated parts of the Jericho Shire.
 
@@ -8714,6 +9919,10 @@ The betterment of Australia's social **welfare** system remains a major objectiv
 
 * Its achievements in social **welfare** services and benefits to date, in really such a short time, are so significant and are such an advance on what has gone before that the public confidence and respect in identifying the Labor Party in this way is clearly well placed.
 
+* The Prime Minister  (Mr Malcolm Fraser)  has indicated that he is prepared to engage in discussions between the returned soldiers and the Regular Defence Forces **Welfare** Association on aspects of these matters as the Government's decision is studied.
+
+* Pursuant to the provisions of the Services Trust Funds Act 1947-1950 I present the annual reports of the Australian Military Forces Relief Trust Fund, the Royal Australian Navy Relief Trust Fund and the Royal Australian Air Force **Welfare** Trust Fund for the year ended 30 June 1973, together with the reports of the Auditor-General on the books and accounts of the funds.
+
 * Benevolent trusts, **welfare** organisations, parent bodies and other groups will be involved.
 
 * In their minds there will never be a time for **welfare**.
@@ -8742,9 +9951,16 @@ The betterment of Australia's social **welfare** system remains a major objectiv
 
 * Instead of increasing broadly across the range of **welfare** benefits, we have to develop specific programs to meet those needs.
 
+* the Attorney-General, the Director of Counselling and **Welfare** or their officers; and 
+proceedings before the Full Court under the provisions of section 94.
+
+* ( 1 ) Where a party to a matter before a Family Court or a court discharging the functions of a Family Court so requests, the Director of Counselling and **Welfare** shall assign an adviser to him.
+
 * The betterment of Australia's social **welfare** system remains a major objective of my Government.
 
-* Will the National Commission on Social Welfare wait until the National Compensation Inquiry and other **welfare** inquiries have been completed, so that it does not examine areas that specialist committees are investigating.
+* The Social **Welfare** Commission will develop the Australian Assistance Plan.
+
+* Will the National Commission on Social **Welfare** wait until the National Compensation Inquiry and other **welfare** inquiries have been completed, so that it does not examine areas that specialist committees are investigating.
 
 * It is the **welfare** problem.
 
@@ -8753,6 +9969,10 @@ The betterment of Australia's social **welfare** system remains a major objectiv
 * Certainly, when the Opposition was in Government it never faced up to the problem of rural poverty and rural **welfare** payments in this situation.
 
 * They did nothing at all about rural poverty or **welfare** payments to the rural sector when the situation became crucial.
+
+* Social **Welfare** Commission (Repeal) Act, 1976 s. 8 
+Child **Welfare** Ordinance, 1957 s. 14(2) (c), 14(3) 
+-Melbourne is the third largest Greek speaking city in the world.
 
 * In the third largest Greek speaking city in the world there is a migrant service **welfare** section eroding away in the Department of Social Security.
 
@@ -8776,6 +9996,8 @@ The betterment of Australia's social **welfare** system remains a major objectiv
 
 * This is apart from concern about the amounts of money which have been set aside for social **welfare**.
 
+* What steps has the Government taken to develop a program to implement the recommendations of the Senate Standing Committee on Social **Welfare** in its report 'Drug Problems in Australia-an intoxicated Society'.
+
 * In real terms, spending on Aboriginal housing has fallen by 28.5 per cent since the last Labor Budget; on Aboriginal health by 28.7 per cent; on Aboriginal education by the Department of Aboriginal Affairs by 20.3 per cent; on Aboriginal employment programs by 5.9 per cent; on Aboriginal **welfare** by 4.9 per cent; on Aboriginal enterprises- that is, selfmanagement by 70.5 per cent; on town management and public utilities by 50.5 per cent; on cultural and recreational funding by 33.8 per cent; and on legal aid by 15.8 per cent.
 
 * He has placed mining ahead of Aboriginal **welfare** and well-being.
@@ -8798,9 +10020,14 @@ The betterment of Australia's social **welfare** system remains a major objectiv
 
 * We are worried about the **welfare** of the people of the Territory.
 
+* This is one of a number of matters at present being considered by a Committee of Inquiry into Aged Persons Housing, set up by the Social **Welfare** Commission.
+
 * Since 1 have had the honour of being a Minister I have always appreciated their dedication to the **welfare** of ex-servicemen.
 
 * There are also pockets of depression within our rural industries and, I suppose, not only within our apple industries, where one must suggest that some sort of a **welfare** payment be considered.
+
+* Social **Welfare** Commission (xiii) 
+The Social **Welfare** Commission was abolished in 1976.
 
 * If you were to say to these people who find a burden the amount that they are now paying in rates out of their weekly wage that they should in turn provide themselves with their own social **welfare** programs it would seem very incongruous.
 
@@ -8832,6 +10059,8 @@ The betterment of Australia's social **welfare** system remains a major objectiv
 
 * By promising that health, education, **welfare** and urban programs would not be curtailed in the present financial year the Government was able to disguise its intentions for subsequent years.
 
+* 1 ) What is the current establishment of the Social **Welfare** Commission.
+
 * These areas are in government expenditure, wages and salaries, and social security and social **welfare**.
 
 * His  last Minister for Social Security conducted an attack on voluntary **welfare** agencies and took away the basic support which they need to do work which is invaluable in the social security and **welfare** areas.
@@ -8846,9 +10075,19 @@ The betterment of Australia's social **welfare** system remains a major objectiv
 
 * The arguments relating to the environment and the **welfare** of the Aboriginal people are tremendously compelling.
 
+* There was a demurrer from the Priorities Review Committee and one from the Social **Welfare** Commission.
+
+* If the honourable gentleman wishes to quote from the speech of the Prime Minister  (Mr Whitlam),  let us go on from the part where he refers to the Social **Welfare** Commission and the Priorities Review staff.
+
+* The report which the Prime Minister had long before I did, and which I call the Coleman report or the Social **Welfare** Commission report, refers to the need to spend $130m.
+
+* The Social **Welfare** Commission report speaks about the areas where it considers priority would be given.
+
 * Later I shall outline the multitudinous problems that a society such as ours creates when its elderly citizens, both superannuitants and pensioners, after a lifetime of contributing to the **welfare** and prosperity of Australia, are given a small1 pittance to eke out a subsistence living and are then forgotten.
 
 * lt is a measure of the Government's inability to get to grips wtih the problems of aged people that we now see another few small attempts to patch up the present creaking social **welfare** legislation.
+
+* We also talked with council officers, school teachers, local graziers, business people, police, a doctor, a Child **Welfare** officer, ministers of religion and publicans.
 
 * Figures we were able to collect were as follows, and these are only estimates, as no accurate figures appear to be available: 
 The honourable member referred to the 87.75 per cent increase in social **welfare** funding in the 
@@ -8862,11 +10101,25 @@ The humanitarian arm of the nation's migration policy has only latterly been str
 
 * The Prime Minister  (Mr McMahon)  has made clear a number of times that in his recommendat.ons in the field of social **welfare** he was determined to beat the levels which Professor Henderson has described as th: poverty line.
 
+* Reading the publications of the Australian Government Social **Welfare** 
+I have always advocated very strongly the decentralisation of the activities of both Commissions.
+
 * I resent very much the accusations that are often thrown by the Opposition at members of my party, in particular that we lack appreciation of the needs and **welfare** of the working people in country electorates.
+
+* I have available a quotation which I have not used to political advantage but which I am prepared to use- 
+We understand that the Department of Social **Welfare** refuses to accept that the husband's liability has been established and has asked  Mrs X  to obtain independent evidence.
 
 * Private investment is essential for the **welfare** of the economy and the maintenance of full employment.
 
 * Australia's history is characterised not by examples of people seeking more and more dependence on government but by people with the courage, the ambition and the common sense to improve their lot, and in so doing play their role in contributing to the national resource- the fund from which general standards in health, education, **welfare** and other avenues can be improved.
+
+* There are others that might have been, such as the Social **Welfare** Commission.
+
+* The Social **Welfare** Commission went very wrong.
+
+* Those who reflect on the history of the Social **Welfare** Commission will be able to see how, if I am right as to the structure that these bodies ought to have, the Social **Welfare** Commission was wrong as it was put forward originally.
+
+* 1 149 on the Task Force on Co-ordination in **Welfare** and Health  (Hansard,  12 October 1976, pages 1784-5).
 
 * She receives child **welfare** assistance but no medical subsidies, which are so essential for any person with young children.
 
@@ -8892,9 +10145,28 @@ The humanitarian arm of the nation's migration policy has only latterly been str
 
 * But the Warringah Shire Council was able to attract from the Commonwealth Government a part subsidy towards the salary of a **welfare** officer.
 
+* Firstly,  1  should like to thank the Minister for the Interior  (Mr Nixon), Mr Giese  and the officers of the **Welfare** Branch in all the places that we visited for their co-operation in making a fairly short visit to the Northern Territory as informative and educational as possible.
+
 * I intend to devote the rest of my time tonight to speaking about the situation at Wattie Creek near the Wave Hill **welfare** settlement where a group of Aboriginals have been living for several years.
 
 * In August  1966  there was a strike, for award wages, on many pastoral stations in the Northern Territory and at that time a group of Aboriginal people - most of them were Gurindjis - went to camp near the Wave Hill **welfare** settlement and later to their present site at Wattie Creek.
+
+* The annual report of the **Welfare** Branch of the Northern Territory for  1968-69  makes this comment: 
+Although the **Welfare** Branch ascribes motives with which I do not agree, it agrees that the Aboriginals at Wattie Creek have a strong attachment to the land in that area.
+
+* One of the problems throughout all of these situations is that the **Welfare** Branch of the Northern Territory Administration, the State Department of Aboriginal Affairs, or whoever the administration might be, always knows best.
+
+* But it is not without its disadvantages as well and I will quote from the report of the **Welfare** Branch for 1967-68 in which it said about Wave Hill: 
+Wave Hill **Welfare** Centre is situated 280 miles south west of Katherine, near the Wave Hill Police Station.
+
+* I believe the reason that they choose to live at Wattie Creek is that they desire to be independent from the cattle properties, particularly Vestey's, and the **Welfare** Branch for part of the year.
+
+* I again turn back to reports of the **Welfare** Branch in recent years.
+
+* In 1967-68 it had this to say: 
+That is the **Welfare** Branch - for assistance in recruiting Aboriginal labour.
+
+* Again in the following year in the **Welfare** Branch report we find the comment that the labour demand was strong.
 
 * The report stated: 
 Is he able to say whether similar surveys are carried out in other advanced countries; if so, do these surveys form the basis of **welfare** policies in those countries.
@@ -8917,11 +10189,15 @@ Is he able to say whether similar surveys are carried out in other advanced coun
 
 * But there have been increases in essential community service areas such as servicing and caretaking of government dwellings, recreational, cultural and community services, fire brigade and bus services, maintenance of parks and gardens, lighting and cleaning, police and- of very great importance- social **welfare**.
 
+* In fact, the Seaman Committee of the Social **Welfare** Commission estimated that the cost of building an aged persons home in Rockhampton- my friend from Kennedy  (Mr Katter)  might support me in this- is 40 per cent higher than the cost of building an aged persons home in Brisbane.
+
 * The American Samoan delegate commented that delegates 'must consider the **welfare** .
 
 * Inflation menaces the **welfare** of every Australian citizen.
 
 * In concluding my remarks on the rural section I point out that the essential difference between the Government's policy and the Opposition's policy is that the Government endeavours to implement the policy of the primary producers expressed through their elected representatives, while the Opposition in a blatant vote catching exercise supports generally the dissentient minority without regard to the **welfare** of the industry and those engaged in it.
+
+* **Welfare** politics in Australia today is currently dominated by powerful lobby groups representing the interests of the aged, the invalid and the veteran.
 
 * In 1 974, the  President  of the Conciliation and Arbitration Commission made it quite clear that the Commission does not see itself as a social **welfare** agency.
 
@@ -8932,6 +10208,8 @@ Is he able to say whether similar surveys are carried out in other advanced coun
 * Whilst the decrease in unemployment figures since the election of the Labor Government indicates an improvement in the economic **welfare** of the country, does the Minister have any figures indicating whether the reduction in the unemployment figures is the total measure of the buoyancy of the economy and the benefits that flow to those seeking work?
 
 * His  creed was based on two fundamental principles: The Catholic Church tended one's spiritual **welfare**; the Australian Labor Party protected one's temporal **welfare**.
+
+* Did the Senate Standing Committee on Health and **Welfare** submit its.
 
 * This raises the very vexed question of the extension of **welfare** provisions to the island and the concomitant extension of taxation laws.
 
@@ -8963,7 +10241,7 @@ Is he able to say whether similar surveys are carried out in other advanced coun
 
 * These are vital questions that should be considered by the Committee and for that reason, among many others, including the **welfare** of the people, I consider this as a vital matter.
 
-* Welfare must be taken into consideration - the **welfare** of the people of the north and of our original Australians, the Aborigines, who have a special claim for attention and consideration by the Committee.
+* **Welfare** must be taken into consideration - the **welfare** of the people of the north and of our original Australians, the Aborigines, who have a special claim for attention and consideration by the Committee.
 
 * He saw both as obsolete obstructions to his vision for an Australia united for the **welfare** of all Australians wherever they may live or wherever they were bom.
 
@@ -8987,7 +10265,19 @@ Is he able to say whether similar surveys are carried out in other advanced coun
 
 * The point I want to make is that we have a confused debate about the quantum of resources being spent on **welfare**.
 
+* What were the names and portfolios of the Ministers who attended the Conference of Child **Welfare** Ministers in Hobart on 18th March 1971?
+
+* Indeed, we seek to have more government information centres, such as the Northwest One-stop **Welfare** Centre which is covered in the estimates for the Department of the Prime Minister and Cabinet made available in country areas.
+
+* Perhaps he could be invited to open the new Community **Welfare** Centre, one suggested.
+
 * I turn now,  Mr Speaker,  to some account of the restoration and problems associated with matters such as communications, accommodation, transport, health, Aboriginal **welfare**, port facilities, works and services, education, business, social **welfare** services and sports and entertainment.
+
+* That there is a crisis in Aboriginal **Welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
+
+* In answer to an interjection of mine he said that he received his information from the Government members Health and **Welfare** Committee.
+
+* I suggest to the honourable gentleman that the Health and **Welfare** Committee does not know what the Government is going to do.
 
 * We have provided subsidies for **welfare** workers.
 
@@ -9010,6 +10300,8 @@ Is he able to say whether similar surveys are carried out in other advanced coun
 * The total expenditure on age pensions is estimated to rise to $3, 530m, almost 40 per cent of the total **welfare** budget.
 
 * Most of us believed that economic circumstances were such that it would not be possible for the Government to go ahead with the development of these social **welfare** policies.
+
+* For the information of honourable members I present the first report of the Interim Committee of the Social **Welfare** Commission covering the period 3 April to 30 June 1973.
 
 * I have sought to highlight that the **welfare** of Australia as a whole and Australia's capacity to care for the social and **welfare** needs of her people increasingly will depend on the economic prosperity of northern Australia.
 
@@ -9059,7 +10351,11 @@ Is he able to say whether similar surveys are carried out in other advanced coun
 
 * But speaking generally, I hope that the extension of the emergency interpreter services, telephone services, the appointment of the 48 multi-lingual **welfare** officers who will shortly be in the field, and steps like these will put the shysters out of business and give the newcomers a better deal.
 
-* Her  appointment is for a period of two years to establish whether there is a need for a body such as a National Council for Social Welfare Education in Australia to co-ordinate **welfare** education.
+* The Minister for Social Security has informed me that  Ms Learner  was appointed on 27 May 1975 as a consultant to the Social **Welfare** Commission.
+
+* Her  appointment is for a period of two years to establish whether there is a need for a body such as a National Council for Social **Welfare** Education in Australia to co-ordinate **welfare** education.
+
+* We know that the Task Force on Co-ordination in **Welfare** and Health Services specifically recommended in its first report that if devolution of Commonwealth programs to the States was to be successful the basic arrangements as to capital and operating expenditures should be outlined clearly in an agreement.
 
 * Is it because honourable members opposite care one jot about the **welfare** of the District Commissioner in Rabaul?
 
@@ -9084,6 +10380,9 @@ Is he able to say whether similar surveys are carried out in other advanced coun
 * The priorities which this Government has adopted insofar as the **welfare** of the community is concerned have been very poor indeed.
 
 * 6m for **welfare** housing in accordance with the provisions of the 1973-74 Housing Agreement.
+
+* It will be distributed among the States as follows: 
+**Welfare** housing is an area to which the Government attaches high priority.
 
 * They will also be some 2% times greater than the allocations for **welfare** housing from State loan funds in the last 2 years of the previous Government which were $16 1.5m in 1971-72 and $ 163.2m in 1972-73.
 
@@ -9163,11 +10462,15 @@ Is he able to say whether similar surveys are carried out in other advanced coun
 
 * It demands that unless we become greater producers of other natural assets we as a Government and as a people will have to transfer financial resources from some of our priority areas- these could well be in the **welfare** sectors- towards greater costs of the basic fuel research and development of and providing for alternatives.
 
+* When will the House debate the recommendations of the Senate Standing Committee on Health and **Welfare** in respect of mentally and physically handicapped persons.
+
 * While the imposition of any excises or any indirect taxes is a distasteful action for any government to take, the fact of the matter is that additional amounts cannot be spent on education, **welfare** and in other areas without making an additional collection to see that there is not any more net amount of money moving into the economy to aggravate the inflationary situation and by that factor in fact very much diminishing the value of money going into the pockets of working people throughout the length and breadth of Australia.
 
 * We could not chop back expenditure on education, social **welfare** and all those other things.
 
 * When we look at the massive additional expenditure on health, social **welfare**, housing and all these other things, I think that for the man in the street the increased fuel charges, which probably could be absorbed by the petrol companies anyway, and the increase on spirits and cigarettes is only a very small price to pay for the additional services given to him through health services, to his children through better education and all the other facets of Government expenditure in the way that they affect people.
+
+* 1 ) Has a decision been made on assistance for the construction of a pre-school centre at Jerramungup, Western Australia, submitted by the Gnowangerup Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department.
 
 * I cannot accept, for instance, that pensioners or people dependent on **welfare** services should be those who should bear an unreasonable burden in the economic management of this country.
 
@@ -9235,11 +10538,18 @@ Is he able to say whether similar surveys are carried out in other advanced coun
 
 * The **welfare** officer said: 'You will probably get a bit more work later on'.
 
+* But the thing that concerns me is that there can be a conference of officials of the State Department of Aboriginal **Welfare** in my area and 1 will know nothing about it.
+
 * Before we look at what assistance they need and what the Opposition is now saying about them, let us look at some of the hopes to which honourable members opposite have referred that the Government has raised and consider whether it is a legitimate exercise to raise the hopes of people in Australia and to attract a greater community participation in government enterprises, in government initiatives and in being able to see that government moneys are spent in **welfare** areas.
 
 * Let us look at other social **welfare** programs, such as the programs for single mothers, deserted wives, women's shelters, women's clinics, nursing homes and so on.
 
 * Of course, it is relevant to what the Opposition is saying about Government expenditure in the fields of social **welfare** and education to bear in mind what the Australian Country Party, with the support of the Liberal Party of Australia, is saying about primary industry.
+
+* I welcome this Commission, as I welcomed the Social **Welfare** Commission, because it brings the operations of government out into the open but, as the honourable member for Hotham has pointed out, we do have some reservation about the way in which this particular Bill is going to achieve these ends.
+
+* In the Social **Welfare** Bill passed by this House a little time ago, section 16, referring to the Social **Welfare** Commission, provides: 
+The knowledge needed to make possible the better achievement of Australia's goals is largely controlled by foreign companies that claim the right to exploit that knowledge in Australia as they see fit.
 
 * Australia should strive to develop its own scientific and technical knowledge to enable it to maintain its defence and **welfare** standards.
 
@@ -9285,7 +10595,7 @@ Is he able to say whether similar surveys are carried out in other advanced coun
 
 * An Australian Assistance Plan will be set up to develop and co-ordinate **welfare** services provided by government and private agencies.
 
-* A National Commission on Social Welfare will be set up to advise the Government on all aspects of social **welfare**, integrate national programs and to evaluate the success of programs.
+* A National Commission on Social **Welfare** will be set up to advise the Government on all aspects of social **welfare**, integrate national programs and to evaluate the success of programs.
 
 * They will insist, however, that the over-riding consideration must be the **welfare** of the patient and are determined that the mandate given to them will be carried out.
 
@@ -9299,6 +10609,8 @@ Is he able to say whether similar surveys are carried out in other advanced coun
 
 * But as soon as this Government came in it decided that of that $18m, $1 1.1m in the 1975-76 Budget was too much for the general **welfare** of the community of Australia.
 
+* In July of that year he had established the Task Force on Coordination in **Welfare** and Health.
+
 * It will create chaos in the industry in the name of social **welfare** because it was in the name of social **welfare** - or so-called social **welfare** - that the Government changed these dairying industry policies.
 
 * What we can see, in any case, is that neocapitalism, with its pretensions to have found the answer to Marx, was the expression of a temporary situation, borne along not by its own dynamic but by the upwards wave of the economic cycle; but the vision of a society dedicated to **welfare**, not to power and profit- the only vision that makes sense in today 's circumstances- still eludes us, and will do so until another crisis, even more crippling than the crisis that is brewing today, brings home to the whole world the perils it faces.
@@ -9308,6 +10620,8 @@ Is he able to say whether similar surveys are carried out in other advanced coun
 * In regard to the social **welfare** and the social justice aspects of this Budget I refer to the great strides that are being made to overcome very important deficiencies in the educational and social **welfare** needs of our community.
 
 * That is why I say that this is a social **welfare** Budget.
+
+* The Treasurer  (Mr Crean)  has authorised me to make this announcement: A joint meeting of the Caucus Economic and Trade Committee and the **Welfare** Committee, of which I am the Secretary, was held today with the concurrence of the Treasurer and with his agreement has recommended to Cabinet variations in the proposed legislation which would ensure that retired people and sick and infirm people earning a moderate income from property will not suffer any hardship whatsoever.
 
 * The 3 Bills before the House tonight are all concerned with the **welfare** of the aged.
 
@@ -9384,6 +10698,10 @@ I agree that the increasing of the share of the salary subsidy for **welfare** o
 
 * Care.fully reading through the last one one gathers that the Liberals if they were in government would wipe the Department of Urban and Regional Development, restore a few subsidies and throw aU **welfare** programs into reverse or hold except in those areas where there might be a few votes.
 
+* First of all, an officer of the **Welfare** Department of the NT Administration is responsible to decide whether liquor shall or shall not come onto an Aboriginal reserve.
+
+* His name is Cyril Cecil  Allom,  a Regional **Welfare** Officer with the NT Administration.
+
 * It disclosed a disgraceful situation where the **welfare** officer gave no evidence to assist the court, where the applicant had no concern whatsoever for the Aborigines - he merely wanted a hotel licence to do what a storekeeper did on the other side of Arnhem Land - where there was talk about the accommodation of visitors whereas the mine discourages visitors and where every point of view was taken into account except the interests of the Aborigines.
 
 * But judging from the non-specific nature of the proposals for action and worse the indication that even more dependence will be placed on 'non-government migrant resource centres' any migrant with any insight can only conclude that little or nothing will be done for 20 per cent of the population suffering disadvantages through barriers of language, in areas or health, **welfare**, education and job opportunities, just to name a few.
@@ -9442,6 +10760,8 @@ I agree that the increasing of the share of the salary subsidy for **welfare** o
 
 * We shall certainly follow up the work that has already been done by the CSIRO and by the Government Analyst in another part of the Department of Science in ensuring that the health and **welfare** of the people of Tasmania are fully safeguarded.
 
+* Both Parts have been referred to the recently established Social **Welfare** Policy Secretariat for advice; aspects of the Report are also under consideration by my Department.
+
 * I respect him for his interest in social **welfare**.
 
 * More importantly they can become citizens who are happy in themselves and who contribute to the common good and **welfare** of society.
@@ -9464,6 +10784,10 @@ I agree that the increasing of the share of the salary subsidy for **welfare** o
 
 * The only social **welfare** programme administered, by my Department that has not yet become operative in ail States is that authorised by the States Grants (Home Care) Act 1969.
 
+* The legislation, which was assented to on 14th June 1969 grants financial assistance to the States for the provision of Home Care Services, Senior Citizens' Centres and the employment of **Welfare** Officers by Senior Citizens' Centres.
+
+* The amount available for Senior Citizens' Centres and **Welfare** officers' salaries is subject to annual appropriation.
+
 * Land prices will go on soaring and social **welfare** and security programs like Medibank are under threat.
 
 * Unemployment does not matter; social **welfare** does not matter; depressed and needy industries do not matter.
@@ -9474,11 +10798,17 @@ I agree that the increasing of the share of the salary subsidy for **welfare** o
 
 * Some of these are employed in the provision of direct casework service to the public whilst others are involved in national **welfare** policy and program matters.
 
+* Social **Welfare** Workers employed by the Department of the Capital Territory are involved in the following functions: General family casework; adoption, preventive and remedial work with juveniles, including services to the Children's Court and supervision of probationers; adult probation and parole services; foster care; child care; and institutional services.
+
+* Questions relating to the functions of Social **Welfare** Workers employed by other Government Departments in the A.C.T.
+
 * I cannot find too much evidence of the Government's good intentions and we may well ask this question: Is it good intentions which prompted the Government's decision to tax social **welfare** beneficiaries such as accident victims who are being rehabilitated?
 
 * Finally, we have also been determined -  they showed great courage-  to find room for measures having merit on broader grounds of social **welfare** and equity.
 
 * That there is a crisis in Aboriginal **welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
+
+* I note that a former Minister for Social **Welfare** has returned to the chamber in the backbenches of the Government.
 
 * Another aspect I wish to raise is the overall achievement in the field of social security and **welfare** by the Labor Government.
 
@@ -9494,7 +10824,14 @@ I agree that the increasing of the share of the salary subsidy for **welfare** o
 
 * Special migrant **welfare** services have been reduced by 12 per cent in real terms.
 
-* What was the intended role of the Social Welfare Commission as at 2 December 1972. 
+* The present Prime Minister promised: 
+and (4) An Interdepartmental Committee was established by the previous Government to examine the recommendations of the Senate Standing Committee on Health and **Welfare** in its report on Mentally and Physically Handicapped Persons in Australia.
+
+* The Interdepartmental Committee did not complete its examination and report on the 'Survey of Handicapped Children' and therefore it was never presented to the Senate Standing Committee on Health and **Welfare**.
+
+* The report of the separate survey of Invalid Pensioners aged 16 to 20 years m New South Wales and Victoria headed ('Handicapped Children in Australia') was submitted to the Senate Standing Committee on Health and **Welfare** and was incorporated in its Hansard of 1 970-7 1 .
+
+* What was the intended role of the Social **Welfare** Commission as at 2 December 1972. 
 to examine the awareness of specific learning difficulties among the community generally and among the medical, health, teaching and social **welfare** professions in particular; 
 Are there any adjectives left in the dictionary?
 
@@ -9528,7 +10865,9 @@ Are there any adjectives left in the dictionary?
 
 * For these and other reasons the proposed publication has been listed, amongst others of a developmental nature, for consideration as part of a long-term **welfare** services directory program.
 
-* In the short-term a factor which inhibits any immediate prodduction of such a directory is that the manner of provision of **welfare** and health services by the Commonwealth Government is currently the subject of a major review following the report by the Task Force on Co-ordination in Welfare and Health.
+* In the short-term a factor which inhibits any immediate prodduction of such a directory is that the manner of provision of **welfare** and health services by the Commonwealth Government is currently the subject of a major review following the report by the Task Force on Co-ordination in **Welfare** and Health.
+
+* That there is a crisis in Aboriginal **Welfare** in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
 
 * The Budget provides for an increase of $340m in social **welfare** benefits but it is not in fact a social **welfare** Budget because its specific benefits will be largely offset by the effects of inflation.
 
@@ -9547,6 +10886,8 @@ Are there any adjectives left in the dictionary?
 * What ought to be a measure of social **welfare** has become a commercial procedure dictated by calculations of profit and loss.
 
 * Where society should be primarily concerned with the **welfare** of the accident victim and his family it is more concerned with legal concepts of evidence, negligence and fault.
+
+* Treasury, the Social **Welfare** Commission and the Departments of Prime Minister and Cabinet and Repatriation and Compensation.
 
 * The Labor Party gave the primary producer the opportunity to live as he should - as a human being with a good return for his products, a fair return to the worker, and in every way take his place in society not as a debtor but as a proud man adding his contribution to the **welfare** of this country.
 
@@ -9590,6 +10931,10 @@ Our problems are not just those which can be titled in economic terms, the probl
 * 000m per year in hidden costs, as the Minister said in his announcement, because they cannot be readily dissected from total community spending on facilities such as education, social **welfare**, provision of water, sewerage, roads, hospitals, etc.
 
 * One need hardly add the present deficiencies that exist in the field of education, social **welfare** and health, coupled with the spiralling cost of land and housing - and we have just had an example of how little is being done for people such as pensioners - to know that a continually increasing population has created a gap for many millions of Australians between the myth of the affluent society and the reality of the deficiencies they are facing in almost: every facet of their day to day existence.
+
+* Under an arrangement between the Department of Social Services and the **Welfare** Branch of the Department of the Interior, the **Welfare** Branch will make, in cases of need, immediate cash payments to applicants for social service pen sions or benefits.
+
+* The **Welfare** Branch is subsequently re-imbursed from arrears  of  benefit  or  pension, subject to the  applicant's  authority being obtained.
 
 * As Ministers of his Government, especially the Minister for External Affairs, have been enunciating passionate concern for the **welfare** and rights of people in other countries, will he extend this with some consistency by now publicly condemning and denouncing the treatment of these political prisoners in Greece?
 
@@ -9658,6 +11003,8 @@ Our problems are not just those which can be titled in economic terms, the probl
 * To our discredit we also have not introduced any measure to overcome this most unjust provision in our social security legislation that self-employed people are automatically deprived by regulation of any form of assistance through the **welfare** system and, in particular, unemployment benefits.
 
 * What I would like to see the Government moving towards is a resource tax raising $ 150m; to eliminate the crude oil levy windfall gain to the oil development companies of $340m; to impose a capital gains tax on gains in excess of $200,000, raising $300m; to adjust the highest levels of personal income tax to raise $200m; to abolish the investment allowance, $400m; to abolish tax avoidance through family trusts, $100m-$l,490,000 as against the imposition of the direct increases in personal tax and denying pensioners and employment beneficiaries and other social **welfare** beneficiaries of benefits amounting to about $l,140m.
+
+* This provision enables Commonwealth medical benefits payments under the Health Insurance Act 1973 to be paid out of the National **Welfare** Fund, as are similar type commonwealth benefits, such as pharmaceutical benefits, and covers unforeseen circumstances such as large-scale epidemics.
 
 * First, the great bulk of students are committed to high academic achievement which will enable them to make long term contributions both to Australia's and their own **welfare**.
 
@@ -9729,9 +11076,13 @@ Our problems are not just those which can be titled in economic terms, the probl
 
 * The Government is reducing the public sector so that the people no longer will be able to obtain a reasonable 'social wage' in the form of public transport systems, urban renewal, regional development, housing, education, health, and **welfare** assistance for the disadvantaged and the unemployed.
 
-* He worked most vigorously with the Defence Forces Retirement Welfare Association on all matters and became its consultant on amendments and suggestions to the Government on how the Act should best be altered for the **welfare** of the Services.
+* He worked most vigorously with the Defence Forces Retirement **Welfare** Association on all matters and became its consultant on amendments and suggestions to the Government on how the Act should best be altered for the **welfare** of the Services.
+
+* I have here a circular from the Regular Defence Forces **Welfare** Association.
 
 * It has the housing problems and social **welfare** problems that unfortunately often attend those communities.
+
+* Commission on Social **Welfare** headed by that distinguished social worker,  Mrs Marie  Coleman.
 
 * Will he indicate, by reversing this decision, that the **welfare** of all the people of Tasmania is far more important than the profitable trading of the ANL?
 
@@ -9745,7 +11096,13 @@ Our problems are not just those which can be titled in economic terms, the probl
 
 * I am delighted that it is recognised that voluntary **welfare** agencies are a critically important part of the **welfare** system.
 
+* He made what I called an excellent statement to this House on 30 August when he tabled the report of the Interim Commission on Social **Welfare** together with the Australian Assistance Plan.
+
 * This Bill is to establish a social **welfare** commission.
+
+* The Social **Welfare** Commission is working, people are being paid salaries, letterheads are printed and letters are being written for an institution which purports to be a statutory corporation when the Parliament has not yet authorised its establishment.
+
+* The Interim Committee of the National Social **Welfare** Commission was appointed on 3 April 1973.
 
 * Since that time a specific number of matters has been referred to it by the Minister, including the Australian Assistance Plan, the Aged Persons Homes Act, the home care program, the Senate Standing Committee's report on mentally and physically handicapped persons in Australia, emergency relief and multi-purpose **welfare** centres.
 
@@ -9762,7 +11119,13 @@ Nor do we want to see a situation in which **welfare** agencies proliferate and 
 
 * The exceptions are: the development and implementation of policies for the advancement and **welfare** including education of the Aboriginal people in the Territory; land surveys; acquisition, leasing and management of land and property on behalf of the Australian Government and administrative servicing of the Northern Territory Police Force.
 
+* It struck me as an anomaly, as I was listening to the Minister talking about the expansion of the Budget and the Social **Welfare** Policy Secretariat, that we have an increase in the Budget of 33 per cent.
+
+* That is a 33 per cent increase in the budget of the Social **Welfare** Policy Secretariat.
+
 * The Minister then went on to talk about allocations to national social **welfare** co-ordinating organisations such as the Australian Council of Social Service, the Australian Council for Rehabilitation of Disabled and the Australian Council on the Ageing.
+
+* Yet the amount of money going to the Social **Welfare** Policy Secretariat, a part of the Government's bureaucracy, has been increased by 33 per cent at the same time.
 
 * I commend the changes, as far as they go, that have been announced tonight as far as the social **welfare** policies are concerned.
 
@@ -9825,6 +11188,8 @@ Honourable members, I put it to you that this coalition Government sitting here 
 
 * I have been approached by the Federal Council of Polish Associations in Australia, supported by the Polish branch of the RAAF Association, the RSL Polish Branch, the Polish Club Ltd, the ExServicemen's Association of the Polish Home Army, the Polish Association in New South Wales and the Polish Educational Society in New South Wales about the **welfare** problems facing the Polish community in Australia.
 
+* They want a detailed survey of their needs; the establishment of a Polish-oriented psychiatric unit; the urgent appointment of an interpreter to the New South Wales Health Commission as an interim measure until the establishment of the psychiatric unit; the appointment of a full time Polish speaking social worker under the GIA scheme and funding for the Polish **Welfare** and Information Bureau in New South Wales.
+
 * Because they were independent people, they generally looked after their own **welfare** problems.
 
 * But, at the same time as they are looking at the problems of the Polish people within Australia, they might as well look at the **welfare** problems of the whole of the ethnic communities because most ethnic communities here face problems similar to those faced by the Polish community.
@@ -9835,9 +11200,19 @@ Honourable members, I put it to you that this coalition Government sitting here 
 
 * It has flowed from four fundamental considerations: the need to reduce the risk of nuclear proliferation; the need to supply essential sources of energy to an energy deficient world; the need to protect effectively the environment in which mining development will take place; the need to ensure that proper provision is made for the **welfare** and interests of the Aboriginal people in the Alligator Rivers region and of all other prople living in the region and working on the development projects.
 
-* But, of course, there came the time when the Parliament of New South Wales in its wisdom implemented the report of the select committee and said that the Aborigines Welfare Board, should be dissolved and its functions taken over by the various departments of State that were charged with the care and responsibility and **welfare** of the rest of the community.
+* One of the basic recommendations was that the Aborigines **Welfare** Board should be abolished.
+
+* The inquiries and investigations of the committee indicated that the Aborigines **Welfare** Board in New South Wales had not fulfilled its function and had not done the job that it was hoped it would do.
+
+* It was coincidental that at about the time the report of this all party joint committee was presented to the Parliament the Aborigines **Welfare** Board embarked on some improvement projects - and I am speaking from only personal experience here-- at least in one quarter of New South Wales.
+
+* But, of course, there came the time when the Parliament of New South Wales in its wisdom implemented the report of the select committee and said that the Aborigines **Welfare** Board, should be dissolved and its functions taken over by the various departments of State that were charged with the care and responsibility and **welfare** of the rest of the community.
+
+* Therefore, in due course it was decided by the Government of New South Wales that the Aborigines **Welfare** Board would cease its operations and would be in fact dissolved.
 
 * I accepted the recommendation of the Board because this decision was made by the Parliament in good- faith in the belief that more would be done in the field of **welfare** and in the sphere of social advancement.
+
+* The whole burden of work in this quarter of the State has now been given to an officer of the Child **Welfare** and Social **Welfare** Department who has already been called upon to cover a tremendous area and to tackle very many complex problems.
 
 * It is our objective to increase our aid commitment as far as we can possibly do so, keeping in mind the fact that we have to run the Australian economy, deal with the numerous social **welfare** problems that we have in Australia, as well as pull our weight internationally and assist those countries, many of which are far worse off than ourselves.
 
@@ -9882,6 +11257,8 @@ Honourable members, I put it to you that this coalition Government sitting here 
 * Last year the Department of the Capital Territory was allocated $5.93m for **welfare** expenditure.
 
 * The Department of Social Security contributed $ 1.32m and the revenue from poker machine funds added close to $ 1 m. Total **welfare** funds for the Australian Capital Territory were therefore $8.25m.
+
+* He said that the Social **Welfare** Commission was set up without parliamentary approval.
 
 * The aim of the Australian Assistance Plan is to assist in the development, at a regional level within a nationally co-ordinated framework, of integrated patterns of **welfare** services, complementary to income support programs and the **welfare**-related aspects of health, education, housing, employment, migration and other social policies, having regard to the following matters: 
 That local residents and **welfare** consumer groups are encouraged to participate in the planning and provision of **welfare** services.
@@ -9950,6 +11327,8 @@ That local residents and **welfare** consumer groups are encouraged to participa
 
 * The whole sorry story, the whole historical cavalcade of events, makes a laughing stock of any sincerity which the Government claims about its concern for the **welfare** of our migrant community whose desires and interests have been denied.
 
+* I remind honourable members that when we talk of the United Council of Immigrants, the Council whose policy has been embraced today completely and unambiguously by the Australian Labor Party, we are speaking of the Central Council of Croatian Associations in Australia, the Italian **Welfare** Centre Co., the Netherlands Society of Sydney, the Association of Australian Slovaks, the Swiss Club of New South Wales, the Ukrainian Society of New South Wales, the Federal Council of Polish Associations, the Estonian Society in Sydney, the Hungarian Council of New South Wales, the Maltese Community Council of New South Wales, the Latvian community in Sydney, the Lithuanian community in Sydney and the Australian Romanian Association.
+
 * The announcement came as a shabby kind of repudiation of all the protestations by the Government, at the time of the introduction of the Budget in August of last year and in a debate only a couple of weeks before this measure was introduced, that no more money could be found for pensioners or for any form of social **welfare**.
 
 * That is the contribution that is made for pensioner **welfare** in the face of ever increasing costs in the community.
@@ -9986,9 +11365,19 @@ That local residents and **welfare** consumer groups are encouraged to participa
 
 * They are capable of selection, but in the areas of resource allocation and the setting of appropriate social and **welfare** priorities these budgetary policies have been remiss.
 
+* 3 on page 13 of the Budget Speech documents, under the heading 'Payment to National **Welfare** Fund', discloses a drop of $20,143,000 in the amount expected to be spent on child endowment during the current year - from an actual expenditure of $220,143,000 in 1969- 70 to an estimated $200m in 1970- 71.
+
+* What work is  Mr Harry  Giese, the former Assistant Administrator (**Welfare**), engaged in.
+
+* The other document concerns a statement from the Australian Greek **Welfare** Society.
+
+* It is signed by  Dr Spiro  Moraitis,  President,  and  Mr George  Papadopolous,  Chairman,  of the Australian Greek **Welfare** Society.
+
 * Although many millions of dollars are being spent on **welfare** housing, thousands and thousands of people on or below the poverty line do not receive the benefit of this money and aU the honourable members who spoke today well know it.
 
 * At the Premiers Conference last year the Prime Minister  (Mr Malcolm Fraser)  outlined the Government's concern for **welfare** housing and the broad guidelines that it intended to adopt to build a new agreement.
+
+* Pursuant to section 16 of the Social **Welfare** Commission Act 1973 1 present a report by the Social **Welfare** Commission entitled  Care of the Aged.
 
 * Of course there is a case for measures of assistance to primary producers, particularly on **welfare** grounds.
 
@@ -10003,6 +11392,8 @@ That local residents and **welfare** consumer groups are encouraged to participa
 * My Department and the Office of Aboriginal Affairs have made special efforts to assist the States in determining the most effective ways to improve the health of this section of our community and recently in an effort to determine the major factors responsible for the production of subnormal health, particularly in Aboriginal children, and ways to correct them, convened a meeting or Workshop' at which representatives from the States and Territories and experts in fields of anthropology, nutrition, paediatrics, nursing, **welfare**, administration, public health and medical research were present in Sydney in December 1969.
 
 * Did the Government have before it a proposal which was designed to make the tax and **welfare** system fairer and more equitable?
+
+* The honourable member will also be aware that the Senate Standing Committee on Health and **Welfare** is currently taking evidence.
 
 * These are as follows: 
 It presented a case for an expanded chaner to the Senate standing committee on health and **welfare**.
@@ -10035,6 +11426,8 @@ It presented a case for an expanded chaner to the Senate standing committee on h
 
 * It is also interesting to note that the Budget Papers reveal that about $87m of the almost $5 billion allocated for social security and **welfare** is to go towards the cost of salaries and administration of the Department of Social Security.
 
+* Commonwealth Government to the State Minister for Community **Welfare**, to the State committee for the implementation of the Plan, to the social planning secretariat thence to advisory committees and regional councils which in turn deal with local committees or projects.
+
 * The first was the need for regional social planning and the regionalisation of **welfare** services.
 
 * He says that he now supports the approach based on the localisation of **welfare** services and social planning.
@@ -10043,7 +11436,17 @@ It presented a case for an expanded chaner to the Senate standing committee on h
 
 * This covers areas such as a uniform income benefit, inquiring into proposals for a minimum family income, looking at ways and means of wiping out the multitude of individual programs which now exist in the social **welfare** system and implementing a single program for which people could qualify in a multitude of different ways.
 
+* I am suggesting tonight that the Government should look seriously at the recommendations in the report of the Social **Welfare** Commission on the Australian Assistance Plan.
+
 * For example, there was an increase of 78 per cent in expenditure on education; $7Sm was provided for pre-school and child care programs; $28m was made available to commence the construction of new hospitals in Sydney, Melbourne and Brisbane; provision was made for home dialysis appliances free of charge; additional funds were provided for nursing homes and for the national drug education program; a further step has been taken in the abolition of the means test for pensioners; increased rent assistance has been given to pensioners; there has been a doubling of the capital subsidy available under the Aged Persons Homes Act; a new handicapped childs allowance of $ 10 a week is to be paid to parents and guardians in respect of a child under 16 years of age who is cared for at home and who, because of the severity of the handicap, is in need of constant care and attention; a 34 per cent increase, which is $67m, is to be made available in grants to the States for **welfare** housing and there is the possibility of further grants should circumstances warrant.
+
+* First, we propose to supplement Consolidated Revenue Fund receipts, and thereby reduce the size of the prospective Consolidated Revenue Fund deficiency, by paying into that Fund unrequired balances held in the National **Welfare** Fund Trust Account.
+
+* Under the provisions of the National **Welfare** Fund Act the balances held by the National **Welfare** Fund Trust Account cannot be spent directly from the Fund.
+
+* The 1952 amendment to the National **Welfare** Fund Act provided a standing appropriation for the automatic replenishment of the National' **Welfare** Fund Trust Account in respect of any moneys paid from the account for social services.
+
+* I intend that the internal treasury bill holdings of the National **Welfare** Fund Trust Account be redeemed.
 
 * Nonetheless, I agree with the honourable member for Mackellar that there can always be a backlash in social **welfare** and social security programs if they seem to be too generous.
 
@@ -10068,19 +11471,27 @@ It presented a case for an expanded chaner to the Senate standing committee on h
 * The Bill provides that interim payments may be made for **welfare** housing under the authority of section 5 of the Financial Agreement Act 1928 as advances supplementary to the advances under the approved Loan Council program.
 
 * But I thought a more pointed comment was made by the Opposition spokesman on health and **welfare**, the honourable member for Hotham, on 21 September in Melbourne at a meeting of the Australian Dental Association when he said: 
-Will he make a statement to the House on the report by the Senate Standing Committee on Health and Welfare  and  the recommendations touching on the care and education of handicapped children; if so, when.
+Will he make a statement to the House on the report by the Senate Standing Committee on Health and **Welfare**  and  the recommendations touching on the care and education of handicapped children; if so, when.
 
 * It does not matter to the Prime Minister whether **welfare** policies work so long as all power is in his hands.
 
 * In Toowoomba there are 2 **welfare** organisations - the Spastic Centre and the Endeavour Workshop, the latter incorporating Endeavour Farm and Endeavour Manufacturing which are engaged in the training or employment of handicapped people.
 
+* The Queensland Subnormal Children's **Welfare** Association, Darling Downs Branch, controls the Hamewith Day and Boarding School and the Endeavour Farm and Endeavour workshop.
+
 * I am firmly of the view that the best possible service is given and the best outlook obtained by a marriage between government and voluntary **welfare** organisations.
 
 * Those who prefer a glib answer to an accurate one, those of our opponents who prefer some personal or Party advantage to the **welfare** of the people they represent, have come up with quite a simple explanation.
 
+* South Australian Industrial Code Regulations under the Industrial Safety, Health and **Welfare** Act, Section 39, (1972-78).
+
 * But because of its attitude of arbitrarily taking from one section to hand to another section it created a void in the economy with the consequence that it did not have the capacity to carry the extensive and lavish social **welfare** programs which were introduced.
 
 * Nevertheless, we are able to hold our heads high and to show very clearly that we can sustain at least the levels of those essential social **welfare** programs which are indispensable in this period of high costs and at this time of uncertainty.
+
+* -Recently the Coleman Social **Welfare** Commission tabled its report in this House.
+
+* It is the official recognition of that view by the Social **Welfare** Commission which has pleased many concerned members of our society.
 
 * It was with sincere regret that we heard the recent statement made in the Senate by the Minister for Social Security  (Senator Wheeldon)  in which he announced, in response to the recommendations in the Coleman report, that the Government could not afford any significant reforms or developments in social **welfare** within the foreseeable future.
 
@@ -10095,6 +11506,10 @@ Will he make a statement to the House on the report by the Senate Standing Commi
 * There is really no good rational economic, social or **welfare** argument why we should subsidise the users of superphosphate any more than we should subsidise orchardists who use expensive chemicals or poultry farmers who have to purchase very expensive feed.
 
 * difficult to justify on the basis of **welfare** or efficiency.
+
+* In my own State there is the Subnormal Children's **Welfare** Organisation and the Wheelchair and Disabled Association of Australia.
+
+* I pay a tribute to the Minister for Child **Welfare** and the Minister for Social **Welfare**,  Mr Hewitt,  who is a personal friend of mine.
 
 * When in due course the pensioners of Australia read  Hansard  they will be interested to learn that during the debate on these social **welfare** Bills tonight three quorums were called by the Labor Party.
 
@@ -10127,9 +11542,29 @@ Will he make a statement to the House on the report by the Senate Standing Commi
 
 * -Nearly 100,000 families are waiting for homes from the Housing Commission and at least half a million people are living in sub-standard housing, and this Government has not only increased the social problems of those elements in the community which need housing and reneged with regard to **welfare** housing, but it has also reneged on the home savings grant scheme.
 
+* The Social **Welfare** Commission (Repeal) Bill before the House repeals the Social **Welfare** Commission Act 1973.
+
+* I should like to look very briefly at one of the more important tasks of the Social **Welfare** Commission which was the evaluation of the Australian Assistance Plan.
+
 * The Plan was an experimental program under which the Government funded community **welfare** projects and the employment of community development officers who were quite often used in projects themselves funded under the Plan.
 
-* But the clear message of the Social Welfare Commission's work is that Federal funding is essential to the continuing viability of the community **welfare** projects initiated.
+* The Social **Welfare** Commission evaluated these projects and the effectiveness of Federal funding for local initiatives by them through a variety of voluntary bodies and local government authorities.
+
+* The evaluations carried out by the Social **Welfare** Commission have shown the hollowness of that kind of statement.
+
+* But the clear message of the Social **Welfare** Commission's work is that Federal funding is essential to the continuing viability of the community **welfare** projects initiated.
+
+* The reports of the Social **Welfare** Commission established in my own area the need for many of the projects.
+
+* Many projects funded by the Federal Government under the Australian Assistance Plan and evaluated by the Social **Welfare** Commission obtained a large part of their costs from other Federal programs some of which are still on foot even though the appropriations for them have been cut considerably.
+
+* Those kinds of grants were essential; the work of the Social **Welfare** Commission clearly established that.
+
+* The reports of the Social **Welfare** Commission established that the worthwhile local initiatives and locally administered projects which were encouraged as a result of the grants from the Whitlam Labor Government are now in grave jeopardy.
+
+* The reports of the Social **Welfare** Commission established quite clearly the overlap in indentifying low income families in old, established inner city areas and new settlers in this country.
+
+* The work of the Social **Welfare** Commission which is now to be abolished clearly established this.
 
 * The idea that there is a massive duplication of sources of funding available for **welfare** projects is just not true.
 
@@ -10171,6 +11606,12 @@ Will he make a statement to the House on the report by the Senate Standing Commi
 
 * Each of these sections, which require the expenditure of **welfare** moneys on them in some way or another, will have to be dealt with differently.
 
+* According to figures available from the Departments of Health and Native **Welfare**  in  Western Australia, about 13 per cent of the- fullblood Aboriginals in the Kimberleys now have or have had leprosy and, according to  Dr Davidson  of the Health Commission, it is never claimed that they are cured.
+
+* Mr Bill  Ryan, who is an Aboriginal **Welfare** Officer, came along.
+
+* There seems to me to be in the **Welfare** Division in the Northern Territory a pervading intimidatory atmosphere the like of which is not known in any other government department that I know of in Australia.
+
 * It is far more desirable that they should bring in the experienced people who are educationalists or **welfare** officers and expose all this business to sensible examination.
 
 * I have received complaints, and from inquiries I have made it seems that at least some of these organisations are primarily concerned with encouraging people to invest funds in their various business enterprises rather than with the **welfare** of the individuals involved.
@@ -10184,6 +11625,8 @@ Will he make a statement to the House on the report by the Senate Standing Commi
 * These deficiences need progressive reforms, which have been under intensive examination by the Liberal Party's committee on social security, health and **welfare** over the past several months, and I know also by the Country Party's health and social security committee.
 
 * Some of the major guidelines submitted to working parties by my committee on social security, health and **welfare** are as follows: We believe as a committee that health care reasonably available is a right.
+
+* Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department.
 
 * Under the heading of health and **welfare** the Government evidently does not consider public road safety important enough to receive individual attention in the Budget Papers.
 
@@ -10224,7 +11667,11 @@ Social **welfare** and economic policy are two subjects which are too often disc
 
 * We assert firmly that the availability of adequate **welfare** systems which can be brought into operation quickly in response to the needs of individuals or of whole communities, must be seen as a public right.
 
+* That is why we have appointed a Social **Welfare** Commission with  Mrs Marie  Coleman as  Chairman,  whose eminence in this field is well known.
+
 * This Commission is charged with the responsibility of assisting the Australian Government in setting long range objectives in the planning, development and operation of social **welfare** services.
+
+* Today I have tabled the first report of the Social **Welfare** Commission and the first discussion paper prepared by the Commission on the Australian Assistance Plan.
 
 * In this way the Australian Government aims at developing **welfare** services according to a new philosophy appropriate to the expectations and needs of contemporary Australian society.
 
@@ -10240,17 +11687,40 @@ Social **welfare** and economic policy are two subjects which are too often disc
 
 * The actual **welfare** services may be provided by a range of organisations, including local government and State government authorities and the traditional nongovernment **welfare** agencies, or by new groups such as groups of **welfare** service users.
 
-* The Australian Government has appointed a Social Welfare Commission to advise on the development of integrated social **welfare** programs, and the first report of this Commission, I repeat, has been tabled today, together with the first discussion paper on the Australian Assistance Plan.
+* The Australian Government has appointed a Social **Welfare** Commission to advise on the development of integrated social **welfare** programs, and the first report of this Commission, I repeat, has been tabled today, together with the first discussion paper on the Australian Assistance Plan.
 
-* The Social Welfare Commission and the Australian Government have noted with interest the recent changes in personal **welfare** service systems in the United Kingdom, Canada and the United States of America.
+* The Social **Welfare** Commission and the Australian Government have noted with interest the recent changes in personal **welfare** service systems in the United Kingdom, Canada and the United States of America.
 
 * The Australian Government has committed itself to the concept of forward planning - planning of our cities, our health policies, our education policies and our **welfare** policies.
 
+* The Social **Welfare** Commission has been allocated funds to carry out a program of careful evaluation of some demonstration programs before recommending on the final legislative form of the Assistance Plan.
+
 * In this way it is hoped to produce some co-ordination of the **welfare** programs of State and Federal governments.
+
+* The Social **Welfare** Commission has appointed to its staff an officer widely experienced in community development programs in Canada and Africa.
+
+* The Social **Welfare** Commission plans to use a number of techniques such as film and video tape to make the details of the various demonstration programs available to groups of interested citizens across the entire world.
+
+* The Social **Welfare** Commission is making arrangements with a number of academic institutions to carry out evaluations of the demonstration projects which will be established in the initial phase of the Australian Assistance Plan.
+
+* In addition, the Social **Welfare** Commission will arrange for special training programs for staff to work in the regional councils for social development, as well as training in community development techniques for other personnel.
+
+* During the initial phase of the Australian Assistance Plan, the Social **Welfare** Commission will itself determine, after consultation with the various State government authorities, State councils of social service and other appropriate bodies, which areas of Australia will be used for demonstration projects.
+
+* The Social **Welfare** Commission has indicated that the final program could cost in the order of $30m a year once established.
+
+* The Social **Welfare** commission is hoping, with the support of the members of this Parliament and the ordinary citizens of Australia, to find some innovative solutions to meet social needs which will involve the community in the meeting of those needs.
+
+* The 2 reports I have tabled in this Parliament today - the first annual report of the Australian Government Social **Welfare** Commission and Discussion Paper No.
 
 * 1 on the Australian Assistance Plan prepared by that Commission - represent a major step forward in the development of social **welfare** services in this community.
 
 * Indeed, reviewing the history of social **welfare** programs in this country, I believe it can be fairly said that to date nothing as important, nothing that can equal the progress which this represents, has occurred in this country before.
+
+* We look forward to a fruitful response from the Australian community and from our fellow parliamentarians and this response will allow us to improve on the very valuable contribution that has already been made and will continue to be made by the Social **Welfare** Commission.
+
+* I present the following paper: 
+First Report of the Interim Committee of the Social **Welfare** Commission - Ministerial Statement, 30 August 1973.
 
 * It reduces the national **welfare**.
 
@@ -10263,6 +11733,8 @@ Social **welfare** and economic policy are two subjects which are too often disc
 * Yet even now the Liberals still want to return to the days when **welfare** housing was accorded a low priority.
 
 * If the Opposition had its way the States this year would receive $102m less for **welfare** housing than they will in fact receive.
+
+* What has happened now, in fact, is that the Government feels, because of the calling of the early election, it has not been able to come to a decision on the recommendation of the so-called Bailey report- the report of the Task Force on Co-ordination in Health and **Welfare**- in which it is suggested that there be a much wider homeless persons assistance program incorporated in what is called a sheltered accommodation program and some re-organisation, with the help of the State governments.
 
 * Until that investigation is concluded, I am afraid I can say nothing concrete, except that I hope that in the total conspectus of what we are trying to achieve in the field of social **welfare** this will be one of the areas where we will provide adequate responses to the clear needs in the community.
 
@@ -10302,6 +11774,8 @@ Our second problem revolves around unemployment, particularly among young people
 
 * I turn from **welfare** housing and refer to the private housing sector.
 
+* 1 ) I am advised that the Task Force on Co-ordination in **Welfare** and Health is working towards presenting its first report before the end of the year.
+
 * The system of social services, **welfare** and law enforcement aggravate rather than alleviate the problem of chronic unemployment.
 
 * Indeed we want to go much further and introduce a new concept of social security payments and social **welfare** services.
@@ -10311,6 +11785,9 @@ Our second problem revolves around unemployment, particularly among young people
 * That is the net sum total of its performances in social **welfare**.
 
 * It seems to have realised that over-using the money pump or the printing presses will not cure **welfare** problems.
+
+* Cultural and General **Welfare** Services 
+Perhaps 1 might sum up briefly by saying that there will be people who may feel that the Government is not expending taxpayers' funds to the best advantage.
 
 * To do more would flood markets and bring ruin to all in the industry; to do less would not take into account the **welfare** of apple producers who are disadvantaged by high wages, high costs and other matters which they believe - and I think rightly so - have come about through no fault of their own.
 
@@ -10360,9 +11837,11 @@ Caring for refugees from brutality and murder around the world is a major proble
 
 * A further nine pilot **welfare** rights services will be introduced when the relevant organisations have completed the preliminary planning.
 
-* Welfare rights officers will be employed by relevant organisations to assist particular groups of people to be better informed about social **welfare** and related services and to help those requiring help to exercise their rights to such services.
+* **Welfare** rights officers will be employed by relevant organisations to assist particular groups of people to be better informed about social **welfare** and related services and to help those requiring help to exercise their rights to such services.
 
 * Training will be determined according to the particular needs of each **welfare** rights worker.
+
+* Professor Zubrzycki, Head of the Department of Sociology at the Australian National University, who is the  chairman  of the Committee; Miss Green,  Chairman  of the Australian Council of Social Service;  Mr Hawke, President  of the Australian Council of Trade Unions;  Sir Arthur  Lee,  President  of the Returned Services League,  Mr Lippmann, Chairman  of the Migrant **Welfare** Committee of the Australian Council of Social Service; Air Marshal  Sir John  McCauley,  President  of the Good Neighbour Council of New South Wales;  Mr McRae, President  of the National Youth Council;  Mr Nicholas,  Executive Officer of the Australian Woolgrowers' and Graziers' Council;  Mrs Reader,  representing the National Council of Women; and  Dr Alan  Richardson, Reader in Psychology at the University of Western Australia.
 
 * These jobs involve telephone exchanges, defence projects, many great projects that concern public **welfare**.
 
@@ -10370,6 +11849,8 @@ Caring for refugees from brutality and murder around the world is a major proble
 )
 
 * In what field of **welfare** are they qualified or interested.
+
+* Has his attention been drawn to the work of the Malta Star of the Sea **Welfare** and Cultural Centre in St. Albans, Victoria.
 
 * If so, will he give sympathetic consideration to the request of that organisation to provide a **welfare** worker for the St. Albans area.
 
@@ -10379,11 +11860,13 @@ Caring for refugees from brutality and murder around the world is a major proble
 
 * It is not only **welfare** and social services to which this situation applies.
 
+* That this House, mindful of the principles and philosophy of the Liberal Party to assist those in need, is anxious to protect the family and single people in the lower income groups from the worry of bills and charges for medical or hospital treatment due to illness or an accident, and therefore requests the Minister for Health to advise the medical profession that a confidential letter from a local justice of the peace, minister of religion, industrial chaplain or an officer of the Citizens Advice Bureau, Social Security or **Welfare** or Probation, in relation to any patient, shall entitle that medical practitioner to accept the patient as 'disadvantaged' and refer any charges to the Commonwealth for payment.
+
 * In my opinion, it is not good enough in a wealthy country such as ours to have a gold-plated standard of services, whether they be in health, education, **welfare** or any other field - urban environment is probably the outstanding example - in a national capital such as Canberra and then to find in the capital cities far greater aggregations of the nation's population living in slums or resorting to slum standards of facilities such as our public health services.
 
 * It is a matter which does concern their general **welfare**.
 
-* 1 ) The North West one stop Welfare Centre at Coburg, Victoria, is continuing as a co-ordinated **welfare** delivery outlet.
+* 1 ) The North West one stop **Welfare** Centre at Coburg, Victoria, is continuing as a co-ordinated **welfare** delivery outlet.
 
 * The recent review of the operation of the Centre indicated that the Centre as it had been organised was effective in co-ordinating the **welfare** delivery efforts of various government and non-government organisations.
 
@@ -10419,6 +11902,8 @@ Caring for refugees from brutality and murder around the world is a major proble
 
 * This objective could well be realised as many local councils already co-operate on a regional basis for many services such as regional libraries, social **welfare** and fire protection.
 
+* -I suggest first of all that the honourable member for Bendigo  (Mr Bourchier)  read the report on drugs by the Senate Standing Committee on Social **Welfare** in which it recommended the decriminalisation of marihuana.
+
 * I would like to know, although 1 am not likely to be told and the House is not likely to be informed, why the Budget increases the proposed vote for this body by about 13 per cent, which is a greater percentage increase than was accorded to the social **welfare** sector of the community?
 
 * In the Governor-General's Speech  His Excellency  said: ... the Government will place great emphasis on directing **welfare** assistance to those in real need.
@@ -10428,6 +11913,8 @@ Caring for refugees from brutality and murder around the world is a major proble
 * It is believed by the Government that voluntary **welfare** organisations are a critically important part of the Australian **welfare** system.
 
 * Here is the clearest and most far-reaching kind of concept which has so far been ignored by the Opposition, the transferability of staff between the government and the non-government sector, especially in the social **welfare** area.
+
+* The Senate Select Committee on Health and **Welfare** which looked at the subject of handicapped people indicated that there was a great need for clear statistical data on the numbers and needs of handicapped people.
 
 * the industrial action has had, is having, or is likely to have, a substantial adverse effect on the safety, health or **welfare** of the community or of a part of the community, the Full Bench shall make a declaration that it is so satisfied and cause the declaration to be recorded in writing.
 
@@ -10440,6 +11927,10 @@ Caring for refugees from brutality and murder around the world is a major proble
 * Second, local government is playing an increasing role in the provision of social **welfare**, recreational and cultural amenities.
 
 * If local government is to provide an increasing measure of our community's physical amenities and **welfare** services, as opposed to the more traditional forms of basic economic assistance clearly it requires greater recourse to the nation's general revenue resources.
+
+* Whilst he was in Australia his 4 children were under the care of the Child **Welfare** Department.
+
+* a Special Provision of Capital and Recurrent Financial Assist?ance for Community **Welfare** Agencies experiencing serious financial difficulties.
 
 * An amount of $2m has been set aside to provide 'emergency' assistance to voluntary **welfare** agencies.
 
@@ -10461,6 +11952,8 @@ Caring for refugees from brutality and murder around the world is a major proble
 
 * Even if adjustments are made for expenditure on family allowances, unemployment and sickness benefits, the increased eligibility nevertheless means that expenditure on social security and **welfare** as a proportion of the Commonwealth Budget has increased from 18 per cent in 1975-76, Labor's last Budget, to 21 per cent in the current Budget.
 
+* That was the reaction yesterday of South Australia's Community **Welfare** Minister,  Mr Payne,  to the announcement by the Social Security Minister,  Senator Guilfoyle,  that the Federal Government would cease to provide funds for the Australian Assistance Plan after 12 months from 1 July.
+
 * [Under AAP, introduced by the previous Labor Government, the Commonwealth provided financial help for community **welfare** programs through the Regional Councils in which there was considerable local community participation.]
 
 * It is tremendously significant to improve the flexibility, the reduction in overlap or duplication and the position generally in a whole range of health and **welfare** services of a federalist nature, as I believe some of these recommendations are, which may be implemented by the Government.
@@ -10471,10 +11964,16 @@ Caring for refugees from brutality and murder around the world is a major proble
 
 * That bureau will provide a central source of input to a committee of Ministers concerned with specific aspects of the **welfare** of children.
 
+* Rather than criticise some of the aspects of this Government's alternative initiatives to the Social **Welfare** Commission, he should remember that, after all, it was the Labor Government that abolished the Commission.
+
 * It was stated by the Labor Government when the Commission was established that it was to be a bold step in policy formulation, evaluation and accountability of social **welfare** programs.
+
+* I want to quote another reason that was given by the Social **Welfare** Commission in its final report.
 
 * The report states: 
 In relation to the coordination and evaluation functions of the Commission, it was not kept informed of policy program initiatives with social **welfare** implications prior to government decisions; it was never given the power to enforce co-ordination nor was it given an automatic right of access to Cabinet submissions on policy proposals affecting social policy, thus placing the Commission's independent review role at serious risk.
+
+* The Social **Welfare** Commission's criticisms of those grandiose proposals, to my way of thinking, brought about its abrupt and untimely end.
 
 * This Government, to its credit, has accepted the need for evaluation and criticism of social **welfare** programs.
 
@@ -10519,6 +12018,8 @@ Of course we give these matters high priority- higher priority than any previous
 
 * That we should direct attention to their **welfare** is urgent.
 
+* Funding for the Melbourne resource centre which is run by the Australian-Greek **Welfare** Society has been provided only up to 3 1 January.
+
 * The dispensing of **welfare** under this Government has been centralist.
 
 * The Budget gives no indication of the stance or direction of social **welfare**.
@@ -10530,6 +12031,10 @@ Of course we give these matters high priority- higher priority than any previous
 * I will have the honour in a few weeks to unveil the Opposition's social **welfare** policies.
 
 * I believe that these policies will correct the mismanagement and the chaos into which this Government has turned this most important area of **welfare**.
+
+* in reply-I thank honourable members for the contribution they made to the debate on this Social **Welfare** Commission (Repeal) Bill.
+
+* I join honourable members in paying a tribute to the members of the Social **Welfare** Commission for the work they have already done.
 
 * I believe there has been great value to the Parliament and to all those interested in social **welfare** from the research work and the organisational work that members of the Commission have done to date.
 
@@ -10553,6 +12058,11 @@ Of course we give these matters high priority- higher priority than any previous
 
 * At the same time I wish to point out that the **welfare** of the nation cannot be maintained or extended without decentralisation.
 
+* The budget for the study, sponsored by the Social **Welfare** 
+A note was submitted by Professor Harris on 30 July 1973 but further research was deferred pending receipt of the 1971 census data.
+
+* The 1971 data are now available and Professor Harris will shortly be submitting a report to the Social **Welfare** Commission.
+
 * This report will contain- 
 $14,400 has been paid to the James Cook University, Townsville, towards the cost of evaluating the role of local government throughout Australia in providing personal **welfare** services.
 
@@ -10572,7 +12082,15 @@ $14,400 has been paid to the James Cook University, Townsville, towards the cost
 
 * Sir, it  would not be inappropriate to conclude on this note: You, as the honourable member for Herbert, my honourable friend the honourable member for Melbourne Ports  (Mr Crean),  the honourable and gallant member for Isaacs  (Mr Hamer), Senator Devitt  and  Senator Maunsell-  3 honourable members from this place and 2 senators from the other placehave continued to show a very lively and a very compassionate interest in the **welfare** of exservicemen and in particular in securing the appropriate adjustments to the pension entitlements of ex-servicemen.
 
-* It is clear to the Government that the Social Welfare Commission is not required in a situation in which the Government, through its Ministers, will be determining priorities and maintaining direct communications on social **welfare** issues with State, local government and voluntary agencies and representatives of consumer groups.
+* This Bill will give effect to the Government's decision, as announced by the Prime Minister  (Mr Malcolm Fraser)  on 2 February 1976, to abolish the Social **Welfare** Commission.
+
+* In reviewing the activities of over 50 bodies of various kinds which had been conducting inquiries for the Commonwealth, the Prime Minister said: ... the Government has decided that the Social **Welfare** Commission and the Australian Housing Corporation, should be abolished while the functions of the Australian Development Assistance Agency and the road Safety and Standards Authority should be taken over by Government Departments.
+
+* The Social **Welfare** Commission was established as an interim committee by the Labor Government in early 1 973, and the Social **Welfare** Commission Act received the royal assent in November of that year.
+
+* In reaching its decision about the Social **Welfare** Commission the present Government was mindful of the fact that in June 1975 the then Prime Minister  (Mr Whitlam)  had announced the Labor Government's intention to abolish the Commission.
+
+* It is clear to the Government that the Social **Welfare** Commission is not required in a situation in which the Government, through its Ministers, will be determining priorities and maintaining direct communications on social **welfare** issues with State, local government and voluntary agencies and representatives of consumer groups.
 
 * For example, there are many voluntary **welfare** organisations which are playing an important role in commenting on the formulation of social **welfare** policy.
 
@@ -10580,7 +12098,7 @@ $14,400 has been paid to the James Cook University, Townsville, towards the cost
 
 * The Australian Council of Social Services (ACOSS), the Australian Council on the Ageing (ACOTA) and the Australian Council for the Rehabilitation of the Disabled (ACROD) Will receive- in 1976-77 grants totalling $0.45 m. In addition to the funding of these national bodies the Government supports a variety of other organisations in the **welfare** field.
 
-* The Social Welfare Commission did not directly administer any Commonwealth **welfare** programs.
+* The Social **Welfare** Commission did not directly administer any Commonwealth **welfare** programs.
 
 * The Government fully recognises the importance of social **welfare** in the life of the Australian community.
 
@@ -10604,13 +12122,15 @@ $14,400 has been paid to the James Cook University, Townsville, towards the cost
 
 * Further details of the consultative mechanisms proposed will be announced shortly but at this stage I can assure honourable members that our proposals will greatly strengthen our links with people and groups active in the **welfare** field.
 
-* In addition to the continuing involvement of the Department of Social Security in income security issues, routine monitoring and evaluation of **welfare** programs are being developed and upgraded within the Social Welfare Division of the Department.
+* In addition to the continuing involvement of the Department of Social Security in income security issues, routine monitoring and evaluation of **welfare** programs are being developed and upgraded within the Social **Welfare** Division of the Department.
 
 * The Government will continue to support independent inquiries which examine various aspects of the social **welfare** field.
 
 * These inquiries, of which the Poverty Inquiry and the National Superannuation Committee of Inquiry are examples, are particularly important in contributing to the development of social **welfare** policy.
 
 * Honourable members will recall that in 1972 the Liberal-Country Party Government commissioned, with the support of the State Ministers responsible for child and social **welfare**, a family research project within the University of New South Wales to undertake a series of studies directed towards understanding and documenting family disruption and breakdown and changing family patterns in Australia.
+
+* The Government has given undertakings that an examination would be made of activities of the Social **Welfare** Commission to ascertain the extent to which existing research projects and tasks would be continued.
 
 * We have also agreed to the funding of 2 additional research projects and 4 fellowships in **welfare** studies.
 
@@ -10620,7 +12140,7 @@ $14,400 has been paid to the James Cook University, Townsville, towards the cost
 
 * In relation to social **welfare** manpower planning, present statistics concerning the workforce in the **welfare** field are not satisfactory.
 
-* The meeting of State Social Welfare Ministers held in Darwin on 2 1 May 1976 identified social **welfare** manpower planning as of vital importance and the Minister for Social Security has agreed to the Minister's request that the work initiated by the Social Welfare Commission in this area be continued, with more direct involvement of the States as they are major users of **welfare** manpower.
+* The meeting of State Social **Welfare** Ministers held in Darwin on 2 1 May 1976 identified social **welfare** manpower planning as of vital importance and the Minister for Social Security has agreed to the Minister's request that the work initiated by the Social **Welfare** Commission in this area be continued, with more direct involvement of the States as they are major users of **welfare** manpower.
 
 * Investigation will continue on the need for a national body to co-ordinate education in social **welfare** in Australia.
 
@@ -10630,13 +12150,24 @@ $14,400 has been paid to the James Cook University, Townsville, towards the cost
 
 * The Minister for Social Security agreed that her department should undertake work immediately in this area seeking the co-operation of the Australian Bureau of Statistics in setting up a working party, comprising representatives of relevant Commonwealth and State government departments, to examine questions of the standardisation and adequacy of social **welfare** statistics and the desirability of convening a national conference on these matters.
 
+* The staff of the Social **Welfare** Commission now occupy Public Service Act positions which are included on the establishment of the Department of Social Security.
+
+* Action will be taken to transfer commission staff to the unattached list of the department on repeal of the Social **Welfare** Commission Act.
+
 * Some officers will be used in activities, such as administering research projects and fellowship awards, servicing the Family Services Committee and undertaking work in the area of social **welfare** manpower planning, responsibility for which will be absorbed by the department.
 
-* The Government is mindful of the work which the Social Welfare Commission has undertaken but, for the reasons I have outlined, it is now considered opportune to consolidate advice on and research into social **welfare** matters within the appropriate departmental structures.
+* The Government is mindful of the work which the Social **Welfare** Commission has undertaken but, for the reasons I have outlined, it is now considered opportune to consolidate advice on and research into social **welfare** matters within the appropriate departmental structures.
 
-* Moneys standing to the credit of the Fund are applied under the National Welfare Fund Act in making such payments as are directed by any law of the Commonwealth to be made from the Fund in relation to health, social services and other **welfare** services.
+* He referred to the National **Welfare** Fund.
 
-* I would like to begin by asking the Minister Assisting the Treasurer, how closing the Welfare Fund off in the way suggested by the Government can be said to be serving the legal purposes of the Fund which are supposed to relate to health, social services and other **welfare** services.
+* The Auditor-General has to report each year on the operations of the Fund and in that report he said: 
+The National **Welfare** Fund was established by the National **Welfare** Fund Act 1943 as a Trust Account for the purposes of section 62A of the Audit Act.
+
+* Moneys standing to the credit of the Fund are applied under the National **Welfare** Fund Act in making such payments as are directed by any law of the Commonwealth to be made from the Fund in relation to health, social services and other **welfare** services.
+
+* I would like to begin by asking the Minister Assisting the Treasurer, how closing the **Welfare** Fund off in the way suggested by the Government can be said to be serving the legal purposes of the Fund which are supposed to relate to health, social services and other **welfare** services.
+
+* Broadly, the National **Welfare** Fund was built up in years when we collected more in taxes than we were able to find purposes to spend, so in one sense there now is a logic in doing the oppositewhen we have more expenditure than revenue we simply transfer.
 
 * Maybe the greatest stimulus to consumer demand is more Government expenditure on **welfare** or the reduction of taxes.
 
@@ -10658,13 +12189,19 @@ $14,400 has been paid to the James Cook University, Townsville, towards the cost
 
 * This Parliament spends hundreds of millions of dollars on all sorts of subsidies and **welfare** benefits.
 
+* The West Heidelberg Community Health and **Welfare** Centre has been operating for some time in temporary premises.
+
 * The other point I wish to make is the Government's failure to appreciate that these community health centres are not just treatment centres but are out-reaching organisations for the community that deal with many social **welfare** aspects as well.
 
 * A Preston-Reservoir employment action group has been formed with the support of such organisations as the Intra-Church Council, a whole range of **welfare** organisations in the area, the unemployed themselves and local service clubs.
 
+* I have asked  Senator Greenwood  and  Mr Chipp-  the shadow Minister for Social **Welfare**- to examine this matter as soon as possible.
+
 * Children's problems encompass health, education, social **welfare**, recreation and cultural development.
 
 * By contrast, the Children's Bureau under the LiberalCountry Party Government will provide a central source of input to a committee of Ministers who will retain the responsibility for the administration of programs within their specific portfolios- e.g., health, education and social **welfare**.
+
+* An interdepartmental committee has been established to examine in detail the recommendations made by the Senate Standing Committee on Health and **Welfare** in its Report on Mentally and Physically Handicapped Persons in Australia.
 
 * It is meant to demonstrate, admittedly in just a small way, that we are concerned and that we protest at the fact that in spite of all of the Government's hints, suggestions, promises and implications to the contrary, the Government has still produced no basic rethinking or restructuring of the Australian social **welfare** system.
 
@@ -10685,6 +12222,28 @@ $14,400 has been paid to the James Cook University, Townsville, towards the cost
 * In other words, we could double the funding of our social **welfare** programme by re-allocating the sums now foregone in what can roughly be regarded as social **welfare** tax concessions.
 
 * There is the special role of accommodation in any consideration of a social **welfare** system.
+
+* The most recent available document which surveys the types of social security schemes operating overseas is the United States Department of Health, Education and **Welfare**'s publication 'Social Security Programmes Throughout the World 1967', which gives the principal features of schemes inthe following countries: Afghanistan, Albania, Algeria, Argentina, Australia, Austria, Barbados, Belgium, Bolivia, Botswana, Brazil, Bulgaria, Burma, Burundi, Cambodia, Cameroon, Canada, Central African Republic, Ceylon, Chad, Chile, China (Nationalist), China (Communist), Colombia, Congo (Brazzaville), Congo (Kinshasa), Costa Rica, Cuba, Cyprus, Czechoslovakia, Dahomey, Denmark, Dominican Republic, Ecuador, El Salvador, Ethiopia, Finland, France, Gabon, Gambia, Germany (Federal Republic), Germany (East), Ghana, Greece, Guatemala, Guinea, Guyana, Haiti, Honduras, Hungary, Iceland, India, Indonesia, Iran, Iraq, Ireland, Israel, Italy, Ivory Coast, Jamaica, Japan, Jordan, Kenya, Korea (South), Lebanon, Liberia, Libya, Luxembourg, Malagasy Republic, Malawi, Malaysia, Mali, Malta, Mauritania, Mexico, Morocco, Netherlands, New Zealand, Nicaragua, Niger, Nigeria, Norway, Pakistan, Panama, Paraguay, Peru, Philippines, Poland, Portugal, Rumania, Rwanda, Saudi Arabia, Senegal, Sierra Leone, Singapore, Somalia, South Africa, Spain, Sudan, Sweden, Switzerland, Syria, Tanzania, Thailand, Togo, Trinidad and Tobago, Tunisia, Turkey, Uganda, Union of Soviet Socialist Republics, United Arab Republic, United Kingdom, United States of America, Upper Volta, Uruguay, Venezuela, Vietnam (South), Vietnam (North), Yugoslavia, Zambia.
+
+* The complexity and diversity of the schemes operating in the countries surveyed by the United States Department of Health, Education and **Welfare** are such that it is not possible to provide a concise and accurate summary, and hence the publication mentioned above is recommended to the honourable member.
+
+* State Child **Welfare** Authorities have advised that adoptions of the Vietnamese children have been completed as follows: 
+It is understood that in Victoria, New South Wales and South Australia the processing by Child **Welfare** Authorities of adoption formalities for a number of other children has been completed and the applications are awaiting processing by the Courts.
+
+* In practice, the Minister delegates the function of guardianship to the Chief **Welfare** Officer of the competent State or Territorial authority, who in turn arranges for the custody of the children with foster parents with the view to adoption.
+
+* 1 ) Who are the members of the Central Coast Social and **Welfare** Co-ordination Council and what organisations do they represent.
+
+* Child **Welfare** Ordinance 1958 
+**Welfare** Department (State)-Mesdames M. Mabb, L. Dixon, L. Chris tensen, D. Brown, F. Gardner, M. Thomas, R. Mansell.
+
+* **Welfare** (State)-Mesdames M. Mabb, L. Dixon, L. Christensen, D. Brown, F. Gardner, M. Thomas and R. Mansell- part-time Aboriginal Homemakers providing personal assistance and liaising with other agencies to assist Aboriginal families who are unable to cope due to social pressures, imprisonment of breadwinner and other related circumstances.
+
+* **Welfare** (State)-Mesdames Mabb, Dixon, Christensen, Brown- Hobart.
+
+* There is a position of Director, Projects and Services Branch in the **Welfare** Division of the Northern Territory Administration, lt is a new position and has no permanent occupant at present.
+
+* The former Director, **Welfare** Branch, who is now Assistant Administrator, **Welfare** Division, is carrying out the statutory responsibility of the Director of **Welfare** for the time being.
 
 * Complete information is not available for personal consumption expenditure on health and no estimates are prepared for private sector expenditure on **welfare** services.
 
@@ -10719,6 +12278,9 @@ $14,400 has been paid to the James Cook University, Townsville, towards the cost
 * What is proposed in the Budget for social **welfare**, urban and regional development, culture and recreation are, in the main, worth while and they bring little criticism from me other than in the broad.
 
 * It is from the free enterprise system that the Government obtains the tax revenue to pay for the very desirable social **welfare** programs that we all support.
+
+* In May 1971 the Senate Standing Committee on Health and **Welfare** recommended that: 
+I would like to make one or two points.
 
 * It is a contribution towards the **welfare** of certain people.
 
@@ -10790,6 +12352,8 @@ $14,400 has been paid to the James Cook University, Townsville, towards the cost
 
 * I would ask honourable gentlemen to take into account as well that there are any number of qualified people in the community who might not satisfy the test of having been a judge, or having been enrolled as a legal practitioner of the High Court of Australia or of a supreme court of a State or a Territory for not less than 5 years, who would be suitable through experience in **welfare** work, counselling work or social work.
 
+* These include: the views of Regional Councils for Social Development the Report of the Social **Welfare** Commission on the AAP reports from independent evaluators appointed by the Social **Welfare** Commission.
+
 * comments by the Department of Social Security which has been responsible for the administration of the program over most of the pilot period comments from State Governments comments from Local Government Authorities and their Associations comments from voluntary **welfare** organisations and private citizens.
 
 * It is planned to hold conferences with representatives of State Government Departments concerned with **welfare** matters and also with representatives of Local Government Associations in April 1976.
@@ -10819,6 +12383,8 @@ $14,400 has been paid to the James Cook University, Townsville, towards the cost
 * The **welfare** and integration, of all its citizens.
 
 * With the success of the programme have come the problems of education, housing, employment, social **welfare** and a myriad of other problems.
+
+* **Welfare**, health services and local government facilities present grave problems to the Australian people.
 
 * The Industries Assistance Commission considered that the continuation of the stabilisation assistance arrangement for the wheat industry could not be justified on either efficiency or **welfare** grounds and recommended its discontinuation.
 
@@ -10853,6 +12419,11 @@ $14,400 has been paid to the James Cook University, Townsville, towards the cost
 * Well meaning people can do a good job in social **welfare**, but in those areas where they have some particular ability to serve the people.
 
 * What the Labor Party does is to spurn the piecemeal blight which affects Government thinking in **welfare** services.
+
+* 1 ) The Mackay Council of Social **Welfare** is presently working towards the formation of a Regional Council for Social Development and at present the names of the members are not listed.
+
+* Organisations represented are as follows: Apex Club of Mackay and West Mackay, Australian Red Cross, Birthright, Blue Nursing Service, Catholic 
+Mackay Council of Social **Welfare** was approved to receive administration grants only in the pilot period of the Australian Assistance Plan of $17,410 in 1973-74 and up to $40,000 in 1974-75.
 
 * If I remember correctly, the  President  of the Australian Council of Trade Unions, that great spokesman on Labor Party matters, quoted defence matters as number 7 on the list of matters which the Labor Party considered as important for the **welfare** of Australia.
 
@@ -11009,6 +12580,8 @@ Advances by the Australian Government for the States' **welfare** housing progra
 
 * The amendment to section 10 of the Act reduces the amount of money payable to the States for the salary of a **welfare** officer of a senior citizens centre from two-thirds to one-half.
 
+* **Welfare** officers employed by local government under these grants play an important role in preventive medicine by assisting the elderly to remain socially active and in touch with community health facilities.
+
 * No new grants have been given in the time of the Fraser Government and the present cuts mean that local government bodies will have to find several hundred thousand dollars, sack their **welfare** officers or put up their rates.
 
 * Honourable members may have read in the last couple of weeks an article in the Sydney  Sun  headed 'Pensioners Hit', which reads: 
@@ -11056,9 +12629,11 @@ The aim of a social **welfare** system is to produce, through a range of social 
 
 * Management, unions and government departments should use migrant self-help agencies and involve such ethnic **welfare** and community agencies in the development of safety and health initiatives on the job.
 
-* The answer to the right honourable member's question is as follows:  (1), (2), (3) and (4) While no specific mention of the Social Welfare Committee was made in 1972, its principles are implicit in the Government's pre- 1972 election statements on the need for a total community approach to **welfare**.
+* The answer to the right honourable member's question is as follows:  (1), (2), (3) and (4) While no specific mention of the Social **Welfare** Committee was made in 1972, its principles are implicit in the Government's pre- 1972 election statements on the need for a total community approach to **welfare**.
 
-* member's question about the role of the Social Welfare Commission and any changes planned for that role, I would refer him to Section 14 of the Social Welfare Commission Act, which states: 
+* The creation of the Social **Welfare** Commission in 1 973 is one pan of the Government's program to achieve these aims.
+
+* member's question about the role of the Social **Welfare** Commission and any changes planned for that role, I would refer him to Section 14 of the Social **Welfare** Commission Act, which states: 
 to ascertain, and report to the Minister on, the social **welfare** needs of the community and to make recommendations to the Minister in respect of those needs; 
 to make recommendations to the Minister for furthering the achievement of a nationally integrated social **welfare** plan, including- 
 recommendations of priorities in relation to social **welfare** programs; 
@@ -11102,6 +12677,8 @@ I hope as I do this that the attention of the Government will focus itself on th
 
 * He sought to build up a public expectation - he was supported in this by members of his Government - that what he was doing was significant for the **welfare** of Australian's, but it was nol.
 
+* If so, ' will he, when addressing the assembly, justify his Department's consistent refusal to feed certain categories of deserted wives and their children or, alternatively, explain ' why he refuses to ascertain from the New South Wales Social **Welfare** Department why that Department refuses to succour deserted wives at least to the extent provided by law?
+
 * The Government decided finally that health insurance should not be used as the vehicle for assistance to large families because other **welfare** measures such as taxation concessions and child endowment currently provide assistance of this nature.
 
 * We must continue our efforts to ensure that all who are eligible are aware of their eligibility, probably through greater use of social workers, charitable organisations and other appropriate **welfare** groups.
@@ -11129,6 +12706,8 @@ I hope as I do this that the attention of the Government will focus itself on th
 * If this extra sitting load is imposed upon members, some consideration must be given to the staffing situation of members in their home electorates, so that persons are available to handle the many problems which occur, whether they concern social **welfare**, post offices or any of the other general matters that crop up.
 
 * His period as Minister for Health and Social Services was of particular importance to the Labor Government of the time and of particular significance for the **welfare** of the people of Australia.
+
+* We have the Social **Welfare** Commission and a number of education commissions.
 
 * As, under the agreement, it is proposed that the Commonwealth Minister will determine the amount of **welfare** housing advances to a State during the next 5 years, the Australian Government will be able to ensure that an increasing flow of finance will be available to the States to enable them to expand the construction of homes for needy persons and families.
 
@@ -11162,6 +12741,8 @@ I hope as I do this that the attention of the Government will focus itself on th
 
 * I suggest that the way this Government is heading, in scrapping defence and putting emphasis on **welfare**, we will see the day when we will be as ill-prepared to defend ourselves or to honour our commitments as we were in 1939.
 
+* The 2 people in charge of implementing this idea, from the local Community **Welfare** Consultative Council- Gerry Govier and Arthur Mortimer- were able to entertain these 300 people from Port Adelaide, who came from an area which, as I said, has no library, to have a look at the most up-to-date facilities that can be provided for the public.
+
 * The **welfare** of the Australian people was suffering instead of benefiting.
 
 * Without such orderly development we in the Aus.tralian Labor Party cannot hope to achieve the **welfare** policies that we are so bent on achieving.
@@ -11182,6 +12763,8 @@ I hope as I do this that the attention of the Government will focus itself on th
 
 * I rise to join in this cognate debate and to support the Government in its moves to improve the **welfare** of those who benefit under this legislation.
 
+* The figures given to the Senate Standing Committee on Health and **Welfare**, dealing with retardation, in 1971 put the number of mentally retarded Victorians at between 70,000 and 71,000.
+
 * The Handicapped Children (Assistance) Bill opens the way, as I prefaced my introduction, **r local government to contribute to the **welfare** of the handicapped.
 
 * The advice tendered to me by these senior officers, who have had considerable experience in the handling of social **welfare** cases, is that at this stage the facts do not justify the repatriation of that family at Commonwealth expense.
@@ -11194,6 +12777,8 @@ I hope as I do this that the attention of the Government will focus itself on th
 to ascertain, and report to the Minister on, the social **welfare** needs of the community and to make recommendations to the Minister in respect of those needs; 
 to make recommendations to the Minister for furthering the achievement of a nationally integrated social **welfare** plan - 
 Paragraph (a) states that the Commission is to report to the Minister.
+
+* I have searched the Bill to see whether there is a requirement for this Social **Welfare** Commission - that is a rather awe inspiring concept - to report to the Parliament and not only to the Minister.
 
 * Sub-paragraph (vi) of paragraph (b) states: recommendations for avoiding the duplication of social **welfare** programs - 
 This seems to me to indicate the elimination or abolition of some of the existing social **welfare** programs.
@@ -11208,6 +12793,10 @@ What is the Department of Social Security for?
 
 * It has been able to advise the respective Ministers and the governments of the day with great expertise on social **welfare** programs and problems, aided of course by information obtained from interdepartmental committees comprising its own representatives and those from other departments.
 
+* It seems extraordinary to me to have a provision in a Bill to give a blank cheque to an organisation such as the Social **Welfare** Commission to set up a committee on any matter and the committee can have any number of members.
+
+* I feel it my duty to point out some flashing red lights and register warnings about what could happen under this particular provision concerning the establishment of the Social **Welfare** Commission.
+
 * These must soon damage the whole structure of industry, commerce, banking and finance and social **welfare** activities in this country.
 
 * Real wages are down because the Government has transferred the cost of health, **welfare** and other traditional public expenditure programs to the individual.
@@ -11220,7 +12809,12 @@ What is the Department of Social Security for?
 
 * It therefore is quite clear as stated in the Labor Party's proposed amendment that the Budget provides no framework for improving the standards of health and **welfare** and no national plan for our capital cities.
 
+* The following 'Job Description' for community advisers located on pastoral properties was drawn up when the scheme was originally established in1969 by the **Welfare** Division of the Northern Territory Administration, and would have been given to  Mrs Tapp  on her appointment: 
+Encourage group cultural, social and recreational activities amongst Aboriginal women and their families along lines tending to conventionally accepted patterns; act as a bridge between women and girls of Aboriginal and European descent providing common activities, e.g.
+
 * school **welfare** associations in which both groups can participate equally.
+
+* No, oversight and assessment has been carried out during periodical visits to Killarney Station by officers of the **Welfare** Division and latterly the Department of Aboriginal Affairs.
 
 * My Department is negotiating with the NT Government on alternative arrangements to meet the **welfare** needs of people living on pastoral properties.
 
@@ -11250,7 +12844,11 @@ What is the Department of Social Security for?
 
 * I support the Labor Party's programme to set up autonomous regional departments of **welfare** which will involve the co-operation of State, local and Federal authorities.
 
-* We urge too that consideration be given to the **welfare** of the mentally and physically handicapped and I hope that full notice will be taken of the recent inquiry carried out by the Senate Standing Committee on Health and Welfare into this subject.
+* We urge too that consideration be given to the **welfare** of the mentally and physically handicapped and I hope that full notice will be taken of the recent inquiry carried out by the Senate Standing Committee on Health and **Welfare** into this subject.
+
+* The Government recently accepted a recommendation by the Committee of Inquiry into Aged Persons Housing, set up by the Social **Welfare** Commission, that homes which have received, or are applying for, subsidy under the Aged Persons Homes Act be required to forward a copy of their rules to the Director-General of Social Security and that any rule which the Director-General considers to be repressive or contrary to normal civil liberty should be the subject of discussion with a view to amendment.
+
+* On 3 October departmental officers and 2 statisticians briefed the Opposition **Welfare** Committee.
 
 * The debate is catalysed by irregular but frequent changes to health financing arrangements by the Commonwealth Government of the time, sometimes for reasons of community health and **welfare** and sometimes to help balance the books.
 
@@ -11267,6 +12865,8 @@ This sort of cynical standard ought to be rejected, and we ought to have identif
 
 * They are extremely valuable because they create an informed mind and help to develop a suitable climate for more positive reception of proposed changes in social **welfare** thinking.
 
+* In any event, I did quite a bit of reading in the public library in Brisbane, and one of the most influential documents I read was a report on this subject by the British Ministry of Social **Welfare**.
+
 * Given the secrecy which shrouds so much of what is done by Government departments which are noi associated with strategic factors, such as defence - health cannot be put into this category, nor can social **welfare** - and given the fact that when the Government does make an inquiry it keeps its information confidential, it is awfully difficult for ordinary members of Parliament - back benchers on the Government side, and front and back benchers on this side - to delve out the sort of information they need if they are to make valid conclusions on important matters of legislation in this House.
 
 * This just is not good enough and ii is nol the way in which we ought to be proceeding in our deliberations on important social **welfare** policy.
@@ -11277,6 +12877,8 @@ This sort of cynical standard ought to be rejected, and we ought to have identif
 
 * That is the view of two overseas experts - not people with a political axe to grind if that is the way in which my approach might be interpreted, but people who, out of human compassion and because of their professional training, are concerned about the **welfare** of the mentally retarded.
 
+* Referring to education, I now want to quote from the 15th Annual Report of the Queensland Subnormal Children's **Welfare** Association.
+
 * Is that the measure of the human compassion which motivates the social **welfare** policy of the Government?
 
 * This gives concern to those responsible for their **welfare**.
@@ -11285,11 +12887,24 @@ This sort of cynical standard ought to be rejected, and we ought to have identif
 
 * In Queensland it is notorious that when the Federal Government provided age pensions for those people in mental institutions the State Government immediately moved in and charged those people rent and board for occupation of the premises and it did not divert the money released in this way into increased benefits, **welfare** services or activities in the mental, institutions.
 
+* For instance, I believe the Opposition has been effectively taken to task by the Australian Greek **Welfare** Society, which is hardly a front for the Liberal Party.
+
+* In a media release last week, when the Opposition sought to stir issues along, the Australian Greek **Welfare** 
+The Society anticipates that  Mr Georgiou  will make significant contributions to the work of the Ethnic Television Review Panel to which he is secretary.
+
+* It is a temporary appointment which meets with the full satisfaction of the  Chairman  of the Ethnic Television Review Panel,  Mr Frank  Galbally, and it is one which the Australian Greek **Welfare** Society has greeted.
+
+* If I might go on to mention one more; the  President  of the Australian Yugoslav **Welfare** Society has also said that that Society fully supports the appointment.
+
+* Is it a fact that the position of Director of Social **Welfare**, Northern Territory Administration, has no permanent occupant.
+
+* Has the Public Service Board been asked to give a certificate in accordance with section 38 of the Public Service Act in relation to the position of Director of Social **Welfare**, Northern Territory Administration.
+
 * and (2) As the honourable gentleman will be aware, the Government has determined that new **welfare** initiatives should be sponsored under the umbrella of the Australian Assistance Plan.
 
 * The multi-purpose **welfare** centres originally proposed for Sydney and Melbourne were envisaged as being of a pilot nature, and would have provided one means of experimenting with ways of rationalising local services.
 
-* The Social Welfare Commission will be examining a great number of proposals for assistance under the Plan and will carefully consider the need for **welfare** centres in relation to other proposals.
+* The Social **Welfare** Commission will be examining a great number of proposals for assistance under the Plan and will carefully consider the need for **welfare** centres in relation to other proposals.
 
 * I have every faith in the Minister for Social Services and in his genuine concern for the **welfare** of people who are dependent upon the Government for assistance.
 
@@ -11336,6 +12951,10 @@ This Government has shown a consistency of purpose in its adherence to stated an
 
 * In all areas of maintenance work- painting, structural repairs and plumbing- there is sufficient work to ensure a continuity of employment for some time not in the provision of new homes but in making existing **welfare** homes comparable to the homes supplied by private enterprise.
 
+* Whilst this may have meant a few weeks delay, and whilst we have been getting a second opinion on the matter and also asking the Fry Committee to discuss this question with the Social **Welfare** Commission to see what can be done to accelerate the whole program, the whole intention of the Government is to accelerate.
+
+* One of the inquiries to which I just referred is in the hands of the Senate Standing Committee on Health and **Welfare**.
+
 * The intention of the AMA seems to be to destroy the repatriation system or to water down its **welfare** provisions to such a degree that it forfeits all meaning.
 
 * All social **welfare** systems are open to abuse.
@@ -11348,9 +12967,21 @@ This Government has shown a consistency of purpose in its adherence to stated an
 
 * Certainly the special rate and intermediate rate pensioners and widows would be entitled to social **welfare** benefits.
 
+* Only this week have we received the report of the Social **Welfare** Commission - the Coleman report - and also the report of the Priorities Review Staff.
+
 * Of course, it takes time to arouse interest in the community and some local government organisations are very tentative at the present time in relation to the support that should be given to embarking  upon any further projects in the social **welfare** field.
 
 * Its failure after more than two years to come to grips with what is fundamentally wrong in the economy is the reason why so much else is  wrong in  the areas of employment, social **welfare**, education, health, migrant **welfare**, farm industry, mining, manufacturing, the motor industry, and Aboriginal programs.
+
+* The terms of this recommendation are now receiving priority attention from the Aboriginal Affairs Co-ordinating Committee Health sub-committee which includes representatives of the Alcohol and Drug Authority, Community Health Services and the Department for Community **Welfare**.
+
+* Agreement has been reached between the State Housing Commission and the Department for Community **Welfare** to give priority in towns where reserve closure is planned and applicants appear to have potential.
+
+* Houses for use as training centres have been offered to the Department for Community **Welfare** by the State Housing Commission.
+
+* The Department for Community **Welfare** has indicated its intention to appoint as many homemakers as are required subject only to the availability of suitable personnel.
+
+* The Commission does obtain views of other agencies, including the Department for Community **Welfare** but does not accept that any other agency can determine standards for tenants.
 
 * These local government bodies are becoming heavily involved in social **welfare**, conservation, child care and the provision of pre-school facilities.
 
@@ -11382,6 +13013,8 @@ This Government has shown a consistency of purpose in its adherence to stated an
 
 * -In this important discussion of the estimates for the Department of Aboriginal Affairs, I take the opportunity of pointing out to the Committee the very positive advances effected in very difficult times by a very competent Minister for Aboriginal Affairs  (Mr Viner)  and by a government that has demonstrated its concern and compassion for the needs and **welfare** of Aboriginal people.
 
+* I spoke earlier this evening in the discussion on the estimates for the Department of Social **Welfare**.
+
 * I mentioned in the general comments that I made in that area the different needs of Aboriginals and the fact that one cannot apply the normal sorts of criteria for determining the way in which **welfare** requirements and community development needs of Aboriginal communities can be accommodated.
 
 * It is disappointing to me to have to follow the honourable member for Capricornia  (Dr Everingham)  when he merely sees the **welfare** of Aboriginals in terms of the provision of funds and the provision of such funds in greater amounts.
@@ -11394,7 +13027,11 @@ This Government has shown a consistency of purpose in its adherence to stated an
 
 * The expression 'child of a marriage' has been limited to the natural or adopted children of both parties to the marriage, although the existing, wider meaning has been retained for the purposes of section 63, which prevents a divorce becoming absolute unless the court is satisfied as to the **welfare** of children of the marriage.
 
+* This would make sure, for example, that the Department for Community **Welfare** in South Australia may continue to take maintenance proceedings on behalf of persons to whom it pays pension.
+
 * Two amendments in the child **welfare** area have been included in the Bill at the request of the former New South Wales Government.
+
+* One of these ensures that a child who is under the guardianship of a State or Territory Director of Child **Welfare** while awaiting adoption cannot be the subject of a maintenance or custody order except in special circumstances.
 
 * At present the Act confines this exemption to children who are under the care and control of a Minister pursuant to State or Territory child **welfare** legislation.
 
@@ -11456,6 +13093,12 @@ That is to say, it is possible on occasions to use **welfare** expenditures as a
 
 * Today I had the privilege of presenting to the Parliament a petition on behalf of those people, as did another Western Australian, the honourable member for Forrest  (Mr Kirwan),  requesting that earnest consideration be given to the crisis in Aboriginal **welfare** which exists in Western Australia, that urgent attention be given to providing town housing to all Aboriginal families with a breadwinner, and that further **welfare** assistance in the form of homemaker assistance, that is, a **welfare** officer to guide them in home settlement, be given.
 
+* There are some 364 applications for Aboriginal housing held by the Native **Welfare** Department in Perth alone.
+
+* We can only hope that the State Housing Commission or the Native **Welfare** Department can help them for they and others have walked the streets of Perth and met with refusal after refusal.
+
+* Must we tolerate such a situation that when a doctor prescribed to an invalid pensioner, a native, that he leave Narrogin in the country to go to Perth to receive weekly treatment at the city hospital the patient was told by some bureaucrat in the Native **Welfare** Department to return to the country reserve as there was no hope of city accommodation?
+
 * Though appreciated, it underlines our laxity in this field and without question leaves this country open to international criticism in the field of Aboriginal **welfare**.
 
 * But what amazes me is that the people responsible for the **welfare** of these Aboriginals accept this as a matter of course.
@@ -11494,11 +13137,26 @@ That is to say, it is possible on occasions to use **welfare** expenditures as a
 
 * When this and schemes such as the home care programme, the aged persons homes scheme, the sheltered employment scheme and the Commonwealth rehabilitation scheme are taken into account it is clear that the Government is most concerned about the **welfare** of the less fortunate members of our community and has taken effective action to improve it.
 
+* Her opinions conflicted with those of representatives of the Northern Territory **Welfare** Branch.
+
+* 3m and that could be doubled if all the recommendations of the witnesses which conflicted with the views of the **Welfare** Branch were implemented.
+
+* The **Welfare** Branch is trying to discourage this practice but I think more vigorous efforts could be employed to abolish it.
+
 * There have been broken promises on **welfare** and social security.
 
 * I have said repeatedly that essential programs in health, education, **welfare** and urban development will be maintained.
 
 * But, as I have said, the Labor Party wants to degrade it because it wants it to be a **welfare** organisation.
+
+* The Bill would provide for the Minister for Mines to have authority to consent or withhold consent from mining activity taking place on Aboriginal reserves after consideration of a recommendation from the Minister for Community **Welfare**.
+
+* The Western Australian Government has indicated its intention to amend the AAPA Act to give the Minister for Community **Welfare** final authority on the issue of reserve entry permits.
+
+* The State Social **Welfare** Minister,  Mr Dixon,  telegrammed two Federal Ministers warning of the possibility of family breakdown if the benefits were not paid.
+
+* The State 's Minister for Social **Welfare**,  Mr Dixon,  - 
+In supporting the amendment I want to make a few points about the Bill.
 
 * It seems to me that we have reached the situation where the Government rarely accepts full responsibility with regard to any field of social **welfare**.
 
@@ -11526,6 +13184,8 @@ That is to say, it is possible on occasions to use **welfare** expenditures as a
 
 * It may well be that the recommendations in the Bailey and Holmes reports are sounder in **welfare** terms than what the bureaucracy is proposing and the Minister should not cut off these options.
 
+* Reports from the Pre -School Committee and the Social **Welfare** Commission were examined.
+
 * Does the Prime Minister feel that his Government's reluctance to take any positive steps to assist in Timor is consistent with his own and his Government's proclaimed concern for humanitarian causes and the **welfare** of the developing world?
 
 * Subsidiesthis is mainly the area in which such a scheme has been criticised- become necessary only to sustain a price stabilisation scheme where the marketing organisation deliberately incorporates a **welfare** component in its floor price.
@@ -11552,7 +13212,9 @@ That is to say, it is possible on occasions to use **welfare** expenditures as a
 
 * This is a social **welfare** area and some serious examination should be undertaken of the means by which such children can be placed on the same basis as other children.
 
-* The National Commission on Social Welfare will, no doubt, have regard to other **welfare** inquiries that have been, or are being made.
+* National Commission on Social **Welfare**.
+
+* The National Commission on Social **Welfare** will, no doubt, have regard to other **welfare** inquiries that have been, or are being made.
 
 * That Department has direct outlays in the field of social security and **welfare** for this year estimated at some $4,772m.
 
@@ -11586,12 +13248,20 @@ That is to say, it is possible on occasions to use **welfare** expenditures as a
 
 * Let us look at the type of **welfare** proposal that has come from the Government.
 
+* Yesterday the Family **Welfare** Bureau in New South Wales had its annual meeting and closed its doors.
+
 * I regard the closing down of the Bureau, a voluntary social **welfare** organisation in New 
 South Wales, as a national disgrace.
 
 * It was formed to provide **welfare** for ex-servicemen and their dependants.
 
+* The Family **Welfare** Bureau in fact did receive grants from numbers of Government departments.
+
 * It is a sum which in the social **welfare** field I believe we cannot afford to lose.
+
+* I know from my own involvement in the Provisional Committee in Parramatta that the social worker from the Family **Welfare** Bureau was endeavouring to assist in the promotion of that plan in the Parramatta district with a view to participation in it.
+
+* Although the late  Mrs Henry,  who I understand was one of the senior officers in the department in Sydney, discussed these matters at length with the senior officers of the Family **Welfare** Bureau, no means could be found whereby money could be made available for social workers to be maintained in their present positions and for this valuable organisation to be able to continue to exist.
 
 * It may well be in the plan of this Government that voluntary organisations should be done away with and should be seen as being no longer important in the plan of things for providing and meeting **welfare** needs.
 
@@ -11609,7 +13279,9 @@ South Wales, as a national disgrace.
 
 * Without a comprehensive survey of the social **welfare** needs of our nation we do not know, to the extent that we should know, just what other services such an organisation should be giving to the elderly people of our nation.
 
-* It is interesting to note that it was with Miss Doris Taylor on the Social Welfare Advisory Council in South Australia that I first came across the great need for a social **welfare** survey.
+* It was my privilege to meet Miss Taylor when we were both appointed as the first members of the Social **Welfare** Advisory Council in South Australia which was set up under the Labor Government's new Social **Welfare** Act in 1965.
+
+* It is interesting to note that it was with Miss Doris Taylor on the Social **Welfare** Advisory Council in South Australia that I first came across the great need for a social **welfare** survey.
 
 * The emphasis placed on the paramountcy of a child's **welfare** in custody proceedings is important.
 
@@ -11625,7 +13297,7 @@ South Wales, as a national disgrace.
 
 * Labour and materials that would have gone into erecting city office blocks later to be only half tenanted can be diverted into public programs such as schools, hospitals, **welfare** housing, local government and regional development, community building and sewerage works.
 
-* 1 ) As the Acting Prime Minister announced in his press statement of 23 July when releasing details on the establishment, including the Terms of Reference, of the Task Force on Co-ordination in Welfare and Health, the members of the Task Force are: 
+* 1 ) As the Acting Prime Minister announced in his press statement of 23 July when releasing details on the establishment, including the Terms of Reference, of the Task Force on Co-ordination in **Welfare** and Health, the members of the Task Force are: 
 Against the background of the Government's Federalism policy and its concern at the proliferation and overlap of Commonwealth services and programs in the health, **welfare** and community development fields, the Task Force shall examine and report on- 
 the identification of particular services and programs, currently being undertaken by the Commonwealth, in the health, **welfare** and community development fields, which could be better delivered by a State, local government or voluntary agency and the administration of which could be transferred to the States; 
 the possibilities for elimination of individual programs and consolidation into broader based programs in a manner which enables more efficient and economic delivery whether by the Commonwealth or the States, and the establishment of appropriate consultative arrangements with the States, local government and voluntary agencies on future policy planning, administration and service delivery in the health, **welfare** and community development fields; 
@@ -11652,6 +13324,10 @@ take account of views expressed by consumer groups and voluntary agencies, notin
 * I think in those short words in this Estimates debate I have shown the vital significance of the policy of interdependence for the **welfare** of Australia's overseas trade.
 
 * Commonwealth Government grants to autonomous health, education and **welfare** organisations in Australia for capital purposes totalled $14m in 1969-70.
+
+* In his election policy speech he said that the Labor Party's child care program reflected the recommendations of the Australian Prc-schools Committee, the Australian Social **Welfare** Commission and the Priorities Review Staff.
+
+* Were the recommendations consistent with those contained in the report of the Social **Welfare** Commission which advocated an expenditure of $130m in the 1974-75 year?
 
 * It is humanely and economically senseless to spend $ 1,000m this year on **welfare** payments to unemployed people while there is so much important socially useful work that needs to be done and which could provide gainful and satisfying jobs for the unemployed.
 
@@ -11681,9 +13357,19 @@ take account of views expressed by consumer groups and voluntary agencies, notin
 
 * resources and no end to the chronic **welfare** problems that the capitalist system has to face.
 
+* For the purposes of this Act, there is hereby established a Commission by the name of the Social **Welfare** Commission .
+
 * I believe that the people of Australia should have been informed that a social **welfare** commission would be established if the Australian Labor Party was elected, because this would have indicated that another government department would be established entailing the appointment of the head of the department,  deputy  heads and various other personnel.
 
 * But the Prime Minister  (Mr Whitlam)  made no mention of a social **welfare** commission in his policy speech.
+
+* He said that an Australian assistance plan would be introduced but he made no mention at all of the fact that it would be necessary to establish a commission by the name of the Social **Welfare** Commission.
+
+* This is going to be a function of the Social **Welfare** Commission.
+
+* It has sent out loose leaf notices telling people to write to the Social **Welfare** Commission if they want further reports.
+
+* It is actually asking people to write to the Social **Welfare** Commission, which has not yet been established.
 
 * So we need this **welfare** housing and we need it desperately.
 
@@ -11743,6 +13429,8 @@ take account of views expressed by consumer groups and voluntary agencies, notin
 
 * The main problem is arising probably because of a failure to mesh in the mental health services concept with the concept of social **welfare** services, also on a community basis.
 
+* Rice in a publication 'Estimating the Cost of Illness', issued by the United States Department of Health, Education and **Welfare** in 1966, estimated that mental illness alone in the United States cost $7 billion in 1963.
+
 * Day by day we see the efforts that are made in respect of this and other matters of social **welfare**.
 
 * There is one other matter which I think is a crying shame when we consider social **welfare** requirements.
@@ -11763,11 +13451,15 @@ take account of views expressed by consumer groups and voluntary agencies, notin
 
 * I think it is a great pity that it has used Aborigines and the **welfare** of Aborigines to chastise the Queensland Government on a matter that can only be an opinion.
 
+* 1 ) What is the current status of the North West one stop **Welfare** Centre (the NOW Centre).
+
 * Will provision be made for further one stop **welfare** centres.
 
 * Will the Minister establish a one stop **welfare** centre in the City of Northcote, Victoria.
 
 * I hasten to add that local authorities in the United States and Canada have responsibility, of course, for functions such as police and justice, health and **welfare**, housing and urban renewal and in some cases, education which Australia does not have.
+
+* I refer firstly to the Municipal Association of Victoria and its approach to the first Bailey report from the Commonwealth Task Force on co-ordination in Health and **Welfare**.
 
 * I respectfully agree with the Municipal Association m its conclusion that the implications of the Bailey report recommendations are wide-ranging and of substantial significance to the delivery of health and **welfare** in this country.
 
@@ -11783,9 +13475,13 @@ take account of views expressed by consumer groups and voluntary agencies, notin
 
 * After all, in its own way this is a **welfare** measure.
 
+* A major consideration in any proposal to expand the present benefits is the additional burden which would necessarily be placed on Australian taxpayers who, in 1970-71, provided from the National **Welfare** Fund $427m for expenditure on National Health alone.
+
 * I think it is true to say that for very many years it was believed that it was the responsibility of the Government to reduce or to eliminate freedom from fear and freedom from want and that consequently the pensioner should be entitled to have confidence in the fact that he would in moments of anguish and trial be assured of a base pension that would cover, first of all, the basic necessities and later on the conventional necessities such as housing, food and clothing, health and **welfare** services and similar types of necessities.
 
 * In the rather general way in which one talks about **welfare** support programs, that is a **welfare** support program.
+
+* **Welfare** housing policies of the previous Labor Government ignored those within the community who were in greatest need.
 
 * The honourable member for Reid mentioned **welfare** housing.
 
@@ -11832,9 +13528,11 @@ If granted permissive residence the Administrator of Papua New Guinea usually ar
 
 * The Housing Agreement was a great milestone in the history of **welfare** housing in this country and I hope to see a lot more Government enthusiasm about its future than we have seen today.
 
+* I am told that the annual State budget of the administering authority - the Maternal, Infant and Pre-school **Welfare** Division of the Department of Health - will be about $5m this year.
+
 * I think it is true to say that most of the blame- if 'blame' is the right word- for that rests with his colleagues rather than my own because one can look at the record of the Tonkin Labor Government in Western Australia and see that long before there was a massive provision of federal funds in the field of Aboriginal affairs the Tonkin Labor Government had managed to make great strides in terms of Aboriginal policy and Aboriginal **welfare**.
 
-* Most of the **welfare** activities of that Department were taken over by the Department of Community Welfare.
+* Most of the **welfare** activities of that Department were taken over by the Department of Community **Welfare**.
 
 * Alongside this **welfare** network was set up the Aboriginal Affairs Planning Authority, which anticipated or at least pre-dated the approach that the Australian Government is taking in trying to regionalise Aboriginal affairs.
 
@@ -11861,12 +13559,16 @@ I repeat that in a year of budgetary restraint there has been an increase of 7 p
 
 * The experience includes environmentally relevant work relating to water, sewerage, soil conservation, transport, industrial wastes, air pollution, biological ecosystems, urban planning, mathematical modelling, **welfare** economics, health physics, radio-activity, agriculture, forestry, fishing, plant pathology and natural history.
 
-* What steps have been taken, as recommended by the Senate Standing Committee on Health and Welfare in its report tabled on Stb May 1971 on Mentally and Physically Handicapped Persons in Australia, (a) to co-ordinate those functions relating to the health, **welfare**, education and employment of handicapped persons at present being exercised by the Departments of Health, Social Services, Labour and National Service, Interior, Education and Science and Repatriation, and (b) to collaborate with the States on legislation and services for the handicapped.
+* What steps have been taken, as recommended by the Senate Standing Committee on Health and **Welfare** in its report tabled on Stb May 1971 on Mentally and Physically Handicapped Persons in Australia, (a) to co-ordinate those functions relating to the health, **welfare**, education and employment of handicapped persons at present being exercised by the Departments of Health, Social Services, Labour and National Service, Interior, Education and Science and Repatriation, and (b) to collaborate with the States on legislation and services for the handicapped.
+
+* For a start I wish to read a few extracts from the report of the Senate Standing Committee on Social **Welfare** entitled: Drug Problems in AustraliaAn Intoxicated Society?
 
 * The opening paragraph says: 
 Ten per cent of Commonwealth revenue to local government for general activities which now include social **welfare**, health, conservation and other community needs.
 
 * Royal Commission or other form of public inquiry into Australia's social **welfare** structure that Australia may be brought into line with accepted world standards of the most advanced countries.
+
+* I refer the House to the report of the Senate Standing Committee on Social **Welfare**.
 
 * At page 1 , the report states: 
 In Australia, we have little idea of whether our health and **welfare** efforts are appropriate, effective, efficient, or equitable.
@@ -11892,6 +13594,10 @@ In order to achieve an efficient, effective national and equitable health and **
 * So much productive and useful work could be done in that area in the public sector rather than having people paid out in social **welfare** benefits.
 
 * In the field of **welfare** housing, in Victoria there are waiting lists of 1 8,000 people who have to wait four or five years for such housing.
+
+* However, I understand that officers of  my  Department co-operated to the fullest possible extent with the Senate Standing Committee on Health and **Welfare** and supplied it with all information that was required and that was available.
+
+* What is the reason for not allowing the Health, Social **Welfare** and Repatriation Committee of the Federal Parliamentary Labor Party to see the video-taped programme.
 
 * I am greatly honoured and, in gladly assuming the responsibility, I would like to say that the **welfare** of every person within the electorate shall at all times be my total concern and care.
 
@@ -11920,6 +13626,9 @@ In order to achieve an efficient, effective national and equitable health and **
 * Yet the Australian Government deliberately aggravates the problem in Western Australia and Tasmania by increasing the amounts given to those States for **welfare** housing, thereby adding further to the strains on the dwelling sector in those States.
 
 * There has been no increased allocation for **welfare** housing in that State which needs industry assistance, needs more employment opportunities and needs more **welfare** housing.
+
+* The Standing Committee on Health and **Welfare**; 
+I agree that this is perhaps a change of some magnitude in the procedures of the Parliament and that perhaps it should not be entered upon lightly, but I believe also that the proposition contains no real dangers to the parliamentary institution.
 
 * So the following divisions are suggested: A standing committee on foreign affairs and defence, a standing committee on finance and trade, a standing committee on health and **welfare**, a standing committee on primary industry and national development, a standing committee on transport and communications, a standing committee on education, science and the arts, and a standing committee on legal, home and internal territory affairs.
 
@@ -11953,6 +13662,12 @@ In order to achieve an efficient, effective national and equitable health and **
 
 * The Government has been very concerned that funds made available for **welfare** housing have remained unspent considering that there has been such a large number of outstanding applications for Housing Commission homes.
 
+* South Australia: Minister for Community **Welfare** 
+Western Australia: Minister for Health and Community **Welfare** 
+State: Office of the Minister for Ethnic Affairs, Education Department, Housing Department, Health Services Department, Social **Welfare** Department.
+
+* Housing Commission, Treasury Department, Department of Community **Welfare**.
+
 * It was said in a leading daily this week that Australia's future development, Australia's wealth, the money that we get to spend on all of the other items contained in the Budget whether they be **welfare**, education or whatever else, comes from the pastoral and mining industries.
 
 * Those States are responsible for a balance of payments and an export market which provide for the **welfare** and health requirements of southern Australia.
@@ -11970,6 +13685,8 @@ In order to achieve an efficient, effective national and equitable health and **
 * In previous debates I have mentioned what I think is a definite need in the field of Aboriginal **welfare**.
 
 * -I know the honourable gentleman to be most solicitous of the **welfare** of his constituents.
+
+* -The answer to the honourable member's question is as follows:  (1)1 understand that in September 1 978 the United States Department of Health, Education and **Welfare** (DHEW) began an extensive campaign to promote the seeking of second opinions before surgery, particularly for Medicare and Medicaid beneficiaries.
 
 * While the Government was stimulating the private sector, cutbacks were occurring in health, education and **welfare** areas of the Budget.
 
@@ -11993,9 +13710,13 @@ In order to achieve an efficient, effective national and equitable health and **
 
 * One would have imagined that in a piece of **welfare** legislation of this kind we would have been setting out in some way to remedy the deficiencies, or the most obvious deficiencies, that exist.
 
+* **Welfare** workers attached to Meals on Wheels services in my own area have indicated to me that they would be strongly in support of the provision of meals at such centres.
+
 * People who are involved in this business of providing Meals on Wheels, particularly **welfare** officers who are employed by such services, feel that a lot more should be done to advertise the existence of Meals on Wheels services, not only to attract good civic minded people to come and help in the provision of such meals but also to bring this service to the notice of a great many more people.
 
 * The point was made to me also by these liaison officers and **welfare** officers that provision ought to be made for a good deal more communication and discussion between **welfare** officers and the like from different areas.
+
+* It was called the Old Peoples **Welfare** Council.
 
 * The **welfare** officers do not feel that this is sufficient.
 
@@ -12024,13 +13745,21 @@ This matter was discussed within the Cabinet of the previous Government and it w
 
 * I believe that a stimulus to the public sector, particularly in the **welfare** area, would provide a stimulus to the economy.
 
+* I present the Second Report of the Task Force on Co-ordination in **Welfare** and Health entitled 'Consultative Arrangements and the Co-ordination of Social Policy Development'.
+
+* Honourable members will recall that the Prime Minister  (Mr Malcolm Fraser)  tabled the First Report of the Task Force on Co-ordination in **Welfare** and Health on 17 February 1977.
+
 * This second and last report of the Task Force covers those terms of reference not reported on in the First Report and makes recommendations in these major areas: Firstly, it recommends a new approach to consultative arrangements across the fields of health, **welfare** and community development involving the establishment of a new national consultative council; secondly, better co-ordination of social policy development through a small social policy unit for a separate department under a senior Minister and a Cabinet committee with a supporting officials committee; and finally, the need for a review of co-ordination of health, **welfare** and community development services in the mainland Territories.
 
-* On 19 December 1977 the Prime Minister announced that a social **welfare** policy secretariat would be established and that it would work through a Committee of Permanent Heads to the Social Welfare Policy Committee of Cabinet.
+* On 19 December 1977 the Prime Minister announced that a social **welfare** policy secretariat would be established and that it would work through a Committee of Permanent Heads to the Social **Welfare** Policy Committee of Cabinet.
+
+* The Government has decided that the new Secretariat should be responsible, through the Permanent Heads Committee to the Cabinet Committee, for follow-up, as necessary, of any outstanding matters on the First Report of the Task Force on Co-ordination in **Welfare** and Health.
 
 * I have no doubt that that policy pursued is in the great interests of the **welfare** of our economy and of the Australian people.
 
 * Despite a weak and ineffective attempt to discredit the Budget, they have found it difficult, if not impossible, to launch an assault upon this Government's imaginative and comprehensive range of **welfare** provisions.
+
+* All 3 Bills should be seen against the backdrop of the work at present being carried out by the Interim Committee of the Social **Welfare** Commission and the proposed Australian assistance plan.
 
 * The inclusion of home care services, the building of senior citizens centres and the employment of **welfare** officers in association with these centres could only be applauded as one of the more enlightened concepts of the previous Administration.
 
@@ -12046,7 +13775,7 @@ This matter was discussed within the Cabinet of the previous Government and it w
 
 * I am, of course, aware that other municipalities have, notwithstanding the difficulties I have mentioned, appointed social workers and **welfare** officers to work in the general field.
 
-* I must, however, concede that a more integrated program of **welfare** services, such as that outlined in the Australian Assistance Plan prepared by the Interim Committee of the Social Welfare Commission recently tabled in the House, is likely to be much more beneficial to the municipality I have instanced.
+* I must, however, concede that a more integrated program of **welfare** services, such as that outlined in the Australian Assistance Plan prepared by the Interim Committee of the Social **Welfare** Commission recently tabled in the House, is likely to be much more beneficial to the municipality I have instanced.
 
 * to the creation of a society which offers equality of opportunity, security and assistance to those who suffer from special disabilities ... we want to create a system of **welfare** services and benefits which is not class tainted and whose provisions are not stigmatised as charitable concessions to the deserving poor.
 
@@ -12070,7 +13799,9 @@ This matter was discussed within the Cabinet of the previous Government and it w
 
 * In regard to the vital rail projects further out along the eastern rail route the Victorian Government was insufficiently interested in the **welfare** of the people of that area to provide the Bureau of Transport Economics with the information on which alone an allocation of funds could responsibly be provided.
 
-* As pointed out by the paper on family **welfare** published by the Social Welfare Commission, Australia lacks a coherent family policy.
+* The Social **Welfare** Commission in its report entitled 'Project Care- Children Parents Community' put greater emphasis on the urgent need for good quality custodial care and other childhood services, especially for those in greatest need.
+
+* As pointed out by the paper on family **welfare** published by the Social **Welfare** Commission, Australia lacks a coherent family policy.
 
 * How many graduates have enrolled to undertake Ph.D. courses in (a) physics, (b) chemistry, (c) biology, (d) geology (e) geography, (f) psychology, (g) social **welfare** and (h) mathematics at each university in Australia in each of the last 10 years?
 
@@ -12081,6 +13812,8 @@ This matter was discussed within the Cabinet of the previous Government and it w
 * This can be advanced into our Aboriginal population - I feel it cannot go very quickly but still it is going - and these people deserve a pat on the back for the efforts they along with the **welfare** committees in these places are making.
 
 * Such work includes water supplies for villages; construction of classrooms; electrification of hamlets; construction and improvement of hospitals; the building of 500 houses for regional force soldiers and their dependants; miles of road construction; medical assistance; and education, agricultural and social **welfare** work in many different areas of the province.
+
+* Who are the members of the Broadmeadows **Welfare** Advisory Committee and what organisations do they represent.
 
 * This motion calls for expenditure in respect of social **welfare** benefits.
 
@@ -12128,6 +13861,8 @@ This matter was discussed within the Cabinet of the previous Government and it w
 
 * The purpose of **welfare** advances to the States is to assist in this area, and the reduction in these advances in the Budget has meant that the housing commissions will be unable to continue at the same rate to build housing or rental accommodation for low income earners.
 
+* Section 5 of the National **Welfare** Fund Act, 1943-52, appropriates moneys required to pay age pensions and associated allowances at the rates authorised by the Social Services Act 1947- 72.
+
 * The reasoning behind them have no sound basis, they are prejudicial and reveal an appalling lack of thought given to the value of the services provided by civil aviation to Australia 's economic **welfare** and development.
 
 * This leads me to the general principle, but a false belief, adopted by some people that, because a country devotes a certain percentage of its gross national product to social **welfare** payments, the people of that country are better off.
@@ -12174,7 +13909,11 @@ This matter was discussed within the Cabinet of the previous Government and it w
 
 * The Opposition has challenged our policy on social **welfare**.
 
+* 1 ) Has a decision been made on assistance for hospital improvements at the Boddington Women's Hospital submitted by the Boddington Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department.
+
 * Can the Minister give an assurance that the Cabinet's decision will take into consideration the social and **welfare** implications of any economic adjustment to the industry and the decentralised communities it supports?
+
+* In addition, there is one position of Clerical Assistant, Grade 6, **Welfare** Officer, at Alice Springs Hospital in which at least 10 per cent of the occupant's time is spent dealing with clients in a language other than English.
 
 * Such a situation will lead to considerable effects in relation to the provision of **welfare** housing.
 
@@ -12191,6 +13930,8 @@ This matter was discussed within the Cabinet of the previous Government and it w
 * In 1974-75, $385m was advanced to the States by the Commonwealth for **welfare** housing.
 
 * I have shown in written form the real value of the money for **welfare** housing this financial year.
+
+* We had the Social **Welfare** Commission's report of about 1975 and a year or so later this Government appointed a task force to comment on that.
 
 * We have offered them money for a variety of social **welfare** purposes and again some States, particularly New South Wales and Queensland and to a lesser extent, I think, Victoria, have not taken up these offers and the people go without.
 
@@ -12214,9 +13955,13 @@ This matter was discussed within the Cabinet of the previous Government and it w
 
 * These are involved in social **welfare** policies.
 
-* They may be outside the precise considerations of the National Welfare Fund but they are concerned in Australian social **welfare**.
+* They may be outside the precise considerations of the National **Welfare** Fund but they are concerned in Australian social **welfare**.
 
 * It is obvious the people of Australia are vitally concerned about the **welfare** of some nine million East Pakistan refugees 'hat have crossed the border into India.
+
+* the parties have considered a reconciliation with the assistance of a marriage counsellor, an approved marriage guidance organization or some other suitable person or organization nominated by the Director of Counselling and **Welfare**; or 
+
+ (Mr Enderby)-In sub-clause (6) (a) after '**Welfare**', insert' of the Family Court'.
 
 * The Australian Assistance Plan, which is a program for community based regional social **welfare** programs administered at the local level, retains a high priority with the Government.
 
@@ -12294,6 +14039,9 @@ I can well appreciate the honourable gentleman's concern about the reports becau
 
 * In particular, they are detrimental to the **welfare** of the women who are dependent on this shelter.
 
+* The South Australian Community **Welfare** Minister,  Mr Payne,  said in State Parliament: 
+The next point that I want to make before dealing at some length with the proposal is that while we on the Opposition side of the House do not oppose the amendments, this should in no way be interpreted as an indication that we wholeheartedly endorse what has been proposed.
+
 * The improvement involved in the amendments is only minuscule in comparison with the needs for major overhaul in social service and social **welfare** provisions in the community.
 
 * This is especially so if the structure of the social **welfare** programme is to penetrate into the heart of what is called the poverty environment and overcome want and deficiency, and to help people to lift themselves up and participate at a level in the economy which will give them self respect and adequacy.
@@ -12315,6 +14063,8 @@ I can well appreciate the honourable gentleman's concern about the reports becau
 * In future every mother will be able to plan for her family's **welfare**, more confident in the knowledge that a Reserve Bank cheque will be paid direct to her in accordance with the scale.
 
 * The Citizens Advisory Service also acts as a focus for other **welfare** services.
+
+* Central Coast Social and **Welfare** Co-ordination Council  (Question No.
 
 * Here the overwhelming part of the gross product is comprised of wages and salaries paid to government employees in such areas as education, health, law, **welfare** and so on.
 
@@ -12378,6 +14128,8 @@ I can well appreciate the honourable gentleman's concern about the reports becau
 
 * Let me return very briefly to the question of Aborigines deciding primarily the conduct of their **welfare** or future negotiations between themselves and the Commonwealth Government.
 
+* Its purpose is to establish formally the Social **Welfare** Commission and to set out its powers and functions.
+
 * These reports referred to the preparations for a comprehensive Australian social **welfare** assistance plan.
 
 * I believe that in this very important area of social **welfare** for the nation, particularly the provision of assistance at the local level - a concept which is a new and exciting one - it is imperative that this Parliament should give of its time.
@@ -12388,11 +14140,25 @@ I can well appreciate the honourable gentleman's concern about the reports becau
 
 * I know that the social **welfare** needs of my outer suburban electorate are vastly different from the needs of the electorate of, say, the honourable member for Gellibrand  (Mr Willis),  which is an inner suburban area.
 
+* It is not wide enough to meet the wishes of the Council for Social **Welfare** which has ardently sought a comprehensive survey into social services.
+
 * I remember the Prime Minister, once removed, having said that he was ardently opposed to abolition of the means test and that a lot more attention should be given to those people on the lower rungs of social **welfare**.
 
 * Bill to establish a stable relationship between pensions and an index of community **welfare**.
 
+* It simply means that when people come to your office you have to refer them to the State **Welfare** Branch to get some kind of urgent relief pending the processing of a claim.
+
+* The Senate Standing Committee on Health and **Welfare** furnished  a  report on mentally and physically handicapped persons about IS months ago.
+
 * Further, will he urge the same Minister to ensure that the appointment of **welfare** officers by such organisations, as is proposed in the same annual report, is funded by the Government in addition to, and not in lieu of, assistance under the existing migrant social worker grantinaid scheme?
+
+* It is the transfer of funds from the National **Welfare** Fund to the Consolidated Revenue Fund.
+
+* I hope that in transferring funds from the National **Welfare** Fund to the Consolidated Revenue Fund no opportunity is taken to give a false idea of what the deficit would actually be.
+
+* Insofar as the funds which go into the National **Welfare** Fund were originally revenue, they have been invested in treasury bills at some modicum of interest- one per cent or so.
+
+* We have $3, 000m on the statement of the Treasurer  (Mr Lynch);  we have $470m-odd from the National **Welfare** Fund; and $700m will be available under the defence loan procedures.
 
 * The purpose of my speaking tonight is to assist the people of the Kilcoy area and that shire in their appeal to anybody who will help and to Brisbane's Lord Mayor to consider their safety and their **welfare** and to open, certainly under control, the flood gates to get the water level down.
 
@@ -12401,6 +14167,8 @@ I can well appreciate the honourable gentleman's concern about the reports becau
 * Much of the current thought on future planning stems from the many recommendations made at a Workshop on Health and Nutrition in Aboriginal Children held in Sydney in December 1969 and which was .attended by representatives of Universities, Public Health Departments and workers from **welfare** and social organisations.
 
 * Other **welfare** organisations have also been contacted.
+
+* There was a lot of correspondence and consultations between the Department of Native **Welfare** and the Department of Health in Western Australia, the AMA and the Commonwealth departments concerned.
 
 * It could provide work in community services, essential services for non-profit making bodies such as community **welfare** agencies or local government bodies.
 
@@ -12464,15 +14232,24 @@ The Minister explained to Parliament that 'the Government is in favour of making
 
 * Why should not the Catholic bishops, the Brotherhood of St Laurence and all the other social **welfare** agencies that carry this enormous burden speak up?
 
-* Section 10 of the Social Welfare Ordinance provides that it is the duty of the Director of Social Welfare, inter alia, to provide such assistance as in his opinion may be necessary or appropriate to promote the physical well-being of persons who, in his opinion, are socially or economically in need of assistance, and to exercise general care in matters affecting their **welfare**.
+* Section 10 of the Social **Welfare** Ordinance provides that it is the duty of the Director of Social **Welfare**, inter alia, to provide such assistance as in his opinion may be necessary or appropriate to promote the physical well-being of persons who, in his opinion, are socially or economically in need of assistance, and to exercise general care in matters affecting their **welfare**.
+
+* Availability of **Welfare** Grant monies- or 'Capitation'- is not an essential requirement for the functioning of Regional Councils.
 
 * It should not be used to make people increasingly dependent on **welfare** systems.
 
 * It aims to slow the rapidly escalating **welfare** budget through activities that: 
 start bringing about value changes that will result in a more harmonious community.
 
+* 4 Availability of **Welfare** Grant monies- or Capitation- is not an essential requirement for the functioning of Regional Councils: 4.1 Three year experience by Regional Councils that failed to gain capitation funding has indicated that this in no way precluded effective functioning.
+
+* 5 Lack of certainty regarding the future of Regional Councils is destroying three years effort at establishing community networks: 
+It is proposed that a fund of $500,000 be established for Community **Welfare** projects.
+
 * 7 We propose that the Federal and State Governments both acknowledge that Regional Councils facilitate involvement and effectiveness for their programs, and hence should be JOINTLY funded by both levels of Government: 
 The Committee considered that the Commonwealth now had to discharge a responsibility of government which did no; exist when the Constitution was originally framed, namely, to safeguard and promote the economic **welfare** of the community of Australia.
+
+* in reply - I should like to commend the Opposition spokesmen on health, the honourable members for Hotham  (Mr Chipp)  and Mackellar  (Mr Wentworth),  and the honourable members for Robertson  (Mr Cohen)  and Holt  (Mr Oldmeadow)  from this side of the House for their thoughtful contributions to the debate on the Social **Welfare** Commission Bill which is now before the House.
 
 * In other words, there will be an effort to tie together comprehensively the **welfare** services which exist and which should and will be developed in the Australian community as a result of the work of this Commission in order to meet the requirements of the people in the community.
 
@@ -12497,6 +14274,9 @@ This is a very vital aspect in any consideration of what educational programs ca
 
 * Certainly we did not do enough but we were working on significant new directions in migrant **welfare** and community relations when the present Government conned its way into office on the pretext that it could run everything much better.
 
+* That was the real ethnic affairs branch of the 
+The Government is going through a public relations exercise of establishing concurrently 2 experimental migrant resource centres, one in Melbourne, which is to be operated under contract by the Australian Greek **Welfare** Society, and one in Sydney.
+
 * Those centres are supposed to provide all sorts of services to migrants, to assist social workers and **welfare** officers, and to draw attention to the particular problems of ethnic communities and individual migrants requiring government action.
 
 * They tended to form tightly-knit communities but they were diligent and thrifty, and they had an uncommon regard for the **welfare** of their children.
@@ -12506,6 +14286,8 @@ This is a very vital aspect in any consideration of what educational programs ca
 * Some of the important matters which the States administer include housing, decentralisation, urban development, education, health, social **welfare** and transport.
 
 * He has attempted to undertake this therapy by doing **welfare** work in the service of others.
+
+* He was the  President  and  Chairman  of **Welfare** of all branches of 'Shiralee' the association for divorced, separated and deserted men and women.
 
 * He was also a contact and **welfare** offiicer of the Good Neighbour Council of South Australia.
 
@@ -12593,9 +14375,9 @@ This is a very vital aspect in any consideration of what educational programs ca
 
 * Can he say what is the comparative staffing in the field of other Departments working in social and **welfare** fields with Aboriginal people.
 
-* On 3 April 1973 I announced that Cabinet had that day approved the establishment of a Commission on Social Welfare to make recommendations to the Government on the development of social **welfare** in Australia.
+* On 3 April 1973 I announced that Cabinet had that day approved the establishment of a Commission on Social **Welfare** to make recommendations to the Government on the development of social **welfare** in Australia.
 
-* The need  for setting up the Social Welfare Commission is based on the new emphasis we have given to the recognition of adequate **welfare** systems as being a public right which contributes to the well-being of the total Australian community.
+* The need  for setting up the Social **Welfare** Commission is based on the new emphasis we have given to the recognition of adequate **welfare** systems as being a public right which contributes to the well-being of the total Australian community.
 
 * This new philosophy demands a change of emphasis in government policy and in **welfare** programs.
 
@@ -12604,6 +14386,8 @@ This is a very vital aspect in any consideration of what educational programs ca
 * Moreover it is the role of the Commission to monitor existing programs, institute research projects, conduct public consultations and to ensure that those who use the **welfare** services are involved in the evaluation of the relevance of **welfare** programs to their needs.
 
 * In developing new goals, implementing long term planning and setting priorities in the **welfare** field, the Commission is charged with the task of taking an overall view of social policy, which encompasses such areas as education, housing, health services, emplovment policies and other matters, as well as the more specific issues of income-security payments and personal **welfare** services.
+
+* The concept and role of the Social **Welfare** Commission is a most exciting one.
 
 * In future there will be a rational development of **welfare** programs in the community.
 
@@ -12615,7 +14399,7 @@ This is a very vital aspect in any consideration of what educational programs ca
 
 * I should also mention that when the Australian Assistance Plan - now being developed by the Government - is fully operational, community based voluntary **welfare** services will be fostered and stimulated with generous sup- port so that the services provided and the organisations providing them are related to, and are identified with, the community in which they operate.
 
-* The only display of centralism in this exercise is the display of responsible decision-making by the Australian Government which has established the Social Welfare Commission and which in turn directed the Commission to develop the Australian Assistance Plan according to guidelines set down by the Government in order that the administration and operation of social **welfare** programs and key decisionmaking affecting their direction are very much a local community concern.
+* The only display of centralism in this exercise is the display of responsible decision-making by the Australian Government which has established the Social **Welfare** Commission and which in turn directed the Commission to develop the Australian Assistance Plan according to guidelines set down by the Government in order that the administration and operation of social **welfare** programs and key decisionmaking affecting their direction are very much a local community concern.
 
 * To ascertain, and report to the Minister on, the social **welfare** needs of the community and to make recommendations to the Minister in respect of those needs.
 
@@ -12644,9 +14428,15 @@ Recommendations of priorities in relation to social **welfare** programs.
 
 * The aim of the Australian Assistance Plan is to assist in the development at a regional level, within a nationally co-ordinated framework, of integrated patterns of **welfare** services, complementary to income support programs and the **welfare** related aspects of health, education, housing, employment, migration and other social policies.
 
+* 1 prepared by the Interim Committee of the Social **Welfare** Commission which I tabled in the House on- 30 August 1973.
+
 * These public reports will serve as a standard by which the Australian people will be able to judge the Government's performance in the social **welfare** area having regard to the information provided and the recommendations made to it in the Commission's reports.
 
+* The establishment of the Social **Welfare** Commission is a further demonstration of the Government's commitment to introduce democratic participation into national government.
+
 * But we are confident that the work of the Commission - which will facilitate informed public discussion of **welfare** needs and priorities - will be invaluable in devising new policies and the establishment of a better social **welfare** system for all Australians.
+
+* I ) Has a decision been made on assistance for purchasing equipment for the Nyabing St John Ambulance Association submitted by the Kent Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department.
 
 * He was mesmerised into thinking that it was about Budget deficits which are now being diverted not to **welfare** but to pad the pockets of wealthy graziers and mining corporations.
 
@@ -12654,9 +14444,13 @@ Recommendations of priorities in relation to social **welfare** programs.
 
 * Whereas at the beginning of the century Australia led the world in the introduction of noncontributory age pensions, she now lags far behind comparable countries in **welfare** measures of every kind.
 
+* **Welfare** services in Australia will not operate with maximum effect until their efficiency and relevance are made a subject of public scrutiny and review.
+
 * New **welfare** needs will not be met until the organisations most closely in touch with those needs are given an opportunity to give evidence publicly and make public recommendations.
 
 * A Labor government will conduct as a matter of priority a thorough inquiry into the extent of poverty in Australia and the adequacy of existing **welfare** arrangements as a means of eliminating poverty and allowing all Australians an equal access to our great national prosperity.
+
+* I quote from the Senate Standing Committee on Health and **Welfare** report of May last year on mentally and physically handicapped persons in Australia.
 
 * The report stated: 
 community health and **welfare**, and 
@@ -12670,6 +14464,8 @@ Danes will also be discouraged by the less complete social security and **welfar
 * The House will well recollect that the inquiry sponsored by the Department of Immigration into the reasons why such a growing higher proportion of migrants are returning home established the major reason as being that social security and social **welfare** services - covering the broad conspectus of these things - in Australia are so inferior to what are available overseas.
 
 * It will be an automatic social **welfare** benefit in the community.
+
+* The present Government has almost $450m of the taxpayers' money isolated and frozen in the National **Welfare** Fund paying only one per cent annual interest instead of the long term bond rate of between 6 per cent and 7 per cent per annum.
 
 * Finally, we commit ourselves to developing **welfare** services in the community, because money alone is no answer to the big **welfare** needs of Australia at the present time.
 
@@ -12685,6 +14481,8 @@ Quite often an Australian resident has adopted a child in an overseas country an
 * In accordance with those principles and subject to sound health the entry to Australia of an overseas child is normally approved where the adoption proposal has the support of the child **welfare** authorities in the State or Territory of residence of the proposed adoptive parents, and the authorities in the overseas country in which the child is living are agreeable to the adoption being arranged.
 
 * In all adoption procedures the **welfare** of the child is of paramount importance and so far as inter-country adoptions are concerned the Australian Government will be guided by the views of the State or Territory child **welfare** authorities.
+
+* School submitted by the Katanning Community Committee to the Southern Regional Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department.
 
 * It is obvious the people of Australia are vitally concerned about the **welfare** of some nine million East Pakistan refugees that have crossed the border into India.
 
@@ -12709,9 +14507,15 @@ I turn now to the social **welfare** program, so often denigrated by our opponen
 
 * There is no doubt that the **welfare** of those in need has been cared for.
 
+* 2) 1976- and by an accountant's fiddle with the National **Welfare** Fund balances.
+
+* We raise no objections to the transfer of the National **Welfare** Fund balances to the Consolidated Revenue Fund.
+
 * When one considers the activities of the Commonwealth Government in regard to war service homes and the provision of low interest finance to the State housing authorities for **welfare** housing construction it becomes obvious that the Government has played a very important and necessary role in the housing industry of Australia.
 
 * 1 ) and (2) Grants under the Australian Assistance Plan are not made available to local government bodies to the exclusion of all other community bodies nor to a series of separate community bodies including local government Such an arrangement would aggravate the fragmentation of social **welfare** services, weaken the capacity for co-operation in the social **welfare** field, and defeat the objective of community involvement in regional decision making on such matters.
+
+* 1 distributed by the Social **Welfare** Commission.
 
 * The Budget proves that the Government is concerned about the **welfare** of the oil companies.
 
@@ -12734,6 +14538,10 @@ I turn now to the social **welfare** program, so often denigrated by our opponen
 * 1 believe, as the honourable member for Maribyrnong does, that we should have a national inquiry into social **welfare** and we should genuinely try to remove social services from the realm of politics.
 
 * 1 cannot recall - I am sure that the Minister for Social Services  (Mr Wentworth)  will agree - one Budget when the Press, the television stations and the people of this country have universally said 'What a wonderful Budget for the people of this country' or 'What a wonderful **welfare** Budget this is'.
+
+* Mr Sheridan,  the officer at Wyong of the State Department of Social **Welfare**, had been handling the case.
+
+* In helping this woman he went as far as the State Department of Social **Welfare** can go.
 
 * We need a social **welfare** system with flexibility, one that does not require a person to fit into section A sub-section (1.
 
@@ -12758,6 +14566,8 @@ I turn now to the social **welfare** program, so often denigrated by our opponen
 * In 3 years we had increased the amount from S167m to $375m and the terms and conditions under which we made that money available were of great assistance to the States in trying to overcome the backlog of **welfare** housing.
 
 * People earning up to 85 per cent of average weekly earnings were able to apply for **welfare** housing.
+
+* The Minister for Social **Welfare**  (Mr Hayden)  has stood up for the rights of long-haired youths to draw unemployment benefits.
 
 * I believe there is evidence to sustain my belief that at this time in our nation's history there is a great opportunity for the major political parties, ibr management and for unions in particular to reach a consensus that the future **welfare** of our citizens will depend to a large extent on giving them the opportunity to work and thereby to live productive and useful lives.
 
@@ -12789,6 +14599,18 @@ I turn now to the social **welfare** program, so often denigrated by our opponen
 
 * What was the amount of **welfare** services provided through the Department of Social Security within the electoral divisions of Leichhardt, Herbert, Kennedy and Dawson during each of the years 1973-74 to 1976-77, inclusive, and what were the categories in which they were paid.
 
+* Victorian Social **Welfare** Department as at 1st October 1969 are paid a supplementary benefit.
+
+* South Australia: A supplementary housing allowance of up to $2.00 per week (to the extent that housing costs exceed $4.00 per week) may be paid by the Department of Social **Welfare** to age pensioners who do not qualify for Commonwealth supplementary assistance.
+
+* The allowance is paid by the Child **Welfare** Department.
+
+* Tasmania: The Social **Welfare** Department may gram supplementary benefit to age pensioners with dependent children subject to a means test.
+
+* In addition pensioners residing in country areas may apply to the State Social **Welfare** Department for a free travel warrant to enable them to attend hospital.
+
+* Heating allowances may also be provided by the Social **Welfare** Department.
+
 * For instance, never have recipients of social services been treated with such contempt and such callous disregard for their **welfare** as they have in this Budget.
 
 * But on this occasion in particular the Government has shown complete disregard and complete contempt for their **welfare**.
@@ -12816,6 +14638,8 @@ I turn now to the social **welfare** program, so often denigrated by our opponen
 * In considering regulations of the market, the committee may overlook the important role of regulation in achieving both social **welfare** goals and the objectives of government measures, particularly those dealing with monetary and balance of payments policies, as I mentioned earlier.
 
 * That is the question I raise in this debate, particularly as social **welfare** and equity considerations have not been explicitly referred to in the terms of reference.
+
+* When does he expect to receive the second report of the Task Force on Co-ordination in **Welfare** and Health.
 
 * In fact, the variety of programs shows an active involvement in the **welfare** of the people in the developing nations.
 
@@ -12887,6 +14711,9 @@ I turn now to the social **welfare** program, so often denigrated by our opponen
 
 * We talk about nothing if we talk about **welfare** on its own.
 
+* In the Australian Labor Party platform on tax, the Australian Labor Party never mentions these most basic principles that must animate any taxation system.- I refer to the Platform, Constitution and 
+**Welfare** cannot be administered in a vacuum.
+
 * It simply means that if **welfare** is to be administered with respect to taxation, if taxation is to be reduced - and this has been the **welfare** programme of the Government - one can apply oneself only to the 29 or 30 per cent of the increase to which I have referred.
 
 * Using the fact that in a recession government expenditure automatically rises through increased **welfare** payments, and receipts fall through lower tax receipts, calculations are made to obtain what the budgetary position of present expenditure and receipt patterns would be at the position of full employment.
@@ -12894,6 +14721,8 @@ I turn now to the social **welfare** program, so often denigrated by our opponen
 * These are consistent with our philosophy of concentrating **welfare** towards those in genuine need.
 
 * It introduced the Medibank scheme, community health centres, **welfare** rights officers, and translator and interpreter services.
+
+* Why was the Australian Council of Trade Unions the only organisation with an interest in the work of the National Commission on Social **Welfare** given the right to nominate a representative.
 
 * For instance, if we take the question of **welfare**, which the Minister seems to believe is an area which can develop over a number of years, it seems to me that the **welfare** of the people of Norfolk Island at this time is of major concern to the people of Australia.
 
@@ -12942,6 +14771,8 @@ The other suggestion which has been made by the Australian Labor Party and by th
 
 * the honourable member for Mitchell  (Mr Irwin)  and he should know the deprivation which is suffered in many fields of social **welfare** by the people who live in so far flung an area as his area on the outskirts of the metropolis of Sydney.
 
+* Having obtained such an order, she has to go very many miles to a branch of the New South Wales Department ofSocial **Welfare** before she can get the forms of assistance available from that Department.
+
 * It was an area similar to the area in the electorate of Mitchell which the Anglican social **welfare** workers showed to me when I made my visit early in May.
 
 * It may be that in some terms they do not have a low income, but when one takes into account the amount of money they have to pay to buy a block of land, to pay off their house when they get one and to spend on fares to get to and from work, and the amount of time they have to spend in getting to hospitals or to **welfare** agencies* it can be seen that these are people who are deprived even if they have an income which is larger than that which Professor Henderson regards as the poverty line.
@@ -12956,15 +14787,27 @@ The other suggestion which has been made by the Australian Labor Party and by th
 
 * This is the point I am making to the members of not just the Labor Party but also my own party and anyone who is interested or thinks he is interested or tries to be interested or, if I may say so, tries to bluff other people that he is interested in the **welfare** of Aborigines.
 
+* Was the report of the Senate Standing Committee on Health and **Welfare** in respect of mentally and physically handicapped persons in Australia tabled in Parliament 15 months ago - in May of last year?
+
 * Did this report recommend a variety of educational, health and **welfare** measures for the benefit of the handicapped and their families?
 
-* Originally only State Welfare Departments and the Department of the Interior (as the body responsible for **welfare** in the Australian Capital Territory and Northern Territory) were involved.
+* The Conference of Child **Welfare** Administrators.
 
-* The conference was first held in 1970 and was originally restricted to State Government Welfare Ministers and the Minister responsible for **welfare** matters in the Australian Capital Territory and the Northern Territory, (formerly Minister for the Interior, now Ministers for the Capital Territory and the Northern Territory).
+* The Conference of Ministers of Child and Social **Welfare**.
+
+* (a) The Conferences of Child **Welfare** Administrators have been held since 1939.
+
+* Originally only State **Welfare** Departments and the Department of the Interior (as the body responsible for **welfare** in the Australian Capital Territory and Northern Territory) were involved.
+
+* The Conference of Ministers was first suggested in April 1967 in an invitation to the then Minister for Social Services from the New South Wales Minister for Child **Welfare** and Social **Welfare**.
+
+* The conference was first held in 1970 and was originally restricted to State Government **Welfare** Ministers and the Minister responsible for **welfare** matters in the Australian Capital Territory and the Northern Territory, (formerly Minister for the Interior, now Ministers for the Capital Territory and the Northern Territory).
+
+* Administrators- Senior Officers of the Australian Department of Social Security, State Government **Welfare** Departments and the New Zealand and New Guinea **Welfare** Departments.
 
 * Officers from the former Department of the Interior, (now Department of the Capital Territory and the Northern Territory), as the body responsible for **welfare** matters in the Australian Capital Territory and Northern Territory have also attended.
 
-* Ministers- The Australian Minister for Social Security, State Government Welfare Ministers and Welfare 
+* Ministers- The Australian Minister for Social Security, State Government **Welfare** Ministers and **Welfare** 
 Administrators- Generally, to allow for an exchange of ideas between the participants on matters of common interest in the field of child **welfare**.
 
 * Ministers- Generally, to allow for an exchange of ideas between the participants on matters of common interest in the fields of child **welfare** and social **welfare**.
@@ -13021,6 +14864,11 @@ Unlike the Leader of the Opposition, my Government has acted responsibly by matc
 * The unemployed, people on sickness benefits and those receiving the rent allowance- the poorest social **welfare** recipients in this country who do not have a voice- have clearly lost.
 
 * They would effectively exclude the Australian Government from the whole of the child care program which is a social **welfare** program as well as an educational one.
+
+* The committee includes  Dr Mccloskey,  of the Victorian Department of Health;  Mr A.  McVeigh, of the Victorian Department of Health;  Mr E.  Ryan, of the Victorian Department of Education;  Mr H.  McPhee, of the Victorian Department of Social **Welfare**;  Mr D.  Neville, of the Victorian Department of Youth, Sport and Recreation; Councillor Portingale, a local government representative;  Mrs Mccaughey,  a community representative and  Mrs Witney  King a community representative.
+
+* Also on the committee were Miss B. Stubbs, an adviser-observer from the Victorian Department of Health;  Mr J.  P. Bradburn, an adviser from the Victorian Department of Health; and Miss E. 
+Bennett, of the Victorian Department of Social **Welfare**.
 
 * Why is the Opposition against a **welfare** program that assists people who are in need?
 
@@ -13127,7 +14975,9 @@ That all words after 'That' be omitted with a view to substituting the following
 
 * It also enables the Commonwealth to pay 50 per cent of the salary of a social **welfare** worker employed at a homeless persons assistance centre.
 
-* (a) At the Conference of the Council of Social Welfare Ministers in Darwin on 21 May 1976 I outlined the Commonwealth Government's decision on the Australian Assistance Plan as follows: 'In the light of our consideration of all that has been done to evaluate the Plan, we believe that it is a worthwhile experiment in social planning and local action in determining **welfare** priorities.
+* A. Staley, M.P.Minister for the Captal Territory;  Senator the  Honourable M. G. C. Guilfoyle- Minister for Social Security; the Honourable R. I. Viner, M.P.-Minister for Aboriginal Affairs; the Honourable R. Payne, M.P.-Minister of Community **Welfare**, South Australia; the Honourable B. Dixon, M.P.-Minister for Social **Welfare** and Youth, Sport and Recreation, Victoria; the Honourable J. Herbert, M.L.A.- Minister for Community **Welfare** Services, Queensland; the Honourable D. J. Baldock, M.H.A.- Minister for Housing and Social **Welfare**, Tasmania; the Honourable N. E. Baxter, M.P.-Minister for Community **Welfare**, Western Australia; the Honourable R. F. Jackson, M.P.-Minister for Youth and Community Services, New South Wales; the Honourable R. J. Walker, M.P.-Minister for Social **Welfare**, New Zealand.
+
+* (a) At the Conference of the Council of Social **Welfare** Ministers in Darwin on 21 May 1976 I outlined the Commonwealth Government's decision on the Australian Assistance Plan as follows: 'In the light of our consideration of all that has been done to evaluate the Plan, we believe that it is a worthwhile experiment in social planning and local action in determining **welfare** priorities.
 
 * The Commonwealth Government does not propose to make funds available for new community **welfare** projects but commitments on projects already approved, but not totally funded, will be met.
 
@@ -13137,7 +14987,7 @@ That all words after 'That' be omitted with a view to substituting the following
 
 * I am referring now to **welfare** officers and the courses, which would probably be described as subprofessional, which train **welfare** officers.
 
-* These courses are usually at technical colleges as I know is the case in Tasmania, or within social **welfare** departments such as the certificate courses run by the Victorian Social Welfare 
+* These courses are usually at technical colleges as I know is the case in Tasmania, or within social **welfare** departments such as the certificate courses run by the Victorian Social **Welfare** 
 Department.
 
 * Tasmania's Mental Health Services Commission runs a course for **welfare** officers.
@@ -13178,7 +15028,11 @@ Department.
 
 * More and more of our people are turning to this **welfare** housing sector as the access point to housing mortgage loan funds moves up the income scale.
 
+* **Welfare** housing will never satisfy the existing demands, leave alone satisfy new demands.
+
 * Another point that I should like to make is that at the moment **welfare** housing, in such short supply, is going to a lot of people who do not need it.
+
+* However, in the course of its recent inquiry into drug problems in Australia, the Senate Standing Committee on Social **Welfare** did cover the use of analgesics.
 
 * Our objective is a social **welfare** structure which identifies the most needy in the community and ensures that those who have no other means are provided with enough to live on, in  a  modest self-respecting way, without requiring any other assistance outside the pension.
 
@@ -13232,7 +15086,9 @@ Department.
 
 * In the current rather difficult financial situation, with a Labor Government keen to develop its social **welfare** programs, I would have hoped that the Cabinet would be a little more sympathetic to the claims of the defence forces in this year and in the years ahead, because we all accept that there is a need for a long lead time in these matters.
 
-* The purposes of the National Welfare Fund are the making of such payments as are directed by any law of the Commonwealth to be made from the Fund, in relation to health services, unemployment or sickness benefits, family allowances or other **welfare** or social service.
+* The National **Welfare** Fund was established on 20 March 1943.
+
+* The purposes of the National **Welfare** Fund are the making of such payments as are directed by any law of the Commonwealth to be made from the Fund, in relation to health services, unemployment or sickness benefits, family allowances or other **welfare** or social service.
 
 * a joint select committee should be established to inquire into and report upon the social **welfare** needs of the Australian community'.
 
@@ -13292,7 +15148,15 @@ Firstly, for home care service schemes which provide housekeeping and other dome
 
 * Home care services which can be subsidised under the legislation include home visiting, laundry and shopping services, home handyman and related home maintenance schemes, housekeeper and other services which complement health or **welfare** programs designed to enhance the independence of aged and infirm people living at home.
 
+* When was the attention of the Department of Social Security drawn to the findings in the (a) 1959 Annual Report of the Western Australian Department of Native **Welfare**, (b) 1976 report by the Western Australian Department for Community **Welfare** and (c) 1977 report by the Office for 
+1 ) Has a decision been made on assistance for extensions to building and provision of telephones at the MurrayDrakesbrook St John Ambulance Sub-centre submitted by the Murray Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social **Welfare** Commission to his Department.
+
 * So we are just trying to present some public relations per se for the benefit of this benevolent Prime Minister who is suddenly seeking to appear to be concerned about Aboriginal **welfare**.
+
+* The Conference is being sponsored by the Council of Social **Welfare** Ministers.
+
+* The Council of Social **Welfare** Ministers has decided to limit the numbers of delegates who are to be invited to attend the conference and the Commonwealth/ State/Territory quota is as follows: 
+1 take up the final point that was mentioned by the honourable member for Sturt  (Mr Foster)  on the question of development because one matter that I feel should be referred to during this debate is the exciting prospect of Australia's natural resource development, which is contingent in part on the economic climate engendered by this Budget, f must also condemn the Opposition for its irresponsible criticism of the Budget by advocating massive spending under what it terms a responsible economic policy.
 
 * Here we have a budget providing for a large increase in essential expenditures, especially on payments to the States, **welfare**, development and assistance to rural industry, including emergency relief for wool growers who have been hard hit by drought and low prices.
 
@@ -13312,11 +15176,17 @@ Firstly, for home care service schemes which provide housekeeping and other dome
 
 * In addition health centre workers undertake a wide range of community health and **welfare** activities, other than consultations, which are not usually found in general practice and for which no deduction has been made in the above cost estimates.
 
+* Other workers include District Nurses, an Infant **Welfare** Sister, Dentists, Social Workers, a Social Health Visitor, a Psychologist, a Physiotherapist and Pharmacist.
+
 * But funds in the **welfare** housing field were cut from $175m down to $2 5m.
 
 * The States Grants (Housing Assistance) Bill which is before us deals predominantly with what is known as **welfare** housing.
 
+* **Welfare** housing is important.
+
 * There are large backlogs of applications for **welfare** housing, of course.
+
+* **Welfare** housing is only a part of housing; housing is only a part of the building industry; and the building industry is only one section of the general Australian economy.
 
 * We have to see **welfare** housing, which is the subject matter of this Bill, in relation to the whole of the building industry.
 
@@ -13468,6 +15338,10 @@ This will involve both direct measures to increase the incomes of.poor people an
 
 * I appreciate the particular concern of the honourable member for Franklin and his deep interest in the **welfare** of the people living in those areas.
 
+* Of course there are things like payments to the States and payments out of the National **Welfare** Fund which are automatically appropriated.
+
+* -The Social **Welfare** Commission (Repeal) Bill entices one to engage in the kind of philosophical discussion that we have been listening to and I would like to proceed along those lines for a short time.
+
 * This Commission, which was established by this Parliament 3 years ago, was a concept that was related to the need to evaluate social **welfare** provisions in Australia.
 
 * It was part of the Labor Parry's enterprise and interest in upgrading the whole emphasis on social **welfare** and maybe it has proved to be other than the best structure or the best way to approach this problem, but it was a most laudable objective indeed.
@@ -13478,6 +15352,8 @@ This will involve both direct measures to increase the incomes of.poor people an
 
 * No one questions the effectiveness and efficiency of the Bureau of Agricultural Economics, for example, in its independent research and analysis capacities, and I suggest no one could question the establishment of a similar bureau to oversee social **welfare** programs.
 
+* Clearly in times of economic constraints the wide and ambitious plans of the Social **Welfare** Commission would have to be modified in the short term, but what must be retained, whatever the cost, is the capacity for such a bureau to offer the Government and the public independent analysis of Government programs and areas of need of a high quality and standard.
+
 * In addition, the membership of such committees is to be hand picked by the Minister rather than made up of delegates representing the organisations involved in social **welfare** undertakingsorganisations which have national, State and regional status.
 
 * Obviously there is a need to have such a counterpart in planning objectivity in respect of social **welfare**, in respect of the social needs of communities.
@@ -13486,15 +15362,21 @@ This will involve both direct measures to increase the incomes of.poor people an
 
 * It organised the preparation of the regional social **welfare** directory and in general terms it rendered a very great community service.
 
+* Finally, mention must be made of Government attempts to kill the Social **Welfare** Commission before the repealing legislation was even drafted.
+
+* I believe that in the short term at least it will provide some kind of on-going program- a link to what might be another Social **Welfare** Commission in a different form, a more effective organisation than the one contemplated at the moment.
+
 * They have been urged in particular to give attention to ensuring that Aboriginals, especially juveniles, obtain appropriate legal representation in criminal matters; to meet the needs of rural and remote area Aboriginals; to improving Aboriginal /Police relations; and to the possibility of using the services and resources of other agencies, where these are appropriate and accessible including those of Aboriginal and community **welfare** organisations, the Australian Legal Aid Office, the Law Society and the Public Solicitor.
 
-* Further, as the Treasurer is a member of the Social Welfare Policy Committee of Cabinet, will the Acting Treasurer ask the Treasurer whether he will also refer the proposals for analysis and report by the Social Welfare Policy Secretariat which was established by the Government to co-ordinate development of **welfare** policy?
+* Further, as the Treasurer is a member of the Social **Welfare** Policy Committee of Cabinet, will the Acting Treasurer ask the Treasurer whether he will also refer the proposals for analysis and report by the Social **Welfare** Policy Secretariat which was established by the Government to co-ordinate development of **welfare** policy?
 
 * They are not interested in the **welfare** of Australia, they are not interested in the system of Parliament and they are not interested in the Westminster system of government.
 
 * They should not come in here three years later and complain, because when they were in Government, when they had the responsibility for the **welfare** of the Australian people, they demonstrated a total incapacity to carry it out.
 
-* It was established within the city of Coburg and was designed to bring together the full range of **welfare** services- the services of the Federal Department of Social Security, the services of the State Department of Social Welfare and the services provided by some of the voluntary agencies in that area.
+* It was known as the NOW Centre-the North- West One-Stop **Welfare** Centre.
+
+* It was established within the city of Coburg and was designed to bring together the full range of **welfare** services- the services of the Federal Department of Social Security, the services of the State Department of Social **Welfare** and the services provided by some of the voluntary agencies in that area.
 
 * One of the most difficult problems for people receiving various forms of **welfare** is that they are shunted from one to another among a whole variety of officers who deal with various types of allowances or various aspects of what very often is part of a human problem which ought to be dealt with as a whole and not separately.
 

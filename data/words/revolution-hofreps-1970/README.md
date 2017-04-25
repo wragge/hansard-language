@@ -52,14 +52,14 @@
 
 ### Sample sentences:
 
-* There is a **revolution** in this.
+* Despite the provocation of statements, such as those made by the honourable member for Kennedy, we should not underestimate the significance of the religious components in Iran's current **revolution**.
 
-* I have heard the continual cry of riot, **revolution**, danger and sedition which has been going on for those 15 years and for 6 or 7 years before that, since the election of a Liberal-Country Party Government.
+* With the siratro and setaria pastures there is a **revolution** going on in some of these areas which previously were pronounced marginal dairy farms and which will remain marginal dairy farms until we can get some semblance of sanity in the Queensland Government by its accepting positive and sound schemes like these.
 
-* For threequarters of a century this nation has survived as one of the minority of countries throughout the world which have not suffered from upheaval as a result of **revolution** or an attempt at armed overthrow of the Government.
+* They are the sort of people who, if one saw them at the French **Revolution** being taken in the tumbrils to the guillotine and a wheel came off, would get out and help the executioner put it back on.
 
-* This nation needs a **revolution**, but the Communists are too cruel, barbaric.
+* It is a fact of recent history that while the technological **revolution** of the sixties and the seventies has brought great benefits in material good living, in national progress and in economic well-being - it has also had by-products which are despoiling our land and polluting the air and the water around us.
 
-* As honourable members would know, this book readily became a capitalist declaration of independence from the remaining shackles of feudalism and helped to launch an economic **revolution** that has produced far more wealth than man had amassed in all previous history.
+* Under the aegis of the National Library Act we look to the rapid and co-operative evolution of library and information services in Australia to cope with the information explosion and the technological **revolution** in the handling of information.
 
 * [View all...](contexts.md)

@@ -1,5 +1,7 @@
 ## Contexts in which the word "tyranny" was used in the hofreps during the 1970s
 
+* Let me suggest the following examples of market distortion by government interference or by business monopoly or union monopoly- I make no distinction- which are depriving Australians of benefits they should be enjoying, and where the position daily gets worse: Firstly, our whole transport system, where a population living almost entirely by the sea is denied by Government, business or union restrictive practices the full benefits of carriage by sea; where the economics of rail versus road are not even known because of numerous cross subsidies; and where competition in the air is stifled in the interest of one Government-owned and one Government-supported airline; and all this in a country suffering, as Blainey has said, The **Tyranny** of Distance', dependent for its very lifeblood on the cheapness of transport; secondly, the postal system where Government monopoly and feather bedding result in less and less service at higher and higher cost, and where the organisation of alternative methods of communication is prevented by force of law; thirdly, the restrictive framework of limited trading hours, weekend and holiday penalty rates and other protective devices that are, on the one hand, denying consumers the goods and services they have a right to expect and, on the other, denying those who are prepared to work the employment which they seek; and fourthly, a banking system so regulated and controlled that it is difficult to distinguish one bank from another, and in which nobody knows whether the system is responding to new demands or merely moulding its customers into the patterns of its own inertia.
+
 * That country for over 30 years fought against the **tyranny** and exploitation of foreign business and foreign imperialism.
 
 * During the **tyranny** in West Pakistan the Australian representatives sat with the Pakistani representatives at a SEATO council meeting but apparently they did not feel that the matter was worth raising.
@@ -121,6 +123,10 @@
 * The moment democracy ceases to pay attention to the limitations and restraints which all governments must observe, it ceases to be a form of free government and becomes an organ of **tyranny** .
 
 * This Liberal Government will never become an organ of **tyranny** but the precedent we are setting provides the machinery for a future socialist government to act in a manner, according to the honourable member for Gellibrand, of passing legislation retrospectively, if necessary it says, up to several years retrospectivity.
+
+* - Mr Speaker, I remind you of the phrase 'The **Tyranny** of Distance' which is the title of a widely acclaimed book written by an old school mate of mine, Professor Geoffrey Blainey.
+
+* 'The **Tyranny** of Distance' is one of the great determinants affecting the social, political and economic development of Australia.
 
 * I was once warned as a younger man against the **tyranny** of possessions.
 

@@ -1,5 +1,7 @@
 ## Sitting days when the word "crisis" was used in the hofreps during the 1970s
 
+[![Chart of frequencies by date](crisis-hofreps-1970.png)](https://plot.ly/~wragge/517)
+
 | Date | Number of uses |
 |--------------|----------------|
 |1971-10-12|12|

@@ -1,5 +1,7 @@
 ## Sitting days when the word "britishness" was used in the hofreps during the 1970s
 
+[![Chart of frequencies by date](britishness-hofreps-1970.png)](https://plot.ly/~wragge/523)
+
 | Date | Number of uses |
 |--------------|----------------|
 |1978-10-11|17|

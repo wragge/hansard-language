@@ -52,14 +52,14 @@
 
 ### Sample sentences:
 
-* Of course, the present Hawke-Whitlam axis has changed Labor's policy in this regard and Australians may well have similar problems if a Labor government with an open door **immigration** policy ever comes to power.
+* The results of **immigration** policies are irreversible.
 
-* This is similar to the number which arrived in Australia under our **immigration** policy last year.
+* It is time the Department of Civil Aviation and the Department of **Immigration** did something to protect and to assist people in this category.
 
-* I turn now to the question of **immigration**.
+* As the Minister for Labor and **Immigration**  (Mr Clyde Cameron)  stated to the House a couple of days ago, one benefit of the Regional Employment Development scheme is that it has enabled the CES to work test a substantial number of registrants by offering them jobs, in this way testing the validity of their registration.
 
-* According to the Minister 'this program underlines the Government's faith in **immigration** as an element in economic growth'.
+* The short title - **Immigration** (Education) Act 1970 - indicates that the source of power for the Bill derives from the **immigration** provision in the Constitution.
 
-* I affirm the statement that I made to my Federal Member of Parliament and which he repeated in Parliament; namely: I have never had an official letter or communication from the Department of **immigration** concerning my husband's deportation.
+* I have said before and I shall say again, that this Government is fortunate to have a Minister of the calibre of the Minister for **Immigration** and Ethnic Affairs.
 
 * [View all...](contexts.md)

@@ -1,5 +1,7 @@
 ## Sitting days when the word "welfare" was used in the hofreps during the 1970s
 
+[![Chart of frequencies by date](welfare-hofreps-1970.png)](https://plot.ly/~wragge/529)
+
 | Date | Number of uses |
 |--------------|----------------|
 |1974-10-30|34|

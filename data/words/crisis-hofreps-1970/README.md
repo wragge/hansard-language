@@ -52,14 +52,14 @@
 
 ### Sample sentences:
 
-* Another matter that the honourable member for Farrer evidently forgot is that today there is a world energy **crisis**.
+* The Prime Minister is now desperately trying to extricate himself from the constitutional and political **crisis** he has created by attempting to appoint  Senator Gair  Ambassador to Ireland.
 
-* The problems resulting from the 1976 **crisis** have continued.
+* If nuclear energy is denied to the world there will be an energy **crisis** and a starvation **crisis** and all the tensions which can lead to war.
 
-* During the post-energy **crisis** Japan devalued heavily.
+* It is pleasing to see that the Western Australian State Government has been able to avert any **crisis** which could have arisen from that situation.
 
-* Thus preventive and long term chronic care services are submerged to acute and **crisis** care.
+* It was not so difficult to accomplish them in Australia until that time, but in 1973 this country and the rest of the world had experienced the external effects of the oil **crisis**.
 
-* Australia should be more concerned with our relationships with Japan in terms of the economic consequences of the oil **crisis** than attempting to try some form of blackmail.
+* In every State of the Commonwealth we have these problems, and of course they stem from the rural **crisis**.
 
 * [View all...](contexts.md)

@@ -52,14 +52,14 @@
 
 ### Sample sentences:
 
-* The number of **aborigines** in secondary schools has risen from 7 in 1967 to 63 in 1970.
+* That provision is also important in relation to traditional **Aborigines**.
 
-* The planned Labor and Immigration advertising program for 1975-76 includes $ 100,000 for staff advertising and $250,000 for promoting employment opportunities particularly for youth, handicapped persons and **aborigines**, and for apprenticeship and industrial training.
+* It was recognised that the existing Queensland legislation was designed to assist in protecting persons who, without guidance and assistance, could be subject to exploitation and that it was not, therefore, to be seen as discrimination against **Aborigines**.
 
-* The scheme cannot possibly work in relation to **aborigines**.
+* For the record, I am pleased to say that, in spite of attempts by radical groups to pressure **Aborigines** from my own home town of Moree, they refused to be associated with the activities of those who were hell-bent on creating further violence outside Parliament House.
 
-* In addition to these two positions, there are specialist employment officers in all Regional Offices and most District Employment Offices who provide counselling and assistance to the physically and socially handicapped, young people, elderly workers, **aborigines**, ex-prisoners and others with special problems.
+* Any national acquisition of land from **Aborigines** must bring with it fair compensation.
 
-* Some of the kids in my electorate of Melbourne, **aborigines**, women who would like to enter the workforce and disadvantaged groups could become as job motivated as the Government likes but there still will not be jobs available for them unless we have a concerted manpower policy which creates jobs and which runs parallel with the schemes which are envisaged.
+* They would react ultimately to the very great detriment of the **Aborigines**.
 
 * [View all...](contexts.md)

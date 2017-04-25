@@ -24,6 +24,8 @@
 
 * That means **individualism**, liberty, equality.
 
+* **Individualism** and individual initiative are very much an Australian trait.
+
 * I will strive against these divisions and I will strive for the **individualism** of diversity.
 
 * He refers to the way that manufacturing industry is trying to go and believes that there will be a rush back to **individualism** in manufacturing that will step over worker participation.

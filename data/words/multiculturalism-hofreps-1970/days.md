@@ -1,5 +1,7 @@
 ## Sitting days when the word "multiculturalism" was used in the hofreps during the 1970s
 
+[![Chart of frequencies by date](multiculturalism-hofreps-1970.png)](https://plot.ly/~wragge/521)
+
 | Date | Number of uses |
 |--------------|----------------|
 |1979-11-08|3|

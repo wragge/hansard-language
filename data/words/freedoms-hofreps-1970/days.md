@@ -1,5 +1,7 @@
 ## Sitting days when the word "freedoms" was used in the hofreps during the 1970s
 
+[![Chart of frequencies by date](freedoms-hofreps-1970.png)](https://plot.ly/~wragge/527)
+
 | Date | Number of uses |
 |--------------|----------------|
 |1973-12-06|13|

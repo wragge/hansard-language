@@ -1,5 +1,7 @@
 ## Sitting days when the word "tyranny" was used in the hofreps during the 1970s
 
+[![Chart of frequencies by date](tyranny-hofreps-1970.png)](https://plot.ly/~wragge/531)
+
 | Date | Number of uses |
 |--------------|----------------|
 |1979-10-18|3|

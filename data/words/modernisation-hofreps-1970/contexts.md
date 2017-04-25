@@ -60,6 +60,8 @@
 
 * The Summers report highlighted the need for **modernisation** of existing legislation and one can appreciate how that is absolutely vital when one considers that after almost 80 years as a federation our shipping industry has been regulated largely by British legislation drawn up for the purpose of a nineteenth century colonial empire.
 
+* **Modernisation** of books and forms used by police.
+
 * There would have been no need for the recipts tax if the national Government had established a hospitals commission to assist in the **modernisation** and regionalisation of hospitals.
 
 * Feasibility studies indicate that the installation of some part, perhaps to be followed by a secondary stage in the next 6 to 12 months, may be necessary, lt is quite unfair to remove at this stage this carrot which has been there to encourage **modernisation**.. 
@@ -70,6 +72,8 @@ House for this expenditure-frankly, I do not know the amount that is involved in
 * In addition, through the urban transport program the Government has contributed substantially to the **modernisation** of State urban railways in such fields as track duplication, improved signalling, and passenger rolling stock.
 
 * Hindmarsh moving a motion for the establishment of a select committee to inquire into and report upon proposals made by employees' and employers' organisations and other interested parties for the **modernisation** of the Commonwealth's industrial laws.
+
+* **Modernisation** of HMA Naval Dockyard (Stage 2), Williamstown, Victoria.
 
 * Also, I think the Government certainly had in mind that there is a very genuine desire among many people in the Australian community for a **modernisation** of the Constitution where it can clearly be shown that reforms would be beneficial to the Australian people.
 
@@ -124,6 +128,8 @@ House for this expenditure-frankly, I do not know the amount that is involved in
 * Men are afraid of where they will finish up as a result of **modernisation**.
 
 * 1 ) Has his attention been drawn to the statements made by Chinese Vice Premier Madame Chen Muhua at the National Press Club that China's trade in its **modernisation** program will follow practices such as (a) compensatory payments, which she defined as being payments with the products of the enterprises and (b) delaying payments for equipment.
+
+* That, in accordance with the  Public Works Committee Act  1969, it is expedient to carry out the following proposed work which was referred to the Parliamentary Standing Committee on Public Works and on which the committee has duly reported to Parliament: HMA Naval Dockyard, Williamstown, Vic- **Modernisation** of facilities, stage 2.
 
 * which are additional to or in replacement of items in the Services inventory and includes their handling equipment, machinery and initial range of spare pans; the **modernisation** and conversion of substantial items of equipment; the replacement of existing equipment, machinery and plant and store holdings with new types, the provision of additional items to increase stock levels and a small quantity for the study of techniques.
 
@@ -185,7 +191,11 @@ Unfortunately - and this is one thing that makes me extremely sad - the people o
 
 * It will set up an Australian Hospitals Commission to promote the **modernisation** and regionalisation of hospitals.
 
+* **Modernisation** of HMA Naval Dockyard (Stage 1) Williamstown, Victoria.
+
 * I am particularly interested in this development as it affects the **modernisation** and updating of the Brisbane airport.
+
+* That, in accordance with the provisions of the  Public Works Committee Act  1969, the following proposed work be referred to the Parliamentary Standing Committee on Public Works for investigation and report: **Modernisation** of facilities, stage 2, HMA naval dockyard, Williamstown, Vic.
 
 * But now that Canberra is so well established and now that in the surrounding areas- notably in Queanbeyan- there are 2 major brickworks which have invested during the last 10 years the best part of $5m in capital expansion and **modernisation** and are able to supply bricks to Canberra and the surrounding areas, it is quite unjustified to spend taxpayers' money, waste the resources of the taxpayer and waste the resources of the private sector because of the grave overcapacity problem which will be made graver still.
 

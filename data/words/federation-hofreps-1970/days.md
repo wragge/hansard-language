@@ -1,5 +1,7 @@
 ## Sitting days when the word "federation" was used in the hofreps during the 1970s
 
+[![Chart of frequencies by date](federation-hofreps-1970.png)](https://plot.ly/~wragge/533)
+
 | Date | Number of uses |
 |--------------|----------------|
 |1977-06-02|43|

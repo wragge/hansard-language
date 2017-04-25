@@ -1,5 +1,7 @@
 ## Sitting days when the word "aborigines" was used in the hofreps during the 1970s
 
+[![Chart of frequencies by date](aborigines-hofreps-1970.png)](https://plot.ly/~wragge/525)
+
 | Date | Number of uses |
 |--------------|----------------|
 |1976-12-01|70|

@@ -10,6 +10,8 @@
 
 * Once again that is a contradiction of the Government's espoused policy of **multiculturalism** and helping people to maintain their cultural heritage, their language and so on.
 
+* Honourable members will recall that I tabled in the House on 7 June 1979 a paper entitled **Multiculturalism** and its Implications for Immigration Policy'.
+
 * When tabling the paper I said that it illustrates the number of concepts of **multiculturalism** which presently exist and canvasses both the good and potentially undesirable effects of some forms of **multiculturalism**.
 
 * The Galbally report recommended that the Commonwealth provide $1.8m over a three-year period to establish an institute of multicultural affairs to provide advice and information on multicultural development and **multiculturalism** in Australia, including aspects of migrant settlement, ethnicity and the maintenance of the cultural heritages of ethnic groups.
@@ -29,7 +31,7 @@ Paragraphs (b) and (c) of the Opposition's amendment covers various aspects of t
 The Bill provides that a primary function of the Institute is to have a major role in providing advice to the Commonwealth Government.
 
 * There is no mention of aspects essential to any selfrespecting institute supposedly involved in **multiculturalism** such as we mention in paragraph (c) of our amendment which reads: 
-For the information of honourable members I present a paper entitled 'Multiculturalism and its Implications for Immigration Policy' prepared jointly by the 
+For the information of honourable members I present a paper entitled '**Multiculturalism** and its Implications for Immigration Policy' prepared jointly by the 
 The report pointed out the need for skilled research and information on experience in other countries to assist in the development of **multiculturalism** in Australia.
 
 * The report also recommended that the Commonwealth provide $1.8m over a three-year period to establish an Institute of Multicultural Affairs to provide advice and information on **multiculturalism**.
@@ -53,4 +55,6 @@ The report pointed out the need for skilled research and information on experien
 * It agrees there is a need to change the direction of its services to migrants and that further steps to encourage **multiculturalism** are needed.
 
 * The proposals are in the fields of initial settlement; English language teaching; communication; information; voluntary, self-help and Good Neighbour Council services; special need and special groups; **multiculturalism**; ethnic media; and co-ordination and consultation.
+
+* **Multiculturalism** is a concept we and others in the world know too little about.
 

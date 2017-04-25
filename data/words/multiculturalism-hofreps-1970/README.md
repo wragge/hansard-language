@@ -42,14 +42,14 @@
 
 ### Sample sentences:
 
-* In our view it shows a lack of confidence in **multiculturalism**.
-
 * Nevertheless, the concept of **multiculturalism** does embrace all cultures in a nation and the Aboriginal people are an integral part of the Australian multicultural society.
 
-* The proposals are in the fields of initial settlement; English language teaching; communication; information; voluntary, self-help and Good Neighbour Council services; special need and special groups; **multiculturalism**; ethnic media; and co-ordination and consultation.
+* This may not be the time to dwell on this inherent contradication in the Government's rhetoric about **multiculturalism** which is designed to appease and pacify immigrant minorities and its continued practice of favouring Anglo-Saxon oriented assimilation.
 
-* Once again that is a contradiction of the Government's espoused policy of **multiculturalism** and helping people to maintain their cultural heritage, their language and so on.
+* In our view it shows a lack of confidence in **multiculturalism**.
 
-* The Government's view is that the Institute should have a major role in providing advice on all aspects of **multiculturalism**.
+* It is the worst possible way to approach **multiculturalism** and ethnic matters in the Australian community.
+
+* These objectives, which embody the principal aims of the policy of **multiculturalism**, are set out in clause S of the Bill.
 
 * [View all...](contexts.md)

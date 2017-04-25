@@ -209,6 +209,10 @@ Of course, the Soviet Union will not face total war- none of us would want that 
 
 * If we want to preserve our basic democratic **freedoms**, we are going to have to work for them.
 
+* In accordance with our determined policy the Government has decided to seek to negotiate changed air service arrangements on an endtoend basis, that is, an exchange of the Third and Fourth **Freedoms** of the Air.
+
+* I draw the attention of honourable members to page 6 of the report for an explanation of the **Freedoms** of the Air.
+
 * If people had democratic **freedoms**, the nationality questions would be resolved in a democratic manner inside the United Soviet Socialist Republics.
 
 * This doctrine comprises the **freedoms** of navigation and overflight, of fishing and of laying submarine cables and pipe-lines.
@@ -513,6 +517,8 @@ We cannot be seen to be prepared to weaken in the face of aggression, as was the
 * We have to acknowledge cultural differences with our neighbours, but if we do not maintain a consistent concern for human rights in our policies we risk more blatant disregard for human rights in neighbouring countries and, we risk, also, a progressive deterioration of and disregard for human rights and **freedoms** in our own country.
 
 * That they welcome the statement by the honourable the Minister for Customs and Excise,  Mr Chipp,  that the concept of censorship is abhorrent to all men and women who believe in the basic **freedoms** and that, as a philosophy, it is evil and ought to be condemned.
+
+* VII on Respect for Human Rights and Fundamental **Freedoms**, which clearly places an obligation on all signatories to promote and respect human rights and civil liberties in their respective countries.
 
 * Respect for human rights and fundamental **freedoms**, including the freedom of thought, conscience, religion or belief 
 The participating States will respect human rights and fundamental **freedoms**, including the freedom of thought, conscience, religion or belief, for all without distinction as to race, sex, language or religion.

@@ -1,5 +1,7 @@
 ## Sitting days when the word "immigration" was used in the hofreps during the 1970s
 
+[![Chart of frequencies by date](immigration-hofreps-1970.png)](https://plot.ly/~wragge/519)
+
 | Date | Number of uses |
 |--------------|----------------|
 |1974-12-05|50|

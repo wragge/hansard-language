@@ -24,7 +24,7 @@
 
 * I am sure that the honourable member is concerned and I am certain that he will have listened to the speech of the  president  of his own party who pointed out that it was of no use blaming the technological **revolution**.
 
-* The Deputy Prime Minister in his book 'The Quiet Revolution ', said: 
+* The Deputy Prime Minister in his book 'The Quiet **Revolution** ', said: 
 Labor rejected **revolution** not only as undesirable but as impracticable.
 
 * Now the Malaysian Government - which, incidentally, is a Government similar in idealogy to this Government; it is a Conservative tory Government - has now conducted a **revolution** in foreign policy.
@@ -32,6 +32,8 @@ Labor rejected **revolution** not only as undesirable but as impracticable.
 * 1 think that this is the basic question to which we must address ourselves and when we arc addressing ourselves to it let us look at some contemporary and relevant facts, one of which is that in this country - thank goodness - we are passing through a salutary social **revolution** in the field of education.
 
 * One of the main reasons for the declining world wheat trade - from 2,300 million bushels in 1955-56 to 1,700 million bushels in 1968-69 and possible further decline to 1,500 million bushels in 1969-70 - was the remarkable success of the 'green **revolution**' in many food deficient countries, such as India and Pakistan.
+
+* In fact, it is the same baseless argument as was used against the introduction of machinery in the Industrial **Revolution**.
 
 * We will see a **revolution** of monumental proportions in what we now know to be South Vietnam.
 
@@ -42,6 +44,8 @@ Labor rejected **revolution** not only as undesirable but as impracticable.
 * As Professor Dunphy of the University of New South Wales pointed out in his Boyer address over the radio not so long ago, we are thereby repeating the experience of the English industrial **revolution**.
 
 * As the honourable member for Warringah so rightly said today, we have seen the green **revolution** in South East Asia.
+
+* Who was to foretell that a Napoleon was to rise from the flames of the French **Revolution**, that a Hitler would rise from the ashes of a Germany brought to its knees following the Great War, the Versailles Treaty and the Great Depression?
 
 * It is not social **revolution**, which the Opposition is so concerned about, but it is reform in a concerned way which has at its centre interest for people and the wellbeing of people.
 
@@ -57,11 +61,20 @@ Labor rejected **revolution** not only as undesirable but as impracticable.
 
 * However, once the **revolution** in wool marketing had started it was quickly realised that the concepts that were taught in the traditional wool classing courses were no longer relevant.
 
+* But the theory of separation of powers adopted by the French at the time of the **Revolution** included a view that the ordinary courts should not be concerned with characteristically governmental acts.
+
 * The **revolution** in Cuba was brought about as a result of the trade unions being battered into the ground.
 
 * One can take the fatalistic view and wait for the predicted bloody **revolution** or one can exert pressure in an attempt to effect change.
 
 * Suppose he teaches the history of the glorious **revolution** of 1688.
+
+* China has recovered from the Great Leap Forward and the Cultural **Revolution**.
+
+* Indeed, when I read it I thought of the words of Charles James Fox when he said, referring to the French **Revolution**: 
+Without parliamentary democracy what is there?
+
+* **Revolution** does not ever happen until some spark ignites the dynamite.
 
 * The technological **revolution** has resulted in wool being in a position different from that which it held in the past, whatever happens.
 
@@ -75,7 +88,11 @@ Labor rejected **revolution** not only as undesirable but as impracticable.
 
 * Later he bought a little 'Red Book' to read for himself and to study for the next peace conference - such philosophies as 'War is the continuation of politics ... by other means'; 'the seizure of power by armed force, the settlement of the issue by war, is the central task and the highest form of **revolution**'.
 
+* When the Industrial **Revolution** created a multiplicity of new trades and the domestic system of production was superseded by factory production, the Statute of Artificers was repealed.
+
 * It was these economic and social conditions, largely created by the French, which became the force behind the 20th century national **revolution** which Australian and American forces fought in the name of fighting communism.
+
+* We can refer to the struggle that took place in the United States of America to set up that country's constitution when lack of representation resulted in the American **Revolution** and the subsequent setting up of that country's own form of Government.
 
 * If I were a dictator and wanted to destroy the fibre and the structure of a country I would not have a **revolution** - I would just double wages every month.
 
@@ -87,11 +104,14 @@ Labor rejected **revolution** not only as undesirable but as impracticable.
 
 * The honourable member for Holt  (Mr Oldmeadow)  claimed that the .Bill was designed to produce a **revolution** of access to education.
 
-* Are there any examples where the incitement of **revolution** by Peking Radio, the  Voice of Thailand  or the  Voice of the Malaysian Revolution  has been discussed by the Chinese Government.
+* Are there any examples where the incitement of **revolution** by Peking Radio, the  Voice of Thailand  or the  Voice of the Malaysian **Revolution**  has been discussed by the Chinese Government.
 
 * He was both a product and an architect of the tumultuous events of the **revolution** whose effects have transformed his country and its relations with the world.
 
 * For example, in the report of  Mr Justice  Hope the second definition of 'subversion' is given as overthrow by force and undermining by unlawful means and the definition of 'subversive activity ' is given as overthrow of the Constitution by **revolution** or sabotage, overthrow by force or violence and destruction of Commonwealth property.
+
+* If one also looks at the section of  Mr Justice  Hope's report as to trade unions one will see that it states: 
+As a matter of fact, the guillotine of the French **Revolution** could not possibly have been as ridiculous and as sharp as the one being used by this Government.
 
 * It is written by Huberman and Sweezy and is on the anatomy of a **revolution**.
 
@@ -144,6 +164,8 @@ There was a **revolution** in working conditions on the waterfront.
 
 * He wants not a reform but a **revolution**.
 
+* My own crystal ball tells me that by then the Green **Revolution** will have run its course in Asia, Africa and Latin America.
+
 * The **revolution** is not in the form of the new system but in its relative incidence.
 
 * If one looks at the communes of China one will see that the **revolution** in China was directly related to land reform in that country.
@@ -186,6 +208,10 @@ There was a **revolution** in working conditions on the waterfront.
 
 * The conversion of the imperialist war into a civil war cannot be 'made', any more than a **revolution** can be 'made'.
 
+* This is the biggest one in our area since the Industrial **Revolution**, yet the Liberal and Country parties continue to talk as if cliches such as free enterprise, the judgment of the market place and less government will solve the problems; all this despite the lessons of history.
+
+* Of course nothing could happen because the whole economic history of the world is such that since the Industrial **Revolution** the move has been to the cities.
+
 * There has been a **revolution** in fighter aircraft technology.
 
 * The administration on the island- that is, the Australian Public Service on the island- has progressed beyond this pre-industrial **revolution** stage.
@@ -193,6 +219,8 @@ There was a **revolution** in working conditions on the waterfront.
 * I invite honourable members to reflect for a moment upon the differences of scale, rate and complexity in the technological and industrial **revolution** which has burst upon these people compared with anything that went before.
 
 * This was the basic lesson that has come out of all the **revolution** since Keynes; every conservative economist in the country has said that.
+
+* They are the sort of people who, if one saw them at the French **Revolution** being taken in the tumbrils to the guillotine and a wheel came off, would get out and help the executioner put it back on.
 
 * Until that aim is achieved the **revolution** In education will proceed very slowly.
 
@@ -224,15 +252,21 @@ There was a **revolution** in working conditions on the waterfront.
 
 * They knew nothing about the French **revolution**.
 
+* Mr Deputy Speaker, I think it is most important too for us to be aware of, and to assess the effect of, the so-called 'Green **Revolution**' in Asia.
+
 * As to what is happening today in South East Asia, the signatures on this document simply witness the fact that there are regimes which are endeavouring to hold back the course of social change and social **revolution** in South East Asia.
 
 * One cannot hold back social **revolution** in these countries by supporting corrupt and reactionary regimes.
+
+* I should like to draw the attention of the House to the comment of the great French philosopher, Voltaire, who, in 1764, at the time of the French **Revolution** said: 'I disapprove of what you say, but I will defend to the death your right to say it'.
 
 * This is a result of the technological **revolution** which has hit agricultural production in the highly developed countries.
 
 * The vaunted green **revolution** has barely slowed the slide.
 
 * There would be a **revolution** in the Australian Country Party.
+
+* The population of the world has increased enormously since the Industrial **Revolution** and since medical science has managed to control diseases such as smallpox and tuberculosis which once wiped out hundreds of thousands of people.
 
 * What we need on the Corporation, and what the Minister has done in this Bill to ensure it, are people who are sensitive to the great **revolution** which is taking place in wool marketing and to the fact that we will get economies of the order of $100m to $200m a year for wool growers in this country.
 
@@ -243,6 +277,8 @@ There was a **revolution** in working conditions on the waterfront.
 * Its rush into an allegedly idealistic international Third World of socialism was further marred by the obvious personal ambitions of its individual members to achieve economic and social **revolution** while leaving their mark on the pages of Australian history.
 
 * The Australian community rejected the Labor Party for its actions and for its rush into **revolution**.
+
+* This kind of adjustment has been going on since the Industrial **Revolution**, and despite some recent hysteria there is no reason why we cannot sensibly agree on ways of sharing the work and the benefits of the particular kinds of technological advance available to us now.
 
 * If  Mrs Sydney  or  Mrs Melbourne  had to make a trunk call to contact the corner store there would be a **revolution** in Sydney and Melbourne, and probably very rightly so in this day and age.
 
@@ -255,6 +291,8 @@ There was a **revolution** in working conditions on the waterfront.
 * History has shown - from the industrial **revolution** onwards - that workers have to strive to get increased wages and increased compensation when their standard of living is reduced.
 
 * Yet the Australian Labor Party exhibits a slavish regard for those international manipulators who will prosper from anarchy and from **revolution**.
+
+* In France the guillotine was first used in 1789, in the first year of the French **Revolution**, and continued in use for 180 years, being abolished only in 1969.
 
 * It is a fact of recent history that while the technological **revolution** of the sixties and the seventies has brought great benefits in material good living, in national progress and in economic well-being - it has also had by-products which are despoiling our land and polluting the air and the water around us.
 
@@ -282,12 +320,16 @@ There was a **revolution** in working conditions on the waterfront.
 
 * Bishop Crowther said that he could see no alternative to violent **revolution** in South Africa.
 
+* I read a very interesting article quite recently in the March edition of the  Pastoral Review  titled "The Quiet **Revolution** in Household Spending'.
+
 * It is up to every member to take part in a **revolution**, to vote some sanity and sense into our Standing Orders when the Standing Orders 
 Much of the youth revolutionary talk of our times is the old Marxist hat, much tattered and worn at a new angle.
 
 * Today's new factor is the emphasis on direct physical confrontation with the authorities and especially with the universities where urban geurilla warfare is used in the struggle to bring on the so-called **revolution**.
 
 * These are encouraging signs within the context of what amounts to a virtual **revolution** in thinking on development issues throughout the world.
+
+* At present on the notice paper we have the greatest list of executions since the French **Revolution** - 17 guillotines in one motion, an amazing proposition for any democratic Parliament.
 
 * The 'Marseillaise' was composed as a marching song in 1792 when the French Republic which had recently been formed at the time of the **revolution** was fighting for its very existence against foreign invaders and particularly against the Austrians.
 
@@ -329,6 +371,8 @@ Much of the youth revolutionary talk of our times is the old Marxist hat, much t
 
 * If we do not look at problems of land reform and the ability of the average person in these countries to get the wherewithal for life we have the seeds of **revolution**.
 
+* In 1970 China was still in the process of emergence from the Cultural **Revolution**.
+
 * A **revolution** has occurred.
 
 * But in other areas, including neighbouring countries, the Chinese leaders are continuing their support for armed **revolution** and insurgency, and this support is material as weir as ideological.
@@ -338,11 +382,17 @@ Much of the youth revolutionary talk of our times is the old Marxist hat, much t
 * The honourable member for Sydney said: 
 Australia is passing through an economic **revolution**.
 
-* The economic **revolution** I have referred to is usually called 'the Post-Industrial Revolution' although, as I shall suggest later, it might be described more accurately as 'the Post-Service Revolution'.
+* The economic **revolution** I have referred to is usually called 'the Post-Industrial **Revolution**' although, as I shall suggest later, it might be described more accurately as 'the Post-Service **Revolution**'.
+
+* The 'Agricultural **Revolution**' led to more food being grown by fewer people, causing rapid urbanisation and the long expansion of manufacturing industry, loosely called 'the Industrial **Revolution**', in which goods production was the largest single employment sector.
 
 * The United States is also much further into the information **revolution** than Australia.
 
 * It is essential that we begin to grasp the significance of the micro-electronic **revolution** which has led to a dramatic break with past economic history.
+
+* The Industrial **Revolution** in Britain finally forced upon that country, as it forced upon this country, many changes in the working of governmental institutions, including the courts and the law, in a period when the rates of change were shorter than we experience today.
+
+* So much for the great puritan values which were the main drive behind the development of the Industrial **Revolution** and capitalism which is no longer a virtue.
 
 * 1 in the **revolution** of the workers.
 
@@ -365,13 +415,21 @@ Members of the Labor Party have talked about a  coup d'etat  on 1 1 November as 
 
 * He is in favour of every social **revolution**, except the next one.
 
+* One might, I suppose, substitute the words: 'The Quiet **Revolution**'.
+
+* It is entitled: 'Communist Rules For **Revolution**'.
+
 * At page 2 of the leaflet there are 3 headings, A, B and C, and in the limited time available to me I will try to cover these communist rules for **revolution**.
 
 * One would think that, with the passage of this Bill, the **revolution** was about to start, to paraphrase the remarks of the honourable member for Moreton.
 
+* Some countries have had at some periods higher rates of inflation but never since the Industrial **Revolution** has there been the degree of simultaneous inflation around the world that there is at the moment.
+
 * If this view becomes general, the educational **revolution** that matters will have been achieved.
 
 * When we start providing that kind of help for disadvantaged pre-school aged children in Australia we will have a social **revolution**.
+
+* It was probably in a better housing situation that at any time since the 18th century Industrial **Revolution**.
 
 * Since 1963 commercial television has spent over $100m on the Channel 7 **revolution**.
 
@@ -390,6 +448,8 @@ Members of the Labor Party have talked about a  coup d'etat  on 1 1 November as 
 * -Tonight I wish to talk about an alternative to petroleum, a quiet **revolution** which is going on in Austraiian industry and transportation.
 
 * That is what is happening with primary production around the world, with the green **revolution** whereas 4 bushels are being garnered in Mexico and Pakistan.
+
+* The Bill of Rights in 1689 and the Act of Settlement in 1701 embodied in legal terms the settlement of constitutional government between Parliament and the Executive following the 1688 **Revolution**.
 
 * I say again - I think it is worth repeating - that just prior to the regrettable **revolution** in Chile about 750,000 workers rose in rebellion at one public meeting.
 
@@ -413,6 +473,10 @@ Members of the Labor Party have talked about a  coup d'etat  on 1 1 November as 
 
 * At that time there was quite a **revolution** both in shipping and on the waterfront, particularly with the advent of roll-on roll-off ferries instead of the conventional type of shipping.
 
+* Back in the old days of the 1 890s trade unions had to be formed to get some rights for the workers and back in the Industrial **Revolution** in the early 1 820s something had to be done to get children out of the mines.
+
+* It was no one else but  Dr Jim  Cairns himself, the author of 'The Quiet **Revolution**' and the man who undoubtedly is pledged to the maximum of his capacity while he is in his present position to socialise Australian industry.
+
 * This is what he said about the Hungarian **revolution** - 
 Workers' control demands and tactics as outlined above provide a testing ground today for even greater challenges in the coming years to the power of capitalism and its State machine.
 
@@ -422,9 +486,13 @@ Workers' control demands and tactics as outlined above provide a testing ground 
 
 * If they do not, the people will leave the industry anyway because there has been a dramatic **revolution** in the European countryside in terms of the way of life.
 
+* **Revolution** isn't going to come without an armed struggle.
+
 * With that diminished capacity to predict future trends, the Government has just stumbled on the fact that Australia is on the verge of a technological **revolution** which carries immense consequences for the manufacturing base in this country.
 
 * I can remember the days when he lectured me at Melbourne University on economic history, about the trade union movement and the industrial **revolution**.
+
+* In the early 1800s the French **Revolution** caused the English ruling class to have a special fear of organised labour.
 
 * For threequarters of a century this nation has survived as one of the minority of countries throughout the world which have not suffered from upheaval as a result of **revolution** or an attempt at armed overthrow of the Government.
 
@@ -433,6 +501,9 @@ Workers' control demands and tactics as outlined above provide a testing ground 
 * If there was a **revolution** in Australian society it was the product of the Commonwealth reconstruction training scheme.
 
 * Is it possible for the funds to be used for other purposes, such as **revolution**, wars of national liberation, terrorism or guerilla activities in other countries.
+
+* I quote from a document titled  Communist Rules for **Revolution**  which was written in 1919 and which lists the 4 basic rules as: 
+What their leaders are doing is trying to bring about what they call a revolutionary situation.
 
 * This is a rehearsal for **revolution**.
 
@@ -470,9 +541,16 @@ Workers' control demands and tactics as outlined above provide a testing ground 
 
 * The green **revolution** has meant that through the use of fertilisers and the use of rapidly growing and high yielding Mexican wheats there is a very substantial increase in production in a great part of Asia, and China has not, of course, been outside that.
 
+* The learned people on the government side who read selectively should read  Anatomy of a **Revolution**  by 
+Huberman and Sweezy.
+
 * Before the **revolution** hook-worms were found to be slithering from the mouths and noses of little children.
 
 * We are to carry out a **revolution** in the Australian National University.
+
+* Regarding the 'Marsellaise', as has already been said, it arose from the circumstances of the French **Revolution**.
+
+* It was composed by an artillery officer in a French division from Marseilles fighting against the invaders of France after the **Revolution**.
 
 * Prior to the Russian **revolution**, 80 per cent to 85 per cent of the people were illiterate.
 
@@ -521,11 +599,17 @@ Workers' control demands and tactics as outlined above provide a testing ground 
 
 * There has been an agricultural **revolution** in this country by the addition of these fertilisers to the pastures.
 
+* This is a matter of great regret to me personally as a person from the city, because it is only since the Industrial **Revolution** that most of us have been in the cities.
+
 * Under the aegis of the National Library Act we look to the rapid and co-operative evolution of library and information services in Australia to cope with the information explosion and the technological **revolution** in the handling of information.
 
 * It makes one wonder whether we are facing another **revolution** here.
 
+* The Minister for Overseas Trade, in 'The Quiet **Revolution**', makes it plain that he wants to alter the system, to destroy stability and to destroy the savings of retired people and the assets of farmers and small businesses- of anyone who has a stake in this country.
+
 * An economic crisis would then be created which  Dr Cairns  makes plain in the document is the ground work for **revolution**.
+
+* In May of 1919 at Dusseldorp Germany, the Allied Forces obtained a copy of some of the 'Communist Rules for **Revolution**'.
 
 * It referred to a second front against reaction following on moral **revolution**.
 
@@ -535,6 +619,8 @@ Workers' control demands and tactics as outlined above provide a testing ground 
 The Australian public has the right to expect a much higher standard of behaviour from its Federal parliamentarians.
 
 * The **revolution** that saw the creation of the great nation and republic of the United States of America was sparked by a tea party at Boston over 200 years ago.
+
+* I have in my hand a book entitled The Quiet **Revolution**' written by James Ford Cairns, the Minister for Overseas Trade.
 
 * Change is slow and the **revolution** is quiet.
 
@@ -576,9 +662,15 @@ The Australian public has the right to expect a much higher standard of behaviou
 
 * As one of the founders of the Constitution said, there is a very thin line between what is right and **revolution**.
 
+* The classic example is the French **Revolution**.
+
 * and a beginning of support for the human rights' **revolution**, around the world most often expressed in the national liberation movements.
 
 * But we are now launching ourselves on what might be called part of the Australian educational **revolution**.
+
+* Port Jackson was an ideal, sheltered deep sea port and with the rapid expansion of railways- bearing in mind that this country was settled and developed after the Industrial **Revolution**- Sydney became the hub of a quite sophisticated transport system.
+
+* I would not mind sitting as they did in the days of the French **Revolution**, when the Legislative Assembly was in constant session.
 
 * I do not condone the recent **revolution** one bit, but long before the **revolution** 750,000 workers in Chile demanded the end of the Allende regime.
 
@@ -592,7 +684,13 @@ The Australian public has the right to expect a much higher standard of behaviou
 
 * Yes, for **revolution**, not because honourable members opposite are revolutionary individually, although some of them may be, but because they are being directed by a revolutionary body outside this Parliament.
 
+* Without money the Industrial **Revolution** could not have occurred.
+
+* There is a vast potential for effect upon our economy and upon our whole system if the world economy changes to the extent that it could change if the monetary backing for international trading agreements becomes a gold-backed rouble rather that the British pound, or more recently the American dollar- the backing which has existed since the time of the Industrial **Revolution**.
+
 * The trouble with ali this planning is that it fails to dovetail trends in various sectors and fails to make provision for the training of efficient planners, so creating a bottleneck in the supply of the sort of people who can understand and apply the knowledge **revolution** about planning and forecasting techniques that has taken place in the rest of the world in the 1960s.
+
+* Has any request been made to the People's Republic of China concerning the broadcasts beamed to South East Asia, known under the name of  The Voice of Thailand  and  Radio Suara Revolusi Malaya- the Voice of Malayan **Revolution**.
 
 * If so, has a request been made that these broadcasts cease promoting insurrection and **revolution**, when was the request made and under what circumstances.
 
@@ -608,6 +706,8 @@ The Australian public has the right to expect a much higher standard of behaviou
 
 * Some recent clues, however, suggest that the Labor Party now sees socialism not simply as economic reform but as a **revolution** in our social and cultural values.
 
+* Would he support such a demonstration by a protest movement or a moratorium if one were to be organised in Australia, or does he agree with the delegate at the Continental Congress of the Daughters of the American **Revolution** who said: 'Subversive elements plan to make American children live in an environment that is good for them'?
+
 * Labor's **revolution** covered a number of fields.
 
 * All the programs that have been initiated by this Government are symptoms of the great **revolution** that is taking place in educational philosophy.
@@ -615,6 +715,8 @@ The Australian public has the right to expect a much higher standard of behaviou
 * Anyone who has been closely associated with schools, as J have, cannot but be aware of the **revolution** taking place in curriculum development.
 
 * As to the second point raised by the honourable gentleman, that is, that three countries, Pakistan, India and Indonesia, because of the green **revolution** that has occurred in those countries, no longer have any necessity for wheat, I point out to him that not only have they a necessity for it, but they are importing it now because they need it in order to feed their hungry millions.
+
+* The clear lesson of the Industrial **Revolution** has been that where men are naive enough to believe that they can pit themselves against machines they have always lost.
 
 * Our technological **revolution** which has taken man to the moon and into space has brought with .it fundamental changes in our lifestyle.
 
@@ -645,6 +747,16 @@ Yet today the heirs of that **revolution** cannot celebrate in triumph.
 
 * This is especially true in the period since 1971, the period since the microchip **revolution**, where there is a complete break in relationship between the level of output which is able to rise exponentially while the employment and other significant inputs are able to fall exponentially.
 
+* from my submission 'Implications of a Post Industrial or Post Service **Revolution** on the Nature of Work' which I presented to the Myers committee on technological change in Australia.
+
+* Congenital optimists are inclined to assert that technological change in the 1970s does not differ significantly in its impact from any other period since the Industrial **Revolution** began.
+
+* There are seven basic differences between Europe's situation during the Industrial **Revolution** and the problems of finding alternative employment in the Post Industrial or Post Service **Revolution**.
+
+* The Industrial **Revolution** was marked by: 
+The Post-Industrial **Revolution** is marked by: 
+I would like to deal briefly with this problem because it is most important to reconstruction in Queensland.
+
 * With the siratro and setaria pastures there is a **revolution** going on in some of these areas which previously were pronounced marginal dairy farms and which will remain marginal dairy farms until we can get some semblance of sanity in the Queensland Government by its accepting positive and sound schemes like these.
 
 * That is the kind of **revolution** they are bringing about.
@@ -663,6 +775,8 @@ With the advent of the Whitlam Government in 1972 the people of western Sydney s
 * Our basic manpower policies have not changed since the industrial **revolution**.
 
 * We all know what happened in little Cuba when its **revolution** displeased its northern neighbour.
+
+* Finally, I leave China with a statement made by one of its former prominent leaders after the **Revolution**, Liu Shao-chi.
 
 * A Bill such as the Broadcasting and Television Bill carries overtones which reflect the importance of this tremendous field of modern mass communications - a field in which a **revolution** is only beginning to be felt in Australia.
 
@@ -705,13 +819,16 @@ How right he is,  Mr Speaker.
 
 * In another draft paper for the Communist Party Congress on 'Aims' etc., there was this: The communists aim for socialist **revolution** without civil war.
 
+* Dr J.  F. Cairns, in his book in 1972 titled 'The Quiet **Revolution**', stated: 
+**Revolution** in an advanced capitalist country can become a possibility only if there is a serious economic crisis.
+
 * I conclude my contribution to the Budget debate by saying that the Labor Government has created that serious economic crisis and that there are some people in the trade union movement with political beliefs of a communist philosophy who are exploiting it to the utmost to bring about that quiet **revolution** and to destroy free enterprise in this country so that a climate is created where ALP socialism will be the only alternative because private enterprise will no longer be.
 
 * Chilean **revolution**.
 
 * It requires of everyone who is going to take part, a lot of self-questioning, a lot of learning, and in many cases, a sort of internal **revolution**.
 
-* If the Government is planning  to  settle industrial disputes by forcing the bg battalions simply  to  bash it out against the employers - tearing down private property, resorting to arson, destruction, physical violence and **revolution** then I can only say they have forgotten that the French Revolution, the American Revolution and the Russian Revolution started because a few people in seats of power did not realise that right under their noses a **revolution** was erupting and could not see that when people were crying out for bread they could not be satisfied by being given cake when there was no cake to give them.
+* If the Government is planning  to  settle industrial disputes by forcing the bg battalions simply  to  bash it out against the employers - tearing down private property, resorting to arson, destruction, physical violence and **revolution** then I can only say they have forgotten that the French **Revolution**, the American **Revolution** and the Russian **Revolution** started because a few people in seats of power did not realise that right under their noses a **revolution** was erupting and could not see that when people were crying out for bread they could not be satisfied by being given cake when there was no cake to give them.
 
 * I do not think that people should lose sight of the fact that after promising a **revolution** to restore the pride, confidence and strength of the Chinese empire, Chiang Kai-shek first turned the machine guns on the striking workers in Shanghai in the early 1920s- workers who had struck to facilitate his takeover of the country- then proceeded to collaborate with the very people who had been responsible for the destruction and subjection of China for so long.
 
@@ -722,6 +839,13 @@ How right he is,  Mr Speaker.
 * Although the situation on Zanzibar has been less dear, the present leadership there, as  President  Nyerere indicated during his visit, is seeking to counter the worst effects of a violent **revolution** and reactions to years of abuse which stemmed from foreign domination including the slave traffic centred on the island of Zanzibar.
 
 * (a) It is estimated that about 5,000 persons died on Zanzibar during the **revolution** of January 1964, mounted by both Africans and Arabs against the Sultan's Government.
+
+* It is interesting to quote here from a book entitled 'The Quiet **Revolution** ' written by  Dr Cairns,  the  Deputy  Prime Minister, in 1972.
+
+* He wrote: 
+**Revolution** in an advanced capitalist country can become a possibility only if there is a serious economic crisis.
+
+* In my maiden speech on 23 February I spoke about the Post Industrial **Revolution**' or, to use two alternative names, the 'Post Service **Revolution**' or the 'Information Society'.
 
 * This development occurred at the time of the industrial **revolution**.
 
@@ -772,9 +896,13 @@ How right he is,  Mr Speaker.
 * The article says: 
 There they were, toasting the **revolution**: Good luck to the future.
 
+* The Industrial **Revolution** was an enormous force which transformed the economy of Europe and North America- and Australia too- over a long period.
+
 * The impact of the microelectronics **revolution** manifests itself in very different ways, i.e.
 
 * Replacing many devices which have traditionally been the territory of precision mechanical (or electromechanical) devices by purely electronic systemsitself a very substantial **revolution**.
+
+* This would enable technology to realise the hope, promised but never fulfilled by the Industrial **Revolution**, to liberate man from boring and life-denying labour.
 
 * It may require **revolution** within the Service, but far better a **revolution** than to have the Service and its highly capable staff frustrated in their efforts to carry out their responsibilities in an efficient manner.
 
@@ -817,4 +945,6 @@ There they were, toasting the **revolution**: Good luck to the future.
 * My reading of history indicates that there was an agricultural **revolution** before there was an industrial **revolution** and that there were differences in the industrial **revolution** as between one country and another.
 
 * The industrial **revolution** occurred early in England and later in Germany, and it occurred in a different way in France.
+
+* All candidates came from Zaire's sole legal political party le Mouvement Populaire pour la **Revolution**.
 

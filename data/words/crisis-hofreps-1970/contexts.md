@@ -48,6 +48,8 @@
 
 * At present the only part of the meat industry where reasonable prices prevail is in the pig meat industry, but for all parts of the Australian meat industry there is emerging a **crisis** which needs to be recognised by all members of the Australian community.
 
+* **Crisis**, chaos, industrial anarchy, communists, fascists, centralists, spendthrifts, misers and a host of other phrases roll glibly off the tongues of these men as they continue on the same path of dividing the nation in Opposition as they did for 23 years in Government.
+
 * It may well be justified or alternatively running itself into a major **crisis**.
 
 * Already the wool industry has reached a **crisis** point with costs threatening to swamp the already minute margin between costs and prices.
@@ -289,6 +291,9 @@ The legislation on wages only furthers this type of disaster.
 * Metropolitan Sydney and Melbourne are the two **crisis** areas in Australia because they are where most of the people live.
 
 * I wanted to refer particularly to the latest **crisis** in what seems to be a series of crises that afflict these various programs.
+
+* In an article headed 'The $60 Billion **Crisis** over Medical Care' the reputable United States magazine 'Business Week' in January this year stated: 
+This of course is a means to try to stop me from getting the true message across to the wheat growers of this country, and it is typical of the almost dreadful tactics of the Opposition to try to cloud the issue confronting the great wheat industry of Australia.
 
 * Throughout this **crisis** the Government has stretched every muscle to help the wheat industry.
 
@@ -602,7 +607,11 @@ There has been a tremendous increase in trade.
 
 * think we have in Australia at the moment is what Professor Henderson recently described in a lecture given in Melbourne as 'too much instant government' - acting when the **crisis** is on you instead of preparing to avoid a **crisis**.
 
+* There is the **Crisis** Centre at the Way side Chapel at Kings Cross.
+
 * The Government's decision not to provide funds for any new projects under the Act will prolong the **crisis** of Australian cities.
+
+* Members will recall that the Committee tabled on 2 December 1976 a report entitled  The Lebanon **Crisis**- Humanitarian Aspects.
 
 * However, we regret that the most recent discussions were substantially affected by the recent oil **crisis**.
 
@@ -765,6 +774,8 @@ Of course there is a housing shortage in Australia.
 
 * It is only in times of **crisis** that one sees the real value of the Australian, how he can work with his fellow man and how all Australia can mobilise itself.
 
+* One article headed 'Financial **Crisis** Looms For Rural Industry' was written by  Mr Tom  Connors of the 'Australian Financial Review', lt was reprinted in the 'Ricemill News'.
+
 * It reads: 
 As a result of the Federal Government's decision to increase land line charges many country radio stations will face a financial **crisis**.
 
@@ -781,6 +792,8 @@ As a result of the Federal Government's decision to increase land line charges m
 * I thought that, at some stage, he was almost coming to one of the points of **crisis**.
 
 * That **crisis** has now passed.
+
+* One headline was 'Grim **Crisis** Plan Ahead'.
 
 * Sydney and Melbourne these days are drawing migrants from a countryside in **crisis**.
 
@@ -900,6 +913,8 @@ That is, the Royal Australian College of Surgeons - discovered that this **crisi
 * It is going to administer the teaching service of the Australian Capital Territory and of tha 
 These are aspects of the F111C **crisis** which should not be glossed over by the Government.
 
+* The article is entitled 'The Inflation **Crisis**'.
+
 * Why will it not ease the liquidity **crisis** which is causing the private sector to lose confidence and causing it to reduce the supply of goods and reduce employment?
 
 * There is a record public sector debt and **crisis**.
@@ -912,6 +927,8 @@ If that was not sufficient, only a few weeks later we had the **crisis** relatin
 * Then essentially, over a short period of time, it was elevated by the public media and by the commentators into a **crisis** situation, but it never was a **crisis** situation.
 
 * I remember  Sir Robert  Menzies, when he was Prime Minister, coming back from an overseas conference on the Suez **crisis** in 1956 and giving a report to Anthony Eden on what he had discovered on his trip up the Nile with the late  President  Nasser.
+
+* I want to quote some extracts from a very thoughtful contribution by Frank Brennan in his book Canberra in **Crisis**'.
 
 * Nobody wants to talk to him now because the policies that he enunciated then have proved, in the present world oil **crisis**, to be the right policies for Australia.
 
@@ -1423,6 +1440,8 @@ In conclusion let me say with all the sincerity that I have that this nation is 
 
 * I should like to refer to the energy **crisis**, the problem of the Aboriginal settlement at Mornington Island and, finally, the urgent need for a national youth community cadet scheme to assist in the evergrowing problem of youth employment which simply will not go away.
 
+* Bearing in mind that impartiality between the communities in Lebanon is very important, but that humane and timely aid to the people is even more important, will the Australian Government encourage and even support nonGovernment welfare organisations to dispatch medical teams to Lebanon, to work in any areas where they are needed and welcomed, as recommended in the report entitled 'The Lebanon **Crisis**- Humanitarian Aspects' tabled in December 1976 by the Joint Committee on Foreign Affairs and Defence.
+
 * In November 1975 the Leader of the Opposition proposed to resolve the Supply **crisis** by having a half Senate election.
 
 * That is why we face this **crisis** situation now.
@@ -1544,6 +1563,8 @@ That there is a **crisis** in Aboriginal Welfare In the South West Land Division
 * Honourable members on the Government side need not come in here and bleat about the Government's troubles being due to the fact that the rural man is doing well and that there is a sudden oil **crisis**.
 
 * Two of the most urgent needs are an all out effort to reopen Australia's major beef market and in the meantime provision of finance to carry producers through the **crisis** period.
+
+* In an article titled 'An Ecological **Crisis**' published this year in the 'Professional Engineer', it is claimed that the Aswan High Dam in Egypt appears to be an ecological disaster.
 
 * The article slates: 
 It is true that administration expenses are to be the responsibility of the States, but the objective of the scheme is to ensure that primary producers will be able to have some opportunity within this amount to embark on rehabilitation at a time when the rural **crisis** generally has so adversely affected them.
@@ -1767,6 +1788,8 @@ That there is a **crisis** in Aboriginal Welfare in the South West Land Division
 * That is His Excellency- to find a democratic and constitutional solution to the current **crisis** which will permit the people of Australia to decide as soon as possible what should be the outcome of the deadlock which developed over supply between the two Houses of Parliament and between the Government and the Opposition parties.
 
 * The ADC and the Dairying Research Committee will be able to play their respective parts in assisting the dairy industry through its present **crisis**.
+
+* The report entitled 'The **Crisis** of Democracy' talks about the problem of the governability of democracies'.
 
 * I remind the House that that period from 1972 to 1975 was a period of great **crisis** for home owners in Australia and for the housing industry.
 
@@ -2068,6 +2091,9 @@ I now refer to the second part of the amendment to the effect that the Governor-
 * Also a retraining scheme for young people displaced in the rural **crisis** will be introduced this session.
 
 * We should consider seriously those people displaced by the rural **crisis** who are too old to be retrained.
+
+* The 'West Australian' of 18th February, under the heading 'Worse Jobs **Crisis** Seen In Building', stated: 
+I address a question to the Treasurer which is supplementary to the question asked by the honourable member for Sydney.
 
 * Will the Government ensure that in the present world financial **crisis** Australia follows the strengthening British pound' and that it does not follow deflationary currencies?
 
@@ -2595,6 +2621,8 @@ So we come back to the old question: For 23 years there was a Liberal-Country Pa
 This **crisis**, this chaos, this law of the jungle, this exploitation of the many by the few can and must be solved by planning.
 
 * Perhaps the greatest problem facing the nation today is the rising cost squeeze, not only upon the rural industries - it has reached **crisis** proportions there, we know - but upon practically all of our export earning industries as well.
+
+* In addition to these projects, the Rape **Crisis** Centre (Surry Hills), the Pregnancy Help Centre (Strathfield) and the Central Coast Women's Health Services Co-ordinator (Gosford) also receive financial assistance under the Community Health Program, but the latter projects are not classified as women's health centres.
 
 * That there is a **crisis** in Aboriginal welfare in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
 
@@ -3146,6 +3174,9 @@ I want to relate those events- other than international influences- which have c
 
 * So there we have it- an economy in **crisis**, a **crisis** of this Government's making.
 
+* With reference to the interim report from the Joint Committee on Foreign Affairs and Defence on its inquiry into the Lebanon **Crisis**, and the quoted figure of 1835 
+-From the tone of the question of the  Deputy  Leader of the Opposition I take it that he is not in favour of the Government's proposition that we are putting to the States for them to bring forward proposals whereby the Commonwealth might assist in underwriting loan moneys for the development of further electric power generation based on coal.
+
 * I cannot think of any greater national project that would be of more benefit during this energy **crisis** period than the development of electricity, both as an alternative to oil power and also to give greater opportunity to Austraiian industry to capitalise on this cheaper form of energy.
 
 * On any analysis the Australian economy is in a state of **crisis**.
@@ -3597,7 +3628,7 @@ The major short term causes of the State's unemployment **crisis** are well reco
 
 * During the last few years we have witnessed the oil **crisis**, unprecedented exchange rate fluctuations and world stagflation.
 
-* Milton Ferris in his article 'Crisis and Change in America's Health system' said this: 
+* Milton Ferris in his article '**Crisis** and Change in America's Health system' said this: 
 The honourable member for Warringah  (Mr Mackellar)  has revealed a tendency that is all too apparent in the policies of the Government when faced with a national **crisis** and a national problem.
 
 * The situation is one of **crisis** and the position is worse this year than it was last year, with the lack of adequately trained teachers and the increasing use of stopgap teachers.
@@ -3622,7 +3653,7 @@ The honourable member for Warringah  (Mr Mackellar)  has revealed a tendency tha
 * The report states: 
 Of course, while the energy **crisis** makes the need for a fresh approach to land based transport in Australia compelling, especially with respect to Australian cities, there are other factors involved as well.
 
-* and John McDermott, M.D., in an article entitled Abortions and Acute Identity Crisis in Nurses' wrote: 
+* and John McDermott, M.D., in an article entitled Abortions and Acute Identity **Crisis** in Nurses' wrote: 
 The article goes on to comment that the symptoms were due to an acute identity **crisis** regarding their nursing roles caused by their abortion activities.
 
 * Perhaps if there had been proper representation at that critical time we might have been able to have avoided the development of the Cambodian **crisis**.
@@ -3943,6 +3974,9 @@ Industry has had incredible trouble because of its attempts to obtain cheap move
 
 * The most disturbing aspect of Australian oil production is that we can now say with certainty that in 5 years time Australia will face its own oil **crisis**, and honourable members know what that means.
 
+* RESEARCH **CRISIS** 
+A moment ago I reflected in passing on the paper prepared by Professor Richard Blandy.
+
 * There would then be an education **crisis** of truly classic proportions.
 
 * The Government's perfunctory response to the unemployment **crisis**.
@@ -4141,7 +4175,7 @@ The lack of agreement between Ministers is both obvious and astounding.
 
 * He is the Minister who has betrayed the Australian working man by presiding over the worst unemployment **crisis** since the Great Depression, the Minister whose policies and those of his colleagues have directly led to in excess of 300 000 people unemployed in Australia at this time.
 
-* Headed Crisis at the Chemist's' it reads as follows: 
+* Headed **Crisis** at the Chemist's' it reads as follows: 
 Britain is heading for a **crisis** over her chemists' shops.
 
 * I think that it was inevitable and that there was really no alternative for a responsible government, given the world energy **crisis** and our oil **crisis**.
@@ -4157,6 +4191,10 @@ Britain is heading for a **crisis** over her chemists' shops.
 * I notice, towards the end of the table, a break from 1954 to 1971 without any **crisis** in this regard.
 
 * The occasion in 1971 was a very serious **crisis**.
+
+* On the 2nd of this month the 'Age' reported: 'Hospital **Crisis**; Patients Sent Away.'
+
+* But the Minister says it is not a **criSiS**, that things are all hunky-dory.
 
 * I am concerned particularly with the **crisis** in roads.
 
@@ -4186,6 +4224,8 @@ I emphasise for the benefit of the Minister for Urban and Regional Development t
 * the urgency of the developing world energy **crisis** surely dictates that the time for our Government to take action is now.
 
 * Firstly, positive legislation is needed to ensure maximum Australian equity, participation and control of these national assets; secondly, we must tap the vast reservoir of the Australian capital market; and, thirdly - I no longer request this but demand it on behalf of the people who have any concern for the assets of this country and our national heritage - we must set up immediately a national inquiry to establish concrete policies and guidelines which will co-ordinate, identify, and quantify, and plan the most economic and efficient use of these vast resources of fuel and energy, based not on this Government's ad hoc, puerile decisions which are reached on a **crisis** to **crisis** basis, but on what this nation's supply and demand requirements will be not only in the next decade, but also - this is equally important - for the next half century.
+
+* I claim to have been misrepresented in an article in the  National Times  of 19-24 September entitled: 'Bush **Crisis**: What's Being Done for Farmers'.
 
 * My attention has been drawn to part of a paragraph which states: 
 The Westminster system is a **crisis** system.
@@ -4361,6 +4401,8 @@ Australia's inflationary pressure is building up to **crisis** proportions.
 * The impending food **crisis** has renewed the call to establish an international stock of basic foodstuffs, principally cereals, to cover seasonal fluctuations in world production.
 
 * It will be the Western countries, the free enterprise countries, the so-called capitalist countries, that will be called upon to provide the exportable surplus food in this time of **crisis**, indeed in the immediate future.
+
+* They include: The 'Energy **Crisis**'; The Problem of Liquid Fuels- Exploration, Windfall Gains, Fuel Substitution, Conservation; A Natural Gas Policy For Australia- Demand and Supply, Gas Pricing, End Use Allocation of Gas; The Contribution of Coal- Reserves, Coal Uses; and The Australian Mineral Industry.
 
 * We came in when the universities were in a state of **crisis**, when we had the findings of the Murray Commission, and we have come in at election times with Commonwealth scholarships, with science grants, with grants for school libraries and so on.
 
@@ -4792,8 +4834,11 @@ I believe that the Australian people fell for the line pushed by the Liberals an
 
 * In this respect I seek leave to incorporate in  Hansard  a copy of the minute paper of the Department of Environment, Housing and Community Development on youth **crisis** accommodation in Brisbane.
 
-* YOUTH CRISIS ACCOMMODATION IN BRISBANE-JUNE 1978 
-REPORT-BRISBANE: YOUTH CRISIS ACCOMMODATION 
+* Re: Youth **Crisis** Accommodation- Brisbane 
+Iam attaching hereto a report submitted by ARO  Mr John  Elliott on Youth **Crisis** Accommodation in Brisbane.
+
+* YOUTH **CRISIS** ACCOMMODATION IN BRISBANE-JUNE 1978 
+REPORT-BRISBANE: YOUTH **CRISIS** ACCOMMODATION 
 There is no establishment in Brisbane providing specifically and solely for **crisis** accommodation (i.e.
 
 * Primmer Lodge, a self-supporting longerterm care community for children aged 14-17, has recently received State Government funding to operate 6 short-term **crisis** accommodation beds.
@@ -4816,6 +4861,8 @@ In the area of **crisis** accommodation, its advance payments to Primmer Lodge a
 * In a recent study of 62 such children, 24 were placed in **crisis** accommodation of some description, 18 were placed in hostels (eg.
 
 * DCS also has to do a lot of shopping around' to place a child in **crisis** accommodation.
+
+* **Crisis** accommodation (for 2-7 days, say) would only fill part of the need.
 
 * There is a tremendous demand in Brisbane for youth accommodation (both **crisis** and long-term supportive).
 
@@ -4861,7 +4908,7 @@ The most unfortunate effect of the shipping **crisis** is the loss of key indust
 * There was a feeling that because of the Government's actions the **crisis** would increase rather than the demand be moderated.
 
 * Bill Crews, Director of the Wayside Chapel's **crisis** centre, has written this: 
-Our Crisis Centre bathroom has become a first aid post for these people.
+Our **Crisis** Centre bathroom has become a first aid post for these people.
 
 * It must mean that the wool industry has reached a **crisis** in terms of the world price of wool.
 
@@ -4982,6 +5029,8 @@ However, even as late as 1969,  Sir Harold  Ragett did not mention the grave ene
 
 * That there is a **crisis** in Aboriginal Welfare in the South West Land Division of Western Australia resulting from a population explosion, poor housing and hygiene and unemployment and unemployability.
 
+* Has the Minister's attention been drawn to an article in the  Canberra Times of  17 May 1979 entitled 'University StaffTell of Research Funds **Crisis**'.
+
 * Nobody can pretend that we have not been through a **crisis** parallel to that in Cuba.
 
 * It was certainly the most tense **crisis** the nation has faced since 1962.
@@ -5065,6 +5114,11 @@ However, even as late as 1969,  Sir Harold  Ragett did not mention the grave ene
 * Of course we must welcome any small recognition by the Government of the current **crisis** in the countryside.
 
 * I was saying to the House just prior to the suspension of the sitting that most of the primary producers in the State of New South Wales, and in other States for that matter, are standing firm in the face of rising costs and in the face of the **crisis** in the countryside at the present time.
+
+* The Rural **Crisis** Manifesto was produced by the Edenhope Agricultural Bureau.
+
+* The Rural **Crisis** Manifesto said this: 
+These are isolated instances at the present time.
 
 * Then we have a situation of **crisis** in which the same hot money is standing by to buy up properties of family enterprises which, as has been conceded by honourable members on both sides of the House today, have the record of being the most effective and efficient in absolute terms.
 
@@ -5227,6 +5281,9 @@ Now, when by reason of the failure of crops in the Northern Hemisphere and the g
 
 * Given the severe energy **crisis** which is facing the world, Australia has an obligation not only to itself but to the world to do everything in its power to promote energy exploration and conservation.
 
+* Under the heading 'The **Crisis** in Manufacturing Industry ' it says: 
+Quite plainly, urgent action to ensure the survival of much of Australian manufacturing industry is necessary.
+
 * The present **crisis** does not lend itself to the theories and experiments of recent years, which have played their pan in bringing about the current situation.
 
 * It has moved from **crisis** to **crisis**, and most of them have been of its own making.
@@ -5289,7 +5346,7 @@ Now, when by reason of the failure of crops in the Northern Hemisphere and the g
 
 * The **crisis** of over production began after 1.63. yet it is the hig growers who created this **crisis** who are now receiving the lion's share of a State entitlement.
 
-* WOOLLEN MILLS SUFFERING MAJOR CRISIS, SAYS INDUSTRY'S LEADER 
+* WOOLLEN MILLS SUFFERING MAJOR **CRISIS**, SAYS INDUSTRY'S LEADER 
 CANBERRA - 'There is a **crisis** situation in the wool processing industry which may soon match that of the wool producers,' the  president  of Wool Textile Manufacturers of Australia,  Mr S.  D. Kelly, said here today.
 
 * It is part of a global debate which is taking place against the background of an impending world energy **crisis** of quite unprecedented and potentially disastrous dimensions.
@@ -5317,6 +5374,8 @@ CANBERRA - 'There is a **crisis** situation in the wool processing industry whic
 * No one in the Labor Party pretends that our unemployment **crisis** is other than difficult and deep-seated, or denies that the long term solutions will involve quite drastic approaches to the structural nature of the work force and our industries.
 
 * It also reported that it was asked to make recommendations on a wide range of **crisis** issues.
+
+* **Crisis** preservation on an ad hoc basis will not enable us to save enough of the best of our environment.
 
 * The Interim Committee claims that in most instances in which it was called upon to make recommendations on **crisis** issues it was able to arrange or recommend a solution.
 
@@ -5482,6 +5541,8 @@ the Speech makes no reference to the need for action to ensure that there cannot
 
 * More importantly the oil **crisis** has had a destabilising effect on the world economy as a whole.
 
+* In the Melbourne  Herald  of Thursday, 6 October, 'Australia "Blind" to **Crisis**' is the claim made in the headlines.
+
 * The article states: 
 Australia was facing an economic **crisis**, the Victorian director of the Australian Institute of Management,  Mr Ron  Gilchrist, said today.
 
@@ -5492,6 +5553,8 @@ Australia was facing an economic **crisis**, the Victorian director of the Austr
 * I am very disappointed that people should try to use the anguish and despair of people involved in this **crisis** purely for political purposes.
 
 * I do not seek to canvass this matter at this stage, but I consider that had the Commonwealth given 18-year-olds the right to vote as promised or indicated some time ago this **crisis** could have been avoided.
+
+* But a pessimistic view was put by Emeritus Professor T. G. Hunter, until recently Professor of Chemical Engineering at Sydney University, at the Australian Institute of Political Science Spring Forum 'The **Crisis** in Wool' held at Goulburn in October 1970.
 
 * He said: 
 I intend to speak in particular about the beef situation because the beef industry in Australia is in a state of absolute **crisis**, as is the wool industry to a certain extent.

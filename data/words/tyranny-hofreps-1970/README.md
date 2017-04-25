@@ -42,14 +42,14 @@
 
 ### Sample sentences:
 
-* The Parliament's members have enough difficulties through the **tyranny** of distance, as somebody called it.
+* In the past when those people have gone to the United States of America, to Australia or to the Western democracies of Europe they have made every effort to get away from the **tyranny** that 1 have mentioned.
 
-* Any parliament should have the desire to protect members of trade unions against that kind of **tyranny** and abuse.
+* This is a **tyranny** of the majority - a complete denial of the rights of the minority within a democratic society.
 
-* The moment democracy ceases to pay attention to the limitations and restraints which all governments must observe, it ceases to be a form of free government and becomes an organ of **tyranny** .
+* Any dramatic alteration of our electoral laws, as proposed here, will not alter the vital composition of this place as regards ideology or philosophy, but democracy will be threatened in that it will make for the **tyranny** of a 2-party system.
 
-* I make a plea to the Government to give every consideration possible to those disadvantaged by isolation and the **tyranny** of distance, such as the people in my electorate of Leichhardt.
+* Once again, in many cases the complaints will be from individual unionists who feel aggrieved at the **tyranny** of their leadership.
 
-* Read that great book of history,  The Martyrdom of Man,  and see how the **tyranny** of the ruling classes was thrown off.
+* The members of the unions are naturally looking to the Government to protect them against the **tyranny** of trade union officials, and that is what this Bill is all about.
 
 * [View all...](contexts.md)
