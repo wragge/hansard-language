@@ -508,7 +508,7 @@ def word_summary(word, house, decade):
         sorted_speakers = sorted(speakers, key=speakers.get, reverse=True)
         sorted_days = sorted(days, key=days.get, reverse=True)
         sorted_topics = sorted(topics, key=topics.get, reverse=True)
-        finder = BigramCollocationFinder.from_words(blob.words)
+        finder = BigramCollocationFinder.from_words(blob.words.lower())
         finder.apply_freq_filter(3)
         ignored_words = nltk.corpus.stopwords.words('english')
         finder.apply_word_filter(lambda w: len(w) < 3 or w.lower() in ignored_words)
@@ -516,7 +516,7 @@ def word_summary(word, house, decade):
         # collocations = finder.nbest(nltk.collocations.BigramAssocMeasures().likelihood_ratio, 100)
         collocations = sorted(finder.ngram_fd.items(), key=lambda t: (-t[1], t[0]))[:100]
         for sentence in blob.sentences:
-            if word in sentence.words:
+            if word in sentence.words.lower():
                 sentences.append(sentence)
         output = '\n## Searching for "{}" in {} within the {}s...\n\n'.format(word, house, decade)
         output += '----\n\n'
@@ -538,13 +538,15 @@ def word_summary(word, house, decade):
         for topic in sorted_topics[:5]:
             output += '* {} ({} uses)\n'.format(topic, topics[topic])
         output += '* [View all...](topics.md)\n'
-        output += '\n\n### Associated words:\n\n'
-        for collocation in collocations[:5]:
-            output += '* {} ({} appearances)\n'.format(' '.join(collocation[0]), collocation[1])
-        output += '* [View all...](collocations.md)\n'
+        if collocations:
+            output += '\n\n### Associated words:\n\n'
+            for collocation in collocations[:5]:
+                output += '* {} ({} appearances)\n'.format(' '.join(collocation[0]), collocation[1])
+            output += '* [View all...](collocations.md)\n'
         output += '\n\n### Sample sentences:\n\n'
-        for sentence in random.sample(sentences, 5):
-            output += '* {}\n\n'.format(re.sub(r'\b{}\b'.format(word), r'**{}**'.format(word), str(sentence)))
+        sample_sentences = random.sample(sentences, 5) if len(sentences) else sentences
+        for sentence in sample_sentences:
+            output += '* {}\n\n'.format(re.sub(r'\b({})\b'.format(word), r'**\1**', str(sentence), flags=re.IGNORECASE))
         output += '* [View all...](contexts.md)\n'
         print output
         with open(os.path.join(results_dir, 'README.md'), 'wb') as md_file:
@@ -568,16 +570,17 @@ def word_summary(word, house, decade):
             md_file.write('|--------------|----------------|\n')
             for topic in sorted_topics:
                 md_file.write('|{}|{}|\n'.format(topic, topics[topic]))
-        with open(os.path.join(results_dir, 'collocations.md'), 'wb') as md_file:
-            md_file.write('## Collocations for the word "{}" when used in the {} during the {}s\n\n'.format(word, house, decade))
-            md_file.write('| Collocation | Frequency |\n')
-            md_file.write('|--------------|----------------|\n')
-            for collocation in collocations:
-                md_file.write('|{}|{}|\n'.format(' '.join(collocation[0]), collocation[1]))
+        if collocations:
+            with open(os.path.join(results_dir, 'collocations.md'), 'wb') as md_file:
+                md_file.write('## Collocations for the word "{}" when used in the {} during the {}s\n\n'.format(word, house, decade))
+                md_file.write('| Collocation | Frequency |\n')
+                md_file.write('|--------------|----------------|\n')
+                for collocation in collocations:
+                    md_file.write('|{}|{}|\n'.format(' '.join(collocation[0]), collocation[1]))
         with open(os.path.join(results_dir, 'contexts.md'), 'wb') as md_file:
             md_file.write('## Contexts in which the word "{}" was used in the {} during the {}s\n\n'.format(word, house, decade))
             for sentence in sentences:
-                md_file.write('* {}\n\n'.format(re.sub(r'\b{}\b'.format(word), r'**{}**'.format(word), str(sentence))))
+                md_file.write('* {}\n\n'.format(re.sub(r'\b({})\b'.format(word), r'**\1**', str(sentence))))
         # Contexts -- sentences
         # People
         # Debates

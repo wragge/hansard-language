@@ -38,3 +38,28 @@
 * GRIEVANCE DEBATE (26 uses)
 * APPROPRIATION BILL (No. 1) 1971-72 (26 uses)
 * [View all...](topics.md)
+
+
+### Associated words:
+
+* immigration upon (421 appearances)
+* immigration policy (328 appearances)
+* immigration program (174 appearances)
+* immigration programme (145 appearances)
+* immigration policies (102 appearances)
+* [View all...](collocations.md)
+
+
+### Sample sentences:
+
+* Of course, the present Hawke-Whitlam axis has changed Labor's policy in this regard and Australians may well have similar problems if a Labor government with an open door **immigration** policy ever comes to power.
+
+* This is similar to the number which arrived in Australia under our **immigration** policy last year.
+
+* I turn now to the question of **immigration**.
+
+* According to the Minister 'this program underlines the Government's faith in **immigration** as an element in economic growth'.
+
+* I affirm the statement that I made to my Federal Member of Parliament and which he repeated in Parliament; namely: I have never had an official letter or communication from the Department of **immigration** concerning my husband's deportation.
+
+* [View all...](contexts.md)

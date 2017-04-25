@@ -42,24 +42,24 @@
 
 ### Associated words:
 
-* industrial revolution (40 appearances)
-* green revolution (21 appearances)
+* industrial revolution (63 appearances)
+* green revolution (22 appearances)
 * social revolution (17 appearances)
-* technological revolution (10 appearances)
-* cultural revolution (8 appearances)
+* french revolution (15 appearances)
+* quiet revolution (11 appearances)
 * [View all...](collocations.md)
 
 
 ### Sample sentences:
 
-* One can take the fatalistic view and wait for the predicted bloody **revolution** or one can exert pressure in an attempt to effect change.
+* There is a **revolution** in this.
 
-* He publicly endorses and recommends **revolution** in the streets.
+* I have heard the continual cry of riot, **revolution**, danger and sedition which has been going on for those 15 years and for 6 or 7 years before that, since the election of a Liberal-Country Party Government.
 
-* Anyone wilh any knowledge of history will know about the horrors of the first industrial **revolution** and how human beings were depersonalised into what were called 'factors of production'.
+* For threequarters of a century this nation has survived as one of the minority of countries throughout the world which have not suffered from upheaval as a result of **revolution** or an attempt at armed overthrow of the Government.
 
-* Intervention in a **revolution**, whether American, French or Russian, is a classic formula for failure.
+* This nation needs a **revolution**, but the Communists are too cruel, barbaric.
 
-* If the **revolution** in accessibility to education is to be achieved, we must discriminate in favour of those children in greatest need.
+* As honourable members would know, this book readily became a capitalist declaration of independence from the remaining shackles of feudalism and helped to launch an economic **revolution** that has produced far more wealth than man had amassed in all previous history.
 
 * [View all...](contexts.md)

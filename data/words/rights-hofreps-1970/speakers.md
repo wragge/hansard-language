@@ -1,0 +1,240 @@
+## Speakers who used the word "rights" in the hofreps during the 1970s
+
+| Speaker name | Number of uses |
+|--------------|----------------|
+|Mr. SPEAKER|1071|
+|WHITLAM, Gough|866|
+|BOWEN, Lionel|415|
+|BRYANT, Gordon|367|
+|CAMERON, Clyde|356|
+|HAYDEN, Bill|331|
+|ENDERBY, Kep|320|
+|DALY, Fred|273|
+|UREN, Tom|270|
+|FRASER, Malcolm|247|
+|WENTWORTH, William Charles|239|
+|PATTERSON, Rex|230|
+|CREAN, Frank|215|
+|CHAIRMAN, The|215|
+|SINCLAIR, Ian|210|
+|JONES, Charles|209|
+|MCMAHON, William|206|
+|EVERINGHAM, Douglas|206|
+|JOHNSON, Leslie|199|
+|ANTHONY, Doug|195|
+|HUNT, Ralph|193|
+|VINER, Ian|180|
+|BARNARD, Lance|178|
+|CAMERON, Donald Milner|176|
+|TEMPORARY CHAIRMAN, The|173|
+|LYNCH, Phillip|169|
+|SNEDDEN, Billy|166|
+|NIXON, Peter|161|
+|CAIRNS, Jim|157|
+|DEPUTY SPEAKER, Mr|153|
+|CONNOR, Rex|153|
+|GRASSBY, Al|153|
+|HURFORD, Chris|152|
+|MORRISON, Bill|144|
+|BEAZLEY, Kim|143|
+|HOWARD, John|141|
+|KLUGMAN, Dick|141|
+|CASS, Moss|140|
+|KEATING, Paul|137|
+|CALDER, Stephen|134|
+|KILLEN, James|133|
+|DEPUTY SPEAKER, Mr|131|
+|JOHNSON, Leonard|129|
+|GARLAND, Ransley|129|
+|COHEN, Barry|124|
+|YOUNG, Mick|123|
+|PEACOCK, Andrew|120|
+|STREET, Anthony|110|
+|ELLICOTT, Bob|110|
+|DEPUTY SPEAKER, Mr|106|
+|MCVEIGH, Tom|102|
+|HODGMAN, Michael|100|
+|FOSTER, Norman|92|
+|JACOBI, Ralph|92|
+|GORTON, John|91|
+|CAIRNS, Kevin|90|
+|WILLIS, Ralph|87|
+|DEPUTY SPEAKER, Mr|87|
+|CHAIRMAN, The|84|
+|CHAIRMAN, The|82|
+|ROBINSON, Eric|82|
+|DEPUTY SPEAKER, Mr|81|
+|LLOYD, Bruce|80|
+|MORRIS, Peter|80|
+|HOLDING, Clyde|79|
+|RIORDAN, Joseph|78|
+|KING, Robert|78|
+|JAMES, Albert|76|
+|DEPUTY SPEAKER, Mr|75|
+|BENNETT, Adrian|72|
+|O'KEEFE, Frank|71|
+|DEPUTY SPEAKER, Mr|70|
+|TURNBULL, Winton|68|
+|NEIL, Maurice|67|
+|CHIPP, Don|67|
+|CONNOLLY, David|66|
+|KELLY, Bert|64|
+|SWARTZ, Reginald|63|
+|WALLIS, Laurie|63|
+|GUN, Richard|61|
+|DUTHIE, Gilbert|60|
+|KERIN, John|59|
+|SOLOMON, Robert|59|
+|ROBINSON, Ian|57|
+|RUDDOCK, Philip|57|
+|KATTER, Bob|56|
+|CHAIRMAN, The|54|
+|JONES, Barry|53|
+|FAIRBAIRN, David|52|
+|DEPUTY SPEAKER, Mr|52|
+|FORBES, Alexander|52|
+|FRY, Ken|51|
+|MACPHEE, Ian|51|
+|BOWEN, Nigel|51|
+|MCLEAY, John Elden|50|
+|STALEY, Tony|50|
+|IRWIN, Leslie|50|
+|BAUME, Michael|49|
+|DEPUTY SPEAKER, Mr|49|
+|LUSHER, Stephen|47|
+|JESS, John|46|
+|KEOGH, Leonard|46|
+|CROSS, Manfred|45|
+|BOURCHIER, John|43|
+|TURNER, Henry|43|
+|HAMER, David|42|
+|HODGES, John|42|
+|DEPUTY SPEAKER, Mr|42|
+|EDWARDS, Harold|42|
+|WILSON, Ian|41|
+|ADERMANN, Evan|41|
+|REYNOLDS, Leonard|40|
+|GRAHAM, Bruce|40|
+|FIFE, Wal|40|
+|WEST, Stewart|39|
+|LAMB, Tony|39|
+|WHITLAM, Tony|39|
+|CADMAN, Alan|39|
+|SHERRY, Raymond|37|
+|WHAN, Bob|37|
+|MCLEAN, Ross|35|
+|HOWE, Brian|35|
+|KENNEDY, Andrew|35|
+|GROOM, Ray|35|
+|CHAIRMAN, The|35|
+|BURY, Leslie|34|
+|JULL, David|33|
+|BROWN, Neil|33|
+|McKENZIE, David Charles|33|
+|HOLTEN, Rendle|32|
+|DOBIE, Don|31|
+|YATES, William|31|
+|BLEWETT, Neal|31|
+|CRAMER, John|30|
+|DEPUTY SPEAKER, Mr|30|
+|HULME, Alan|30|
+|OLDMEADOW, Maxwell|30|
+|BRAITHWAITE, Ray|30|
+|FISHER, Peter|29|
+|SHIPTON, Roger|29|
+|DEPUTY SPEAKER, Mr|29|
+|FALCONER, Peter|29|
+|MATHEWS, Charles|29|
+|BONNETT, Robert|28|
+|SHORT, Jim|28|
+|DAWKINS, John|28|
+|BROWN, John|28|
+|BUCHANAN, Alexander|28|
+|HUGHES, Tom|28|
+|BURR, Max|28|
+|BARNES, Charles|27|
+|SAINSBURY, Murray|27|
+|CHAPMAN, Grant|27|
+|HYDE, John|27|
+|COLLARD, Frederick|27|
+|CHILD, Joan|27|
+|GARRICK, Horace|27|
+|MACKAY, Malcolm|26|
+|NEWMAN, Kevin|26|
+|MARTYR, John|25|
+|MCMAHON, James|25|
+|WEBB, Charles|25|
+|KIRWAN, Frank|25|
+|CALWELL, Arthur|24|
+|HEWSON, Henry|23|
+|GOODLUCK, Bruce|23|
+|DAVIES, Ronald|23|
+|HASLEM, John|22|
+|MACKENZIE, Alexander|21|
+|BAILLIEU, Marshall|21|
+|HUMPHREYS, Ben|20|
+|HOWSON, Peter|20|
+|SIMON, Barry|20|
+|BIRNEY, Reginald|19|
+|THOMSON, David Scott|18|
+|THORBURN, Ray|18|
+|FOX, Edmund|17|
+|DOYLE, Francis|17|
+|MCEWEN, John|16|
+|PETTITT, John|16|
+|BRADFIELD, James|16|
+|WHITTORN, Raymond|15|
+|COATES, John|15|
+|SULLIVAN, John|14|
+|FRASER, Allan|13|
+|COTTER, John|13|
+|PORTER, James|12|
+|REID, Leonard|12|
+|ABEL, John|12|
+|CARLTON, Jim|12|
+|COOKE, Nelson|11|
+|JOHNSON, Peter|11|
+|ENGLAND, John|11|
+|MAISEY, Donald|11|
+|ERWIN, Dudley|10|
+|FULTON, William|10|
+|SHACK, Peter|10|
+|CARIGE, Colin|9|
+|MULDER, Allan|9|
+|CHAIRMAN, The|9|
+|BATE, Henry|8|
+|DEAN, Gordon|8|
+|BIRRELL, Frederick|8|
+|MCIVOR, Hector|8|
+|HANSEN, Brendan|8|
+|CLAYTON, Gareth|7|
+|GRIFFITHS, Charles|7|
+|BUNGEY, Melville|7|
+|MOORE, John|7|
+|NICHOLLS, Martin|6|
+|BURNS, William|6|
+|KENT HUGHES, Wilfrid|5|
+|ALDRED, Ken|5|
+|MCLEAY, Leo|4|
+|ASHLEY-BROWN, Alfred|4|
+|OLLEY, Frank|4|
+|JOHNSTON, James|4|
+|RICHARDSON, Peter|3|
+|GILLARD, Reginald|3|
+|HALL, Steele|2|
+|CAMERON, Ewen|2|
+|FITZPATRICK, John|2|
+|MCCLELLAND, Jim|1|
+|MURPHY, Lionel|1|
+|CARRICK, John|1|
+|WILLESEE, Don|1|
+|WRIGHT, Reginald|1|
+|GRIMES, Don|1|
+|WHEELDON, John|1|
+|SHEIL, Glen|1|
+|MELZER, Jean|1|
+|GREENWOOD, Ivor|1|
+|WITHERS, Reg|1|
+|GUILFOYLE, Margaret|1|
+|RAE, Peter|1|
+|DRAKE-BROCKMAN, Thomas|1|

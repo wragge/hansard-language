@@ -38,3 +38,28 @@
 * HEALTH INSURANCE BILL 1973: Second Reading (18 uses)
 * APPROPRIATION BILL (No. 1) 1973-74 (16 uses)
 * [View all...](topics.md)
+
+
+### Associated words:
+
+* basic freedoms (31 appearances)
+* fundamental freedoms (26 appearances)
+* individual freedoms (13 appearances)
+* democratic freedoms (7 appearances)
+* certain freedoms (5 appearances)
+* [View all...](collocations.md)
+
+
+### Sample sentences:
+
+* If there is developed a conspiracy to subvert it can operate under the protection of the **freedoms** to which it is directly or indirectly opposed.
+
+* My recollection is that Gibbon said that Augustus was conscious that mankind is governed by names and that if he respectfully assured the people that they still possessed their ancient **freedoms** they would submit to slavery.
+
+* It is evident that many states still choose to ignore the terms of these human rights documents and to deprive their citizens of one or more of the basic human rights and **freedoms** to which all people are entitled.
+
+* I think it is remarkable, when young people are conscripted to go to a war and make the maximum sacrifice in some cases and a great sacrifice in all cases, ostensibly to protect our **freedoms** and way of life that companies such as Broken Hill Pty Company Limited and Mount Isa Mines Ltd, which are making booming profits this year, do not make sacrifices.
+
+* People must have **freedoms** to protest or to strike.
+
+* [View all...](contexts.md)

@@ -2,20 +2,23 @@
 
 | Collocation | Frequency |
 |--------------|----------------|
-|industrial revolution|40|
-|green revolution|21|
+|industrial revolution|63|
+|green revolution|22|
 |social revolution|17|
+|french revolution|15|
+|quiet revolution|11|
+|cultural revolution|10|
 |technological revolution|10|
-|cultural revolution|8|
 |economic revolution|5|
 |violent revolution|5|
-|Chinese revolution|4|
+|chinese revolution|4|
 |great revolution|4|
+|post-industrial revolution|4|
 |revolution around|4|
 |rights revolution|4|
-|French revolution|3|
-|Russian revolution|3|
+|russian revolution|4|
+|american revolution|3|
 |educational revolution|3|
-|quiet revolution|3|
+|service revolution|3|
 |socialist revolution|3|
 |world revolution|3|

@@ -40,21 +40,16 @@
 * [View all...](topics.md)
 
 
-### Associated words:
-
-* [View all...](collocations.md)
-
-
 ### Sample sentences:
+
+* This spirit of enterprise and **individualism** does offer the best opportunity to the individual to be master of his own destiny and to reap the reward of achievement.
+
+* Every country has people of differing combinations of logic, rational thought, **individualism**, moral precepts, intuition, feelings, group responsibility and aesthetics to shape their intellectual processes.
+
+* There was no talk about thenindividualism or their opportunity- the so-called **individualism** of the Liberal Party.
 
 * The individual has rights, and in a world increasingly indifferent to liberty and **individualism**, a man's remaining rights must be respected.
 
-* We believe in **individualism** - in citizens being able to show kindness and to give humanitarian assistance to these, elderly people.
-
-* This profoundly democratic principle has given the British people inspiration, **individualism** and direction for over 600 years.
-
-* The selfish **individualism** of the post-war years has been replaced by a more confident **individualism** based on mutual concern for others.
-
-* This is a philosophy of a simple, rural **individualism**, before the onset of the industrial revolution of the first half of 19th century Britain.
+* That means **individualism**, liberty, equality.
 
 * [View all...](contexts.md)

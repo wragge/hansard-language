@@ -38,3 +38,8 @@
 * QUESTION: GOVERNOR-GENERAL'S SPEECH (21 uses)
 * APPROPRIATION BILL (No. 1) 1971-72 (18 uses)
 * [View all...](topics.md)
+
+
+### Sample sentences:
+
+* [View all...](contexts.md)

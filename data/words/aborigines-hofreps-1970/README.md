@@ -38,3 +38,28 @@
 * APPROPRIATION BILL (No. 1) 1978-79 (36 uses)
 * ABORIGINAL LAND (NORTHERN TERRITORY) BILL 1975 (35 uses)
 * [View all...](topics.md)
+
+
+### Associated words:
+
+* environment aborigines (337 appearances)
+* many aborigines (54 appearances)
+* among aborigines (39 appearances)
+* australian aborigines (39 appearances)
+* aborigines would (35 appearances)
+* [View all...](collocations.md)
+
+
+### Sample sentences:
+
+* The number of **aborigines** in secondary schools has risen from 7 in 1967 to 63 in 1970.
+
+* The planned Labor and Immigration advertising program for 1975-76 includes $ 100,000 for staff advertising and $250,000 for promoting employment opportunities particularly for youth, handicapped persons and **aborigines**, and for apprenticeship and industrial training.
+
+* The scheme cannot possibly work in relation to **aborigines**.
+
+* In addition to these two positions, there are specialist employment officers in all Regional Offices and most District Employment Offices who provide counselling and assistance to the physically and socially handicapped, young people, elderly workers, **aborigines**, ex-prisoners and others with special problems.
+
+* Some of the kids in my electorate of Melbourne, **aborigines**, women who would like to enter the workforce and disadvantaged groups could become as job motivated as the Government likes but there still will not be jobs available for them unless we have a concerted manpower policy which creates jobs and which runs parallel with the schemes which are envisaged.
+
+* [View all...](contexts.md)

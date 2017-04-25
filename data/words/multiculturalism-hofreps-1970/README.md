@@ -38,3 +38,18 @@
 * TEACHING OF MIGRANT LANGUAGES: Discussion of Matter of Public Importance (2 uses)
 * STATES GRANTS (SCHOOLS ASSISTANCE) BILL 1978: Second Reading (2 uses)
 * [View all...](topics.md)
+
+
+### Sample sentences:
+
+* In our view it shows a lack of confidence in **multiculturalism**.
+
+* Nevertheless, the concept of **multiculturalism** does embrace all cultures in a nation and the Aboriginal people are an integral part of the Australian multicultural society.
+
+* The proposals are in the fields of initial settlement; English language teaching; communication; information; voluntary, self-help and Good Neighbour Council services; special need and special groups; **multiculturalism**; ethnic media; and co-ordination and consultation.
+
+* Once again that is a contradiction of the Government's espoused policy of **multiculturalism** and helping people to maintain their cultural heritage, their language and so on.
+
+* The Government's view is that the Institute should have a major role in providing advice on all aspects of **multiculturalism**.
+
+* [View all...](contexts.md)

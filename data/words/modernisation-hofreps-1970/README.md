@@ -49,14 +49,14 @@
 
 ### Sample sentences:
 
-* -We know that the investment policies of this Government have been a very important factor in increasing the competitiveness of Australian industry through greater efficiency because of **modernisation** of plant and equipment.
+* A decision was taken by the previous Government to proceed with the **modernisation** of the 3 Charles F. Adams class guided missile destroyers.
 
-* It has a very small hull and, as a result, a limited capacity for **modernisation** later in its life.
+* The Newcastle State Dockyard needs **modernisation** improvements.
 
-* These opportunities derive directly from China's new plans for economic **modernisation** and in addition reflect the strengthening of political and economic ties between our two countries.
-
-* The overall **modernisation** of Garden Island Dockyard in Sydney is part of the program.
+* These increases are creating severe liquidity problems for producers and ultimately will restrict the capacity of primary industry to increase efficiency through equipment **modernisation**.
 
 * He suggests that any future scheme of joint contribution towards industry decentralisation or development, structural adjustment, reconstruction or **modernisation** as well as schemes to improve industrial design or efficiency should be on the basis of Tasmania 's current personal income tax sharing arrangements (2: 1 Commonwealth/State ratio).
+
+* As a result of the overall **modernisation** program, there could be up to 600 less technical staff required, compared to the present staffing levels.
 
 * [View all...](contexts.md)
