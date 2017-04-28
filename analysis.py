@@ -10,12 +10,14 @@ import nltk
 from nltk.collocations import *
 from nltk.corpus.reader.plaintext import PlaintextCorpusReader
 from textblob import TextBlob
-from collections import defaultdict
+from collections import defaultdict, Counter
+from operator import itemgetter
 from utilities import generate_tfidf
 from wordcloud import WordCloud
 import random
 import plotly.plotly as py
 import plotly.graph_objs as go
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 from credentials import MONGO_URL
 
@@ -23,6 +25,32 @@ XML_DIR = os.path.join(os.path.dirname(__file__), 'xml')
 PARLIAMENTS = [str(p) for p in range(1, 33)]
 HOUSES = ['hofreps', 'senate']
 YEARS = [str(y) for y in range(1901, 1981)]
+STOPWORDS = nltk.corpus.stopwords.words('english')
+
+
+WORDs = [
+    'community',
+    'individualism',
+    'revolution',
+    'modernisation',
+    'crisis',
+    #'white australia',
+    'immigration',
+    'multiculturalism',
+    'britishness',
+    'aborigines',
+    'freedoms',
+    'welfare',
+    'tyranny',
+    #'social experiment',
+    'federation',
+    'states',
+    'alliance',
+    'independence',
+    'decolonisation',
+    #'arms race',
+    #'papua new guinea'
+]
 
 LIST_TYPES = {
     'loweralpha': 'a',
@@ -332,6 +360,72 @@ def load_speeches(house, decade=None):
                 print '{} - no speeches'.format(day)
 
 
+def add_filenames(house):
+    '''Because I should have done this when I loaded the speeches...'''
+    dbclient = MongoClient(MONGO_URL)
+    db = dbclient.get_default_database()
+    xml_path = os.path.join(XML_DIR, house)
+    dirs = [d for d in os.listdir(xml_path) if (os.path.isdir(os.path.join(xml_path, d)) and d != 'missing')]
+    for directory in dirs:
+        print directory
+        current_path = os.path.join(xml_path, directory)
+        files = [f for f in os.listdir(current_path) if f[-4:] == '.xml']
+        for file in files:
+            with open(os.path.join(current_path, file), 'rb') as xml_file:
+                soup = BeautifulSoup(xml_file.read(), 'lxml')
+                day = soup.find('session.header').date.string.strip()
+                # print '{} - {}'.format(day, file[:-4])
+                db.speeches.update_many({'date': day, 'house': house}, {'$set': {'filename': file[:-4]}})
+                soup.decompose()
+
+
+def stopwords_check(ngram):
+    ''' Check if all words in ngrams are stopwords '''
+    keep = False
+    for word in ngram:
+        if word not in STOPWORDS:
+            keep = True
+            break
+    return keep
+
+
+def add_ngrams(decade, house):
+    ''' If I do this again I should add this to load_speeches... '''
+    dbclient = MongoClient(MONGO_URL)
+    db = dbclient.get_default_database()
+    speeches = db.speeches.find({'decade': decade, 'house': house, 'words': {'$exists': False}}).batch_size(10)
+    for index, speech in enumerate(speeches):
+        text = ' '.join(speech['text'])
+        blob = TextBlob(text)
+        words = [{'w': word.lower(), 'c': count, 'l': 1} for word, count in blob.word_counts.items() if word not in STOPWORDS]
+        bigrams = [' '.join(bigram).lower() for bigram in blob.ngrams(2) if stopwords_check(bigram)]
+        words += [{'w': word, 'c': count, 'l': 2} for word, count in Counter(bigrams).items()]
+        trigrams = [' '.join(trigram).lower() for trigram in blob.ngrams(3) if stopwords_check(trigram)]
+        words += [{'w': word, 'c': count, 'l': 3} for word, count in Counter(trigrams).items()]
+        db.speeches.update_one({'_id': speech['_id']}, {'$set': {'words': words}})
+        if not index % 10:
+            print index
+
+
+def word_frequency(word, house, decade):
+    '''
+    The frequency of a word or phrase per day.
+    '''
+    dbclient = MongoClient(MONGO_URL)
+    db = dbclient.get_default_database()
+    pipeline = [
+        {'$match': {'words.w': word, 'decade': decade, 'house': house}},
+        {'$group': {'_id': '$date', 'words': {'$push': {'$filter': {'input': '$words', 'as': 'word', 'cond': {'$eq': ['$$word.w', word]}}}}}},
+        {'$unwind': '$words'},
+        {'$unwind': '$words'},
+        {'$group': {'_id': '$_id', 'count': {'$sum': '$words.c'}}},
+        {'$project': {'_id': 0, 'date': '$_id', 'count': 1}},
+        {'$sort': {'date': 1}}
+    ]
+    results = db.speeches.aggregate(pipeline)
+    return results
+
+
 def list_people(house, decade=None, parliament=None, party=None):
     dbclient = MongoClient(MONGO_URL)
     db = dbclient.get_default_database()
@@ -474,12 +568,13 @@ def word_summary(word, house, decade):
     days = defaultdict(int)
     texts = ''
     sentences = []
+    total_words = 0
     dbclient = MongoClient(MONGO_URL)
     db = dbclient.get_default_database()
     total_speeches = db.speeches.find({'house': house, 'decade': decade}).count()
-    db.speeches.create_index([('text', TEXT)])
+    # db.speeches.create_index([('text', TEXT)])
     # Number of speeches containing word
-    results = db.speeches.find({'$text': {'$search': word}, 'house': house, 'decade': decade})
+    results = db.speeches.find({'house': house, 'decade': decade, 'words.w': word})
     total = results.count()
     # Graph over time?
     # Assemble as corpus
@@ -487,27 +582,35 @@ def word_summary(word, house, decade):
         if not os.path.exists(results_dir):
             os.makedirs(results_dir)
         for result in results:
+            freq = (w for w in result['words'] if w['w'] == word).next()
+            total_words += freq['c']
             if 'subdebate_title' in result:
                 title = '{}: {}'.format(result['debate_title'].encode('utf-8'), result['subdebate_title'].encode('utf-8'))
+                url = 'https://historichansard.net/{}/{}/{}/#subdebate-{}-{}'.format(house, result['year'], result['filename'], result['debate_index'], result['subdebate_index'])
             else:
                 title = result['debate_title'].encode('utf-8')
+                url = 'https://historichansard.net/{}/{}/{}/#debate-{}'.format(house, result['year'], result['filename'], result['debate_index'])
             try:
-                topics[title] += 1
+                topics[title] += freq['c']
             except KeyError:
-                topics[title] = 1
+                topics[title] = freq['c']
             try:
-                speakers[result['speaker']['id']] += 1
+                speakers[result['speaker']['id']] += freq['c']
             except KeyError:
-                speakers[result['speaker']['id']] = 1
+                speakers[result['speaker']['id']] = freq['c']
             try:
-                days[result['date']] += 1
+                days[result['date']]['count'] += freq['c']
             except KeyError:
-                days[result['date']] = 1
+                days[result['date']] = {'url': url, 'count': freq['c']}
             for para in result['text']:
                 if re.search(r'\b{}\b'.format(word), para, flags=re.IGNORECASE):
                     texts += '{}\n'.format(para.encode('utf-8'))
+                    para_blob = TextBlob(para.decode('ascii', errors="ignore"))
+                    for sentence in para_blob.sentences:
+                        if word in str(sentence).lower():
+                            sentences.append({'url': url, 'sentence': sentence})
         blob = TextBlob(texts.decode('ascii', errors="ignore"))
-        total_words = blob.words.count(word)
+        # total_words = blob.words.count(word)
         day_x = []
         day_y = []
         for day in sorted(days):
@@ -527,22 +630,25 @@ def word_summary(word, house, decade):
         figure = go.Figure(data=data, layout=layout)
         plotly_url = py.plot(figure, filename='{}-{}-{}'.format(word, house, decade))
         plot_id = re.search(r'(\d+)', plotly_url).group(1)
-        print plot_id
         fig = py.get_figure('wragge', plot_id)
         py.image.save_as(fig, filename='{}/{}-{}-{}.png'.format(results_dir, word, house, decade))
         sorted_speakers = sorted(speakers, key=speakers.get, reverse=True)
-        sorted_days = sorted(days, key=days.get, reverse=True)
+        sorted_days = sorted(days, key=itemgetter('count'), reverse=True)
         sorted_topics = sorted(topics, key=topics.get, reverse=True)
-        finder = BigramCollocationFinder.from_words(blob.words.lower())
-        finder.apply_freq_filter(3)
-        ignored_words = nltk.corpus.stopwords.words('english')
-        finder.apply_word_filter(lambda w: len(w) < 3 or w.lower() in ignored_words)
-        finder.apply_ngram_filter(lambda *w: word not in w)
-        # collocations = finder.nbest(nltk.collocations.BigramAssocMeasures().likelihood_ratio, 100)
-        collocations = sorted(finder.ngram_fd.items(), key=lambda t: (-t[1], t[0]))[:100]
-        for sentence in blob.sentences:
-            if word in sentence.words.lower():
-                sentences.append(sentence)
+        if len(word.split() == 1):
+            blob = TextBlob(texts.decode('ascii', errors="ignore"))
+            finder = BigramCollocationFinder.from_words(blob.words.lower())
+            finder.apply_freq_filter(3)
+            ignored_words = nltk.corpus.stopwords.words('english')
+            finder.apply_word_filter(lambda w: len(w) < 3 or w.lower() in ignored_words)
+            finder.apply_ngram_filter(lambda *w: word not in w)
+            # collocations = finder.nbest(nltk.collocations.BigramAssocMeasures().likelihood_ratio, 100)
+            collocations = sorted(finder.ngram_fd.items(), key=lambda t: (-t[1], t[0]))[:100]
+        else:
+            collocations = []
+        # for sentence in blob.sentences:
+        #    if word in str(sentence).lower():
+        #        sentences.append(sentence)
         output = '\n## Searching for "{}" in {} within the {}s...\n\n'.format(word, house, decade)
         output += '----\n\n'
         output += '### The word "{}":\n\n'.format(word)
@@ -625,3 +731,89 @@ def make_clouds():
             image = wordcloud.to_image()
             image.save(image_name)
 
+
+def chart_frequencies(words, house, decade):
+    traces = []
+    for word in words:
+        dates = []
+        counts = []
+        labels = []
+        text = []
+        results = word_frequency(word, house, decade)
+        for result in results:
+            dates.append(result['date'])
+            counts.append(result['count'])
+            text.append('{} uses'.format(result['count']))
+            labels.append(word)
+        trace = dict(
+            type='scatter',
+            x=dates,
+            y=labels,
+            text=text,
+            mode='markers',
+            marker=dict(
+                size=counts,
+                opacity=0.4
+            ),
+            hoverinfo='x+text'
+        )
+        traces.append(trace)
+    layout = go.Layout(
+        title='Word frequencies: {}, {}s'.format(house.upper(), decade),
+        xaxis=dict(
+            title='Date'
+        ),
+        yaxis=dict(
+            tickfont=dict(
+                size=14
+            )
+        ),
+        margin=dict(
+            l=120,
+            r=80,
+            t=100,
+            b=100
+        ),
+        showlegend=False
+    )
+    figure = dict(data=traces, layout=layout)
+    plotly_url = py.plot(figure, filename='{}-{}-{}'.format('-'.join(words), house, decade), validate=False)
+    print plotly_url
+
+
+def compare_people(data_dir='data/speeches/people/'):
+    dbclient = MongoClient(MONGO_URL)
+    db = dbclient.get_default_database()
+    people = []
+    names = [file[:-4] for file in os.listdir(data_dir) if file[-4:] == '.txt']
+    for name in names:
+        p_id = name.split('-')[0]
+        person = db.people.find_one({'_id': p_id})
+        people.append(person)
+    # Get a list of filenames to feed to scikit-learn
+    files = [os.path.join(data_dir, file) for file in os.listdir(data_dir) if file[-4:] == '.txt']
+    tfidf = TfidfVectorizer(input='filename').fit_transform(files)
+    results = (tfidf * tfidf.T).A
+    for index, row in enumerate(results):
+        try:
+            title_name = [n for n in people[index]['display_names'] if 'SPEAKER' not in n and 'CHAIRMAN' not in n][0]
+        except TypeError:
+            title_name = people[index]['names'][0]
+        try:
+            title_party = people[index]['parties'][0].split(';')[0]
+        except (KeyError, IndexError, TypeError, AttributeError):
+            title_party = None
+        print '\n\n{} {}\n'.format(title_name, '({})'.format(title_party) if title_party else '')
+        scores = [pair for pair in zip(range(0, len(row)), row)]
+        sorted_scores = sorted(scores, key=lambda t: t[1] * -1)
+        friends = sorted_scores[1:11]
+        for friend in friends:
+            try:
+                friend_name = [n for n in people[friend[0]]['display_names'] if 'SPEAKER' not in n and 'CHAIRMAN' not in n][0]
+            except TypeError:
+                friend_name = people[friend[0]]['names'][0]
+            try:
+                friend_party = people[friend[0]]['parties'][0].split(';')[0]
+            except (KeyError, IndexError, TypeError, AttributeError):
+                friend_party = None
+            print '    * {:40} {}'.format('{} ({})'.format(friend_name, friend_party) if friend_party else friend_name, friend[1])
