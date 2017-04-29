@@ -1,0 +1,12 @@
+---
+layout: default
+title: decades
+permalink: /decades/
+---
+
+<h2>decades</h2>
+  <ul>
+  {% for decade in site.decades %}
+    <li><a href="{{site.baseurl}}{{ decade.url }}">{{ decade.title }}</a></li>
+  {% endfor %}
+  </ul>

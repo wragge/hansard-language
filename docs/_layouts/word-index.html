@@ -2,9 +2,18 @@
 layout: default
 ---
 
-<h2>Searching for &lsquo;{{ page.word | escape }}&rsquo; in&hellip;</h2>
+<h2>Searching for the {{ page.query_type }} <b>{{ page.word | escape }}</b> in&hellip;</h2>
 
-<ul>
-    <li><a href="hofreps/">House of Representatives</a></li>
-    <li><a href="senate/">Senate</a></li>
-</ul>
+{% assign word_pages = site.words | where:"word", page.word | group_by:"decade" | sort:"decade" %}
+
+{% for word_page in word_pages %}
+    {% if word_page.name != "" %}
+        {% for house in word_page.items %}
+            <hr>
+            <h3>The {{ word_page.name }}s: {{ house.house_full }}</h3>
+            <p>The word <b>{{ page.word }}</b> was used {{ house.total_words }} times in {{ house.total_speeches }} speeches. <a href="{{ house.house }}/{{ house.decade }}/">[More&hellip;]</a></p>
+            <iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wragge/{{ house.bubble_id}}.embed"></iframe>
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+

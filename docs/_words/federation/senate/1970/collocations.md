@@ -1,0 +1,87 @@
+---
+layout: default
+title: federation - senate - 1970 - Collocations
+---
+## Collocations for the word **federation** when used in the Senate during the 1970s
+
+| Collocation | Frequency |
+|--------------|----------------|
+|workers federation|360|
+|since federation|221|
+|teachers federation|207|
+|australian federation|132|
+|producers federation|80|
+|wheatgrowers federation|74|
+|labourers federation|70|
+|employees federation|63|
+|employers federation|60|
+|farmers federation|54|
+|federation insurance|37|
+|miners federation|32|
+|growers federation|31|
+|pensioners federation|31|
+|victorian federation|19|
+|trades federation|18|
+|federation would|15|
+|radio federation|13|
+|federation said|12|
+|soccer federation|12|
+|staffs federation|12|
+|students federation|12|
+|builders federation|11|
+|pilots federation|11|
+|olympic federation|10|
+|transport federation|10|
+|american federation|9|
+|federation without|9|
+|manufacturers federation|9|
+|road federation|9|
+|roads federation|9|
+|federation made|8|
+|nursing federation|8|
+|federation believes|7|
+|international federation|7|
+|world federation|7|
+|federation also|6|
+|federation could|6|
+|federation one|6|
+|federation states|6|
+|federation unless|6|
+|revolutionary federation|6|
+|wales federation|6|
+|federation concerning|5|
+|federation gave|5|
+|parenthood federation|5|
+|police federation|5|
+|federation applied|4|
+|federation approached|4|
+|federation asked|4|
+|federation however|4|
+|federation requested|4|
+|federation saw|4|
+|federation says|4|
+|federation since|4|
+|federation whose|4|
+|loose federation|4|
+|officers federation|4|
+|pollution federation|4|
+|co-operative federation|3|
+|federation acsso|3|
+|federation certainly|3|
+|federation charlie|3|
+|federation cup|3|
+|federation health|3|
+|federation held|3|
+|federation let|3|
+|federation ltd|3|
+|federation never|3|
+|federation news|3|
+|federation put|3|
+|federation requesting|3|
+|federation rule|3|
+|federation rules|3|
+|federation senator|3|
+|federation struck|3|
+|federation wrote|3|
+|plasterers federation|3|
+|service federation|3|

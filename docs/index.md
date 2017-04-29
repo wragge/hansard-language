@@ -5,6 +5,10 @@
 layout: default
 ---
 
-<ul>
-    <li><a href="words/">words</a></li>
-</ul>
+A place to share some work-in-progress on the language of [Historic Hansard](https://historichansard.net).
+
+* [words](words/)
+* [comparisons](comparisons/)
+* [decades](decades/)
+
+Most of the content is focused on the 1970s at the moment.

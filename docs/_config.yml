@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: The language of Hansard
 description: ""
-author: Tim Sherratt
+author: Created by Tim Sherratt
 baseurl: "/hansard-language" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wragge
@@ -23,6 +23,9 @@ github_username:  wragge
 
 collections:
   words:
+    output: true
+    permalink: /:collection/:path/
+  comparisons:
     output: true
     permalink: /:collection/:path/
   decades:

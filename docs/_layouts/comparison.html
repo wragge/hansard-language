@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<h2>Comparing  
+
+{% for word in page.words %}
+    {% if forloop.last == true %}&amp; {% endif %}<b><a href="{{ site.baseurl }}/words/{{ word|slugify }}/">{{ word }}</a></b>{% if forloop.last == false %}, {% endif %}
+{% endfor %}
+
+ in&hellip;</h2>
+
+<hr>
+
+<h3>The {{ page.decade }}s: House of Representatives</h3>
+
+<iframe width="100%" height="600" frameborder="0" scrolling="no" src="//plot.ly/~wragge/{{ page.hofreps_plot }}.embed"></iframe>
+
+<hr>
+
+<h3>The {{ page.decade }}s: Senate</h3>
+
+<iframe width="100%" height="600" frameborder="0" scrolling="no" src="//plot.ly/~wragge/{{ page.senate_plot }}.embed"></iframe>

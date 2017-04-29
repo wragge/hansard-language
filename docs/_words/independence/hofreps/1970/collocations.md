@@ -1,0 +1,83 @@
+---
+layout: default
+title: independence - hofreps - 1970 - Collocations
+---
+## Collocations for the word **independence** when used in the House of Representatives during the 1970s
+
+| Collocation | Frequency |
+|--------------|----------------|
+|towards independence|37|
+|political independence|29|
+|financial independence|24|
+|economic independence|23|
+|complete independence|21|
+|national independence|20|
+|greater independence|17|
+|independence would|17|
+|independence movement|16|
+|independence australia|13|
+|independence celebrations|12|
+|independence must|12|
+|maximum independence|11|
+|statutory independence|11|
+|croatian independence|10|
+|full independence|10|
+|guinea independence|10|
+|independence papua|10|
+|energy independence|9|
+|australian independence|8|
+|eventual independence|8|
+|independence day|7|
+|independence movements|7|
+|since independence|7|
+|independence one|6|
+|new independence|6|
+|total independence|6|
+|want independence|6|
+|absolute independence|5|
+|achieve independence|5|
+|continued independence|5|
+|early independence|5|
+|giving independence|5|
+|independence bill|5|
+|independence honourable|5|
+|independence however|5|
+|independence independence|5|
+|independence rather|5|
+|independence without|5|
+|independence yet|5|
+|judicial independence|5|
+|post independence|5|
+|reach independence|5|
+|true independence|5|
+|constitutional independence|4|
+|given independence|4|
+|independence comes|4|
+|independence may|4|
+|independence means|4|
+|independence perhaps|4|
+|independence within|4|
+|strength independence|4|
+|timor independence|4|
+|traditional independence|4|
+|achieved independence|3|
+|achieves independence|3|
+|budgetary independence|3|
+|effective independence|3|
+|forcing independence|3|
+|gain independence|3|
+|gained independence|3|
+|gaining independence|3|
+|genuine independence|3|
+|give independence|3|
+|independence date|3|
+|independence freedom|3|
+|independence many|3|
+|independence particularly|3|
+|independence since|3|
+|legal independence|3|
+|professional independence|3|
+|programming independence|3|
+|promote independence|3|
+|support independence|3|
+|timorese independence|3|

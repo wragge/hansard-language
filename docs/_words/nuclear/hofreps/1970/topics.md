@@ -1,0 +1,687 @@
+---
+layout: default
+title: nuclear - hofreps - 1970 - Topics
+---
+## Topics when the word **nuclear** was used in the House of Representatives during the 1970s
+
+| Topic | Number of uses |
+|--------------|----------------|
+|QUESTION: GOVERNMENT POLICY ON NUCLEAR SAFEGUARDS|323|
+|ATOMIC ENERGY AMENDMENT BILL 1978: Second Reading|198|
+|QUESTION: URANIUM-AUSTRALIA'S DECISION|172|
+|QUESTION: DEVELOPMENT OF THE AUSTRALIAN URANIUM INDUSTRY|162|
+|QUESTION: URANIUM-AUSTRALIAN POLICY|145|
+|ENVIRONMENT PROTECTION (NUCLEAR CODES) BILL 1978|115|
+|NUCLEAR INDUSTRY: Discussion of Matter of Public Importance|109|
+|ATOMIC ENERGY AMENDMENT BILL 1979: Second Reading|100|
+|QUESTION: ALP MINISTERIAL STATEMENTS|98|
+|URANIUM: Discussion of Matter of Public Importance|88|
+|QUESTION: WILL WATER KILL?|87|
+|NOTES ON NUCLEAR SAFETY: Research Service|80|
+|QUESTION: URANIUM EXPORTS|79|
+|INTERNATIONAL DISARMAMENT AND ARMS CONTROL: Discussion of Matter of Public Importance|74|
+|NUCLEAR SAFEGUARDS: Ministerial Statement|73|
+|GOVERNMENT POLICY ON NUCLEAR SAFEGUARDS: Ministerial Statement|71|
+|APPROPRIATION BILL (No. 1) 1970-71|70|
+|URANIUM- AUSTRALIAN POLICY|68|
+|ADJOURNMENT|65|
+|AUSTRALIA-KOREA NUCLEAR SAFEGUARDS AGREEMENT: Ministerial Statement|64|
+|JERVIS BAY NUCLEAR POWER STATION PROJECT: Ministerial Statement|63|
+|ATOMIC ENERGY AMENDMENT BILL (No. 2) 1978: Second Reading|60|
+|URANIUM-AUSTRALIAN POLICY: Ministerial Statements|57|
+|QUESTION: GRANVILLE, N.S. W. 2 1 42|53|
+|APPROPRIATION BILL (No. 1) 1978-79|52|
+|FRENCH NUCLEAR WEAPONS EXPLOSIONS IN THE PACIFIC: Ministerial Statement|51|
+|APPROPRIATION BILL (No. 1) 1973-74|50|
+|DEVELOPMENT AND EXPORT OF AUSTRALIA'S URANIUM RESOURCES: Ministerial Statement|49|
+|QUESTION: FRENCH NUCLEAR TESTS|45|
+|VISITS BY NUCLEAR POWERED WARSHIPS: Ministerial Statement|44|
+|NUCLEAR ENERGY AND MATERIALS: AGREEMENTS: Papers and Ministerial Statement|44|
+|APPROPRIATION BILL (No. I) 1970-71|42|
+|QUESTION: GOVERNOR-GENERAL'S SPEECH|41|
+|URANIUM-AUSTRALIAN POLICY: Ministerial Statement|37|
+|APPROPRIATION BILL (No. 1) 1971-72|37|
+|APPROPRIATION BILL (No.1)1970-71: Second Reading (Budget Debate)|36|
+|QUESTION: SOME NUCLEAR ACCIDENTS OF SIGNIFICANCE SINCE 1955|35|
+|QUESTION: URANIUM|35|
+|AUSTRALIAN DELEGATION TO THE COMMITTEE ON DISARMAMENT: Report and Ministerial Statement|34|
+|APPROPRIATION BILL (No. 3) 1972-73: Second Reading|33|
+|AUSTRALIAN URANIUM POLICY: Ministerial Statement|32|
+|QUESTION: TUC RESOLUTION ON NUCLEAR ENERGY|31|
+|URANIUM -AUSTRALIAN POLICY: Ministerial Statements|30|
+|URANIUM EXPORT POLICY: Ministerial Statement|28|
+|UNITED STATES NAVAL COMMUNICATION STATION AGREEMENT BILL 1975: Second Reading|27|
+|ENVIRONMENT PROTECTION (ALLIGATOR RIVERS REGION) BILL 1978|26|
+|QUESTION: NUCLEAR POWER STATION|26|
+|ANSWERS TO QUESTIONS UPON NOTICE: South Africa: Nuclear Capability (Question No. 3212)|26|
+|GRIEVANCE DEBATE|26|
+|NUCLEAR TESTS: Ministerial Statement|25|
+|ENVIRONMENT PROTECTION (ALLIGATOR RIVERS REGION) BILL 1978: Second Reading|25|
+|AUSTRALIAN DEFENCE: Suspension of Standing Orders|24|
+|NATIONAL PARKS AND WILDLIFE CONSERVATION AMENDMENT BILL 1979: Second Reading|23|
+|QUESTION: DEFENCE|23|
+|No: Aboriginal Affairs: Wave Hill (Question No. 1359)|23|
+|AUSTRALIAN DEFENCE: Ministerial Statement|23|
+|APPROPRIATION BILL (No. 5) 1972-73: Second Reading|22|
+|APPROPRIATION BILL (No. 1) 1970-71: Second Reading (Budget Debate)|22|
+|QUESTION: NUCLEAR ENERGY|22|
+|URANIUM: Dear Mr Scholes,|21|
+|RADIOACTIVE FALLOUT IN AUSTRALIA FROM NUCLEAR WEAPONS TESTED BY FRANCE IN POLYNESIA: Ministerial Statement|21|
+|QUESTION: URANIUM- AUSTRALIAN POLICY|21|
+|UNITED STATES DEFENCE INSTALLATIONS IN AUSTRALIA: Ministerial Statement|19|
+|QUESTION: SCIENTISTS TO STUDY MARALINGA AREA|19|
+|QUESTION: NUCLEAR WASTE DISPOSAL|19|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Suppliers Group: Export Guidelines (Question No. 1832)|18|
+|URANIUM DEVELOPMENT: Ministerial Statement|17|
+|INTERNATIONAL AFFAIRS: Suspension of Standing Orders|17|
+|RADIOACTIVE MATERIAL AT MARALINGA: Ministerial Statement|17|
+|ENVIRONMENT PROTECTION (NUCLEAR CODES) BILL 1978: Second Reading|16|
+|APPOINTMENT OF MR JUSTICE R. W. FOX AS AMBASSADOR-AT-LARGE: Ministerial Statement|16|
+|INTERNATIONAL AFFAIRS: Ministerial Statement|16|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radio-Activity (Question No. 683)|15|
+|NUCLEAR SAFEGUARDS|15|
+|APPROPRIATION BILL (No. 1) 1976-77|15|
+|APPROPRIATION BILL (No. 1) 1979-80: Second Reading (Budget Debate)|15|
+|ATOMIC ENERGY BILL 1973: Second Reading|14|
+|ATOMIC ENERGY AMENDMENT BILL 1978|14|
+|EXERCISES CONDUCTED WITH US NAVY SHIPS AND COMPOSITION OF FORCES INVOLVED,: Nuclear Power (Question No. 3213)|14|
+|URANIUM: ENVIRONMENTAL PROTECTION: Ministerial Statement|14|
+|QUESTION: NUCLEAR SAFEGUARDS|14|
+|ADJOURNMENT: Nuclear Industry- Parliament House: Security- The Parliament- Wine Industry- Australian Taxation Office -Unemployment|14|
+|ANSWERS TO QUESTIONS UPON NOTICE: Uranium: Safeguards (Question No. 1822)|13|
+|APPROPRIATION BILL (No. 1) 1978-79: Second Reading (Budget Debate)|13|
+|INTERNATIONAL AFFAIRS: International Affairs- Ministerial Statement, 19th March 1970|13|
+|QUESTION: NUCLEAR NON-PROLIFERATION TREATY: JAPAN|13|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Armaments: Indonesia (Question No. 1533)|13|
+|QUESTION: PART IVA- ENFORCEMENT AND REMEDIES|13|
+|QUESTION: NUCLEAR WEAPONS|12|
+|QUESTION: NUCLEAR TESTS|12|
+|APPROPRIATION BILL (No. 1) 1971-72: Second Reading (Budget Debate)|11|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Power. Ecological Considerations (Question No. 1109)|11|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Weapons Storage (Question No. 654)|11|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Trachoma and Eye Health Program (Question No. 143)|11|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Energy; Uranium Production (Question No. 63)|11|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employment: Civilian Workforce - (Question No. 1703)|11|
+|JUDICIARY (DIPLOMATIC REPRESENTATION) AMENDMENT BILL 1979: Second Reading|11|
+|QUESTION: AUSTRALIAN ECONOMY|11|
+|ADJOURNMENT: Service Leave -Commonwealth Banking Corporation: Tendering Procedures- People's Republic of China|11|
+|REPORT OF THE AUSTRALIAN DELEGATION TO THE SPECIAL SESSION OF THE UNITED NATIONS GENERAL ASSEMBLY ON DISARMAMENT: Report and Ministerial Statement|11|
+|ANSWERS TO QUESTIONS UPON NOTICE: French Nuclear Tests (Question No. 1831)|11|
+|ABORIGINAL LAND RIGHTS (NORTHERN TERRITORY) AMENDMENT BILL 1978: Second Reading|10|
+|QUESTION: SUSPENSION OF STANDING ORDERS|10|
+|ADJOURNMENT: Community Involvement Programs -East Timor- Questions Upon Notice|10|
+|QUESTION: NUCLEAR ARMAMENTS: INDONESIA|10|
+|THE GEO-POLITICAL SITUATION: A PATTERN OF INSTABILITY: Suspension of Standing Orders|10|
+|ADJOURNMENT: Newspaper Reports- Nuclear Power- Political Parties- Australian Constitution -Servicemen: Political Party Membership|10|
+|UNITED STATES NON-PROLIFERATION BILL|10|
+|ANSWERS TO QUESTIONS: Nuclear Waste (Question No. 4587)|10|
+|ANSWERS TO QUESTIONS UPON NOTICE: Uranium: Safeguards (Question No. 1823)|10|
+|QUESTION: RADIOACTIVE MATERIAL|9|
+|MODEL NUCLEAR SAFEGUARDS AGREEMENT: Ministerial Statement|9|
+|QUESTION: DISARMAMENT|9|
+|NORTHERN TERRITORY ADMINISTRATION: Nuclear Reactor (Question No. 2841)|9|
+|TERRITORY-PRACTICAL DIFFICULTIES OF MEETING REQUIREMENTS OF EXPLORATION LICENCES|9|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Power (Question No. 1931)|9|
+|QUESTION: FRENCH NUCLEAR TESTS IN THE PACIFIC|9|
+|PERSONAL EXPLANATIONS|9|
+|QUESTION: NUCLEAR WEAPONS CAPABILITY|9|
+|QUESTION: NUCLEAR POWER|9|
+|QUESTION: URANIUM: NUCLEAR WEAPONS|8|
+|NABARLEK URANIUM PROJECT: Nabarlek Uranium Project- Ministerial Statement, 7 March 1979|8|
+|QUESTION: AUSTRALIAN DEFENCE|8|
+|ANSWERS TO QUESTIONS UPON NOTICE: Atomic Energy (Question No. 1561)|8|
+|QUESTION: BRITAIN'S URANIUM REQUIREMENTS|8|
+|ANSWERS TO QUESTIONS: Power Industry (Question No. 4033)|8|
+|ANSWERS TO QUESTIONS UPON NOTICE: Atomic Energy (Question .No. 1788)|8|
+|ANSWERS TO QUESTIONS UPON NOTICE: Atomic Energy (Question No. 2172)|8|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service (Question No. 2167)|8|
+|A: Australian Safeguards Office: Staff (Question No. 2731)|8|
+|NERDDC TECHNICAL STANDING COMMITTEES: Public Service: Flextime (Question No. 2504)|8|
+|ANSWERS TO QUESTIONS UPON NOTICE: Visits of Nuclear Powered Warships (Question No. 1183)|8|
+|DEFENCE AND COMMUNICATION BASES: Discussion of Matter of Public Importance|8|
+|FOREIGN POLICY: Ministerial Statement|8|
+|QUESTION: NUCLEAR FUELS|8|
+|QUESTION: INSURANCE POLICIES: NUCLEAR EXCLUSIONS|8|
+|URANIUM DEVELOPMENT: INTERNATIONAL IMPLICATIONS: Ministerial Statement|8|
+|DEFENCE: Suspension of Standing Orders|8|
+|QUESTION: INTERNATIONAL NUCLEAR FUEL CYCLE EVALUATION|8|
+|ANSWERS TO QUESTIONS: French Nuclear Tests (Question No. 2707)|7|
+|ANSWERS TO QUESTIONS UPON NOTICE: France: Nuclear Tests (Question No. 6048)|7|
+|WESTERN AUSTRALIA: Nuclear Fuel Reprocessing (Question No. 699)|7|
+|QUESTION: UNITED STATES DEFENCE INSTALLATIONS IN AUSTRALIA|7|
+|PRIME MINISTER'S OVERSEAS VISIT: Ministerial Statement|7|
+|JUDICIARY (DIPLOMATIC REPRESENTATION) AMENDMENT BILL 1979|7|
+|KEEP OUT OF REACH OF CHILDREN IF SWALLOWED SEEK MEDICAL ADVICE AVOID CONTACT WITH FOOD DO NOT USE IN FOOD PREPARATION OR FOOD STORAGE AREAS DO NOT USE IN NURSERIES AND SICK ROOMS WHERE PEOPLE MAY BE CONTINUOUSLY EXPOSED: Nuclear Power (Question No. 3575)|7|
+|QUESTION: NUCLEAR EXPERIMENTATION AT MARALINGA|7|
+|QUESTION: URANIUM EXPORTS: SAFEGUARDS|7|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Facilities: Safeguards (Question No. 1146)|6|
+|APPROPRIATION BILL (No.1) 1970-71|6|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Treaties (Question No. 6043)|6|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Servants: Interstate Trips (Question No. 1665)|6|
+|SPEECH OF HER MAJESTY THE QUEEN: Most Gracious Sovereign:|6|
+|A: The Oder-Neisse Line (Question No. 2789)|6|
+|QUESTION: EXPORT OF URANIUM|6|
+|QUEENSLAND: Nuclear Power (Question No. 1270)|6|
+|AUSTRALIA'S URANIUM RESOURCES: Discussion of Matter of Public Importance|6|
+|FOREIGN ANTITRUST JUDGMENTS (RESTRICTION OF ENFORCEMENT) BILL 1979: Second Reading|6|
+|ANSWERS TO QUESTIONS UPON NOTICE: Uranium (Question No. 2683)|6|
+|STATUTORY AUTHORITIES: Nuclear Waste (Question No. 2682)|6|
+|S $: International Nuclear Waste Repositories (Question No. 1432)|6|
+|QUESTION: URANIUM DEVELOPMENT AND EXPORT|6|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Testing, Maralinga (Question No. 2828)|6|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Reactors: Safety Study (Question No. 3271)|6|
+|QUESTION: INDIA'S NUCLEAR TEST|6|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Energy (Question No. 755)|6|
+|QUESTION: NUCLEAR TESTING|6|
+|PETROLEUM AND MINERALS AUTHORITY BILL 1973: Second Reading|6|
+|APPROPRIATION BILL (No. 1) 1972-1973|6|
+|WARNING KEEP OUT OF REACH OF CHILDREN IF SWALLOWED SEEK MEDICAL ADVICE: Nuclear Power Station (Question No. 1822)|6|
+|QUESTION: DISPOSAL OF NUCLEAR WASTE|6|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Reactor: Precautions (Question No. 1060)|6|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radioactive Waste (Question No. 1732)|6|
+|No: National Art Gallery (Question No. 1161)|6|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear, Chemical and Bacteriological Warfare: Prohibition (Question No. 1227)|6|
+|APPROPRIATION BILL (No. 1) 1977-78|6|
+|ADJOURNMENT: Drugs - Vietnam - Water Conservation - Laos - Commonwealth Cars|6|
+|AUSTRALIAN GOVERNMENT: FOREIGN POLICIES: Discussion of Matter of Public Importance|6|
+|WESTERN AUSTRALIA: French Nuclear Tests (Question No. 6284)|6|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Waste Disposal (Question No. 1218)|5|
+|QUESTION: TRADE WITH KOREA|5|
+|CSIRO: Public Broadcasting Services (Question No. 2140)|5|
+|VISIT TO THE UNITED STATES OF AMERICA AND GREAT BRITAIN: Suspension of Standing Orders|5|
+|QUESTION: NUCLEAR WASTE MATERIAL|5|
+|QUESTION: JOINT COMMITTEE ON FOREIGN AFFAIRS AND DEFENCE|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: Jervis Bay Nuclear Power Station (Question No. 1929)|5|
+|STATUTORY AUTHORITIES: Nuclear Materials: Purchases (Question No. 2730)|5|
+|QUESTION: URANIUM SALES|5|
+|NORTHERN TERRITORY ADMINISTRATION: Nuclear Power (Question No. 2840)|5|
+|ASIAN DEVELOPMENT FUND BILL 1974: Second Reading|5|
+|QUESTION: STRATEGIC ARMS LIMITATION TREATY|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: Atomic Energy (Question No. 1787)|5|
+|CONSTITUTION ALTERATION (SIMULTANEOUS ELECTIONS) BILL 1975: Second Reading|5|
+|ANSWERS TO QUESTIONS: Minerals (Question No. 827)|5|
+|QUESTION: SUPPLY OF URANIUM TO INDIA|5|
+|NORTHERN TERRITORY: United Nations Convention: Foreign Arbitral Awards (Question No. 1396)|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: Arbitration (Question No. 2121)|5|
+|QUESTION: NUCLEAR NON-PROLIFERATION TREATY|5|
+|BARLEY: HMAS 'Stirling': United States Activities (Question No. 4251)|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: Solar Energy (Question No. 191)|5|
+|QUESTION: LUCAS HEIGHTS NUCLEAR REACTOR|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: Journalists: Federal Awards (Question No. 594)|5|
+|FOREIGN AFFAIRS AND DEFENCE: Proposed Joint Committee|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Nuclear Fuel Cycle Evaluation (Question No. 1147)|5|
+|QUESTION: YEELIRRIE URANIUM DEPOSIT|5|
+|INTERNATIONAL TRADE: Ministerial Statement|5|
+|QUESTION: NUCLEAR REACTORS|5|
+|QUESTION: COMMONWEALTH HEADS OF GOVERNMENT CONFERENCE|5|
+|A: Nuclear Reactors: Japan (Question No. 2813)|5|
+|WESTERN AUSTRALIA: French Nuclear Tests (Question No. 5958)|5|
+|WESTERN AUSTRALIA: Uranium: Prices (Question No. 5857)|5|
+|DC9-3: Outer Space: Legal Sub Committee (Question No. 4013)|5|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: Overseas Shipping Freights (Question No. 4798)|5|
+|QUESTION: VISIT OF NUCLEAR POWERED SHIPS TO GLADSTONE|5|
+|QUESTION: USE OF WESTERN AUSTRALIAN DEFENCE BASES BY UNITED STATES OF AMERICA|5|
+|REPORT OF AUSTRALIAN PARLIAMENTARY DELEGATION|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: Seismological Monitoring (Question No. 1820)|5|
+|STATES GRANTS (CAPITAL ASSISTANCE) BILL (No. 2) 1976|5|
+|EXERCISES CONDUCTED WITH US NAVY SHIPS AND COMPOSITION OF FORCES INVOLVED,: Nuclear Wastes (Question No. 3929)|5|
+|QUESTION: ARMS CONTROL AND DISARMAMENT|5|
+|MOVES TO PREVENT OVERSEAS TAKEOVER OF NORTHERN TERRITORY URANIUM DEPOSITS: Department of External Affairs|5|
+|OTHER PROGRAMS: Nuclear Safeguards (Question No. 1526)|4|
+|QUESTION: AUSTRALIAN FILM - THE THREE-PRONGED ATTACK|4|
+|USES OF ATOMIC ENERGY AGREEMENT BETWEEN AUSTRALIA AND JAPAN: Uses of Atomic Energy: Agreement Between Australia and Japan- Ministerial Statement, 8th March 1972|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Waste (Question No. 1783)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Disarmament Agreements (Question No. 1228)|4|
+|QUESTION: TESTING OF ATOMIC WEAPONS|4|
+|AUSTRALIAN SECURITY INTELLIGENCE ORGANIZATION BILL 1979|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Power in the Philippines (Question No. 2283)|4|
+|JUDICIARY (DIPLOMATIC REPRESENTATION) BILL 1977: Second Reading|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Atomic Energy (Question No. 2173)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Jervis Bay Nuclear Power Station (Question No. 1930)|4|
+|QUESTION: FRENCH NUCLEAR TESTS: SHIPPING BAN|4|
+|STATUTORY AUTHORITIES: Nuclear Power Use: Forecasts (Question No. 2729)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Energy: Waste Products (Question No. 175)|4|
+|VICTORIA: Defence Service Homes (Question No. 572)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radioactive Waste (Question No. 1926)|4|
+|QUESTION: URANIUM OXIDE|4|
+|ANSWERS TO QUESTIONS: Shipping Regulations (Question No. 4945)|4|
+|APPROPRIATION BILL (No. 1) 1975-76|4|
+|ADJOURNMENT: Public Servants: Freedom of Expression -|4|
+|QUESTION: USS ENTERPRISE|4|
+|QUESTION: INTERNATIONAL AFFAIRS|4|
+|QUESTION: NUCLEAR SAFEGUARDS AGREEMENT: PHILIPPINES|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Uranium (Question No. 1288)|4|
+|DEATH OF PRESIDENT POMPIDOU: MESSAGE OF CONDOLENCE|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: French Nuclear Tests (Question No. 3514)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Reactors: Safety (Question No. 3132)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Reactors: Operating Costs (Question No. 1272)|4|
+|QUESTION: RUSSIAN NAVAL VESSELS IN INDIAN OCEAN|4|
+|QUESTION: VISITS BY NUCLEAR-POWERED WARSHIPS TO TASMANIA|4|
+|INTERNATIONAL DEVELOPMENT ASSOCIATION (FURTHER PAYMENT) BILL 1977: Second Reading|4|
+|QUESTION: U.S.S. TRUXTUN|4|
+|QUESTION: NUCLEAR WASTE|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Environmental Studies: Jervis Bay Nuclear Power Plant (Question No. 2260)|4|
+|OTHER PROGRAMS: Nuclear Waste Disposal (Question No. 1720)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Waste Products (Question No. 185)|4|
+|OTHER PROGRAMS: Nuclear Safeguards (Question No. 1471)|4|
+|OTHER PROGRAMS: Nuclear Power Stations (Question No. 1222)|4|
+|GRIEVANCE DEBATE: Order!|4|
+|QUESTION: NUCLEAR SAFEGUARDS AGREEMENT WITH IRAN|4|
+|PIPELINE CONSTRUCTION (YOUNG TO WAGGA WAGGA) BILL 1979: Second Reading|4|
+|AUSTRALIAN SECURITY INTELLIGENCE ORGANIZATION BILL 1979: Second Reading|4|
+|QUESTION: AUSTRALIA AND THE WORLD SITUATION|4|
+|FAMILY RESEARCH PROJECT: Ministerial Statement|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Industrial Research and Development - Grants (Question No. 3040)|4|
+|STATUTORY AUTHORITIES: Nuclear Fuel Reprocessing (Question No. 2681)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Ambassador to China (Question No. 142)|4|
+|MAY IT PLEASE YOUR EXCELLENCY:|4|
+|ADJOURNMENT: Travel Organisation - Australian Atomic Energy Commission: Retirement of Chairman - Fill Aircraft - Civil Aviation: Private Pilot Privileges - Qantas Airways Limited|4|
+|APPROVAL OF WORK- PUBLIC WORKS COMMITTEE ACT: Naval Support Facility, Cockburn Sound, Western Austrafia|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Energy Production in West Germany (Question No. 760)|3|
+|GOVERNOR-GENERAL'S SPEECH|3|
+|URANIUM ADVISORY COUNCIL: Report and Ministerial Statement|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Atomic Energy (Question No. 188!»|3|
+|SUPPLY OF ENERGY RESOURCES TO JAPAN: Discussion of Matter of Public Importance|3|
+|QUESTION: WELFARE HOUSING|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Irrigation (Question No. 5970)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Denuclearised Zones: Antarctica and Outer Space (Question No. 1164)|3|
+|ADJOURNMENT: The Parliament: Questions - Health: Aboriginal Children - Whitlam Government - Motor Vehicle Repairs - Postal Services - Health- Education|3|
+|QUESTION: REVEILLE' ARTICLE|3|
+|PIPELINE AUTHORITY BILL 1973: Second Reading|3|
+|ANSWERS TO QUESTIONS: Citizen Band Radio (Question No. 3385)|3|
+|OTHER PROGRAMS: Nuclear Safeguards (Question No. 1507)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Safeguards Agreement: European Countries (Question No. 2684)|3|
+|QUESTION: NUCLEAR WASTE: DISPOSAL|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Atomic Energy (Question No. 1287)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Atomic Energy (Question No. 1786)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Secret' Classification (Question No. 2528)|3|
+|UNCTAD 5: Marine Science Research (Question No. 3462)|3|
+|DEATH OF THE RIGHT HONOURABLE N. E. KIRK|3|
+|QUESTION: SALE OF URANIUM TO IRAN|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Safeguards: India (Question No. 1177)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Purchases of Law Books (Question No. 69)|3|
+|DEATH OF CHAIRMAN MAO TSE-TUNG|3|
+|B. TRUSTEES: French Nuclear Tests (Question No. 6480)|3|
+|UNIVAC 1100/11: Laser Isotope Separation Facilities (Question No. 5081)|3|
+|FRENCH NUCLEAR TESTS: RESOLUTION OF TASMANIAN PARLIAMENT: Ministerial Statement|3|
+|QUESTION: TRADE UNION MOVEMENT: INDUSTRIAL DISPUTES|3|
+|S $: Superannuation Fund Investment Trust (Question No. 1236)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Safeguards (Question No. 1661)|3|
+|QUESTION: PROPOSED NUCLEAR RECYCLING PLANT|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Jervis Bay Nuclear Power Station (Question No. 1927)|3|
+|NERDDC TECHNICAL STANDING COMMITTEES: Nuclear Fuel Cycle Research (Question No. 2274)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Energy Production in the United States of America (Question No. 759)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Non-Proliferation Treaty: Safeguards Agreement (Question No. 536)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Energy Production in OECD Countries (Question No. 758)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Power Stations (Question No. 2932)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Power Stations (Question No. 3476)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ionising Radiation (Question No. 1852)|3|
+|QUESTION: NUCLEAR TESTS BY FRANCE AND CHINA|3|
+|NATIONAL SERVICE BILL 1971 (No. 2): Second Reading|3|
+|QUESTION: RANGER URANIUM ENVIRONMENTAL INQUIRY|3|
+|NATIONAL SERVICE BILL 1971: Second Reading|3|
+|WHITLAM GOVERNMENT: Ministerial Statement|3|
+|HIGH COMMISSIONER (UNITED KINGDOM) ACT REPEAL BILL 1973: Second Reading|3|
+|QUEENSLAND: Nuclear Power Stations: Supply of Plutonium (Question No. 1273)|3|
+|ANSWERS TO QUESTIONS: Atomic Energy Research Establishment, Lucas Heights (Question No. 4338)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ionising Radiation (Question No. 1851)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Energy Production in the United Kingdom (Question No. 761)|3|
+|QUESTION: SPILLAGE OF RADIOACTIVE MATERIAL|3|
+|ANSWERS TO QUESTIONS: Moonie-Alton Oil Fields (Question No. 3824)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Public Service (Question No. 1921)|3|
+|AUSTRALIAN DEFENCE: Defence Equipment (Question No. 1486)|3|
+|QUESTION: HMAS 'SYDNEY': FRENCH NUCLEAR TESTS: WITHDRAWAL OF AUSTRALIAN FORCES FROM SINGAPORE|3|
+|GOVERNMENT'S ENERGY POLICY: Discussion of Matter of Public Importance|3|
+|SNOWY MOUNTAINS ENGINEERING CORPORATION BILL 1970|3|
+|CRIMES (BIOLOGICAL WEAPONS) BILL 1976: Second Reading|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: China: Nuclear Tests (Question No. 6406)|3|
+|STATUTORY AUTHORITIES: Nuclear Reactors: Lucas Heights (Question No. 2809)|3|
+|NORTHERN TERRITORY ADMINISTRATION: Nuclear Power (Question No. 2839)|3|
+|ANSWERS TO QUESTIONS: Wheat Crop Forecasting (Question No. 3881)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Jervis Bay Nuclear Power Station (Question No. 1928)|3|
+|AUSTRALIA'S POLITICAL AND TRADING RELATIONSHIPS AND ENERGY RESERVES: Discussion of Matter of Public Importance|3|
+|THE GEO-POLITICAL SITUATION: A PATTERN OF INSTABILITY: Ministerial Statement|3|
+|SPECIAL ADJOURNMENT: Valedictory|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Waste Disposal and Storage (Question No. 65)|3|
+|APPROVAL OF WORK - PUBLIC WORKS COMMITTEE ACT: Naval Support Facility, Cockburn Sound|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tokai-Mura Nuclear Plant, Japan (Question No. 3474)|3|
+|BRIEF HISTORY OF KURNELL|3|
+|QUEENSLAND: Nuclear Power Station: Investigation of Sites (Question No. 1191)|3|
+|QUESTION: PROLIFERATION OF STRATEGIC ARMS|3|
+|COMPULSORY CHEST X-RAYS: DISALLOWED QUESTION|3|
+|NATIONAL ENERGY POLICY: Ministerial Statement|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Atomic Energy Commission: Training of Scientists (Question No. 1291)|2|
+|STATUTORY AUTHORITIES: Nuclear Power Plants (Question No. 2678)|2|
+|APPROPRIATION BILL (No. 1) 1974-75|2|
+|NAVIGATION AMENDMENT BILL 1979: Second Reading|2|
+|NORTHERN TERRITORY: Nuclear Weapons (Question No. 1762)|2|
+|A: Nuclear Reactors: Canada (Question No. 2820)|2|
+|A: Nuclear Reactors: South Korea (Question No. 2818)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ayers Rock- Mount Olga National Park (Question No. 816)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aid for Italian Earthquake Relief (Question No. 650)|2|
+|A: Nuclear Reactors: France (Question No. 2821)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (Question No. 4428)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Joint Geological and Geophysical Research Station (Question No. 1865)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Joint Commonwealth-State Committees: Department of National Development (Question No. 3706)|2|
+|AUSTRALIA'S DEFENCE: Discussion of Matter of Public Importance|2|
+|NORTHERN TERRITORY ADMINISTRATION: Atomic Waste (Question No. 2689)|2|
+|QUESTION: PROPOSED GAF/CAC MERGER|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Human Environment (Question No. 21)|2|
+|QUESTION: REPORTS TABLED IN PARLIAMENT ON INQUIRIES INSTITUTED BY THE PRESENT GOVERNMENT|2|
+|UNCTAD 5: Ionising Radiation (Question No. 3941)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Explosions for Pilbara Port (Question No. 6039)|2|
+|A: Nuclear Reactors: West Germany (Question No. 2819)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Suppliers Group: Guidelines (Question No. 239)|2|
+|UNIVAC 1100/11: Radioactive Devices (Question No. 5000)|2|
+|QUESTION: DEFENCE: AMERICAN INSTALLATIONS IN AUSTRALIA|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Atomic Energy Commission: Radioactive Waste (Question No. 176)|2|
+|PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) BILL 1971: Second Reading|2|
+|A: Nuclear Reactors: Philippines (Question No. 2825)|2|
+|QUESTION: JERVIS BAY NUCLEAR POWER STATION|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospitals Development Program (Question No. 1114)|2|
+|NERDDC TECHNICAL STANDING COMMITTEES: Maralinga: Ministerial Responsibility (Question No. 2628)|2|
+|A: Nuclear Reactors: Sweden (Question No. 2815)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radiation (Question No. 1853)|2|
+|QUESTION: NUCLEAR NON-PROLIFERATION|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ethiopia and Eritrea (Question No. 151)|2|
+|QUESTION: MINING AND EXPORT OF URANIUM|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Solar Energy Research: Australian National University (Question No. 817)|2|
+|ANSWERS TO QUESTIONS: Atomic Energy (Question No. 449)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Test: Amchitka Island . (Question No. 4689)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Bureau of Statistics: Abolition of Foreign Participation and Job Vacancy Surveys (Question No. 1673)|2|
+|GOVERNMENT BUSINESS: Precedence|2|
+|QUEENSLAND: Nuclear Power: Gas Cooled Reactors (Question No. 1275)|2|
+|PIPELINE AUTHORITY AMENDMENT BILL 1979: Second Reading|2|
+|STATUTORY AUTHORITIES: Nuclear Power Plants (Question No. 2679)|2|
+|QUESTION: COCKBURN SOUND|2|
+|AMOUNT OWED BY YOU TO DATE-NIL|2|
+|QUESTION: RADIOACTIVE WASTE|2|
+|A: Nuclear Reactors: Iran (Question No. 2822)|2|
+|ADJOURNMENT: Dear Sir,|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radiation Tests (Question No. 139)|2|
+|QUESTION: PUBLIC DEBATE ON URANIUM|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Jervis Bay Plant: Emission Standards Requirements (Question No. 2262)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Power (Question No. 1193)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: French Nuclear Tests (Question No. 109)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Energy (Question No. 5533)|2|
+|NORTHERN TERRITORY ADMINISTRATION: Nuclear Power (Question No. 2833)|2|
+|QUESTION: THE DRUG DEBATE|2|
+|QUESTION: MINERALS AND ENERGY POLICIES|2|
+|ABORIGINAL LAND RIGHTS (NORTHERN TERRITORY) AMENDMENT BILL 1978|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Weapons Testing (Question No. 2400)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Atomic Energy Commission (Question No. 1784)|2|
+|QUESTION: ROYAL AUSTRALIAN NAVY|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Answers to Questions (Question No. 626)|2|
+|A: Nuclear Tests: British Service Aircraft (Question No. 2676)|2|
+|QUESTION: UPGRADING OF MINERALS: NUCLEAR POWER|2|
+|APPROPRIATION BILL (No. 1) 1972-73|2|
+|A: Nuclear Reactors: United Kingdom (Question No. 2824)|2|
+|ANSWERS TO QUESTIONS: Nuclear Energy (Question No. 444)|2|
+|QUESTION: CHINESE NUCLEAR TESTS|2|
+|AUSTRALIAN DEFENCE: Mr Mansell ; Oooh!|2|
+|STATUTORY AUTHORITIES: Nuclear Power Plants (Question No. 2680)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Technetium-99 (Question No. 690)|2|
+|RAAF: European Nuclear Energy Agency (Question No. 5016)|2|
+|ANSWERS TO QUESTIONS: Russian Fleet in Indian Ocean (Question No. 1801)|2|
+|PUBLIC SERVICE (PERMANENT HEAD-DUAL APPOINTMENT) BILL 1977: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Canberra: Library Services (Question No. 4558)|2|
+|A: Nuclear Reactors: Switzerland (Question No. 2814)|2|
+|QUESTION: JAPAN: MILITARY EXPENDITURE|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Conciliation and Arbitration Commission (Question No. 1040)|2|
+|QUESTION: CONSERVATION OF THE ENVIRONMENT|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mining and Milling of Radioactive Ores (Question No. 145)|2|
+|MINISTER FOR DEFENCE: Motion of Censure|2|
+|QUESTION: NUCLEAR WASTE AT MARALINGA|2|
+|QUESTION: NUCLEAR POWER SAFEGUARDS|2|
+|PRIME MINISTER'S VISIT TO SOUTH EAST ASIA: Ministerial Statement|2|
+|QUESTION: HMAS SUPPLY': FRENCH NUCLEAR TESTS|2|
+|ANSWERS TO QUESTIONS: Uranium Enrichment Study (Question No. 4823)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Accidents to Nuclear Powered Ships (Question No. 1175)|2|
+|QUESTION: STATE HOUSING COMMISSION HOUSES, NEW SOUTH WALES AVERAGE RENTALS IN THE SYDNEY METROPOLITAN AREA, FROM 1945 TO 1951|2|
+|QUESTION: HOURS OF MEETING|2|
+|VISIT TO JAPAN AND CHINA: Visit to Japan and China - Ministerial Statement, 7 November 1973|2|
+|SPEECH OF HER MAJESTY THE QUEEN|2|
+|QUESTION: PETROLEUM REPORT 'FACTUALLY INCORRECT|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Testing, Maralinga (Question No. 2827)|2|
+|QUESTION: FOREIGN POLICY: A YEAR OF CHANGE AND CHALLENGE|2|
+|QUESTION: ATOMIC WASTE DISPOSAL|2|
+|STANDING COMMITTEE ON ENVIRONMENT AND CONSERVATION|2|
+|SOUTH AUSTRALIA: Discussion of Matter of Public Importance|2|
+|APPROPRIATION BILL (No. 1) 1973-74: Second Reading (Budget Debate)|2|
+|A: Nuclear Reactors: Austria (Question No. 2816)|2|
+|QUESTION: JERVIS BAY NUCLEAR REACTOR|2|
+|APPROPRIATION BILL (No. 1)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Disarmament (Question No. 713)|2|
+|ANSWERS TO QUESTIONS: International Court of Justice: Atmospheric Nuclear Tests (Question No. 1985)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radioactive Waste Disposal (Question No. 2702)|2|
+|UNIVAC 1100/11: Harrisburg Nuclear Reactor Accident (Question No. 3635)|2|
+|QUESTION: UNITED STATES NAVAL STRENGTH IN PACIFIC|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Energy Research, Development and Demonstration Council: Priorities (Question No. 1420)|2|
+|A: Nuclear Reactors: Italy (Question No. 2817)|2|
+|QUESTION: NAVAL STRENGTHS|2|
+|INTERNATIONAL AND DOMESTIC SITUATION: Ministerial Statement|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Conventions (Question No. 5834)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Atomic Energy (Question No. 1563)|2|
+|A: Nuclear Reactors: United States of America (Question No. 2823)|2|
+|S $: Uranium: Safeguards (Question No. 1213)|2|
+|QUESTION: NUCLEAR WEAPONS FOR AUSTRALIAN SERVICES|2|
+|QUESTION: ATOMIC REACTOR|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Joint Geological and Geophysical Research Station (Question No. 1866)|2|
+|QUESTION: QUESTIONS UPON NOTICE|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Energy Committee (Question No. 2825)|2|
+|QUESTION: AUSTRALIAN FOREIGN POLICY|2|
+|APPROPRIATION BILL (No. 1) 1974-75: Second Reading (Budget Debate)|2|
+|A: Nuclear Reactors: Finland (Question No. 2826)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mururoa Atoll: Inspection by Australian Scientists (Question No. 493)|2|
+|B. TRUSTEES: International Labour Office Conventions (Question No. 6341)|2|
+|ADJOURNMENT: Australian Broadcasting Commission: Ku Klux Klan Report- United Nations- Health-Legal Profession- Aurukun Community -Computer User Data Mechanism Scheme- Immigration|2|
+|ADJOURNMENT: Repatriation-Radioactive Waste - Australian Currency - Industrial Relations|2|
+|ANSWERS TO QUESTIONS: Aid to Pakistan (Question No. 4543)|2|
+|QUESTION: AUSTRALIAN COUNCIL OF TRADE UNIONS ACTION AGAINST FRANCE|2|
+|ADJOURNMENT: Trade Unions -The Parliament- Australia-Papua New Guinea Boundary- Universal Textiles, Tasmania- National Energy Policy|2|
+|A: Radioactivity: Monte Bello Islands (Question No. 2677)|2|
+|QUESTION: URANIUM EXPORTS: TALKS WITH BRITISH DELEGATION|1|
+|PETROLEUM AND MINERALS AUTHORITY ACT 1973|1|
+|AUSTRALIAN MEMBERSHIP OF THE INTERNATIONAL ENERGY AGENCY: Ministerial Statement|1|
+|TERRITORIAL SEA- AND CONTINENTAL SHELF BILL 1970|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Fuels: Reprocessing Plants (Question No. 903)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South Pacific Conference: French Nuclear Tests (Question No. 241)|1|
+|QUESTION: MARALINGA|1|
+|CUSTOMS TARIFF (COAL EXPORT DUTY) AMENDMENT BILL 1977: Second Reading|1|
+|QUESTION: FOSSIL FUELS|1|
+|NEW ARRANGEMENTS FOR PATIENTS REQUIRING NURSING CARE: Ministerial Statement|1|
+|TRADE PRACTICES: CONSUMER PROTECTION: Discussion of Matter of Public Importance|1|
+|INTERNATIONAL LABOUR ORGANISATION BILL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Atomic Energy Projects: Association with Malignant Disease (Question No. 1686)|1|
+|AUSTRALIAN FEDERAL POLICE BILL 1979: Second Reading|1|
+|QUESTION: UTILISATION OF BROWN COAL RESOURCES OF LATROBE VALLEY|1|
+|AUSTRALIAN CAPITAL TERRITORY ELECTRICITY SUPPLY AMENDMENT BILL 1979: Second Reading|1|
+|HOME BUILDING INDUSTRY: Discussion of Matter of Public Importance|1|
+|TAXATION: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Disarmament (Question No. 712)|1|
+|QUESTION: NUCLEAR SAFEGUARD AGREEMENT WITH IRAN|1|
+|QUESTION: CENSORSHIP|1|
+|GRIEVANCE DEBATE: Organisation Delegates- Daylight Saving- Unemployment Benefits -Premiers Conference-Australian Honours System- Leisure Time-Surf Life Saving Movement|1|
+|MULTILATERAL TRADE NEGOTIATIONS: Discussion of Matter of Public Importance|1|
+|AUSTRALIAN INDUSTRY DEVELOPMENT CORPORATION BILL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: General Assembly of the United Nations: Information on Nuclear Weapons (Question No. 809)|1|
+|NUCLEAR TESTS CASE|1|
+|FEDERAL PETROLEUM SEARCH POLICY: Ministerial Statement|1|
+|SA: Report of the Australian Atomic Weapons Testing Safety Committee (Question No. 184)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: United States Bases in Australia (Question No. 1515)|1|
+|WATER PROJECTS: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Atomic Energy (Question No. 1560)|1|
+|QUESTION: APPROPRIATION BULL (No. 1) 1973-74|1|
+|QUESTION: PRODUCTION OF POWER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Reopening of Diplomatic Missions (Question No. 709)|1|
+|DEFENCE PROGRAMME: Suspension of Standing Orders|1|
+|PERSONAL EXPLANATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Safeguards (Question No. 3063)|1|
+|QUESTION: NUCLEAR NON-PROLIFERATION INITIATIVES|1|
+|NOTARIZED STATEMENT: Dear Mr Todd:|1|
+|QUESTION: OPAL MINING: PROHIBITED AREAS|1|
+|QUESTION: VISIT BY VICE-PRESIDENT MONDALE|1|
+|ASSOCIATION OF SOUTH EAST ASIAN NATIONS: Discussion of Matter of Public Importance|1|
+|QUESTION: OMEGA NAVIGATION FACILITY|1|
+|QUESTION: GOVERNMENT BUSINESS|1|
+|FUTURE OF AUSTRALIAN FORCES IN VIETNAM, AND NATIONAL SERVICE: Ministerial Statement|1|
+|AUSTRALIAN DEVELOPMENT ASSISTANCE AGENCY BILL 1974: Second Reading|1|
+|QUESTION: OMEGA NAVIGATIONAL BASE|1|
+|QUESTION: MINERALS AND ENERGY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Safeguards Discussions (Question No. 494)|1|
+|UNIVAC 1100/11: Foreign Affairs: Uranium (Question No. 4447)|1|
+|QUESTION: ATOMIC ENERGY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Measures to Counter Terrorism (Question No. 351)|1|
+|DEATH PENALTY ABOLITION BILL 1973: Second Reading|1|
+|QUESTION: MR L K. MURPHY, Q.C|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Capital Territory Weights and Measures Ordinance (Question No. 1613)|1|
+|NUCLEAR EXPLOSION FALL-OUT|1|
+|ANSWERS TO QUESTIONS: Great Barrier Reef Marine Park (Question No. 3483)|1|
+|QUESTION: VISITS BY NUCLEAR POWERED WARSHIPS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Atomic Energy Commission: Safeguards (Question No. 181)|1|
+|No: Uranium: Demand and Supply (Question No. 5126)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Commonwealth Grant (Question No. 5888)|1|
+|NORTHERN TERRITORY ADMINISTRATION: Nuclear Power (Question No. 2830)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Uranium: Safeguards (Question No. 1185)|1|
+|QUESTION: INTERNATIONAL COURT OF JUSTICE|1|
+|STATES GRANTS (WATER RESOURCES MEASUREMENT) BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Monte Bello Islands: Radioactivity (Question No. 2831)|1|
+|A: Australian Atomic Energy Commission: Research (Question No. 2732)|1|
+|QUESTION: FRENCH NUCLEAR TESTS: AUSTRALIAN NAVAL PERSONNEL|1|
+|ADJOURNMENT: Uranium Mining- Environment- Lone Parents-Rural Industry -Medibank: Pensioner Medical Service Cards- Family Allowances -The Budget: Attitude of State Premiers|1|
+|WANT OF CONFIDENCE IN THE GOVERNMENT|1|
+|FRASER GOVERNMENT: Motion of Want of Confidence|1|
+|A: Department of Education: Computers (Question No. 2208)|1|
+|ADJOURNMENT: Apartheid - Army Medical Standards - The Parliament - International Trade Agreements - National Service - Japan - Civil Defence: Fire Brigade Equipment - Woollen Textile Industry - Australian Broadcasting Commission|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Third Party Insurance (Question No. 1301)|1|
+|A: Nuclear Weapon Tests: Mururoa Atoll (Question No. 1821)|1|
+|APPROPRIATION BILL (No. 4) 1973-74: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Tests and Weapons Treaties (Question No. 876)|1|
+|QUESTION: PEOPLE'S REPUBLIC OF CHINA|1|
+|ADJOURNMENT: Unemployment-Australia Day-Albert Einstein|1|
+|ANGLO-AUSTRALIAN TELESCOPE AGREEMENT BILL 1970: Second Reading|1|
+|SEAS AND SUBMERGED LANDS BILL 1973: Second Reading|1|
+|QUESTION: NUCLEAR POWERED VESSELS|1|
+|GREAT BARRIER REEF MAKINE PARK BILL 1975: Second Reading|1|
+|QUESTION: NUCLEAR TESTS: PEOPLE'S REPUBLIC OF CHINA|1|
+|VICTORIA: Department of Minerals and Energy: Research Grants (Question No. 71)|1|
+|NORTHERN TERRITORY: Education: Teacher Training (Question No. 3266)|1|
+|QUESTION: AUSTRALIA'S DEFENCE PROGRAMME|1|
+|FAMILY LAW AMENDMENT BILL (No. 2) 1976: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Agricultural Census: Provision of Duplicate Forms (Question No. 1160)|1|
+|TASMANIA: International Conventions (Question No. 2330)|1|
+|RESIGNATION OF ATTORNEY-GENERAL: Suspension of Standing Orders|1|
+|NUCLEAR WEAPONS|1|
+|QUESTION: INDIAN GOVERNMENT|1|
+|QUESTION: VIETCONG BEATEN, SAYS NAVY MINISTER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Atomic Energy Commission: Safeguards (Question No. 174)|1|
+|QUESTION: INTERNATIONAL COURT OF JUSTICE; FRENCH NUCLEAR TESTS|1|
+|ENVIRONMENT (FINANCIAL ASSISTANCE) BILL 1977: Second Reading|1|
+|OVERSEAS INVESTMENT IN AUSTRALIA: Ministerial Statement|1|
+|QUESTION: CONCLUSIONS|1|
+|QUESTION: URANIUM: FOX REPORT|1|
+|QUESTION: CLYDE R. CAMERON|1|
+|QUESTION: PROTECTION OF POLITICAL LEADERS|1|
+|A: Atomic Weapons Testing: Health Risks (Question No. 2746)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Dumping of Nuclear Waste (Question No. 2151)|1|
+|QUESTION: AMERICAN ADMINISTRATION|1|
+|NUCLEAR TEST FALLOUT|1|
+|QUESTION: FLOOD MITIGATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: French Ambassador (Question No. 652)|1|
+|QUESTION: CONCLUSION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Court of Justice (Question No. 654)|1|
+|NOTICE OF MOTION: Antarctic: Australia's Involvement|1|
+|AGED PERSONS HOSTELS BILL 1974: Second Reading|1|
+|FAMILY LAW BILL 1974: Second Reading|1|
+|NERDDC TECHNICAL STANDING COMMITTEES: Australian Atomic Energy Commission: Lucas Heights Reactor (Question No. 1728)|1|
+|QUESTION: DUAL REPRESENTATION' DRAFT RESOLUTION|1|
+|APPROPRIATION BILL (No. 1) 1979-80|1|
+|BARLEY: United States Ships: Visits to Western Australian Ports (Question No. 4252)|1|
+|OFFICIAL TEXT|1|
+|QUESTION: ADJOURN MENT|1|
+|TRADE: Discussion of Matter of Public Importance|1|
+|EXCISE TARIFF BILL 1975: Second Reading|1|
+|QUESTION: UNION BAN ON FRENCH SHIPPING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Energy Research: Government Expenditure (Question No. 564)|1|
+|REPLACEMENT SATELLITE GROUND TERMINAL PROPOSED FOR HAROLD E. HOLT NAVAL COMMUNICATION STATION: Ministerial Statement|1|
+|CONTROL OF NAVAL WATERS AMENDMENT BILL 1978: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Scientific and Technical Co-operation between Australia and other Countries (Question No. 263)|1|
+|ANSWERS TO QUESTIONS: Atomic Waste Deposits (Question No. 3704)|1|
+|A: Nuclear Weapons Testing (Question No. 2958)|1|
+|QUESTION: NUCLEAR SAFEGUARDS AGREEMENT|1|
+|QUESTION: URANIUM SAFEGUARD AGREEMENTS|1|
+|CHURCH AND NATION: Abortion Law Reform|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Power Stations (Question No.3475)|1|
+|ADJOURNMENT: Thursday, 26 October 1972|1|
+|FAMILY LAW BILL 1975: Second Reading|1|
+|ADJOURNMENT: Fishing- Southern Africa- Catholic Commission for Justice and Peace- Aid to Kampuchea -Queensland Government -Demonstrations|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Power (Question No. 2837)|1|
+|QUESTION: URANIUM: PRIME MINISTER'S STATEMENT|1|
+|WHITLAM GOVERNMENT: FOREIGN POLICIES: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: French Nuclear Tests (Question No. 3673)|1|
+|STATES GRANTS (HOUSING ASSISTANCE) BILL (No. 2) 1976: Second Reading|1|
+|ABORIGINAL LAND RIGHTS (NORTHERN TERRITORY) BILL 1976|1|
+|CONCILIATION AND ARBITRATION AMENDMENT BILL (No. 3) 1977|1|
+|VISIT TO JAPAN AND CHINA: Ministerial Statement|1|
+|THE ENVIRONMENT: GOVERNMENT RESPONSIBILITY: Discussion of Matter of Public Importance|1|
+|A: Nuclear Testing (Question Na 2578)|1|
+|APPROPRIATION BILLS 1970-71|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Energy: Research and Development Program (Question No. 1536)|1|
+|TERRITORIAL SEA AND CONTINENTAL SHELF|1|
+|ADJOURNMENT: Overseas Aid Program-Prime Minister's Overseas Visit -World Food Shortage- Unemployment|1|
+|NUCLEAR CO-OPERATION AGREEMENT: AUSTRALIA AND KOREA: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Activities under Agreements for Scientific and Technical Co-operation (Question No. 162)|1|
+|CHILDREN'S COMMISSION BILL 1975: Second Reading|1|
+|A: Laser Fusion Facility (Question No. 1931)|1|
+|QUESTION: COMMONWEALTH ASSISTANCE FOR NURSING HOME PATIENTS|1|
+|ATOMIC WEAPONS TESTS SAFETY COMMITTEE|1|
+|POST ASEAN CONFERENCE TALKS: Ministerial Statement|1|
+|QUESTION: ANTI-TRUST PROCEEDINGS IN UNITED STATES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radioactive Materials: Storage and Disposal (Question No. 673)|1|
+|QUEENSLAND: Nuclear Power Station: Discharge of Water (Question No. 1194)|1|
+|JOINT COMMITTEE ON FOREIGN AFFAIRS AND DEFENCE: Appointment|1|
+|STATES GRANTS (AIR QUALITY MONITORING) BILL1976: Second Reading|1|
+|QUESTION: INDIAN OCEAN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Atomic Energy (Question No. 1*87)|1|
+|ATOMIC ENERGY AMENDMENT BILL (No. 2) 1979: Second Reading|1|
+|SOCIAL WELFARE COMMISSION: Report and Ministerial Statement|1|
+|QUESTION: SOLAR ENERGY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Storage of Spent Nuclear Fuel (Question No. 2501)|1|
+|INDOCHINA: Suspension of Standing Orders|1|
+|DEATH OF HIS HOLINESS POPE PAUL VI|1|
+|QUESTION: THE COMMONWEALTH|1|
+|ENVIRONMENT: Discussion of Matter of Public Importance|1|
+|A: Review of Australia's International Civil Aviation Policy (Question No. 2857)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Answers to Questions Upon Notice: Nuclear Energy (Question No. 1909)|1|
+|ADJOURNMENT: Death of Mr Steve Biko-Pensioners-State and Local Government Elections-The Parliament-Repatriation-South Africa-Commonwealth and State Relations- Trade Unions- Aboriginal Education|1|
+|MINISTERIAL ARRANGEMENTS|1|
+|QUESTION: INCIDENCE OF CANCER|1|
+|APPROPRIATION BILL (No. 3) 1978-79: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Maritime Consultative Organisation Conventions (Question No. 1029)|1|
+|QUESTION: WANT OF CONFIDENCE MOTION|1|
+|NORTHERN TERRITORY ADMINISTRATION: Jervis Bay Power Station (Question No. 2844)|1|
+|QUESTION: BALTIC STATES|1|
+|EXERCISES CONDUCTED WITH US NAVY SHIPS AND COMPOSITION OF FORCES INVOLVED,: Nabarlek Uranium Deposit (Question No. 3875)|1|
+|QUESTION: ADJOURNMENT OF SITTING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Armco Steel Works (Question No. 3775)|1|
+|SNOWY MOUNTAINS HYDRO-ELECTRIC POWER AMENDMENT BILL 1979: Second Reading|1|
+|QUESTION: AUSTRALIA'S DEFENCE FORCES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Atomic Energy Commission: New Reactor (Question No. 172)|1|
+|QUESTION: ESTABLISHMENT OF NUCLEAR POWER STATION IN WESTERN AUSTRALIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Staffing of Nuclear Reactor Plant: Lucas Heights (Question No. 1264)|1|
+|THE HUMAN TRAGEDY OF UNEMPLOYMENT: Mr Chairman and Fellow Christians:|1|
+|QUESTION: MODEL NUCLEAR SAFEGUARDS AGREEMENT|1|
+|FOREIGN PROCEEDINGS (PROHIBITION OF CERTAIN EVIDENCE) AMENDMENT BILL 1976: Second Reading|1|
+|A: Nuclear Testing: Maralinga (Question No. 2577)|1|
+|A: Nuclear Safeguards (Question No. 2727)|1|
+|QUESTION: CITRUS-OR SYNTHETICS|1|
+|WHITLAM GOVERNMENT: Motion of Censure|1|
+|REPORT ON OVERSEAS VISIT BY PRIME MINISTER: Ministerial Statement|1|
+|QUESTION: MINISTER FOR EDUCATION AND SCIENCE|1|
+|AGED OR DISABLED PERSONS HOMES BILL 1974: Second Reading|1|
+|QUESTION: HOMOSEXUALITY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migration of Medical Practitioners to Australia (Question No. 1703)|1|
+|THE ECONOMY AND ECONOMIC POLICY: Ministerial Statement|1|
+|QUESTION: NUCLEAR PROLIFERATION|1|
+|KAMPUCHEA: Discussion of Matter of Public Importance|1|
+|AUSTRALIAN IONISING RADIATION ADVISORY COUNCIL AND AUSTRALIAN RADIATION LABORATORY|1|

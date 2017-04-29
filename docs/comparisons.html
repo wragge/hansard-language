@@ -1,0 +1,13 @@
+---
+layout: default
+title: comparisons
+permalink: /comparisons/
+---
+
+
+<h2>comparisons</h2>
+  <ul>
+  {% for comp in site.comparisons %}
+    <li><a href="{{ comp.words|join:" "|slugify }}/">{{ comp.words|join:", " }}</a></li>
+  {% endfor %}
+  </ul>
