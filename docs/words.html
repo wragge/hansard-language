@@ -1,0 +1,15 @@
+---
+layout: default
+title: words
+permalink: /words/
+---
+
+{% assign words = site.words | group_by:"word" %}
+<h2> words</h2>
+  <ul>
+  {% for word in words %}
+    {% if word.name != "" %}
+        <li><a href="{{ word.name }}/">{{ word.name }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>

@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<h2>Searching for &lsquo;{{ page.word | escape }}&rsquo; in {{ page.house }} within the&hellip;</h2>
+
+  {% assign word_pages = site.words | where:"word", page.word | sort:"decade" %}
+  <ul>
+  {% for word_page in word_pages %}
+    {% if word_page.house == page.house %}
+        {% if word_page.decade %}
+            <li><a href="{{ word_page.decade }}/">{{ word_page.decade }}s</a></li>
+        {% endif %}
+    {% endif %}
+  {% endfor %}
+  </ul>
