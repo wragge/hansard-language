@@ -6,7 +6,8 @@ permalink: /people/
 
 <h2>people</h2>
   <ul>
-  {% for person in site.people %}
+  {% assign people = site.people|sort:"title" %}
+  {% for person in people %}
     {% if person.plot_id %}
         <li><a href="{{site.baseurl}}{{ person.url }}">{{ person.title }}</a></li>
     {% endif %}

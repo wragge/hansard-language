@@ -10,5 +10,6 @@ A place to share some work-in-progress on the language of [Historic Hansard](htt
 * [words](words/)
 * [comparisons](comparisons/)
 * [decades](decades/)
+* [people](people/)
 
 Most of the content is focused on the 1970s at the moment.
