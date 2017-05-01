@@ -1,0 +1,4304 @@
+---
+layout: default
+title: 6U4 - whitlam-gough - Topics
+---
+## Topics that WHITLAM, Gough spoke about during the 1970s
+
+| Topic | Number of speeches |
+|--------------|----------------|
+|PERSONAL EXPLANATIONS|65|
+|MINISTERIAL ARRANGEMENTS|40|
+|QUESTION: AUSTRALIAN SECURITY INTELLIGENCE ORGANISATION|30|
+|PERSONAL EXPLANATION|29|
+|QUESTION: OVERSEAS LOANS|18|
+|QUESTION: INFLATION|17|
+|QUESTION: ACTU-SOLO ENTERPRISES PTY LTD|14|
+|QUESTION: UNEMPLOYMENT|13|
+|QUESTION: OVERSEAS LOAN RAISINGS|12|
+|QUESTION: VIETNAM|11|
+|QUESTION: AUSTRALIAN ECONOMY|11|
+|QUESTION: WHITLAM MINISTRY|11|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Conventions: Application in Papua New Guinea (Question No. 2874)|10|
+|NOTICE OF MOTION|9|
+|QUESTION: QUESTIONS WITHOUT NOTICE|8|
+|SUSPENSION OF STANDING ORDERS|7|
+|QUESTION: OVERSEAS LOAN|7|
+|QUESTION: INTEREST RATES|7|
+|QUESTION: ABORIGINAL LAND RIGHTS|7|
+|QUESTION: SUSPENSION OF STANDING ORDERS|7|
+|QUESTION: EXECUTIONS IN YUGOSLAVIA|7|
+|QUESTION: WHITLAM GOVERNMENT|7|
+|SA: Joint Australia/Japan Ministerial Committee (Question No. 647)|7|
+|QUESTION: DEPARTMENT OF ABORIGINAL AFFAIRS|7|
+|QUESTION: PRICE CONTROL|7|
+|GRANTS COMMISSION BILL 1973|6|
+|QUESTION: PERMANENT BUILDING SOCIETIES|6|
+|QUESTION: FRENCH NUCLEAR TESTS|6|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Commonwealth Countries (Question No. 3697)|5|
+|QUESTION: PORTUGUESE TIMOR|5|
+|PETITIONS: Education|5|
+|QUESTION: HON. V. C. GAIR|5|
+|QUESTION: PRIME MINISTER'S OVERSEAS VISIT|5|
+|QUESTION: RHODESIA|5|
+|QUESTION: MEDIBANK|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Calls: Interception (Question No. 5607)|5|
+|QUESTION: PECUNIARY INTERESTS OF MEMBERS OF PARLIAMENT|5|
+|CONSTITUTIONAL CONVENTION|5|
+|PRICES JUSTIFICATION TRIBUNAL|5|
+|APPROPRIATION BILL (No. 1) 1970-71|4|
+|ADVISORY COUNCIL FOR INTER-GOVERNMENT RELATIONS BILL 1976: Second Reading|4|
+|QUESTION: GOVERNMENT EXPENDITURE|4|
+|QUESTION: PUBLIC SERVICE|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Extradition Arrangements (Question No. 124)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Answers to Questions (Question No. 626)|4|
+|QUESTION: BROKEN HILL PTY CO. LTD|4|
+|QUESTION: PRICES JUSTIFICATION TRIBUNAL|4|
+|QUESTION: COCOS (KEELING) ISLANDS|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral Divisions: Enrolments (Question No. 6093)|4|
+|QUESTION: ALLEGATIONS AGAINST FORMER MINISTER|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Uniform Building Code (Question No. 5717)|4|
+|QUESTION: SOUTH VIETNAM|4|
+|QUESTION: VIETNAMESE REFUGEES|4|
+|QUESTION: GOVERNOR-GENERAL'S SPEECH|4|
+|QUESTION: ETHNIC RADIO|4|
+|QUESTION: TIMOR|4|
+|CIVILIAN EMPLOYEES IN THE CONSTRUCTION INDUSTRY BY STATE FOR EACH MONTH SINCE: Aborigines: Possible Racial Discrimination (Question No. 906)|4|
+|APPROPRIATION BILL (No. 1) 1976-77|4|
+|QUESTION: UNEMPLOYMENT BENEFIT: SCHOOL LEAVERS|4|
+|QUESTION: AUSTRALIAN BROADCASTING COMMISSION|4|
+|QUESTION: EMPLOYMENT|4|
+|QUESTION: MINISTERIAL STAFFS: SECURITY CLEARANCES|4|
+|QUESTION: JETAIR AUSTRALIA LTD|4|
+|PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) BILL 1971|4|
+|QUESTION: ABORIGINAL UNEMPLOYMENT|4|
+|AUSTRALIA/WEST COAST NORTH AMERICA TRADE: Uniform Firearms Legislation (Question No. 3986)|4|
+|QUESTION: ISRAEL AND PALESTINE|4|
+|QUESTION: INTERDEPARTMENTAL COMMITTEES|4|
+|SUBSIDIES PAID DURING 1968-69: Educational and Training Programmes for Southern Africans (Question No. 1727)|4|
+|QUESTION: INDUSTRIAL RELATIONS|4|
+|NORTHERN TERRITORY: Education: Teacher Training (Question No. 3266)|4|
+|GRIEVANCE DEBATE|4|
+|APPROPRIATION BILL (No. 1) 1975-76 AND APPROPRIATION BILL (No. 2) 1975-76|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Community Council, Weipa South (Question No. 3087)|4|
+|ADJOURNMENT|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Sponsored Overseas Students (Question No. 1400)|4|
+|OBJECTION TO RULING|4|
+|INDUSTRIES ASSISTANCE COMMISSION|4|
+|QUESTION: HOUSING|4|
+|QUESTION: INDUSTRIES ASSISTANCE COMMISSION|4|
+|QUESTION: PRE-SCHOOL EDUCATION|4|
+|QUESTION: CURRENCY DEVALUATION|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation: Maritime Conventions (Question No. 49)|4|
+|QUESTION: CONSTITUTIONAL CONVENTION|4|
+|CHAIRMAN OF COMMITTEES|4|
+|QUESTION: NATIONAL SUPERANNUATION|4|
+|QUESTION: PRIME MINISTER|4|
+|QUESTION: CHINA|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr G. Ermolenko (Question No. 2655)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Postal Services (Question No. 1316)|3|
+|QUESTION: QUESTIONS|3|
+|QUESTION: SENATE VACANCY|3|
+|QUESTION: PEOPLE'S REPUBLIC OF CHINA|3|
+|QUESTION: FEDERAL AND STATE TRADE UNIONS|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital and Medical Benefit Organisations: Operating Expenses (Question No. 1432)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Conferences (Question No. 2302)|3|
+|APPROPRIATION BILL (No. 1) 1976-77: Second Reading (Budget Debate)|3|
+|QUESTION: ECONOMIC POLICY|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Riverina Primary Producers: Freight Rates (Question No. 223)|3|
+|QUESTION: URANIUM: FOX REPORT|3|
+|APPROPRIATION BILL (No. 1) 1977-78|3|
+|CONSTITUTION ALTERATION (PRICES) BILL 1973: Third Reading|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Armed-Forces: Non-effective Status (Question No. 5485)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Conference; Australian Delegation's Report (Question No. 5974)|3|
+|TASK FORCES: Prime Minister: Staff Establishment (Question No. 542)|3|
+|MOUNT HAGEN, 29-30 JUNE, 1970: Professional and Semi-Government Bodies (Question No. 1637)|3|
+|QUESTION: WAGE INDEXATION|3|
+|QUESTION: OFF-SHORE MINERAL RIGHTS|3|
+|QUESTION: TRAINING OF CAMBODIAN AND LAOTIAN TROOPS|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Colleges of Advanced Education (Question No. 1330)|3|
+|QUESTION: SUPERPHOSPHATE BOUNTY|3|
+|QUESTION: EAST TIMOR|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Supersonic Aircraft: Atmospheric Effects (Question No. 537)|3|
+|STEERING COMMITTEES ON COMMISSION RESEARCH PROJECTS: Israeli Settlements in Occupied Arab Territories (Question No. 1148)|3|
+|QUESTION: PARLIAMENT: SITTINGS|3|
+|VICTORIA: United Nations University (Question No. 697)|3|
+|QUESTION: CAMBODIA|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Port Development and Marine Affairs: Ministerial Meeting (Question No. 5821)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea Public Service: Appeals (Question No. 5731)|3|
+|QUESTION: CYPRUS|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory: Municipal Accounts (Question No. 1532)|3|
+|QUESTION: SECURITY CHECKS FOR MINISTERIAL STAFF|3|
+|QUESTION: OBITUARIES|3|
+|QUESTION: CONSTITUTIONALTERATION(MODE|3|
+|QUESTION: VOTING AGE|3|
+|OVERSEAS CONTROL - MANUFACTURING SECTOR: Diplomatic Relations: People's Republic of China (Question No. 5515)|3|
+|AWARDS OF VC, MC, DCM AND MM FOR SERVICE IN 1939-45 WAR: Defence Orders from New Zealand (Question No. 1407)|3|
+|QUESTION: STRATEGIC EXPORTS TO CHINA|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: UNCTAD Integrated Program for Commodities (Question No. 187)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Container Shipping (Question No. 6077)|3|
+|QUESTION: CONSUMER PRICE INDEX: EFFECT OF MEDIBANK LEVY|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pre-School Funding: Letters to Premiers (Question No. 191)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation: Comparable Countries (Question No. 4031)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Conventions (Question No. 2330)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Conventions (Question No. 213)|3|
+|WHITLAM GOVERNMENT: Motion of Censure|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tariff Board: Uncompleted Public Hearings (Question No. 6313)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Refrigeration (Question No. 4185)|3|
+|QUESTION: STATEMENT BY SENATOR|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory: Belconnen Retail Mall (Question No. 413)|3|
+|QUESTION: DEVALUATION OF AUSTRALIAN CURRENCY|3|
+|QUESTION: PREMIER OF QUEENSLAND|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Employment Service: Interpreter Services (Question No. 96)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radiation Tests (Question No. 139)|3|
+|QUESTION: MIDDLE EAST WAR|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Voluntary Organisations: Federal Headquarters (Question No. 1427)|3|
+|QUESTION: PALESTINE LIBERATION ORGANISATION|3|
+|TASMANIA: Norfolk Island Companies Ordinance (Question No. 3889)|3|
+|QUESTION: CONSUMER PRICE INDEX|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence: Units Overseas (Question No. 6066)|3|
+|A BILL FOR AN ACT|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: French Nuclear Tests (Question No. 3673)|3|
+|QUESTION: TELEPHONE CHARGES|3|
+|THE PRIME MINISTER: Motion of Censure|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cambodian Royal Family (Question No. 5833)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Native Members of the Forces Benefits (Question No. 5738)|2|
+|CENTRAL INTELLIGENCE AGENCY ACTIVITIES IN AUSTRALIA: Ministerial Statement|2|
+|QUESTION: ABORIGINALS|2|
+|NORTHERN TERRITORY: Civil Aviation: Australia - United States Services (Question No. 1452)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Operating Expenses (Question No. 2437)|2|
+|QUESTION: REPORTED STATEMENT BY PRIME MINISTER|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labor Organisation: Federal States- Chief Industrial Members (Question No. 770)|2|
+|QUESTION: NATIONAL ANTHEM|2|
+|CONSTITUTION ALTERATION (INTER-CHANGE OF POWERS) BILL 1975: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Parliamentary Salaries, Allowances and Superannuation (Question No. 141)|2|
+|VICTORIA: Electoral: Employment of Candidates (Question No. 658)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory: Housing (Question No. 741)|2|
+|QUESTION: TERRORIST ACTIVITIES|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Western Australia: Secession (Question No. 1414)|2|
+|COLLEGES OF ADVANCED EDUCATION: Tax Havens: Cabinet Committee Investigation (Question No. 5552)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Public Service (Question No. 5730)|2|
+|QUESTION: LEBANESE REFUGEES: EMBASSY IN DAMASCUS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Croatian Independence (Question No. 3219)|2|
+|SOCIAL SERVICES BILL (No. 3) 1972: Second Reading|2|
+|TASK FORCES: Australian Public Service: Mobility (Question No. 1673)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aid to South Pacific Countries (Question No. 5510)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Railways: Brisbane Lines (Question No. 414)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Employees: Interstate Posting (Question No. 3606)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Weisscredit Australia Pty Ltd: Exchange Control (Question No. 553)|2|
+|DISALLOWED QUESTION|2|
+|OR: Papua and New Guinea: School Fees (Question No. 1034)|2|
+|AUSTRALIAN ECONOMY: Suspension of Standing Orders|2|
+|QUESTION: ALLEGATION AGAINST FORMER SENATOR|2|
+|QUESTION: NATIONAL ART GALLERY|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fish Products: Exports to Asia (Question No. 2770)|2|
+|QUESTION: INFLATION: GOVERNMENT POLICY|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Army: Tests on Applicants (Question No. 1314)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr Bruce Gyngell: Pecuniary Interests (Question No. 812)|2|
+|QUESTION: THE PARLIAMENT: VOTING PAIRS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Social Welfare Beneficiaries (Question No. 988)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Drugs of Dependence (Question No. 133)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Servants: Company Directorships (Question No. 961)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Safeguards Discussions (Question No. 494)|2|
+|SCHEDULE: Papua and New Guinea: Female Administration Staff (Question No. 578)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rhodesians: Entry to Australia (Question No. 151)|2|
+|JOINT COMMITTEE ON FOREIGN AFFAIRS|2|
+|QUESTION: MINISTERIAL STAFFS|2|
+|QUESTION: VIETNAM: PARIS AGREEMENTS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Acts Interpretation Act (Question No. 2472)|2|
+|REJECTED THEATRICAL FILMS: Drought Relief (Question No. 1869)|2|
+|TASMANIA: Aboriginals: Discriminatory Legislation (Question No. 1233)|2|
+|QUESTION: EDUCATION|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Portuguese Timor: Consultations (Question No. 1178)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Petroleum, Coal and Metal Mining Industries (Question No. 500)|2|
+|QUESTION: BUDGET BRIEFING|2|
+|PUBLIC SERVICE BOARD|2|
+|QUESTION: WOOL|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Film Censorship (Question No. 3627)|2|
+|TASMANIA: Payroll Tax (Question No. 1978)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: The Environment: Ministerial Conferences (Question No. 5500)|2|
+|No: Papua and New Guinea: Fishing Industry (Question No. 1067)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cigarettes (Question No. 4041)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Port Authorities (Question No. 2407)|2|
+|JAPAN: State Housing: Cost of Land (Question No. 3393)|2|
+|QUESTION: WORKS OF ART IN PUBLIC PLACES|2|
+|QUESTION: OVERSEAS INVESTMENT IN AUSTRALIA|2|
+|WHITLAM GOVERNMENT: Ministerial Statement|2|
+|QUESTION: AUSTRALIAN NATIONAL ANTHEM|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory: Censorship Laws (Question No. 5947)|2|
+|QUESTION: CABINET DECISIONS|2|
+|QUESTION: INVITATION TO ARCHBISHOP MAKARIOS|2|
+|No: Visitto China by Qantas Representatives (Question No. 4517)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Education (Question No. S7S0)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pensioners: Characteristics (Question No. 5541)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Departments: Review of Activities and Functions (Question No. 6024)|2|
+|QUESTION: UNEMPLOYMENT BENEFITS FOR SCHOOL LEAVERS|2|
+|QUESTION: THE PARLIAMENT|2|
+|PRIORITIES REVIEW STAFF|2|
+|QUESTION: QUARTERLY COST OF LIVING ADJUSTMENTS|2|
+|QUESTION: TELEPHONE TAPPING|2|
+|QUESTION: CONFIDENCE IN ATTORNEYGENERAL: CROATIAN TERRORISM|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Departments: Move to Canberra (Question No. 2310)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Exchange Control (Question No. 327)|2|
+|STATES RECEIPTS DUTIES (ADMINISTRATION) BILL 1970: Third Readings|2|
+|QUESTION: ELECTORAL EXPENSES|2|
+|CONSTITUTION ALTERATION (SIMULTANEOUS ELECTIONS) BILL 1974: Second Reading|2|
+|OFFICE OF NATIONAL ASSESSMENTS BILL 1977: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pre-School Education: Estimate of Cost (Question No. 5700)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Intrastate Aviation: Reference of Power to Commonwealth (Question No. 3624)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Recruitment of Teachers Overseas (Question No. 3648)|2|
+|QUESTION: TRAINING OF CAMBODIAN TROOPS|2|
+|QUESTION: OVERSEAS LOAN RAISING|2|
+|QUESTION: ANNOUNCEMENT OF GOVERNMENT DECISIONS|2|
+|TERRITORY SENATORS BILL 1970: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Works of Art (Question No. 2313)|2|
+|CONSTITUTION ALTERATION (SIMULTANEOUS ELECTIONS) BILL 1977: Second Reading|2|
+|QUESTION: RECIPROCAL PENSION PAYMENTS|2|
+|BUDGET 1972-73|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory Companies (Life Insurance Holding Companies) Ordinance 1968: Complementary State Laws (Question No. 1815)|2|
+|ANSWERS TO QUESTIONS: Cancer (Question No. 2456)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Conventions, Treaties and Agreements: Ratification (Question No. 263)|2|
+|LEADERSHIP OF THE OPPOSITION|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Doctors' Incomes (Question No. 5518)|2|
+|NEW SOUTH WALES GRANT|2|
+|QUESTION: AID TO SOUTH PACIFIC COUNTRIES|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Ambassador to China (Question No. 142)|2|
+|QUESTION: MINISTERIAL RESPONSIBILITY|2|
+|FUTURE OF AUSTRALIAN FORCES IN VIETNAM, AND NATIONAL SERVICE: Ministerial Statement|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Amnesty International Conference for the Abolition of Torture (Question No. 3)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Conference of Non- Aligned Nations (Question No. 966)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Forces Protection Act (Question No. 1672)|2|
+|QUESTION: REDUCTION IN GOVERNMENT EXPENDITURE|2|
+|PLACES VISITED: Compensation (Commonwealth Employees) Regulations: Claims (Question No. 872)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Drought Assistance (Question No. 1600)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Indonesia and Australia: Seabed Boundary (Question No. 5513)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: New Zealand (Question No. 2021)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Legal Aid (Question No. 5871)|2|
+|JAPAN: Public Service: Bachelors of Veterinary Science (Question No. 3181)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea - Female Administration Staff (Question No. 175)|2|
+|QUESTION: MIDDLE EAST CONFLICT|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Police Forces: Statistics (Question No. 1699)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Child Welfare (Question No. 3981)|2|
+|QUESTION: DECENTRALISATION COMMITTEE|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Education: Non-English Speaking Clients (Question No. 793)|2|
+|QUESTION: SOUTH AFRICA|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Local Government Finances (Question No. 3729)|2|
+|QUESTION: SALE OF WHEAT TO CHINA|2|
+|QUESTION: REFUGEES|2|
+|QUESTION: TERRORIST ACTIVITIES: REPLY TO YUGOSLAV AIDE-MEMOIRE|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: United Nations: China (Question No. 2334)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Export of Uranium: Safeguards (Question No. 193)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: University: Albury-Wodonga (Question No. 5705)|2|
+|MAXIMUM REPAYMENT TERM: Papua and New Guinea: Hospital Fees (Question No.1 065)|2|
+|No: Sydney's Second Airport (Question No. 4692)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Libraries (Question No. 904)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Test: Amchitka Island . (Question No. 4689)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Agricultural Council (Question No. 1470)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pensioner Medical Service: Number of Doctors (Question No. 106)|2|
+|QUESTION: TEXTILE INDUSTRY|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Lebanese Immigrants (Question No. 732)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Crimes (Aircraft) Act (Question No. 1644)|2|
+|OR: Pacific Islanders: Conditions of Entry (Question No. 1120)|2|
+|FEDERAL ELECTORAL DIVISION, ALSO SHOWING SUBDIVISIONAL ENROLMENTS: Public Servants: Statistics (Question No. 649)|2|
+|QUESTION: QANTAS AIRWAYS LTD|2|
+|QUESTION: PRIME MINISTER'S VISIT TO THE UNITED STATES|2|
+|LIVING STANDARDS UNDER FRASER GOVERNMENT: Discussion of Matter of Public Importance|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fuel Tax Finance (Question No. 1682)|2|
+|QUESTION: COMMONWEALTH SUPERIOR COURT|2|
+|OVERSEAS CONTROL - MANUFACTURING SECTOR: Constitution: Review (Question No. 5288)|2|
+|QUESTION: EDUCATION SURVEY|2|
+|QUESTION: URANIUM EXPORTS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: University of Papua New Guinea: Married Students (Question No. 3126)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Queensland Floods: Public Service Volunteers (Question No. 742)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Student Loans (Question No. 5493)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Customs and Excise (Question No. 3020)|2|
+|HUMAN RIGHTS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Maritime and Pollution Conventions (Question No. 235)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Cost of Services (Question No. 1114)|2|
+|INSTITUTION ALTERATION (DEMOCRATIC ELECTIONS) BILL 1974: Second Reading|2|
+|QUESTION: UNEMPLOYMENT STATISTICS|2|
+|SA: Commonwealth Occupancy off Leased Buildings (Question No. 587)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Reunion of East Timorese Families (Question No. 156)|2|
+|QUESTION: AUSTRALIAN NATIONAL GALLERY|2|
+|QUESTION: HANSARD REPORT|2|
+|QUESTION: PRIME MINISTER'S PRESS CONFERENCES|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service Regulations (Question No. 734)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Secondary and Tertiary Students (Question No. 345)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Freight Charges (Question No. 2408)|2|
+|CONSTITUTION ALTERATION (MODE OF ALTERING THE CONSTITUTION) BILL 1974 [No. 2]: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth-State Working Parties of Officials (Question No. 190)|2|
+|QUESTION: INDIAN OCEAN|2|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Education: Grants to Independent Schools (Question No. 1943)|2|
+|QUESTION: SANCTIONS AGAINST RHODESIA|2|
+|QUESTION: HEALTH FUNDS: RESERVES|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Adult Migrants (Question No. 568)|2|
+|No: Department of Immigration: Staff (Question No. 1098)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cambodia (Question No. 4061)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Health Ministers Meetings (Question No. 3687)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Eyre Highway (Question No. 5615)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Civil Aviation (Carriers' Liability) Act (Question No. 3625)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: United States- Australian Defence or Scientific Installations or Facilities (Question No. 1417)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unauthorised Disclosure of Official Documents (Question No. 869)|2|
+|No: Convention No. 94: Application in Papua New Guinea (Question No. 3281)|2|
+|PETITIONS: Postmaster-General's Department|2|
+|QUESTION: RADIO AUSTRALIA|2|
+|QUESTION: YUGOSLAV CONSULATE, MELBOURNE|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Treasurer: Meetings with Mr John Bracey (Question No. 1555)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cyprus: Contingent of Australian Police (Question No. 1235)|2|
+|PETROLEUM AND MINERALS AUTHORITY ACT 1973|2|
+|QUESTION: INTER-STATE COMMISSION: RIVERINA FREIGHTS|2|
+|QUESTION: ASSISTANT MINISTERS|2|
+|CONSTITUTION ALTERATION (MODE OF ALTERING THE CONSTITUTION) BILL 1973|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nation Review' (Question No. 990)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Irrigation (Question No. 5970)|2|
+|QUESTION: NAPALM-TYPE WEAPONS|2|
+|UNESCO: Public Libraries (Question No. 88)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Servants: Interstate Trips (Question No. 1665)|2|
+|QUESTION: DIVORCE DECREES|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Grants to Non-Government Bodies (Question No. 2680)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Visits Overseas (Question No. 3595)|2|
+|NOTICES OF MOTION|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Procurement Policy (Question No. 86)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Gazelle Peninsula: Professor Salisbury's Report (Question No. 3992)|2|
+|QUESTION: GOVERNMENT ECONOMIC POLICIES|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Commonwealth Department's Expenditure (Question No. 164)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Fauna Authorities Conference (Question No. 3699)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Spratly, Paracel, Kurile and Senkaku Islands: Claimants and Jurisdiction (Question No. 118)|2|
+|TASMANIA: Paramedical Services: Victoria (Question No. 2154)|2|
+|QUESTION: PRICES AND INCOMES CONTROL|2|
+|QUESTION: NEW GUINEA CRIMINAL CHARGES|2|
+|OPPOSITION WHIP|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Female Administration Staff (Question No. 175)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Returned Servicemen's League: Pensions Plan (Question No. 6185)|2|
+|QUESTION: HEALTH INSURANCE COMMISSION ACT 1973|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Mr Renzo Di Piramo (Question No. 744)|2|
+|QUESTION: PENSIONS|2|
+|QUESTION: MEDIBANK LEVY EXEMPTION|2|
+|QUESTION: QUESTION TIME|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Parliamentary Broadcasts: Interruption (Question No. 6390)|2|
+|QUESTION: PAPUA NEW GUINEA|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Size of Classes (Question No. 96)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Savings Banks: Housing Loans (Question No. 1874)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Broadcasting Commission: Publication of Journal (Question No. 138)|2|
+|QUESTION: COMMONWEALTH POLICE INVESTIGATIONS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory: Parks and Reserves (Question No. 834)|2|
+|QUESTION: APPEALS TO PRIVY COUNCIL|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Non-English Speaking Children (Question No. 95)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Energy (Question No. 5533)|2|
+|PUBLICITY ADVISORY COMMITTEE ON EDUCATION IN ROAD SAFETY: Papuans and New Guineans: Training for Foreign Service (Question No. 2379)|2|
+|QUESTION: INTERNATIONAL AFFAIRS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Non-government Schools: Size of Classes (Question No. 1189)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Properties (Question No. 1415)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cyprus (Question No. 874)|2|
+|QUESTION: COMMONWEALTH ELECTORAL ACT (No. 2) 1973|2|
+|PREFERENCES STATISTICAL TABLES-EXPLANATORY NOTES: Australian Ambassadors and High Commissioners (Question No. 1307)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migration and Settlement Agreements (Question No. 127)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Status of Forces Agreements (Question No. 341)|2|
+|QUESTION: MINING ON ABORIGINAL LANDS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organization Conventions (Question No. 48)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Housing: Ministerial Meetings (Question No. 4260)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Organisation for Economic Co-operation and Development (Question No. 4980)|2|
+|QUESTION: CHINESE NUCLEAR TESTS|2|
+|WESTERN AUSTRALIA: Slovenia (Question No. 992)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Vietnam: Loss of Canberra Bomber (Question No. 3611)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Civil Defence Exercises (Question No. 1130)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Bank Health Society: Ex Gratia Payments (Question No. 4003)|2|
+|FEDERAL ELECTORAL DIVISION, ALSO SHOWING SUBDIVISIONAL ENROLMENTS: National Anthem (Question No. 932)|2|
+|REMUNERATION AND ALLOWANCES BILL 1973: Second Reading|2|
+|QUESTION: AUSTRALIAN SECURITY INTELLIGENCE ORGANISATION DOCUMENT: ALLEGATION OF CONSPIRACY|2|
+|FUTURE OF PROVINCIAL CI TIES AND REGIONAL DEVELOPMENT: Appointment of Select Committee|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Children's Commission Act 1975 (Question No. 1938)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Consulate-General of Yugoslavia, Melbourne (Question No. 3216)|2|
+|QUESTION: MINISTER FOR DEFENCE|2|
+|SCHEDULE: Papua and New Guinea: Security Organisations (Question No. 570)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Murdoch University: Chair of Peace (Question No. 197)|2|
+|QUESTION: AUSTRALIAN GOVERNMENT INSURANCE CORPORATION|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration (Question No.1 617)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Forestry (Question No. 3667)|2|
+|RAAF: Establishment of Australian Shipping Register (Question No. 4846)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Income Security Review (Question No. 907)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Facilities: Safeguards (Question No. 1146)|2|
+|QUESTION: COMMITTEES, COMMISSIONS OF INQUIRY AND TASK FORCES REPORTING TO THE GOVERMENT|2|
+|QUESTION: IMPORTS FROM RHODESIA|2|
+|PARLIAMENTARY COUNSEL BILL 1970: Second Reading|2|
+|TARIFF BOARD|2|
+|QUESTION: FUEL SUPPLIES|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Internationa) Court of Justice (Question No. 46)|2|
+|QUESTION: STATEMENT BY PRIME MINISTER|2|
+|QUESTION: OVERSEAS SHIPPING FREIGHTS|2|
+|FUNCTIONS OF THE JOINT SERVICES EDP COMMITTEE: Defence: Joint Planning Committee (Question No. 362)|2|
+|AND ARBITRATION ACT 1904-1969 SINCE 1957: Subsidised Medical Services Scheme (Question No. 1430)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Radio Stations Election Broadcasts (Question No. 2415)|2|
+|QUESTION: COLOUR TELEVISION|2|
+|QUESTION: URANIUM|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fire Fighting Procedures (Question No. 548)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interdepartmental Committees (Question No. 1376)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Incidence of Tonsillectomy, Appendicectomy and Hysterectomy Operations (Question No. 597)|2|
+|QUESTION: MEDIBANK LEVY|2|
+|FEDERAL ELECTORAL DIVISION, ALSO SHOWING SUBDIVISIONAL ENROLMENTS: Statutory Authorities: Appointment of Communists (Question No. 934)|2|
+|TEMPORARY ACCOMMODATION ALLOWANCE: Medical Benefits Organisations: Reserves (Question No. 114)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Children of Turkish Citizens: Language Tuition (Question No. 677)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Energy Agency (Question No. 2717)|2|
+|S $: Liquefied Petroleum Gas (Question No. 57)|2|
+|INDUSTRIES ASSISTANCE COMMISSION BILL 1973|2|
+|SOCIAL SERVICES BILL (No. 3) 1972|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Bali Tourist Hotel (Question No. 4132)|2|
+|QUESTION: RURAL FINANCE INSURANCE CORPORATION|2|
+|AWARDS OF VC, MC, DCM AND MM FOR SERVICE IN 1939-45 WAR: Services: Ships and Aircraft (Question No. 1404)|2|
+|QUESTION: MIDDLE EAST DIPLOMACY|2|
+|QUESTION: CONTROL OF PRICES AND INCOMES|2|
+|MR SPEAKER: Election|2|
+|QUESTION: NEW NATIONAL ANTHEM|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Indo-China (Question No. 3784)|2|
+|QUESTION: CAPITAL OUTFLOW|2|
+|ROAD TRAFFIC ACCIDENTS: Finance Insurance Corporation (Question No. 3386)|2|
+|ORDINANCES AND REGULATIONS (NOTIFICATION) BILL 1972: Second Reading|2|
+|QUESTION: THE PRIME MINISTER|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Canberra Agreement of 1947: Revision (Question No. 9)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Strategic Materials: Export to China (Question No. 2336)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ethiopia and Eritrea (Question No. 151)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Local Government Revenues (Question No. 1723)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Maritime Transport Needs (Question No. 4176)|2|
+|QUESTION: EAST TIMOR: DEATH OF AUSTRALIAN NEWSMEN|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Postgraduate Research Allowance (Question No. 3228)|2|
+|INTERNATIONAL AFFAIRS: Suspension of Standing Orders|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: United Nations Peacekeeping Operations (Question No. 115)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naval Personnel: Average Age (Question No. 3148)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth-State Legal Committees (Question No. 3618)|2|
+|COLLEGES OF ADVANCED EDUCATION: Public Lending Rights (Question No. 5479)|2|
+|APPROPRIATION BILL (No. 3) 1975-76: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Inquiries and Reviews (Question No. 1084)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Conventions: Application to Christmas Island (Question No. 6311)|2|
+|APPROPRIATION BILL (No. 1) 1972-73|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tariff Board: Completed Hearings (Question No. 3930)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea (Question No. 2358)|2|
+|OBSERVERS: Petrol Prices Stabilisation and Justification (Question No. 3721)|2|
+|FAMILY LAW BILL 1974|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Employment of Aborigines (Question No. 313)|2|
+|NORTHERN TERRITORY: United Nations Convention: Foreign Arbitral Awards (Question No. 1396)|2|
+|QUESTION: OVERPAYMENTS OF UNEMPLOYMENT BENEFITS-UNDERSTAFFING OF SOCIAL SECURITY DEPARTMENT|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Trans-Australia Airlines (Question No. 8)|2|
+|SA: Conference of Non-Aligned Nations (Question No. 703)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nimmo Committee (Question No. 5902)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: New Caledonia, New Hebrides, Solomon Islands: Independence (Question No. 129)|2|
+|QUESTION: HOSPITALS|2|
+|QUESTION: NATIONAL TRACHOMA PROGRAM|2|
+|MEDIBANK: Discussion of Matter of Public Importance|2|
+|TASK FORCES: Consumer Protection (Question No. 1675)|2|
+|QUESTION: THE CABINET|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: National Broadcasting Commission (Question No. 2416)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Crimes Act (Question No. 1645)|2|
+|WESTERN AUSTRALIA: Commonwealth, State and Local Government Revenues  . (Question No. 2321)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Coastal Surveillance (Question No. 675)|2|
+|QUESTION: TARIFFS ON TRUCK PARTS|2|
+|QUESTION: GOVERNMENT LEGISLATION|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Advertising (Question No. 42)|2|
+|QUESTION: AIR SERVICES TO DARWIN|2|
+|CONSTITUTION ALTERATION (LOCAL GOVERNMENT BODIES) BILL 1974 [No. 2]: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Judgments and Arbitral Awards (Question No. 5475)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Employment Service: Staffing of Offices in South Australia (Question No. 100)|2|
+|QUESTION: BRISBANE CRICKET GROUND|2|
+|VICTORIA: Prices Justification Tribunal: Staff (Question No. 206)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aviation: W.A. and N.T. (Question No. 4372)|2|
+|AUSTRALIAN ECONOMY: Discussion of Matter of Public Importance|2|
+|QUESTION: RURAL FINANCE: LONG TERM LOANS FOR FARMERS|2|
+|QUESTION: PAINTING 'BLUE POLES|2|
+|QUESTION: REVALUATION|2|
+|QUESTION: IMMIGRATION: SCREENING PROCEDURES|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Container Shipping (Question No. 4025)|2|
+|QUESTION: FOREIGN POLICY|2|
+|QUESTION: ADVICE ON ECONOMIC MATTERS|2|
+|PREFERENCES STATISTICAL TABLES-EXPLANATORY NOTES: Investigation of Education System (Question No. 1558)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Peaceful Use of Outer Space (Question No. 1225)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Human Rights Conventions (Question No. 45)|2|
+|QUESTION: CAPITAL GAINS TAX|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Conventions: Application in Papua New Guinea (Question No. 2355)|2|
+|QUESTION: INDUSTRIAL VIOLENCE|2|
+|QUESTION: DECENTRALISATION|2|
+|QUESTION: TRAVEL AGENCIES|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rural Health (Question No. 146)|2|
+|AUSTRALIA COUNCIL AMENDMENT BILL 1976: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory: Housing (Question No. 740)|2|
+|QUESTION: AUSTRALIAN CURRENCY|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Retired Naval Officers: Business Appointments (Question No. 1228)|2|
+|QUESTION: HOSPITAL MEDIBANK: AUDITOR-GENERAL|2|
+|PETITIONS: Censorship|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Health: Capital Works Expenditure (Question No. 1790)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Conciliation and Arbitration Act (Question No. 3530)|2|
+|AUSTRALIA COUNCIL BILL 1974: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Member for Bradfield- Visit to Rhodesia (Question No. 1325)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Recreation Projects (Question No. 997)|1|
+|QUESTION: DOCTORS' FEES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Premiers Conference (Question No. 494)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines and Torres Strait Islanders Legal Service (Question No. 168)|1|
+|QUESTION: DIPLOMATIC ASYLUM|1|
+|QUESTION: CAPITAL PUNISHMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Enrolment of Aborigines (Question No. 83)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Artists (Question No. 208)|1|
+|QUEENSLAND: Nuclear Power: Gas Cooled Reactors (Question No. 1275)|1|
+|QUESTION: COMMONWEALTH SANCTIONS AGAINST RHODESIA|1|
+|NOTARIZED STATEMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Gazelle Peninsula (Question No. 1188)|1|
+|QUESTION: MINISTERIAL TRAVEL: OVERSEAS|1|
+|IPEC: Land Development Costs (Question No. 826)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Vietnamese Children (Question No. 251)|1|
+|TERRITORIAL SEA- AND CONTINENTAL SHELF BILL 1970|1|
+|QUESTION: APPOINTMENT TO THE AUSTRALIAN HOUSING CORPORATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South Vietnam: Aid (Question No. 495)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Insurance Act (Question No. 5548)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cyprus (Question No. 2713)|1|
+|QUESTION: CAMBODIA AND VIETNAM|1|
+|GRIEVANCE DEBATE: Anniversary of Dismissal of Labor Government|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Convention: Freedom of Association (Question No. 926)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospitals Development Program (Question No. 1850)|1|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: Educational Needs Survey: Queensland and Tasmania (Question No. 4915)|1|
+|QUESTION: DISCUSSIONS WITH PREMIER OF QUEENSLAND|1|
+|QUESTION: PRICES AND WAGES FREEZE: PROPOSED NATIONAL CONFERENCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Dentists (Question No. 2440)|1|
+|B. TRUSTEES: Estate Duty (Question No. 6029)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South Pacific Conference: French Nuclear Tests (Question No. 241)|1|
+|TASK FORCES: Australian Public Service: Positions Abolished (Question No. 1681)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Provisional Revolutionary Government of South Vietnam (Question No. 837)|1|
+|QUESTION: IMMIGRATION FROM ITALIAN EARTHQUAKE AREAS|1|
+|QUESTION: DARTMOUTH DAM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employees of Naval Dockyards: Membership of Unions (Question No. 296)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Western Australia: Secession (Question No. 1346)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospitals and Health Services Commission: Implementation of Recommendations (Question No. 325)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Federal-State Ministerial Councils and their Advisory Committees (Question No. 483)|1|
+|INVALID PENSIONERS REJECTED FOR REHABILITATION: Postal Department: 5-Day Week (Question No. 1305)|1|
+|COMMONWEALTH SCIENCE FACILITIES PROGRAMME: Hydro-electric and Water Projects: Repayments to Commonwealth (Question No. 6032)|1|
+|AWARDS OF VC, MC, DCM AND MM FOR SERVICE IN 1939-45 WAR: Vietnam Citizen Forces (Question No. 1749)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Social Workers: Numbers in State and Local Government (Question No. 1187)|1|
+|QUESTION: SUGAR CANE DESTRUCTION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Democratic Peoples Republic of Korea: Recognition (Question No. 1173)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: States Grants (Teachers Colleges) Act (Question No. 4411)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Antarctica (Question No. 2724)|1|
+|CONFERENCE ON THE LAW OF THE SEA|1|
+|QUESTION: VIETNAMESE REFUGEES AND WAR ORPHANS|1|
+|ESTIMATED COST TO REVENUE OF ALLOWING DEDUCTIONS IN RESPECT OF 1967-68 . INCOME YEAR ON ACCOUNT OF: Watching and Security Companies (Question No. 906)|1|
+|QUESTION: AUSTRALIAN HERITAGE SOCIETY: NEWSPAPER ADVERTISEMENT|1|
+|ROAD TRAFFIC ACCIDENTS: Medical Benefits Funds (Question No. 2792)|1|
+|MOTTON PICTURE FILMS AND TELEVISION PROGRAMS: Tariff Board Report: Ministerial Statement|1|
+|QUESTION: REPRESENTATION OF TERRITORIES IN PARLIAMENT|1|
+|QUESTION: CONSTITUTIONAL FREEDOM|1|
+|OBSERVERS: Road Accidents: Insurance Companies (Question No. 4770)|1|
+|TRADE PRACTICES BILL 1971|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Access to Australian Capital Market (Question No. 2351)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Degree Course Fees (Question No. 84)|1|
+|QUESTION: TRADE TALKS WITH CHINA|1|
+|DRAFTING ASSISTANCE TO PRIVATE MEMBERS: Ministerial Statement|1|
+|DOCUMENTS TABLED IN QUEENSLAND PARLIAMENT: PUBLICATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Baltic States (Question No. 1000)|1|
+|QUESTION: WAGE RISES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Decentralisation Reports (Question No. 2249)|1|
+|ROADS ACTS AMENDMENT BILL 1976: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Bureau of Roads (Question No. 616)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Five Power Arrangements (Question No. 6044)|1|
+|VICTORIA: Australian Film and Television Board (Question No. 514)|1|
+|AUSTRALIA/WEST COAST NORTH AMERICA TRADE: Water and Sewerage Authorities (Question No. 6395)|1|
+|THE TREASURER: CONFIDENCE OF THE HOUSE: Suspension of Standing Orders|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Agreements, Conventions and Other Arrangements (Question No. 393)|1|
+|QUESTION: INDONESIAN DETAINEES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Liberal Party Industrial Relations Policy (Question No. 78)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Trade Agreements (Question No. 340)|1|
+|DEATH OF U THANT|1|
+|QUESTION: COLLAPSE OF BUSINESSES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Census: Life and Health Insurance (Question No. 2148)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Local Government Finances: Debt Charges and Revenues (Question No. 2322)|1|
+|TASK FORCES: Australian National Gallery: Arts Works (Question No. 1660)|1|
+|QUESTION: AUSTRALIAN CITIZENS: POLITICAL CHARGES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian National University Council (Question No. 1818)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Whaling (Question No. 6035)|1|
+|QUESTION: TELECAST BY PRIME MINISTER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Members of Police Forces (Question No. 6307)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Industrial Accidents: Safety Procedures (Question No. 417)|1|
+|No: Reciprocal Social Services Agreements (Question No. 1227)|1|
+|QUESTION: INTERCHANGE OF POWERS REFERENDUM|1|
+|QUESTION: VISITORS TO AUSTRALIAN POSTS OVERSEAS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Foreign Affairs: Research Grants (Question No. 74)|1|
+|COLLEGES OF ADVANCED EDUCATION: Sewerage Services (Question No. 5544)|1|
+|I OBSERVER STATUS: Tariff Reductions: Imports from Underdeveloped Countries (Question No. 590)|1|
+|QUESTION: MELBOURNE UNDERGROUND RAILWAY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Study Grants and Secondary Grants Schemes (Question No. 5841)|1|
+|TERMS OF REFERENCE|1|
+|QUESTION: COSTS OF INSURANCE AND SUPERANNUATION|1|
+|DEPARTMENT OF THE INTERIOR: Forestry (Question No. 3123)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Loans Raised Abroad (Question No. 1979)|1|
+|QUESTION: DEATH PENALTY|1|
+|QUESTION: ISSUE OF VISAS TO IRAQI CITIZENS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Foreign Affairs: Safety (Question No. 3115)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Qantas Airways: Representatives' Visits to People's Republic of China (Question No. 3623)|1|
+|PETITIONS: Abortion|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Railway Reconstruction and Standardisation (Question No. 2462)|1|
+|NORTHERN TERRITORY: Courts with Federal Jurisdiction (Question No. 1731)|1|
+|ORDINANCES ASSENTED TO BY THE ADMINISTRATOR TO WHICH AMENDMENTS WERE RECOMMENDED BY THE GOVERNOR-GENERAL: Labour Productivity (Question No. 2643)|1|
+|QUESTION: DEREGISTRATION OF UNIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Membership of Land Board (Question No. 931)|1|
+|GROSS FIXED CAPITAL EXPENDITURE TRANSPORT AND COMMUNICATION ENTERPRISES AND RELATED PUBLIC AUTHORITY FUNCTIONS YEARS ENDED 30 JUNE: Papua and New Guinea: Native Employment Agent (Question No. 1228)|1|
+|QUESTION: RESEARCH ASSISTANCE TO THE PRIME MINISTER|1|
+|TOTAL COST OF ABOVE ASSIGNMENTS $ 1 29,636: Yugoslavia Trial of Australian Citizens (Question No. 219)|1|
+|QUESTION: ESTATE DUTY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Possession of Firearms (Question No. 393)|1|
+|No: Telephones: Applications and Installations (Question No. 4016)|1|
+|QUESTION: URANIUM: PRIME MINISTER'S STATEMENT|1|
+|RAAF: Official Residences (Question No. 3165)|1|
+|PROPOSED AMENDMENTS: Spain: Treatment of Trade Unionists and Political Activists (Question No. 1351)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Broadcasting and Television: Defamation (Question No. 6069)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Secession (Question No. 1346)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Conventions (Question No. 1027)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Education and Science (Question No. 4550)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory: Parkway System (Question No. 831)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 3172)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Colour Television (Question No. 3583)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Industrial Disputes (Question No. 231)|1|
+|QUESTION: THE ECONOMY: MINI BUDGET 'BRIEFINGS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Croatian Embassy (Question No. 769)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migration: United Kingdom - Whyalla (Question No. 2082)|1|
+|QUESTION: MINISTERIAL STAFF APPOINTMENTS|1|
+|QUESTION: STATEMENT BY PHILLIP CAIRNS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Programs Administered by Department of Health (Question No. 951)|1|
+|QUESTION: NUCLEAR TESTS|1|
+|QUESTION: CHILD CARE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Indian Ocean: Growth of Forces (Question No. 1174)|1|
+|QUESTION: CAPITAL ASSISTANCE FOR LEISURE FACILITIES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Treaty of Nara (Question No. 2704)|1|
+|QUESTION: FLOOD DAMAGE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Highways (Question No. 485)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Insurance Investments: Municipal Loans (Question No. 4270)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education Council (Question No. 5897)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory Legislative Assembly: Poll Statistics (Question No. 1223)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pre-School Funding (Question No. 1155)|1|
+|WESTERN AUSTRALIA: Armed Services: Posting Statistics (Question No. 6063)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Transport Advisory Council (Question No. 1798)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naturalisation (Question No. 3391)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Conferences (Question No. 218)|1|
+|QUESTION: PRICES|1|
+|ESTIMATED COST TO REVENUE OF ALLOWING DEDUCTIONS IN RESPECT OF 1967-68 . INCOME YEAR ON ACCOUNT OF: Papua and New Guinea: Entry Permits (Question No. 1479)|1|
+|QUESTION: BUILDING SOCIETIES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Factories: Unused Capacity (Question No. 1393)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Tests and Weapons Treaties (Question No. 876)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Transport: Studies and Inquiries (Question No. 1588)|1|
+|ANZUS COUNCIL MEETING|1|
+|QUESTION: HOME MORTGAGE INTEREST RATES|1|
+|QUESTION: AUSTRALIAN OFFICIAL IN PORT MORESBY|1|
+|TEMPORARY ACCOMMODATION ALLOWANCE: Medical Benefits Oganisations: Expenses (Question No. 112)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aid to East Timor (Question No. 1126)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tabling of Annual Reports (Question No. 1138)|1|
+|QUESTION: CIVIL CELEBRATION OF MARRIAGES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Fund Commission: Purchase of Land for Housing (Question No. 142)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Attacks on Diplomatic Premises (Question No. 767)|1|
+|QUESTION: HOUSING FINANCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employment Discrimination Legislation (Question No. 94)|1|
+|NORTHERN TERRITORY: Australian Broadcasting Commission: Prime Minister (Question No. 1872)|1|
+|KEEP OUT OF REACH OF CHILDREN IF SWALLOWED SEEK MEDICAL ADVICE AVOID CONTACT WITH FOOD DO NOT USE IN FOOD PREPARATION OR FOOD STORAGE AREAS DO NOT USE IN NURSERIES AND SICK ROOMS WHERE PEOPLE MAY BE CONTINUOUSLY EXPOSED: Poultry Industry Levy (Question No. 4282)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Noongah' Inquiry: Legal Costs (Question No. 1638)|1|
+|NOTICE|1|
+|QUESTION: PASSPORTS FOR RHODESIAN OFFICIALS|1|
+|QUESTION: JACKSON COMMITTEE REPORT|1|
+|QUESTION: LEBANON|1|
+|TASMANIA: Papua and New Guinea Development Bank: Loans (Question No. 1735)|1|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Fraser Island: Mineral Exports (Question No. 2640)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Assistance Plan (Question No. 1156)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Agriculture Council (Question No. 6034)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: States Grants (Paramedical Services) Act and States Grants (Nursing Homes) Act (Question No. 494)|1|
+|QUESTION: CHILD ENDOWMENT AS HOUSING GRANT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Broadcasting and Televising of Election Speeches and Advertisements (Question No. 163)|1|
+|QUESTION: CABLES SENT TO VIETNAM|1|
+|TASMANIA: Census: Transport to Work or School (Question No. 2152)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Education Fees (Question No. 3980)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Development (Question No. 3215)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Diplomatic Missions and Consular Posts (Question No. 5517)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Trade Unions: Members' Rights (Question No. 447)|1|
+|TASK FORCES: Notice Paper (Question No. 1876)|1|
+|TERRITORIAL SEA AND CONTINENTAL SHELF BILL 1970|1|
+|QUESTION: TABLING OF CONFIDENTIAL LETTER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Immigration: Overseas Offices (Question No. 3733)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Anthem Survey (Question No. 146)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Rice Growing (Question No. 2413)|1|
+|QUESTION: LIABILITY FOR PARTNERSHIP DEBTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Trips: Wives of Government Employees (Question No. 691)|1|
+|AUSTRALIAN CAPITAL TERRITORY EVIDENCE (TEMPORARY PROVISIONS) BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Airlines: Fares and Discussions (Question No. 4593)|1|
+|GRIEVANCE DEBATE: Servants- Court Proceedings- Civil Rights|1|
+|QUESTION: SEA TRANSPORT TO AND FROM TASMANIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Coal Exploration, Queensland (Question No. 933)|1|
+|QUESTION: SECURITY: ROYAL COMMISSION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Aid: Fiji (Question No. 384)|1|
+|QUESTION: DISASTER RELIEF FOR QUEENSLAND|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nationwide Survey of Educational Needs (Question No. 2068)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Film and Television Board- Appropriations (Question No. 511)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Recreation Expenditure (Question No. 823)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Maritime Conventions: Ministerial Discussions (Question No. 5698)|1|
+|QUESTION: FOREIGN INVESTMENT IN AUSTRALIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Servants: Union Does (Question No. 189)|1|
+|HOSPITALS DEVELOPMENT PROGRAM: Kenana Sugar Project, Sudan (Question No. 1136)|1|
+|QUESTION: NATIONAL WAGE CASE|1|
+|DEATH OF CHAIRMAN MAO TSE-TUNG|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Trade Commissioner Courses (Question No. 183)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Film and Television School (Question No. 264)|1|
+|TEMPORARY ACCOMMODATION ALLOWANCE: Papua and New Guinea: Films|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: University Fees (Question No. 2424)|1|
+|QUESTION: INVESTMENT ALLOWANCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mongolia (Question No. 4246)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Homes Savings Grants (Question No. 3314)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pensions (Question No. 3907)|1|
+|QUESTION: SHIPPING|1|
+|VICTORIAN BRIDGE TRAGEDY: Ministerial Statement|1|
+|QUESTION: SMUGGLING OF DRUGS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Affairs (Question No. 1658)|1|
+|WESTERN AUSTRALIA: Torres Strait (Question No. 908)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cuba-Australia: Consular Relations (Question No. 1218)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Institute of Marine Science (Question No. 5355)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Government Employees: Overseas Posts (Question No. 662)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medibank: Pathology Services (Question No. 1134)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Northern Territory (Question No. 1423)|1|
+|WESTERN AUSTRALIA: Public Lending Rights (Question No. 2474)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sport: Commonwealth Subsidies (Question No. 2314)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: Long Term Financial Arrangements (Question No. 808)|1|
+|ACT. - $1,640: Universities: Fees (Question No. 87)|1|
+|PLACES VISITED: Water Resource Development (Question No. 871)|1|
+|UNESCO: Employees of Australian National Railways: Membership of Unions (Question No. 295)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Urban Transport: Joint Federal-State Planning (Question No. 486)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Guatemala Natural Disaster (Question No. 93)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Judiciary Act: Superior Court Proposal (Question No. 935)|1|
+|QUESTION: QUESTIONS WITHOUT NOTICE TIMOR|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Civil Aviation: Perth-Darwin Service (Question No. 6089)|1|
+|QUESTION: PAINTING: 'BLUE POLES|1|
+|FEDERAL ELECTORAL DIVISION, ALSO SHOWING SUBDIVISIONAL ENROLMENTS: Seymour: Flood Relief (Question No. 858)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Lebanese Immigrants (Question No. 254)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employees of Defence Establishment: Membership of Unions (Question No. 911)|1|
+|AWARDS OF VC, MC, DCM AND MM FOR SERVICE IN 1939-45 WAR: Interdepartmental Committee: Defence Housing (Question No. 2024)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Town Councils (Question No. 5762)|1|
+|No: Environmental Pollution (Question No. 4049)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Servants: Air Travel (Question No. 320)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr Vincent Teresa (Question No. 495)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Newspapers and Periodicals: Commonwealth Purchases (Question No. 377)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Relocation Assistance Scheme (Question No. 1033)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: British Migrant Skills, Arrivals and Departures (Question No. 153)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Intellectually Handicapped Children (Question No. 5842)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Croatian Independence Anniversary (Question No. 5725)|1|
+|QUESTION: IMMIGRATION FROM GREAT BRITAIN|1|
+|ECONOMIC CONDITIONS AND POLICY: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Oil Producing Countries (Question No. 976)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Standing Committee of Attorneys-General (Question No. 2019)|1|
+|QUESTION: ALLEGED BUDGET DISCLOSURES|1|
+|POST-ASEAN CONFERENCE TALKS: Ministerial Statement|1|
+|QUESTION: SOCIAL SERVICES: SPECIAL BENEFITS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Staffs: Replies to Correspondence (Question No. 134)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Book Resources Development Committee (Question No. 1608)|1|
+|VICTORIA: Government Departments: Printed Forms (Question No. 648)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: The Environment: Ministerial Conference (Question No. 4796)|1|
+|INDOCHINA: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Establishment of the Former Department of the Media (Question No. 872)|1|
+|TASK FORCES: Literature Board Grants (Question No. 1666)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Application of International Labour Convention: Minimum Age (Underground Work) No. 123 (Question No.5377)|1|
+|QUESTION: INSURANCE COMPANIES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: War Service Homes (Question No. 4012)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Attendance at the5th Non-Aligned Summit (Question No. 1202)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: United Nations Resolutions (Question No. 2346)|1|
+|QUESTION: PERSONAL INCOME TAX RELIEF|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Non-Proliferation Treaty: Safeguards Agreement (Question No. 536)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Travel Time Survey (Question No. 2589)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Italian Government: Proposed Cultural Agreement (Question No. 69}|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sydney Metropolitan Water, Sewerage and Drainage Board: Finances (Question No. 3962)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Trade Stores: International Labour Organisation Convention No. 95 (Question No. 3664)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Housing (Question No. 4127)|1|
+|VIETNAM: Suspension of Standing Orders|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Maintenance Orders (Question No. 829)|1|
+|QUESTION: ABORIGINAL LAND RIGHTS: NORTHERN TERRITORY|1|
+|QUESTION: RENT CONTROL|1|
+|QUESTION: AUSTRALIAN FILM QUOTAS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Political Broadcasts (Question No. 2414)|1|
+|TASMANIA: Commonwealth Insurance Act (Question No. 3722)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Payment of Fees (Question No. 82)|1|
+|NORTHERN TERRITORY: Papua and New Guinea: Broadcasting (Question No. 1698)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Rural Advisory Council Members: Mileage Allowance Payments (Question No. 1481)|1|
+|QUESTION: MURRAY RIVER|1|
+|OBSERVERS: Social Services: Reciprocal Agreements (Question No. 4145)|1|
+|PERSONAL INCOME TAX SHARING-ISSUES DECIDED FOLLOWING THE FEBRUARY AND APRIL 1976 PREMIERS' CONFERENCES: Review of Total Tax Sharing Arrangements|1|
+|QUESTION: NOTICES OF MOTION|1|
+|QUESTION: ELECTION FUNDS|1|
+|QUESTION: PRIME MINISTER: EXPENDITURE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unemployment Registrations: Western Sydney (Question No. 220)|1|
+|QUESTION: MEANS TEST FOR PENSIONS|1|
+|QUESTION: ASSISTANCE TO AFRICAN NATIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tamar Valley Development (Question No. 744)|1|
+|PETROLEUM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Industrial Disputes (Question No. 1539)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 2940)|1|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Priorities Review Staff: References (Question No. 2666)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Mr V. A. Kolesnik and Family (Question No. 6502)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Employment Service: Staffing (Question No. 626)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Safeguards: India (Question No. 1177)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Company Incomes and Overseas Remittances (Question No. 4214)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Non-Aligned Countries Conference at Georgetown (Question No. 6049)|1|
+|QUESTION: CENTRAL INTELLIGENCE AGENCY|1|
+|VICTORIA: Cocos (Keeling) Islands: United Nations Mission (Question No. 839)|1|
+|QUESTION: TOUR CORNERS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital and Medical Benefits Funds: Membership (Question No. 671)|1|
+|QUESTION: INQUIRY INTO POVERTY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: The Prime Minister: Visit to Prince Sihanouk (Question No. 651)|1|
+|QUESTION: GEORGI ERMOLENKO|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pakistani Refugees (Question No. 4657)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: Air Routes (Question No. 510)|1|
+|QUESTION: SCREENING OF POLITICAL COMMERCIALS|1|
+|JAPAN: Television Companies: Shares (Question No. 2477)|1|
+|UNITED NATIONS CONFERENCE ON THE LAW OF THE SEA|1|
+|DEATH OF GENERAL MURTALA RUFAI MOHAMMED|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service (Question No. 555)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth-South Australia Relations (Question No. 1870)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Natural Gas (Question No. 998)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interdepartmental Committees (Question No. 1670)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Apprenticeship Courses: Rural and Construction Industries (Question No. 1443)|1|
+|VICTORIA: Road Grants (Question No. 888)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taiwanese Visitors (Question No. 794)|1|
+|DEFINITION: Doctors' Fees (Question No. 563)|1|
+|DEATH OF CHOU EN-LAI|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Orders: New Zealand (Question No. 3636)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Shipping Register (Question No. 1445)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Georgi Ermolenko (Question No. 3074)|1|
+|QUESTION: ALWEST PROJECT|1|
+|MINISTERIAL STATEMENTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Legal Aid (Question No. 5758)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Insurance: Workers Compensation and Third Party (Question No. 1937)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Tertiary Education (Question No. 5749)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Foreign Affairs (Question No. 2008)|1|
+|QUESTION: COMMUNICATION SERVICES|1|
+|QUESTION: AUSTRALIAN SECURITY INTELLIGENCE ORGANISATION  DOCUMENT: ALLEGATION OF CONSPIRACY|1|
+|PARLIAMENTARY GROUP-AMNESTY INTERNATIONAL PETITION TO THE PRESIDENT OF THE UNITED STATES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pre-School Education (Question No. 3651)|1|
+|QUESTION: NATIONAL FILM AND TELEVISION SCHOOL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Departmental Suggestions Schemes (Question No. 931)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Housing for Army Personnel, Ingleburn Area (Question No. 912)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: East Timor Refugees: Applications for Australian Visas (Question No. 564)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Economic Consultative Group (Question No. 875)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Citizenship (Question No. 158)|1|
+|QUESTION: BUDGET-EVE CUSTOMS PAYMENTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service (Question No. 708)|1|
+|QUESTION: STATEMENT BY MINISTER FOR OVERSEAS TRADE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South Africa (Question No. 595)|1|
+|TASK FORCES: Notice Papers (Question No. 1909)|1|
+|QUESTION: CLOSURE OF AUSTRALIAN MISSIONS|1|
+|QUESTION: POLITICAL AFFILIATION OF BARRISTERS|1|
+|QUESTION: MR PATRICK WHITE: SUGGESTED RECOGNITION BY PARLIAMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Case of Mr D. Kereku (Question No. 826)|1|
+|QUESTION: NATIONAL SUPERANNUATION SCHEME|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Specialist Medical Practitioners: Recognition (Question No. 5901)|1|
+|QUESTION: CHILD CARE PROGRAM|1|
+|TASMANIA: International Conventions (Question No. 2330)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Local Government's Assistance Fund (Question No. 3593)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Responsibility for Control of Food  Standards (Question No. 739)|1|
+|QUESTION: PRICES AND WAGES FREEZE: SUBMISSIONS TO CONCILIATION AND ARBITRATION COMMISSION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Strategic Materials to China (Question No. 1976)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Bureau of Industrial Information: Proposed (Question No. 211)|1|
+|QUESTION: GOVERNMENT AID TO AFRICAN LIBERATION MOVEMENTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Security Intelligence Organisation (Question No. 1407)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Trade With Philippines (Question No. 1969)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Minerals Council (Question No. 2070)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Minister for Education: Overseas Travel (Question No. 1616)|1|
+|QUESTION: MINISTERIAL ACCOMMODATION IN CANBERRA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Insurance: Motor Vehicle and Third Parry (Question No. 1389)|1|
+|QUESTION: INCREASES IN POST OFFICE CHARGES|1|
+|No: Butterfat and Vegetable Oil Spread (Question No. 4638)|1|
+|OR: Education: Technical Colleges (Question No. 86)|1|
+|TASMANIA: Ministerial Conference (Question No. 2460)|1|
+|QUESTION: BOND PRICES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Election Campaigns: Limits on Expenditure (Question No. 239)|1|
+|GRANTS COMMISSION BILL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation: Deductions for Certain Gifts (Question No. 934)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Uranium: First Report of the Ranger Inquiry (Question No. 261)|1|
+|QUESTION: TURTLE FARMING PROJECT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Shipping and Port Study (Question No. 2405)|1|
+|TRADE UNION TRAINING PROGRAM: Opposition: Adverse Information (Question No. 3421)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Film and Television Board: Administrative Costs (Question No. 512)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Westminster Convention: Government Papers (Question No. 478)|1|
+|ANSWERS TO QUESTIONS: Zambia: Australian Assistance (Question No. 1978)|1|
+|POST AND TELEGRAPH CHARGES|1|
+|QUESTION: SOUTH PACIFIC CONFERENCE|1|
+|QUESTION: BUREAU OF TRANSPORT ECONOMICS: CIVIL AVIATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tasmania Command: Rank of Commander (Question No. 321)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Literary Censorship (Question No. 574)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Arts Bodies: Annual Reports (Question No. 858)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Subsidies for School Organisations (Question No. 1728)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Government Departments: Social Worker Positions (Question No. 1202)|1|
+|QUESTION: AMALGAMATED METAL WORKERS UNION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fisheries: Gulf of Carpentaria (Question No. 4019)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration (Question No. 5390)|1|
+|QUESTION: ELECTORAL REDISTRIBUTION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: Ordinances (Question No. 147)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Schools Commission: Membership (Question No. 766)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medical Benefits: Dental Practitioners (Question No. 5936)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Poker Machines (Question No. 1158)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Trade Stores (Question No. 3664)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interdepartmental Committees (Question No. 3597)|1|
+|VIETNAM MORATORIUM CAMPAIGN: Ministerial Statement|1|
+|QUESTION: RECORDING OF TELEPHONE CONVERSATIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aged Persons Accommodation (Question No. 303)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Foreign Affairs Background Papers (Question No. 2290)|1|
+|WESTERN AUSTRALIA: Constitutional Review (Question No. 6554)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Council For The Arts- Assistance For The Murray Music And Drama Club (Question No. 1008)|1|
+|AUSTRALIAN SCHOOLS COMMISSION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Water Resources Council (Question No. 73)|1|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: River Murray Commission (Question No. 4519)|1|
+|ANSWERS TO QUESTIONS: Civil Defence (Question No. 1151)|1|
+|WESTERN AUSTRALIA: Electoral: Allocation of Radio and Television Time to Political Parties- Queensland (Question No. 166)|1|
+|NITROGENOUS FERTILIZERS SUBSIDY AMENDMENT BILL 1976: Second Reading|1|
+|OBSERVERS: Army: Enlistments and Service (Question No. 4813)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Area Improvement Program: Queensland (Question No. 1366)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Records: Shedden Papers (Question No. 5413)|1|
+|QUESTION: IMMIGRATION|1|
+|NOTICES OF MOTION: National Rehabilitation and Compensation|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cultural Counsellor: Peking (Question No. 1893)|1|
+|QUESTION: PRICES AND WAGES FREEZE: PERISHABLES|1|
+|QUESTION: LOCAL GOVERNMENT AUTHORITIES: GRANTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Staffs: Composition (Question No. 577)|1|
+|QUESTION: RESOURCES TAXES-QUEENSLAND PREMIER|1|
+|QUESTION: ENTRY OF CRIMINALS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Area Improvement Program: South Australia (Question No. 1368)|1|
+|QUESTION: MOUNT LYELL MINING AND RAILWAY COMPANY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: School Grants: Western Sydney (Question No. 231)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Questions Upon Notice (Question No. 3608)|1|
+|BUCKINGHAM PALACE: The Honourable G. G. D. Scholes|1|
+|QUESTION: GOVERNMENT LOAN|1|
+|QUESTION: INTERNATIONAL LABOUR ORGANISATION CONVENTIONS: LAND RIGHTS OF ABORIGINES|1|
+|QUESTION: STATEMENT BY PRIME MINISTER ON THE ECONOMY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nursing Homes Assistance: Western Sydney (Question No. 247)|1|
+|QUESTION: OFF-SHORE PETROLEUM RESOURCES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Uniform Firearms Legislation (Question No. 1582)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Social Workers (Question No. 5909)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of National Development (Question No. 1463)|1|
+|QUESTION: MEDIBANK: CONSUMER PRICE INDEX|1|
+|QUESTION: PAKISTAN AND BANGLADESH|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Office Accommodation: Sydney Metropolitan Area (Question No. 1918)|1|
+|QUESTION: FOREIGN TAKEOVERS|1|
+|PART IV: Article 18|1|
+|CUSTOMS TARIFF BILL (No. 2) 1973: Second Reading|1|
+|TASK FORCES: Public Service Promotions Appeal Committee (Question No. 1689)|1|
+|SA: Victoria: Flood Victim Relief (Question No. 690)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Recognition of Medical Qualifications (Question No. 3688)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Standing Committee of Attorneys-General (Question No. 1536)|1|
+|QUESTION: DEPORTATION OF AUSTRALIAN CITIZENS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australia's Coastline: Surveillance (Question No. 210)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Army Apprentices (Question No. 1426)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Sewerage Program (Question No. 1315)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Parramatta Region Public Transport Study (Question No. 227)|1|
+|ROAD TRAFFIC ACCIDENTS: Nurses (Question No. 2441)|1|
+|RIVER MURRAY|1|
+|PLACES VISITED: Supporting Fathers' Benefit (Question No. 582)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Army: Holsworthy Range Firings (Question No. 3616)|1|
+|UNIT: Capital Cities' Secretariat Conference (Question No. 4751)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital Benefits Organisations: Receipts (Question No. 2429)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Migrant Affairs (Question No. 1918)|1|
+|JOINT COMMITTEE ON FOREIGN AFFAIRS AND DEFENCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Orders: Britain (Question No. (056)|1|
+|ROAD TRAFFIC ACCIDENTS: Qantas: Effect of Sales Tax (Question No. 3378)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: French Ambassador (Question No. 652)|1|
+|CSIRO: Commonwealth Employment Service (Question No. 1394)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 3270)|1|
+|TASMANIA: Papua and New Guinea: The Warmaram Group (Question No. 2368)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Instructions to Administrator (Question No. 2530)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: Pre-School Enrolments (Question No. 2487)|1|
+|NATURAL DISASTER INSURANCE SCHEME: Suspension of Standing Orders|1|
+|QUESTION: ALLEGATION CONCERNING FORMER ATTORNEY-GENERAL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea House of Assembly: Members' Visit to Police Action Areas (Question No. 160)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Works of Art- Acquisitions (Question No. 2213)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Long-Term Leasehold Land Tenure (Question No. 427)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: General Assembly of the United Nations: Information on Nuclear Weapons (Question No. 809)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Grants to Private Schools since closed (Question No. 230)|1|
+|ROYAL COMMISSION ON PETROLEUM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Deportations (Question No. 3695)|1|
+|QUESTION: NORTH VIETNAMESE DELEGATION TO AUSTRALIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Civil Aviation Organisation Conventions (Question No. 1028)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Western Australia: Grants for Film, Television and Video Production (Question No. 965)|1|
+|JAPAN: Building Societies: Loans (Question No. 2325)|1|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Asthma (Question No. 2480)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Diplomatic Relations (Question No. 217)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Departments: Public Service Act and Other Act Staff (Question No. 700)|1|
+|QUESTION: FOREIGN INTELLIGENCE SERVICES IN AUSTRALIA|1|
+|DEATH OF PRESIDENT POMPIDOU: MESSAGE OF CONDOLENCE|1|
+|QUESTION: TERRORISM|1|
+|QUESTION: POLITICAL PARTIES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Malaysian Students (Question No. 6481)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Coombs Report (Question No. 1686)|1|
+|QUESTION: COMMONWEALTH ADVERTISING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Trips: Whitlam Ministry (Question No. 566)|1|
+|QUESTION: THAILAND|1|
+|QUESTION: MR LEONARD CASLEY|1|
+|QUESTION: PAPUA AND NEW GUINEA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 2951)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Colleges of Advanced Education: Fees (Question No. 5492)|1|
+|ANSWERS TO QUESTIONS: Bankruptcy Act: Review (Question No. 2237)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Merchant Shipping Act (Question No. 923)|1|
+|ADJOURNMENT: Valedictory|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Orders: Singapore (Question No. 3639)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Arts Grants (Question No. 549)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea Public Service (Question No. 5728)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Applications under the Child Care Act (Question No. 1130)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Shipping (Question No. 1443)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Chemical and Bacteriological Warfare (Question No. 1395)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Stellar Intensity Interferometer (Question No. 992)|1|
+|QUESTION: PAPUA AND NEW GUINEA: WOUNDING CHARGE|1|
+|INTERNATIONAL WOMEN'S YEAR 1975|1|
+|TASK FORCES: South Africa: Australian Government Grants to Liberation Groups (Question No. 1813)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: United Nations (Question No. 2347)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Bank Housing Surveys (Question No. 991)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Railways (Question No. 63)|1|
+|AUSTRALIAN BROADCASTING COMMISSION: Fire Insurance (Question No. 6245)|1|
+|QUESTION: TERRITORIAL SEA AND CONTINENTAL SHELF LEGISLATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr Vincent Teresa (Question No. 661)|1|
+|ANSWERS TO QUESTIONS: Community Broadcasting Groups (Question No. 2348)|1|
+|TEXT OF RESOLUTION: Uniform Laws (Question No. 135)|1|
+|QUESTION: WATER PRO JECTS -BURDEKIN BASIN|1|
+|LONG TERM ADD TO BANGLA DESH: Ministerial Statement|1|
+|QUESTION: TERRORIST IMMIGRANTS|1|
+|OBSERVERS: Handicapped Persons (Question No. 3719)|1|
+|QUESTION: BUDGET PAPERS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Former Prime Minister: Official and Personal Papers (Question No. 42)|1|
+|QUESTION: ANGOLA AND MOZAMBIQUE|1|
+|CONSTITUTION ALTERATION (REFERENDUMS) BILL 1977: Second Reading|1|
+|QUESTION: RACIAL PREJUDICE AND VIOLENCE|1|
+|WATER PROJECTS: Discussion of Matter of Public Importance|1|
+|HIGH COMMISSIONER (UNITED KINGDOM) ACT REPEAL BILL 1973: Second Reading|1|
+|DEATH OF MR JAMES REAY FRASER, M.P|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Travel Overseas (Question No. 2512)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: First Whitlam Ministry: Decisions (Question No. 5)|1|
+|QUESTION: YUGOSLAV SECRET POLICE|1|
+|ROAD TRAFFIC ACCIDENTS: Acquisition of State Railways (Question No. 3333)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Trans-Australia Airlines: Licences (Question No. 3985)|1|
+|No: East Timor (Question No. 1127)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral Enrolments: Census (Question No. 1455)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Rejection of Employment (Question No. 203)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Forestry Council (Question No. 75)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Malaysia-Singapore Air Defence (Question No. 69)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Baltic States (Question No. 1002)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Police Helicopter Patrols (Question No. 189)|1|
+|QUESTION: AUSTRALIAN NATIONAL LUNE: JAPAN CONFERENCE|1|
+|QUESTION: AUSTRALIAN GOVERNMENT RELATIONS WITH WESTERN AUSTRALIA|1|
+|QUESTION: CORRESPONDENCE BETWEEN MINISTERS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Forces Retirement Benefits: Comparisons of Benefits (Question No. 1105)|1|
+|QUESTION: GOVERNMENT FINANCE FOR RURAL INDUSTRY|1|
+|AT 30 JUNE: Australian Labor Party: Health Proposals (Question No. 4715)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nationwide Survey of Educational Needs (Question No. 4667)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: Building Societies (Question No. 1595)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Trade Practices Legislation: Victoria (Question No. 1596)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Marriage Act: Recognised Denominations (Question No. 4215)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Service (Question No. 1317)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Housing: Australian Capital Territory (Question No. 3894)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Age Pensions: Means Test (Question No. 131)|1|
+|PETITIONS: Kangaroos|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants (Question No. 5829)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Armed Forces: Interchange of Personnel (Question No. 5486)|1|
+|CONSTITUTION ALTERATION (PRICES) BILL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tariff: Motor Vehicle Components (Question No. 3008)|1|
+|QUESTION: BACKGROUND TO COMMONWEALTHSTATE TALKS ON OFF-SHORE LEGISLATION|1|
+|QUESTION: EQUAL PAY: HANSARD STAFF|1|
+|QUESTION: LOCAL GOVERNMENT: GRANTS AND LOANS|1|
+|THE PRIME MINISTER: Want of Confidence Motion|1|
+|JAPAN: : Covenant on Civil and Political Rights (Question No. 3007)|1|
+|QUESTION: CASUAL VACANCY IN THE SENATE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commissions and Task Forces of Inquiry (Question No 1688)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Universities: Enrolments and Incomes (Question No. 3644)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Victorian Railways (Question No. 1974)|1|
+|DEFENCE FORCES RETIREMENT BENEFITS: Suspension of Standing Orders|1|
+|VICTORIA: Cocos (Keeling) Islands: Independence (Question No. 836)|1|
+|QUESTION: LAW OF THE SEA- CRIMINAL CODE FOR TERRITORIES|1|
+|CONSTITUTION ALTERATION (INTER-CHANGE OF POWERS) BILL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Violent Incidents Involving Explosives (Question No. 900)|1|
+|QUESTION: BROADCAST OF QUESTION TIME|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Greek Marriages (Question No. 6047)|1|
+|TASMANIA: Rhodesia: Air Travel and Advertising Services (Question No. 2176)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Superannuation and Provident Funds (Question No. 2311)-|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Assistance Plan (Question No. 237)|1|
+|FEDERAL ELECTORAL DIVISION, ALSO SHOWING SUBDIVISIONAL ENROLMENTS: Treasury Papers (Question No. 202)|1|
+|QUESTION: ROYAL WEDDING|1|
+|No: Repatriation Pensions (Question No. 3057)|1|
+|PUBLIC SERVICE BILL (No.2) 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naval Personnel: Life Insurance Policies (Question No. 204)|1|
+|PLACES VISITED: Mr Henry Wiley Fancher (Question No. 622)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Offshore Oil (Question No. 2018)|1|
+|QUESTION: ELECTORAL LAW|1|
+|GOVERNOR-GENERAL BILL 1974: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Departmental Annual Reports (Question No. 3609)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Departmental Scientific Laboratories (Question No. 4090)|1|
+|QUESTION: INQUIRY INTO EDUCATION AND TRAINING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service Growth (Question No. 136)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Banking (Question No. 5743)|1|
+|QUESTION: CHINESE CITIZENS: EXIT VISAS|1|
+|QUESTION: WOOL MARKETING|1|
+|OBSERVERS: School Fees (Question No. 4755)|1|
+|QUESTION: SOUTH AUSTRALIAN WINE INDUSTRY|1|
+|FISCAL POLICY DECISIONS: Suspension of Standing Orders|1|
+|SA: Recognition of China and Democratic Republic of Vietnam (Question No. 648)|1|
+|QUESTION: INCOME EQUALISATION DEPOSITS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Application of International Labour Organisation Conventions Nos 47 and 112 (Question No. 4253)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unemployment (Question No. 4979)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service Recruitment (Question No. 1)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Narcotics Control (Question No. 3626)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Registered Medical and Hospital Benefits Organisations: Annual Reports (Question No. 244)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Co-ordinated Industrial Organisations (Question No. 1129)|1|
+|MINISTERIAL CHANGES AND ARRANGEMENTS|1|
+|IN WITNESS WHEREOF, I, EDWARD GOUGH: Department of Foreign Affairs: Interdepartmental Committees (Question No. 2722)|1|
+|PERSONAL EXPLANATION: Jetair Australia Ltd|1|
+|QUESTION: PETROLEUM INDUSTRY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Service (Question No. 3290)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 3174)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cyprus Conflict: Geneva Conventions (Question No. 1095)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr Vincent Teresa (Question No. 657)|1|
+|QUESTION: DEPARTMENT OF PRODUCTIVITY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Privy Council- High Court (Question No. 5302)|1|
+|QUESTION: MINISTER FOR THE ENVIRONMENT, ABORIGINES AND THE ARTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (Question No. 4534)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Safety (Question No. 3110)|1|
+|QUESTION: STATEMENTS, ETC.. ARISING FROM MEETING BETWEEN AUSTRALIAN GOVERNMENT AND STATE GOVERNMENT MINISTERS|1|
+|No: Australia-Japan Relations (Question No. 3223)|1|
+|WESTERN AUSTRALIA: Servicemen's Dependants: Hospital Treament (Question No. 6240)|1|
+|QUESTION: DARWIN SEWERAGE SCHEME|1|
+|QUESTION: PENSIONER MEDICAL SERVICE CARDS|1|
+|DEATH PENALTY ABOLITION BILL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Operation and Servicing of Aircraft: Training of New Guineans (Question No. 180)|1|
+|VISIT TO JAPAN AND CHINA: Ministerial Statement|1|
+|QUESTION: AUSTRALIAN OPERA: UTAH DEVELOPMENT LTD DONATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Councils: Contact with States (Question No. 41)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women's Affairs (Question No. 69)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Extradition (Foreign States) Act (Question No. 830)|1|
+|QUESTION: ELECTORAL: VOTES AT 18|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Foreign Affairs: Appointment of Women (Question No. 102)|1|
+|OBSERVERS: Crimes of Violence: Compensation for Victims (Question No. 4251!)|1|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Priorities Review Staff: Urban and Regional Development (Question No. 2674)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Investment in Australia (Question No. 320)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electricity Costs (Question No. 5527)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Building Societies (Question No. 125)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Wheat Sale to China (Question No. 3222)|1|
+|FEDERAL ELECTORAL DIVISION, ALSO SHOWING SUBDIVISIONAL ENROLMENTS: Costs Of Overseas Visits (Question No. 989)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Neighbouring Rights Convention (Question No. 5478)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Local Government Employment and Expenditure (Question No. 840)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ustasba Movement (Question No. 5951)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Italian Workers and Families: Language Tuition (Question No. 680)|1|
+|WHITLAM GOVERNMENT: Want of Confidence Motion|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Computers (Question No. 2972)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Parliamentary Departments: Staff (Question No. 1061)|1|
+|QUESTION: OVERSEAS VISIT BY PREMIER OF QUEENSLAND|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Committees, Commissions of Inquiry and Task Forces (Question No. 1672)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory Supreme Court: Availability of Judges (Question No. 1587)|1|
+|QUESTION: DARTMOUTH DAM: ADELAIDE WATER SUPPLY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Housing Agreement: Building Societies (Question No. 128)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South Pacific Commission (Question No. 537)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Science Laboratories and Libraries (Question No. 5255)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Service: Specialist Courses (Question No. 5095)|1|
+|OBSERVERS: Payroll Tax Rebates: Papua New Guinea' . (Question No. 3726)|1|
+|ANSWERS TO QUESTIONS: Union Leaders' Conference (Question No. 2446)|1|
+|QUESTION: GOVERNMENT'S ECONOMIC POLICIES|1|
+|QUESTION: THE RANGER URANIUM PROJECT IN THE NORTHERN TERRITORY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Informal Votes (Question No. 82)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 2955)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Employment Service: Staffing of Offices in Queensland (Question No. 99)|1|
+|QUESTION: PRICE OF BEER|1|
+|ROAD TRAFFIC ACCIDENTS: Health Benefits Organisation (Question No. 2793)|1|
+|QUESTION: ETHIOPIA: AUSTRALIAN AID|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Town Councils (Question No. 2403)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Incomplete Information (Question No. 131)|1|
+|QUESTION: CONSTITUTIONAL CONVENTION: LOCAL GOVERNMENT VOTING RIGHTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Expenditure (Question No. 3190)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Aboriginal Population (Question No. 5393)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea-Indonesia Boundary (Question No. 262)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Trading Bank Advances (Question No. 4626)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Meeting -Charter Aircraft (Question No. 3013)|1|
+|QUESTION: COAL RESERVES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Community Health Services and Facilities (Question No. 1168)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Off-Shore Petroleum Exploration Permits: Timor Sea (Question No. 1363)|1|
+|ROAD TRAFFIC ACCIDENTS: School Cadets (Question No. 3221)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: University of Papua and New Guinea: Staff (Question No. 572)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Grants for Recreation (Question No. 512)|1|
+|QUESTION: COMMONWEALTH HEADS OF GOVERNMENT MEETING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Whitlam Ministry: Foreign Policy Statements (Question No. 205)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Workforce: Married Women (Question No. 165)|1|
+|CSIRO: Water Resources (Question No. 3265)|1|
+|HOSPITALS DEVELOPMENT PROGRAM: Minister for Primary Industry: Pecuniary Interests (Question No. 1317)|1|
+|NOTICES OF MOTION: Suspension of Standing Orders|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Affairs (Question No. 564)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Maritime Satellite Organisation (Question No. 104)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tabling of Annual Reports (Question No. 1553)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Venereal Disease (Question No. 491)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr V. G. McGrath: Visit to Taiwan (Question No. 3790)|1|
+|PRIME MINISTER: ELECTION PROMISES: Discussion of Matter of Public Importance|1|
+|QUESTION: SENATE REJECTION OF FINANCIAL MEASURES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: British Subjects: New Visa Requirements (Question No. 1290)|1|
+|NATIONAL ESTATE: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Conventions (Question No. 43)|1|
+|QUESTION: LEISURE FACILITIES PROGRAM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Quadrant' (Question No. 175)|1|
+|QUESTION: ALWEST PROJECT, WESTERN AUSTRALIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: New Missions (Question No. 3268)|1|
+|QUESTION: WOOL FREIGHT RATES|1|
+|QUESTION: TANZANIA|1|
+|CSIRO: Lock-Kimba Pipeline (Question No. 3383)|1|
+|QUESTION: WESTERN AUSTRALIAN BY-ELECTION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employees of Trans-Australia Airlines: Membership of Unions (Question No. 293)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth-State Boards and Committees (Question No. 3603)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Labour Statistics (Question No. 166)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital Benefits Organisations: Reserves (Question No. 2432)|1|
+|AUSTRALIAN BROADCASTING COMMISSION: Ships, Aircraft and Ammunition: Payments (Question No. 6055)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Lift Code (Question No. 5977)|1|
+|PRIME MINISTER: VISIT TO NORTH AMERICA: Ministerial Statement|1|
+|QUESTION: CYCLONE TRACY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Restrictive Trade Practices (Question No. 3599)|1|
+|QUESTION: NUCLEAR NON-PROLIFERATION INITIATIVES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Westmead Teaching Hospital (Question No. 5910)|1|
+|CSIRO: Overseas Investment in Australia (Question No. 1576)|1|
+|KEEP OUT OF REACH OF CHILDREN IF SWALLOWED SEEK MEDICAL ADVICE AVOID CONTACT WITH FOOD DO NOT USE IN FOOD PREPARATION OR FOOD STORAGE AREAS DO NOT USE IN NURSERIES AND SICK ROOMS WHERE PEOPLE MAY BE CONTINUOUSLY EXPOSED: Oil Exploration Incentive Scheme (Question No. 4261)|1|
+|QUESTION: UNIVERSITIES: ALBURY-WODONGA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation Office, Perth (Question No. 4655)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Staffs (Question No. 1852)|1|
+|No: Workers' Compensation and Third Party Insurance Premiums (Question No. 1657)|1|
+|LEAVE OF ABSENCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Waste (Question No. 1783)|1|
+|QUESTION: PUBLIC SERVICE: ALLEGATION OF CONSPIRACY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Indo-China (Question No. 2961)|1|
+|QUESTION: INSURANCE PREMIUMS|1|
+|QUESTION: ROYAL AUSTRALIAN AIR FORCE IN INDO-CHINA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr Douglas Charles Campbell (Question No. 865)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Natural Disasters: Assistance Schemes (Question No. 5251)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: British Solomon Islands Protectorate (Question No. 154)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Compensation for Victims of Criminal Acts (Question No. 1942)|1|
+|QUESTION: OVERSEAS CONTROL OF AUSTRALIAN COMPANIES|1|
+|QUESTION: INCOMES AND PRICES POLICY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Income Tax Deductions (Question No. 4032)|1|
+|QUESTION: INDIAN OCEAN CONFERENCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Flood Mitigation: Victoria (Question No. 1205)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Double Tax Agreements (Question No. 5551)|1|
+|QUESTION: TELECOM LOAN: CHAIRMAN'S INVOLVEMENT|1|
+|MEMBERS SWORN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Collection: Value of Art Works (Question No. 4)|1|
+|QUESTION: PAPUA AND NEW GUINEA: TAX CASES|1|
+|AUSTRALIAN SECURITY INTELLIGENCE ORGANIZATION BILL 1975: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Married Female Employees (Question No. 1035)|1|
+|JAPAN: Appeals to High Court (Question No. 2469)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Directors of Health Funds (Question No. 245)|1|
+|TEMPORARY ACCOMMODATION ALLOWANCE: Papua and New Guinea: Printers and Newspapers Ordinance (Question No. 573)|1|
+|WESTERN AUSTRALIA: Health Funds (Question No. 2795)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Census: Housing Finance (Question No. 2151)|1|
+|QUESTION: MIDDLE EAST WAR: AUSTRAIIAN VOLUNTEERS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Repatriation (Question No. 172)|1|
+|QUESTION: BOUNTY ON NITROGENOUS FERTILISERS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Disarmament (Question No. 713)|1|
+|QUESTION: TELEPHONE ACCOUNTS: BANKRUPTCY PROCEEDINGS|1|
+|QUESTION: LOCAL GOVERNMENT ASSISTANCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital Charges (Question No. 6037)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Investment (Question No. 790)|1|
+|QUESTION: TASMANIAN SENATE ELECTION|1|
+|OBSERVERS: Education: Survey and Department (Question No. 3655)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Melbourne Wodonga Rail Traffic (Question No. 1448)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Herbicides (Question No.1375)|1|
+|HOSPITALS DEVELOPMENT PROGRAM: Area Improvement Program (Question No. 1172)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Assistance to Government and Non-Government Schools: Western Sydney (Question No. 1031)|1|
+|QUESTION: COMMISSIONER OF POLICE|1|
+|QUESTION: EDUCATION STATISTICS|1|
+|QUESTION: ELECTION PROSPECTS|1|
+|QUESTION: ANZUS PACT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Citizen Military Forces: Vietnam Study Trips (Question No. 756)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospitals Development Program: Projects Approved (Question No. 1167)|1|
+|QUESTION: PEOPLE'S REPUBLIC OF CHINA: AUSTRALIA'S RECOGNITION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Museums and National Collections (Question No. 796)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Public Service (Question No. 1552)|1|
+|SUMMARY OF FUNCTIONS OF THE DEPARTMENT OF FINANCE: Royal Australian Mint|1|
+|QUESTION: OFF-SHORE MINING LEASES|1|
+|QUESTION: IRAQI VISITORS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Non-Payment of Award Wages (Question No. 2399)|1|
+|FRASER GOVERNMENT: Notice of Motion|1|
+|DEATH QF HIS ROYAL HIGHNESS, THE DUKE OF WINDSOR|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Bank Investments (Question No. 4033)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fire Brigade Arrangements (Question No. 658)|1|
+|QUESTION: TASMAN BRIDGE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Servants: Visits Abroad (Question No. 5395)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mini Budget: Press Briefings (Question No. 702)|1|
+|QUESTION: FRENCH NUCLEAR TESTS: TELEPHONE BAN|1|
+|PREMIERS CONFERENCE|1|
+|OBITUARIES: Riordan and Hon. H. V. C. Thorby|1|
+|QUESTION: GROWTH CENTRES|1|
+|QUESTION: COMMONWEALTH - STATE LOCAL GOVERNMENT RELATIONS|1|
+|QUESTION: GAZELLE PENINSULA- EVICTIONS|1|
+|RESIGNATION OF MINISTER FOR MINERALS AND ENERGY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Darwin Port Facilities (Question No. 1252)|1|
+|QUESTION: ARMY QUARTERS- TREE PLANTING|1|
+|QUESTION: BALTIC STATES|1|
+|QUESTION: INSTITUTE OF CRIMINOLOGY: TERRITORIES CRIMINAL CODE|1|
+|ANZUS COUNCIL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Burdekin Scheme (Question No. 4397)|1|
+|QUESTION: HOUSING AGREEMENT INTEREST|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Conventions (Question No. 5834)|1|
+|APPROXIMATE ADDITIONAL REVENUE ASSISTANCE TO THE STATES IN 1971-72 AS A RESULT OF DECISIONS TAKEN AT JUNE 1970 PREMIERS' CONFERENCE AND SUBSEQUENTLY: Total .. .. 273.8|1|
+|ANSWERS TO QUESTIONS: Canberra: Traffic Survey (Question No. 3048)|1|
+|QUESTION: PENSIONER FUNERAL BENEFIT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Armaments: Indonesia (Question No. 1533)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Broadcasting: Election Speeches and Political Advertisements (Question No. 198)|1|
+|WESTERN AUSTRALIA: International Labour Organisation Conventions Nos 2 and 109: Application to Papua New Guinea (Question No. 5978)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Trade Missions and Conference Delegations (Question No. 184)|1|
+|DEATH OF THE HONOURABLE 3. 3. DEDMAN|1|
+|QUESTION: COUNTRY FUEL SUPPLIES|1|
+|QUESTION: RECOGNITION OF CAMBODIAN GOVERNMENT|1|
+|QUESTION: HONOURS SYSTEM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Costs of Overseas Travel (Question No. 1375)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aircraft Hijacking: Death Penalty (Question No. 2582)|1|
+|QUESTION: CROATIAN EMBASSY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea - Local Government Council Areas (Question No. 1(3)|1|
+|QUESTION: PECUNIARY INTERESTS OF MEMBERS OF PARLIAMENT AND PUBLIC SERVANTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: River Murray Commission Meetings (Question No. 2071)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Disarmament Agreements (Question No. 1228)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Industrial Accidents: Fatalities (Question No. 854)|1|
+|THE COMMISSIONER OF TRADE PRACTICES|1|
+|STATES GRANTS (INDEPENDENT SCHOOLS) BILL 1972|1|
+|ANSWERS TO QUESTIONS: Applications for Australian Citizenship (Question No. 304)|1|
+|AT 30 JUNE: Rhodesian Officials: Australian Passports (Question No. 4982)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: British Solomon Islands (Question No. 3727)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 3176)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Protests Against Violence Overseas (Question No. 527)|1|
+|OR: Commonwealth-State Conferences (Question No. 35)|1|
+|HOSPITALS DEVELOPMENT PROGRAM: Unemployment: Aboriginals (Question No. 1163)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Foreign Affairs: Anticipated Staff Increases (Question No. 3267)|1|
+|QUESTION: HONOURS AND AWARDS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Queensland Water Projects: Federal Expenditure (Question No. 1391)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 2952)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Housing (Question No. 4481)|1|
+|QUESTION: AUSTRAIIAN DOLLAR REVALUATION: EFFECT ON WESTERN AUSTRALIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medical and Hospital Benefits Organisations: Contributor Representatives (Question No. 2790)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Artists (Question No. 1679)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Establishment of a Children's Commission (Question No. 1338)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: States Grants: Nursing Homes|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Economy (Question No. 5034)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Transport: Parramatta Region (Question No. 1182)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Archives Legislation (Question No. 1916)|1|
+|QUESTION: ENVIRONMENT: IMPACT STATEMENTS|1|
+|QUESTION: TRADE UNION MOVEMENT|1|
+|QUESTION: OVERSEAS AID|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commissions, Committees and Task Forces (Question No. 544)|1|
+|QUESTION: CITY RAILWAYS|1|
+|OBSERVERS: Rural Finance Insurance Corporation (Question No. 3892)|1|
+|QUESTION: WOOL: RANDALL COMMITTEE OF INQUIRY|1|
+|DEATH OF THE PRESIDENT OF INDIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fraser Island (Question No. 1672)|1|
+|WESTERN AUSTRALIA: Building Societies: Insurance of Deposits (Question No. 671)|1|
+|QUESTION: PENSIONERS' MUNICIPAL RATES|1|
+|B. TRUSTEES: International Labour Office Conventions (Question No. 6341)|1|
+|QUESTION: FOREIGN AFFAIRS AND DEFENCE POLICIES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Retired Air Force Officers: Business Appointments (Question No. 1227)|1|
+|AUSTRALIAN BROADCASTING COMMISSION: Petroleum Tenements: Grants (Question No. 6042)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Government: Purchase of Land Overseas (Question No. 665)|1|
+|COMMONWEALTH SCIENCE FACILITIES PROGRAMME: Immigration: Transport Payments (Question No. 6084)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Rights (Question No. 1152)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Dental Services for Primary School Children (Question No. 246)|1|
+|QUESTION: MINISTER FOR EDUCATION AND SCIENCE|1|
+|WARNING KEEP OUT OF REACH OF CHILDREN IF SWALLOWED SEEK MEDICAL ADVICE: International Exhibitions Convention (Question No. 1604)|1|
+|ACQUISITION OF AIRCRAFT: Suspension of Standing Orders|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Policy (Question No. 646)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Public Service (Question No. 1200)|1|
+|QUESTION: STATEMENT BY MR HAWKE ON UNEMPLOYMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: World Intellectual Property Organisation (Question No. 1397)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Frequency Modulation (Question No. 6117)|1|
+|AUSTRALIAN DELEGATION TO UNITED NATIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nursing Home Benefits (Question No. 996)|1|
+|PARLIAMENTARY COUNSEL BILL 1970|1|
+|QUESTION: DOUBLE DISSOLUTION DOCUMENTS|1|
+|WESTERN AUSTRALIA: Extradition: Mr Morris Glickman and Mr Igal Makler (Question No. 997)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr V. Petrov (Question No. 3869)|1|
+|HOSPITALS DEVELOPMENT PROGRAM: Costs of Land Development (Question No. 1171)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Women's Year (Question No. 1341)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women: Public Service Promotions Appeal Committees (Question No. 6)|1|
+|QUESTION: QUEENSLAND MINES LTD|1|
+|QUESTION: DEPARTMENT OF THE MEDIA: ADVERTISING CAMPAIGN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Yugoslav Intelligence Organisations (Question No. 706)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australia - Negotiations With Japan (Question No. 4976)|1|
+|PART 'D: Australian Capital Territory: Residential Blocks (Question No. 958)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministers: Payments other than Salary (Question No. 226)|1|
+|DEATH OF SENATOR JAMES PATRICK ORMONDE|1|
+|THE PARLIAMENT|1|
+|PLACES VISITED: Mr John Francis Licardy (Question No. 623)|1|
+|COMMONWEALTH DAY 1977|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospitals: Beds (Question No. 4007)|1|
+|POLITICAL MORALITY|1|
+|WESTERN AUSTRALIA: Natural Gas (Question No. 6477)|1|
+|WESTERN AUSTRALIA: Papua New Guinea: Legal Aid (Question No. 5759)|1|
+|ANSWERS TO QUESTIONS: Peaceful Settlement of Disputes (Question No. 2709)|1|
+|QUESTION: THE LITTLE RED SCHOQLBQOK|1|
+|QUESTION: REPORT OF THE COMMONWEALTH ADMINISTRATIVE REVIEW COMMITTEE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Responsibility (Question No. 466)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Diplomats: Uniforms (Question No. 1401)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Housing Agreements (Question No. 2016)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: United States-Japan Trade Bloc (Question No. 5949)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Commonwealth Secondary Scholarships (Question No. 3647)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Composition of Staffs (Question No. 242)|1|
+|QUESTION: ECONOMY: REDUCTIONS IN COMMONWEALTH EXPENDITURES|1|
+|PAPUA NEW GUINEA: TIMING OF SELF GOVERNMENT: Ministerial Statement|1|
+|QUESTION: GRANTS FOR RECREATION PROJECTS|1|
+|LEBANESE MIGRATION TO AUSTRALIA: Ministerial Statement|1|
+|QUESTION: BROAD REGIONAL GROUPING FOR ASIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: School Dental Services (Question No. 1425)|1|
+|QUESTION: EMPLOYMENT STATISTICS|1|
+|QUESTION: TRADE PRACTICES|1|
+|QUESTION: COMMUNICATION WITH LEBANON|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Children in Remote Areas (Question No. 4868)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Armed Services: Officer Resignations (Question No. 1592)|1|
+|QUESTION: PRIVY COUNCIL APPEALS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Pupil-Teacher Ratios (Question No. 3650)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Visits Overseas (Question No. 6023)|1|
+|QUESTION: AUSTRALIAN LABOR PARTY'S PROGRAMMES: COST|1|
+|ENVIRONMENT: Discussion of Matter of Public Importance|1|
+|INDIA-PAKISTAN: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Conferences (Question No. 6087)|1|
+|QUESTION: AUSTRALIAN BROADCASTING TRIBUNAL|1|
+|QUESTION: BUDGET: MINING INDUSTRY|1|
+|TASK FORCES: Effects of Refusal of Supply (Question No. 1890)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Specialist Medical Consultations (Question No. 3686)|1|
+|QUESTION: OMEGA NAVIGATIONAL BASE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tariffs (Question No. 5388)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital Benefits Organisations - Operating Expenses (Question No. 113)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Petroleum: Lead Hazard (Question No. 1316)|1|
+|TASK FORCES: Forrest Plaza, Perth (Question No. 1794)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Meetings of Prime Minister and State Premiers (Question No. 261)|1|
+|AUSTRALIAN SECURITY INTELLIGENCE ORGANISATION: INVESTIGATION OF REPORT: Suspension of Standing Orders|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aid Programs in Indonesia (Question No. 131)|1|
+|QUESTION: HON. V. C GAIR|1|
+|TEXT OF RESOLUTION: Taxis: Papua and New Guinea (Question No. 174)|1|
+|QUESTION: PRICES AND WAGES FREEZE: TAX CUTS PROPOSAL|1|
+|QUESTION: PUBLIC LENDING RIGHTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Port Safety Organisations- Nuclear Powered Warships (Question No. 1086)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ustashi Training Camp (Question No. 6110)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Literature Board Grants (Question No. 168S)|1|
+|QUESTION: SHIPPING RATES TO NEW GUINEA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation and Estate Duty: Gifts of Works of Art (Question No. 174)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Foreign Affairs Record: Korea (Question No. 1180)|1|
+|QUESTION: SOCIAL SECURITY|1|
+|QUESTION: CANNED MEAT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Family Law Act: Recovery Abroad of Maintenance (Question No. 799)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aliens Eligibility for Citizenship (Question No. 248)|1|
+|QUESTION: SALE OF BEEF TO JAPAN: REMARKS BY QUEENSLAND PREMIER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Torres Strait Border (Question No. 692)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Building Societies: Loans (Question No. 5553)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Disarmament (Question No. 712)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: East Pakistan: Relief Measures (Question No. 3672)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Organisations: Appointees (Question No. 697)|1|
+|CIVILIAN EMPLOYEES IN THE CONSTRUCTION INDUSTRY BY STATE FOR EACH MONTH SINCE: Teaching of Migrant Languages (Question No. 110)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rhodesian Official: Australian Passport (Question No. 148)|1|
+|QUESTION: URANIUM-AUSTRALIA'S DECISION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Population of Each Electoral Division (Question No. 1010)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interdepartmental Committees (Question No. 875)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South East Asia: Reduction of Forces (Question No. 3640)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rhodesia: Exports (Question No. 150)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pharmaceutical Benefits Scheme (Question No. 1774)|1|
+|QUESTION: STEEL AND PETROL PRICES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Homes Savings Grants (Question No. 178)|1|
+|QUESTION: DEPARTMENT OF ABORIGINAL AFFAIRS: MR HAUSMAN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Industry Development Corporation (Question No. 5550)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cyprus (Question No. 1482)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Copyright (Question No. 169)|1|
+|QUESTION: TERRITORIAL SEA AND CONTINENTAL SHELF|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Directory of Support Services for Women (Question No. 1085)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Banknotes and Bonds (Question No. 740)|1|
+|DESIGNERS GRANTED SUBSIDY OF $400: Prime Minister's Staff: Overtime and Allowances (Question No. 1385|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Commissions, Committees and Inquiries (Question No. 962)|1|
+|QUESTION: STAFF OFTHE PRIME MINISTER|1|
+|RAAF: Papua New Guinea: National Airline (Question No. 4916)|1|
+|UNESCO: Employees of Qantas Airways Ltd: Membership of Unions (Question No. 292)|1|
+|QUESTION: NEW SOUTH WALES BUDGET|1|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Services (Question No. 2673)|1|
+|QUESTION: DEFENCE SERVICE HOMES|1|
+|QUESTION: DEPORTATION: MR UTTER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Joint Commonwealth-State Committees: Department of National Development (Question No. 3706)|1|
+|QUESTION: SOUTH AFRICAN SPORTING TEAMS|1|
+|DEATHS OF FORMER SENATORS AND MEMBER|1|
+|QUESTION: STATE CHALLENGES TO AUSTRALIAN ASSISTANCE PLAN AND REGIONAL EMPLOYMENT DEVELOPMENT SCHEME|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Development Committees (Question No. 2873)|1|
+|TASMANIA: Sir Henry Bland (Question No. 1406)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Wounding of Indigene (Question No. 733)|1|
+|APPOINTMENT OF MR JUSTICE R. W. FOX AS AMBASSADOR-AT-LARGE: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employees of the Australian National Line: Membership of Unions (Question No. 294)|1|
+|QUESTION: PROPOSED GAF/CAC MERGER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Commonwealth Secondary Scholarships and Grants (Question No. 5118)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Workers' Compensation: Migrants (Question No. 2015)|1|
+|QUESTION: JOHNS CONSOLIDATED LTD|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australia-Japan Trade Law Foundation: MrK.C.Gale (Question No. 955)|1|
+|PRIVY COUNCIL APPEALS ABOLITION BILL 1975|1|
+|PRICES JUSTIFICATION BILL 1974: Second Reading|1|
+|HOSPITALS DEVELOPMENT PROGRAM: Liverpool Women's Health Centre (Question No. 11 16)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Administration of Commonwealth Government Departments (Question No. 904)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Recruitment of Foreign Affairs Officers (Question No. 2748)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Human Environment (Question No. 21)|1|
+|QUESTION: SHIPBUILDING INDUSTRY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Flood Mitigation Works, Queensland (Question No. 1392)|1|
+|QUESTION: UNEMPLOYMENT BENEFIT FOR SCHOOL LEAVERS|1|
+|ANSWERS TO QUESTIONS: Aboriginal Affairs (Question No. 2343)|1|
+|MR SPEAKER: Want of Confidence Motion|1|
+|QUESTION: REPORTS TABLED IN PARLIAMENT ON INQUIRIES INSTITUTED BY THE PRESENT GOVERNMENT|1|
+|QUESTION: OIL EXPLORATION IN AUSTRALIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Administration - Air Fares (Question No. 2978)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employment Schemes, Calare Electoral Division (Question No. 719)|1|
+|WESTERN AUSTRALIA: Federal Legal Aid (Question No. 2468)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Court of Justice (Question No. 434)|1|
+|QUESTION: LAOTIAN ROYAL FAMILY: ASSISTED MIGRATION|1|
+|ANSWERS TO QUESTIONS: French Nuclear Tests (Question No. 2707)|1|
+|JUDICIAL APPOINTMENT (FIJI) BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Butterworth Installations (Question No. 6045)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Explosions for Pilbara Port (Question No. 6039)|1|
+|QUESTION: SECURITY CHECKS|1|
+|QUESTION: AQUARIUS ARTS FESTIVAL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Trips: Payment of Overtime to Ministerial Staffs (Question No. 699)|1|
+|THE QUEEN AND THE PRIVY COUNCIL: Ministerial Statement|1|
+|AUSTRALIAN/STATE ADVISORY COMMITTEE TO STUDY WESTERN AUSTRALIAN AIRPORT REQUIREMENTS: Australian Public Service: Restructuring of Departments (Question No. 737)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Disciplinary Procedures (Question No. 2788)|1|
+|QUESTION: JOINT COMMITTEE ON FOREIGN AFFAIRS AND DEFENCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory Electoral Districts Population (Question No. 621)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Film and Television Board (Question No. 513)|1|
+|DEATH OF THE HONOURABLE D. A. CAMERON, O.B.E|1|
+|QUESTION: MEETING OF PREMIERS AND LEADERS OF OPPOSITIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Road Authorities Conferences (Question No. 6072)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Industrial Information Bulletin (Question No. 814)|1|
+|AWARDS OF VC, MC, DCM AND MM FOR SERVICE IN 1939-45 WAR: Defence Orders from Britain (Question No. 1406)|1|
+|TASK FORCES: Public Service: Rejection of Employment (Question No. 1692)|1|
+|QUESTION: RHODESIA INFORMATION CENTRE LEGISLATION|1|
+|QUESTION: FRASER ISLAND INQUIRY|1|
+|QUESTION: EXPORT OF URANIUM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Watching and Security Services (Question No. 3982)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Conventions (Question No. 1742)|1|
+|PREFERENCES STATISTICAL TABLES-EXPLANATORY NOTES: Unemployment Benefits: School Leavers (Question No. 1729)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aged Persons Homes (Question No. 4363)|1|
+|QUESTION: VISIT BY PRIME MINISTER TO INDIA|1|
+|QUESTION: ABORIGINAL PROPERTIES AND UNEMPLOYMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Community Health Centres (Question No. 983)|1|
+|DEATH OF SIR OWEN DIXON|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Equal Fay (Question No. 1957)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 2953)|1|
+|QUESTION: UNEMPLOYED JUNIORS|1|
+|ACQUISITION OF AIRCRAFT|1|
+|TASMANIA: Environment Council (Question No. 6103)|1|
+|AUSTRALIAN/STATE ADVISORY COMMITTEE TO STUDY WESTERN AUSTRALIAN AIRPORT REQUIREMENTS: Australian Government: Departmental Vehicles (Question No. 740)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Restrictive Trade Practices (Question No. 3598)|1|
+|ORD DAM - INSURANCE BILL|1|
+|QUESTION: PARLIAMENTARY LABOR PARTY|1|
+|TASK FORCES: Torres Strait Marine Park (Question No. 1780)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Labour and National Service (Question No. 3703)|1|
+|ANSWERS TO QUESTIONS: Territorial and Diplomatic Asylum (Question No. 2710)|1|
+|No: British Migrants (Question No. 4333)|1|
+|ADJOURNMENT: Valedictory - Newspaper Report - Social Services - Children's Television Programmes  - Vietnam - Electoral|1|
+|QUESTION: CHIEF JUSTICE: WHITLAM MINISTRY|1|
+|OBSERVERS: Decentralisation: Concessions (Question No. 4110)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Minister for National Resources: Gifts Received in United Kingdom (Question No. 1318)|1|
+|OR: Benefit Organisations: Operating Expenses (QuestionNo. 1 18)|1|
+|COMPANY LAW: Ministerial Statement|1|
+|QUESTION: EXPENDITURE CUTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Health Projects-Western Sydney (Question No. 1484)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Housing Loans (Question No. 923)|1|
+|TASMANIA: Department of Education and Science (Question No. 1992)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Estate Program (Question Nal 132)|1|
+|CIVILIAN EMPLOYEES IN THE CONSTRUCTION INDUSTRY BY STATE FOR EACH MONTH SINCE: Public Service: Second Division Positions (Question No. 988)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Librarians (Question No. 1340)|1|
+|QUESTION: LEBANESE REFUGEES|1|
+|CSIRO: ILO: Fishermen Conventions (Question No. 3398)|1|
+|SA: Darwin-Alice Springs-Fort Augusta Railway (Question No. 585)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fawnmac Group of Companies (Question No. 1602)|1|
+|QUESTION: ABOLITION OF MEANS TEST|1|
+|QUESTION: TELEPHONE AND TELEPRINTER CHARGES: DECENTRALISATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Employment Service: Staffing of Offices in the Northern Territory (Question No. 103)|1|
+|TASK FORCES: Government Ministers: Approved Establishment (Question No. 541)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Journalists: Federal Awards (Question No. 594)|1|
+|FILM AND TELEVISION SCHOOL AMENDMENT BILL 1976|1|
+|HEALTH INSURANCE BILL 1973: Second Reading|1|
+|QUESTION: PRIME MINISTER'S MISSION ABROAD|1|
+|TARIFF BOARD REPORT|1|
+|PRESS STATEMENT BY THE LEADER OF THE OPPOSITION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Lebanese Immigration (Question No. 653)|1|
+|PAPUA NEW GUINEA (STAFFING ASSISTANCE) TERMINATION BILL 1976: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South Pacific Commission (Question No. 2338)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Property Bureau (Question No. 695)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: Police Force (Question No. 2824)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Service (Question No. 1047)|1|
+|TASK FORCES: Ministerial Press Releases (Question No. 1651)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Croatian Embassy' (Question No. 438)|1|
+|QUESTION: REPORTED STATEMENT BY THE PRIME MINISTER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Civil Aviation: Night Flights (Question No. 673)|1|
+|QUESTION: AUSTRAIIAN TRADE MISSION TO CHINA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unemployment Registrations: Western Sydney (Question No. 627)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Qantas Flights: Migrants and Defence Personnel (Question No. 3984)|1|
+|QUESTION: COMMENT BY PRIME MINISTER REGARDING AMERICAN PRESIDENCY|1|
+|QUESTION: ABORIGINAL HEALTH IN CENTRAL AUSTRALIA|1|
+|QUESTION: NUCLEAR TESTING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Burdekin River Project (Question No. 3594)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Picture Theatre Lease, Port Moresby (Question No. 2387)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Doctors' Fees (Question No. 2532)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migration: New Zealand (Question No. 3337)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Quarantine Officer: Port Hedland (Question No. 558)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South Pacific Region: Industrial Relations in Maritime Industry (Question No. 351)|1|
+|APPROPRIATION BILL (No. 1) 1971-72: Second Reading (Budget Debate)|1|
+|THE LEADER OF THE HOUSE: Censure Motion|1|
+|QUESTION: PRICE OF MOTOR VEHICLE COMPONENTS|1|
+|QUESTION: UNIVERSITY AND COLLEGE ADMISSIONS|1|
+|ELECTORAL LAWS AMENDMENT BILL 1974 [No. 2]: Second Reading|1|
+|QUESTION: GENERAL PRACTITIONERS' FEES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Industrial Accidents: Statistics (Question No. 2826)|1|
+|QUESTION: CENSUS: ELECTORAL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Distribution of Votes (Question No. 81)|1|
+|FOREIGN AFFAIRS AND DEFENCE: Proposed Joint Committee|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fill Pilots (Question No. 6238)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Beef and Dairy Production: Artificial Breeding (Question No. 2986)|1|
+|COLLEGES OF ADVANCED EDUCATION: Penal Reforms and Programmes (Question No. 5472)|1|
+|QUESTION: VISITS BY NUCLEAR POWERED WARSHIPS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Insurance Act and Regulations (Question No. 1069)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nurses (Question No. 5913)|1|
+|NATIONAL SCHEME OF REHABILITATION AND COMPENSATION TERMS OF REFERENCE: India: Food Shortages (Question No. 519)|1|
+|PUBLIC SERVICE BOARD: Report and Ministerial Statement|1|
+|QUESTION: PUBLIC SERVICE: DECENTRALISATION|1|
+|QUESTION: PAPUA AND NEW GUINEA: LEGAL AID|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Government Centre: Parramatta (Question No. 1917)|1|
+|QUESTION: PRE-BUDGET DISCUSSIONS|1|
+|BROADCASTING: Discussion of Matter of Public Importance|1|
+|REPRINT SERIES: Appointments of Former Parliamentarians (Question No. 2993)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Commonwealth Grant (Question No. 5888)|1|
+|QUESTION: DEATH PENALTY, POVERTY INQUIRY AND REDISTRIBUTION|1|
+|QUESTION: ROBE RIVER PROJECT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Home Nursing Organisations (Question No. 1033)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Registration of Births and Deaths: Identification of Aborigines and Torres Strait Islanders (Question No. 140)|1|
+|QUESTION: ILLEGAL IMMIGRANTS: AMNESTY|1|
+|QUESTION: PUBLIC SERVICE: LEAVE ENTITLEMENTS|1|
+|QUESTION: CROWN PRIVILEGE OF DOCUMENTS|1|
+|QUESTION: VIETNAM: PARIS PEACE TALKS|1|
+|NORTHERN TERRITORY: Burdekin River Project (Question No. 1380)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Railways: Adelaide- Crystal Brook (Question No. 489)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Mapping Surveys (Question No. 2343)|1|
+|QUESTION: DEPARTMENT OF FOREIGN AFFAIRS: MR RENOUF|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Revenue and Expenditure Increases (Question No. 133)|1|
+|QUESTION: ELECTION EXPENSES: MINISTERS' RETURNS|1|
+|FEDERAL ELECTORAL DIVISION, ALSO SHOWING SUBDIVISIONAL ENROLMENTS: Prime Minister: Overseas Trips (Question No. 164)|1|
+|QUESTION: INTELLIGENCE AGENCIES|1|
+|HOSPITALS DEVELOPMENT PROGRAM: Housing Costs Inquiry (Question No. 1230)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: China: Nationalist Commando Raids (Question No. 4331)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua Queensland Boundary (Question No. 3668)|1|
+|WESTERN AUSTRALIA: Medical Benefits Organisations: Contributions (Question No. 1670)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unemployment Registrations: Western Sydney (Question No. 221)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: United Nations: Australian Voting (Question No. 958)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Housing (Question No. 5752)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South East Asia Collective Defence Treaty (Question No. 4059)|1|
+|QUESTION: GENERAL CARGO MOVEMENTS: TASMANIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: La Fiamma' Newspaper (Question No. 1143)|1|
+|WESTERN AUSTRALIA: Servicemen's Dependants: Hospital Treatment (Question No. 6242)|1|
+|JOINT COMMUNIQUE ON VISIT OF PRIME MINISTER TO INDIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Sanctions Committee (Question No. 632)|1|
+|JAPAN: Workers Compensation (Question No. 2498)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Drug Marketing Procedures (Question No. 838)|1|
+|VICTORIA: Management Consultant Firms (Question No. 794)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Armed Services: Orders for Ships and Aircraft' (Question No. 3634)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation (Question No. 1941)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: High Court of Australia: Appeals (Question No. 5467)|1|
+|CHAIRMAN OF COMMITTEES: Dear Mr Speaker,|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Judges: Termination of Commissions (Question No. 68)|1|
+|QUESTION: ECONOMIC PLANNING AND TRADE COMMITTEE 1971|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Human Rights Conventions (Question No. 3702)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Convention: Freedom of Association (Question No. 928)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Conventions: Ratification (Question No. 876)|1|
+|PREFERENCES STATISTICAL TABLES-EXPLANATORY NOTES: Lebanese Immigrants (Question No. 1735)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Housing: Uniform Building Code (Question No. 3692)|1|
+|ANSWERS TO QUESTIONS: Woomera Rocket Range (Question No. 2400)|1|
+|QUESTION: PETROLEUM ROYAL COMMISSION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unemployment Benefit (Question No. 5714)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: School Requisites: Sales Tax (Question No. 595)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines and Torres Strait Islanders: Wages (Question No. 137)|1|
+|ADJOURNMENT: Governor-General- Professor Manning Clark- Lebanon- Inner Sydney Regional Council for Social Development- Petroleum Industry- Government Programs- New South Wales Budget|1|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: South Vietnam: Inaugurations of President (Question No. 4844)|1|
+|PUBLICITY ADVISORY COMMITTEE ON EDUCATION IN ROAD SAFETY: Tasman Sea: Continental Shelf (Question No. 2341)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Prime Minister's Department: Publications (Question No. 3304)|1|
+|QUESTION: REDISTRIBUTION OF NEW SOUTH WALES ELECTORAL DIVISIONS|1|
+|VIETNAM|1|
+|VICTORIA: Defence Service Homes (Question No. 572)|1|
+|CSIRO: Radio Australia (Question No. 1591)|1|
+|QUESTION: CENTRAL INTELLIGENCE AGENCY ACTIVITIES IN AUSTRALIA|1|
+|VISIT OF NEW ZEALAND PRIME MINISTER: Ministeral Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Elizabethan Theatre Trust (Question No. 992)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Political Asylum (Question No. 693)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Employees: Education Assistance (Question No. 80)|1|
+|CONSTITUTION ALTERATION (SIMULTANEOUS ELECTIONS) BILL 1975 [No. 2]: Second Reading|1|
+|QUESTION: JETAIR: SALE OF AIRCRAFT|1|
+|QUESTION: OVERSEAS BORROWING PROGRAMS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Armed Services: Comparison of Retirement Benefits (Question No. 61)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Great Barrier Reef Marine Park (Question No. 247)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Married Age Pensioner Counties: Fringe Benefits (Question No. 736)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Environmental Pollution (Question No. 4048)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Officers Studying Overseas - Wives' Fares (Question No. 2312)|1|
+|QUESTION: FAMILY LAW ACT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Repatriation Pensions (Question No. 6220)|1|
+|CONSTITUTION ALTERATION (DEMOCRATIC ELECTIONS) BILL 1974: Third Reading|1|
+|ANSWERS TO QUESTIONS: Commonwealth Heads of Government Meeting: Charter Cost of Aircraft (Question No. 2486)|1|
+|QUESTION: PROPOSED VISIT TO UNITED STATES BY PRIME MINISTER|1|
+|QUESTION: PROPOSED SOUTH EAST ASIAN REGIONAL ORGANISATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Report on Libraries: Consultations with States (Question No. 709)|1|
+|QUESTION: DEVALUATION OP AUSTRALIAN CURRENCY|1|
+|QUESTION: TAX INCENTIVES TO PROMOTE THE ARTS|1|
+|QUESTION: COMMON PRICING POLICIES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea Houseof Assembly: Members Visits Overseas (Question No. 159)|1|
+|QUESTION: MENTAL HEALTH BENEFITS|1|
+|QUESTION: SOUTH VIETNAMESE AND CAMBODIAN TROOPS: TRAINING|1|
+|ROAD TRAFFIC ACCIDENTS: Political Broadcasts (Question No. 3202)|1|
+|QUESTION: FORMER ATTORNEY-GENERAL: HON. L. K. MURPHY, Q.C|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Education: Foreign Aid Functions (Question No. 139)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Distribution of Votes in St George Division (Question No. 978)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Orders: United States of America (Question No. 3635)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Environmental Protection (Question No. 787)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Bacteriological and Toxin Weapons (Question No. 5555)|1|
+|ANSWERS TO QUESTIONS: Agreements with the States (Question No. 41 2)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Investigation of Schemes of Student Assistance (Question No. 1148)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Income Tax Deductions (Question No. 1387)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Maritime and Pollution Conventions (Question No. 234)|1|
+|QUESTION: ALICE SPRINGS ART COLLECTION|1|
+|QUESTION: OPPOSITION BUDGET PROPOSALS-COST|1|
+|OBSERVERS: Housing Loans: Interest (Question No. 4266)|1|
+|QUESTION: AUSTRALIAN CAPITAL TERRITORY: HOSPITAL BEDS|1|
+|APPROPRIATION BILL (No. 1) 1975-76: Second Reading (Budget Debate)|1|
+|QUESTION: F111 AND PHANTOM AIRCRAFT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Motor Vehicles: Safety Features (Question No. 2929}|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Singapore and Malaysia: Army Allowances (Question No. 68)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Prime Minister's Mission to Europe (Question No. 1987)|1|
+|JAPAN: Papua New Guinea: Savings Bank (Question No. 1737)|1|
+|QUESTION: TAX AVERAGING SYSTEM FOR PRIMARY PRODUCERS|1|
+|TASK FORCES: Canberra Community Development Officers (Question No. 1750)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pine Gap Joint Defence Space Research Facility (Question No. 2883)|1|
+|QUESTION: CIGARETTE ADVERTISING: HEALTH WARNINGS|1|
+|QUESTION: NATIONAL SERVICE ACT BREACHES|1|
+|QUESTION: ASSISTANCE TO ABORIGINES|1|
+|QUESTION: QUEENSLAND TREATIES COMMISSION ACT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Colleges of Advanced Education (Question No. 1347)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medibank Hospital Arrangements (Question No. 817)|1|
+|B. TRUSTEES: French Nuclear Tests (Question No. 6480)|1|
+|QUESTION: SOUTH VIETNAM AND CAMBODIA|1|
+|QUESTION: REPORT OF THE COMMONWEALTH CONCILIATION AND ARBITRATION COMMISSION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interdepartmental Committees (Question No. 3164)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: City Railways (Question No. 2307)|1|
+|INTERNATIONAL LABOUR ORGANISATION CONVENTION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Universities: Enrolments and Incomes (Question No. 1346)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: China: Wheat Trade (Question No. 2287)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral Enrolments (Question No. 143)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Insurance Companies Investments (Question No. 5744)|1|
+|AUSTRALIAN DEVELOPMENT ASSISTANCE AGENCY (REPEAL) BILL 1977: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Financial Water and Power Projects (Question No. 1104)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Prosecutions: Attorney-General's Consent (Question No. 344)|1|
+|AUSTRALIA-JAPAN FOUNDATION BILL 1976: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Salaries and Allowances (Question No. 128)|1|
+|QUESTION: QUESTIONS ON NOTICE|1|
+|QUESTION: SINO-SOVIET RELATIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Vietnamese Refugee Survey (Question No. 198)|1|
+|QUESTION: AUSTRALIAN WAR MEMORIAL: BOARD OF TRUSTEES|1|
+|POVERTY AND SOCIAL NEED IN AUSTRALIA: Discussion of Matter of Public Importance|1|
+|QUESTION: NUCLEAR TESTS: PEOPLE'S REPUBLIC OF CHINA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Education Bonds (Question No. 341)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Acts Interpretation Act (Question No. 5477)|1|
+|PAYMENT FOR TERTIARY INSTITUTIONS IN THE AUSTRALIAN TERRITORIES: Interdepartmental Committees (Question No. 2166)|1|
+|QUESTION: URBAN TRANSPORT REPORT|1|
+|INCOMES, TAXES AND PRICES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Graduates Salaries (Question No. 2393)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Area Improvement Program: Western Australia (Question No. 1369)|1|
+|QUESTION: UNEMPLOYMENT: IMMIGRANTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Navigation Amendment Bill (Question No. 792)|1|
+|QUESTION: ANSWER TO QUESTION ON NOTICE|1|
+|DOUBLE INCOME TAXATION: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Crime: Compensation to Persons Helping Police (Question No. 240)|1|
+|QUESTION: ABORIGINAL LAND FUND COMMISSION|1|
+|QUESTION: INTERNATIONAL LABOUR ORGANISATION CONVENTIONSPAPUA NEW GUINEA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Homes Savings Grants (Question No. 5200)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Torres Strait Islanders: Turtle Fanning (Question No. 1523)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Conventions: State Attitudes (Question No. 1179)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Railways Employees (Question No. 3086)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: School Teachers (Question No. 90)|1|
+|MOTION OF CENSURE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Legal Aid (Question No. 1732)|1|
+|COLLEGES OF ADVANCED EDUCATION: Death Penalty: Northern Territory (Question No. 5474)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital Benefits Organisations: Reserves (Question No. 115)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sewerage Program (Question No. 176)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Lockheed Aircraft Purchases (Question No. 514)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Treaty of Nara (Question No. 1234)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Baltic States (Question No. 997)|1|
+|PREFERENCES STATISTICAL TABLES-EXPLANATORY NOTES: Art Exhibitions from other Countries (Question No. 1728)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Army Training Area: Bulli Pass (Question No. 1779)|1|
+|ESTIMATED COST TO REVENUE OF ALLOWING DEDUCTIONS IN RESPECT OF 1967-68 . INCOME YEAR ON ACCOUNT OF: Manufacturing Industries (Question No. 1252)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sewerage Services (Question No. 2324)|1|
+|AUSTRALIAN CAPITAL TERRITORY SUPREME COURT BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Universities: Quotas (Question No. 2592)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Control of Firearms (Question No. 4515)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea - Appointments to Public Service (Question No. 173)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Semi-Government Authorities (Question No. 1211)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Press Releases (Question No. 229)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Commonwealth Technical Scholarships (Question No, 3646)|1|
+|QUESTION: GOVERNMENT'S FINANCIAL POLICY|1|
+|SUSPENSION OF STANDING ORDERS: Territorial Sea and Continental Shelf Legislation|1|
+|QUESTION: GOVERNMENT ARCHIVES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Coombs Task Force Report (Question No. 1683)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Third Party and Employers' Liability Insurance (Question No. 1713)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tax Revenue (Question No. 5855)|1|
+|QUESTION: CENTRAL INTELLIGENCE AGENCY: ACTIVITIES IN AUSTRALIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Extradition Arrangements (Question No. 1929)|1|
+|No: Australian National Line and Stevedoring (Question No. 1324)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Literary Fund Holders (Question No. 312)|1|
+|MINERALS (SUBMERGED LANDS) BILL 1974 [No. 2]: Second Reading|1|
+|QUESTION: PRICES AND WAGES FREEZE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Dispatch to Members (Question No. 132)|1|
+|MR KHEMLANI|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Attorney-General: Contacts with Mr J. F. Licardy (Question No. 624)|1|
+|TASMANIA: Government Revenues (Question No. 1383)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Citizenship (Question No. 772)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 2949)|1|
+|QUESTION: NATURAL GAS PIPELINE|1|
+|QUESTION: URBAN AFFAIRS|1|
+|EFFECTS OF INFLATION ON TAXATION|1|
+|QUESTION: RETIREMENT OF CLERK OF THE HOUSE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Consultants (Question No. 4045)|1|
+|QUESTION: IMPORT STATISTICS|1|
+|OVERSEAS VISIT BY MINISTER FOR FOREIGN AFFAIRS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Housing Agreement and Ministers (Question No. 1438)|1|
+|HOSPITALS DEVELOPMENT PROGRAM: Ball Bearings (Question No. 994)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Population Policy: Minister Responsible (Question No. 1677)|1|
+|QUESTION: SENATE ELECTIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: The Environment: Ministerial Conferences (Question No. 6499)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aged and Disabled Persons Homes (Question No. 1159)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Development Assistance . (Question No. 2725)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Karratha Hospital (Question No. 420)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Sewerage Program (Question No. 1150)|1|
+|QUESTION: CHIEF JUSTICE OF HIGH COURT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Calls: Interception (Question No. 5480)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Ordinances (Question No. 158)|1|
+|QUESTION: JOINT COMMITTEE ON THE AUSTRALIAN CAPITAL TERRITORY|1|
+|WESTERN AUSTRALIA: Pensioners: Housing (Question No. 5542)|1|
+|AUSTRALIAN INSTITUTE OF MAKINE SCIENCE BILL 1972: Second Reading|1|
+|QUESTION: VIETNAM PEACE AGREEMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Air Force Personnel (Question No. 3225)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Purchases Overseas (Question No. 207)|1|
+|CIVIL ASSISTANCE TO INDONESIA: Ministerial Statement|1|
+|QUESTION: DRAFT TERRITORIAL CRIMINAL CODE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Anthem Survey (Question No. 169)|1|
+|QUESTION: CREDIT CARDS|1|
+|ANTARCTIC DIVISION HEADQUARTERS AND AUSTRALIAN GOVERNMENT ANALYTICAL LABORATORIES: Reference to Public Works Committee|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Prime Minister's Overseas Mission (Question No. 1988)|1|
+|QUESTION: OIL SEARCH|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Supply: Expenditure (Question No. 4097)|1|
+|QUESTION: EDUCATION REPORTS AND COSTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Natural Resources Appraisal: Space Photography (Question No. 3705)|1|
+|OBSERVERS: Teachers Colleges: Education Ministers (Question No. 4668)|1|
+|QUESTION: TRADE UNION REPRESENTATION ON BOARDS, ETC|1|
+|QUESTION: AUSTRALIAN CAPITAL TERRITORY POLICE FORCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: War Service Homes (Question No. 4902)|1|
+|QUESTION: PROPOSED VISIT TO WASHINGTON BY PRIME MINISTER|1|
+|No: National Disaster Fund (Question No. 58)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Treaty Information (Question No. 873)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Registration of Newspapers (Question No. 822)|1|
+|QUESTION: GRANTS COMMISSION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Health Programs (Question No. 2824)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory: Sewerage Programs (Question No. 1318)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Minerals Council (Question No. 74)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Consumer Price Index (Question No. 772)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Conventions: Application to Cocos (Keeling) Islands (Question No. 6310)|1|
+|QUESTION: POLITICAL ASYLUM|1|
+|QUESTION: THE DEFENCE (CONDITIONS OF SERVICE) COMMITTEE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Indirect Taxation (Question No. 1345)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unemployment: New South Wales Districts (Question No. 1709)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australia and China: Diplomatic Recognition (Question No. 194)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Social Welfare Programs: Western Sydney (Question No. 1157)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Land Board (Question No. 731)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ordnance Factory Bendigo - Retrenchment of Employees (Question No. 853)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interdepartmental Committees (Question No. 660)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Model Food Legislation (Question No. 148)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Road Accidents: Cost to Commonwealth (Question No. 3724)|1|
+|No: Bundoora and Sunshine Hospitals (Question No. 422)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South East Asia Treaty Organisation (Question No. 965)|1|
+|PRIVY COUNCIL APPEALS ABOLITION BILL 1975 [No. 2]: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Superannuation Funds (Question No. 2088)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Research and Development (Question No. 105)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medical Benefits Organisations: Weekly Family Contributions (Question No. 4001)|1|
+|ANSWERS TO QUESTIONS: Baltic Republics (Question No. 2238)|1|
+|QUESTION: HOME BUILDING ASSISTANCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation: Migrants (Question No. 5890)|1|
+|QUESTION: BATHURST-ORANGE GROWTH CENTRE|1|
+|QUESTION: MR WILFRED BURCHETT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Vietnam and Cambodia: Ceasefire Violations (Question No. 1572)|1|
+|WESTERN AUSTRALIA: Commonwealth, State and Local Government Debts (Question No. 2318)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Vietnamese Refugees (Question No. 155)|1|
+|QUESTION: MR L K. MURPHY, Q.C|1|
+|QUESTION: FLOOD MITIGATION|1|
+|NUCLEAR EXPLOSION FALL-OUT|1|
+|QUESTION: SPEECH BY PRIME MINISTER IN BRUSSELS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pacific Islands Regiment (Question No. 2979)|1|
+|ANSWERS TO QUESTIONS: Department of Foreign Affairs (Question No. 1549)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commission: Delegations (Question No. 1184)|1|
+|TASK FORCES: Department of Labor and Immigration: Ministerial Press Releases (Question No. 1643)|1|
+|QUESTION: NORTHERN TERRITORY HEALTH SERVICES INQUIRY|1|
+|QUESTION: COMMONWEALTH EMPLOYEES (EMPLOYMENT PROVISIONS) ACT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Ethnic Broadcasting Advisory Council (Question No. 565)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pensioners: Electoral Division Statistics (Question No. 558)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Railways: Melbourne-Albury-Junee (Question No. 2701)|1|
+|INQUIRY INTO POVERTY: Ministerial Statement|1|
+|QUESTION: CONSUMER PROTECTION: SMALL CLAIMS TRIBUNAL|1|
+|QUESTION: EMPLOYMENT AND UNEMPLOYMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pensioner Medical Service Entitlement Cards (Question No. 4757)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rural Assistance (Question No. 1522)|1|
+|TASK FORCES: Personnel: Statutory Authorities (Question No. 314)|1|
+|WESTERN AUSTRALIA: Unemployment: Commonwealth Statistician's Information (Question No. 6392)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Citizenship (Question No. 249)|1|
+|QUESTION: STATEMENTS BY LEADER OF THE OPPOSITION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr Gyngell: Appointment to Australian Broadcasting Tribunal (Question No. 257)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naval Defence Act: Determinations (Question No. 4476)|1|
+|IN WITNESS WHEREOF, I, EDWARD GOUGH: Department of Foreign Affairs- Resources Sub-Section (Question No. 2723)|1|
+|INTERNATIONAL AFFAIRS: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Art Exhibition -South America (Question No. 1495)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Sick Leave (Question No. 312)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Open University (Question No. 2426)|1|
+|QUESTION: NUCLEAR TESTS BY FRANCE AND CHINA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Railways: Sydney Urban Area (Question No. 413)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Election Campaigns: Government Subsidy (Question No. 1746)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea Development Bank (Question No. 3993)|1|
+|QUESTION: PRICE FIXATION SCHEMES|1|
+|QUESTION: AID TO INDIA|1|
+|HOSPITALS DEVELOPMENT PROGRAM: Expenditure on Growth Centres (Question No. 1174)|1|
+|QUESTION: TERRORISTS|1|
+|WESTERN AUSTRALIA: State Motor Taxes (Question No. 5695)|1|
+|TASK FORCES: Men and Women: Promotions Appeal Committees (Question No. 1691)|1|
+|QUESTION: DEFENCE SECURITY: BULLETIN REPORT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ratification of Maritime Conventions (Question No. 820)|1|
+|PORTUGUESE TIMOR|1|
+|QUESTION: PARLIAMENTARY COMMITTEES: CROWN PRIVILEGE|1|
+|No: Heads of State: Inaugurations (Question No. 4716)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory: Housing (Question No. 737)|1|
+|TASMANIA: Melbourne-Wodonga Railway: Goods Tonnage (Question No. 6071)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian National Gallery Acquisitions Policy (Question No. 1824)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Costs of Land Development (Question No. 825)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Public Service: Salaries (Question No. 914)|1|
+|No: Cockatoo Island Dockyard: Firefighting (Question No. 1364)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Holdings Producing Palm Oil (Question No. 797)|1|
+|OBSERVERS: Apprenticeships (Question No. 4875)|1|
+|QUESTION: NAPALM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Whitlam Ministry: Overseas Visits (Question No. 2180)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian) Awards System (Question No. 1445)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Priorities Review Staff (Question No. 4)|1|
+|QUESTION: CHRONOLOGY OF GOVERNMENT ACTIONS ON TORRES STRAIT ISSUES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Films: Payments (Question No. 4037)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Education and Science: Questions (Question No. 3893)|1|
+|QUESTION: NUCLEAR ARMAMENTS: INDONESIA|1|
+|No: Foreign Language Migrants of School Age (Question No. 5524)|1|
+|APPROPRIATION BILL (No. 1)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Question No. 305)|1|
+|WESTERN AUSTRALIA: Conference of Ministers for Labour: Tradesmen's Certificates of Competency (Question No. 6389)|1|
+|QUESTION: RETAILERS' MARK-UP|1|
+|QUESTION: PINE GAP JOINT DEFENCE SPACE RESEARCH FACILITY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service Board: Placement of Aborigines (Question No. 34)|1|
+|QUESTION: FOUR-WHEEL DRIVE VEHICLES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Travel to Singapore (Question No. 2301)|1|
+|PUBLICITY ADVISORY COMMITTEE ON EDUCATION IN ROAD SAFETY: Private International Law (Question No. 2332)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commissions, Committees of Inquiry and Task Forces (Question No. 3178)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Marriage of Minors (Question No. 569)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral Reform (Question No. 427)|1|
+|QUESTION: PRICES REFERENDUM|1|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Priorities Review Staff: Membership (Question No. 2665)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital and Medical Benefits Organisations (Question No. 1429)|1|
+|ANSWERS TO QUESTIONS: Bureau of Roads and Bureau of Transport Economics (Question No. 2172)|1|
+|ANSWERS TO QUESTIONS: Russian Fleet in Indian Ocean (Question No. 1801)|1|
+|QUESTION: AUSTRALIAN SECURITY INTELLIGENCE ORGANISATION DOCUMENT|1|
+|QUESTION: PLAGUE LOCUSTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ships, Aircraft and Ammunition: Payments (Question No. 3633)|1|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Government Reports: Publication (Question No. 2586)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Registered Unemployed: Western Sydney (Question No. 1162)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ambassador to People's Republic of China (Question No. 372)|1|
+|ROAD TRAFFIC ACCIDENTS: Immigration: United States (Question No. 3340)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taiwanese Visitors (Question No. 436)|1|
+|QUESTION: OBJECTION TO RULING|1|
+|RECIPIENTS OF DEVALUATION COMPENSATION IN RESPECT OF MANUFACTURED EXPORTS: Shipbuilding: Fire Fighting and Prevention Procedures (Question No. 840)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Exhibitions (Question No. 3991)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pre-School Funding (Question Na 1833)|1|
+|QUESTION: DIRECTORY OF SUPPORT SERVICES TO WOMEN|1|
+|QUESTION: SHIPPING SERVICE TO DARWIN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interdepartmental Committees (Question No. 964)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Staff Establishments (Question No. 679)|1|
+|GROUP HOMES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospitals: Nimmo Committee Recommendations (Question No. 2433)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Area Improvement Program: Victoria (Question No. 1367)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Aid: Western Samoa (Question No. 385)|1|
+|QUESTION: UNION BAN ON FRENCH SHIPPING|1|
+|INVALID PENSIONERS REJECTED FOR REHABILITATION: Interdepartmental Committees: Welfare Policy (Question No. 1460)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: War Service Homes: Waiting Period (Question No. 1052)|1|
+|QUESTION: PRICES AND WAGES FREEZE: PRIMARY PRODUCTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Travel Agents: Licensing (Question No. 6222)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Superannuation Funds (Question No. 4035)|1|
+|NORTHERN TERRITORY ADMINISTRATION: Conciliation and Arbitration: Annual Report (Question No. 2780)|1|
+|QUESTION: ADVANCE TO THE TREASURER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: Sewerage Programs (Question No. 1314)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Road Transport (Question No. 640)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Uranium Mining Companies (Question No. 2306)|1|
+|QUESTION: GREEK PARLIAMENTARIANS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Building Projects (Question No. 2718)|1|
+|QUEENSLAND: Mental Health Institutions (Question No. 1283)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Export Milk Products: Bacterial Contamination (Question No. 1144)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Queensland Broadcast No. 17 (Question No. 2960)|1|
+|QUESTION: HONOURABLE MEMBER'S VISIT TO RHODESIA|1|
+|UNIT: Public Service: Decentralisation (Question No. 4842)|1|
+|IMPUTATION AGAINST A PUBLIC SERVANT: Ministerial Statement|1|
+|QUESTION: HEALTH PAMPHLETS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fuel Tax Finance (Question No. 209)|1|
+|QUESTION: TERRITORIAL SEA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sport: Taiwan (Question No. 4410)|1|
+|QUESTION: AUSTRALIA AND PAPUA NEW GUINEA BORDER- GREAT BARRIER REEF|1|
+|QUESTION: AUSTRALIAN INDUSTRY DEVELOPMENT CORPORATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interdepartmental Committees (Question No. 2247)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Equal Pay: New South Wales and Victoria (Question No. 1281)|1|
+|MAXIMUM REPAYMENT TERM: Aviation: Fokker Friendship Aircraft (Question No. 838)|1|
+|QUESTION: GOVERNMENT ECONOMIC MEASURES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian National Line (Question No. 3714)|1|
+|ACT. - $1,640: Canberra Community Hospital: Nursing Aides (Question No. 347)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Archives (Question No. 778)|1|
+|QUESTION: NUCLEAR WEAPONS|1|
+|QUESTION: MUNICIPAL AUTHORITIES: FINANCE|1|
+|QUESTION: MINERAL RESOURCES|1|
+|QUESTION: ADVERTISING BY THE INSURANCE INDUSTRY|1|
+|QUESTION: MERINO RAM'S EXPORT BAN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Diplomatic Missions and Consular Posts (Question No. 2977)|1|
+|AUSTRALIAN BROADCASTING COMMISSION: Australian Transport Advisory Council (Question No. 6498)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Official Residences (Question No. 1136)|1|
+|QUESTION: ROYAL AUSTRALIAN NAVY PATROL BOATS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Joint Hospital Works Councils (Question No. 1946)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Health Insurance Organisations (Question No. 1204)|1|
+|OVERSEAS CONTROL - MANUFACTURING SECTOR: Decentralisation: Officials Committee Meetings (Question No. 5724)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: War Service Homes (Question No. 2447)|1|
+|STATEMENTS, ETC., ARISING FROM MEETING BETWEEN AUSTRALIAN GOVERNMENT AND STATE GOVERNMENT MINISTERS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Armed Forces: Civilian Substitution (Question No. 1310)|1|
+|AUSTRALIAN COUNCIL FOR THE ARTS: Report and Ministerial Statement|1|
+|QUESTION: NUCLEAR NON-PROLIFERATION TREATY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Forces Retirement Benefits Act (Question No. 642)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Bank Investments (Question No. 1261)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South Sea Islanders (Question No. 1535)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Lease of Business and Industrial Sites (Question No. 172)|1|
+|QUESTION: UNIFORM COMPANY LEGISLATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Local Government Authorities (Question No. 2147)|1|
+|PROPOSED AMENDMENTS: Fiji: Protection of Industries (Question No. 1322)|1|
+|QUESTION: EUROPEAN COMMON MARKET|1|
+|ROAD TRAFFIC ACCIDENTS: Medical Services: Costs (Question No. 3392)|1|
+|QUESTION: AUSTRALIAN MINERALS COUNCIL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service Board: Minister Responsible (Question No. 1687)|1|
+|CENSORSHIP: Petition|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Local Government Authorities (Question No.5546|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Appointment of Women (Question No. 97)|1|
+|APPROPRIATION BILL (No. 1) 1970-71: Second Reading (Budget Debate)|1|
+|WHITLAM GOVERNMENT: FOREIGN POLICIES: Discussion of Matter of Public Importance|1|
+|MANZCP: Holsworthy Artillery Range (Question No. 1416)|1|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Ermolenko (Question No. 2654)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Secondary Scholarships (Question No. 1349)|1|
+|QUESTION: NEW BUSINESS AFTER 11 P.M|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: High Court of Australia: Appeals (Question No. 136)|1|
+|QUESTION: NORTH QUEENSLAND FLOODS: RAAF|1|
+|QUESTION: SEPTEMBER QUARTER DEFICIT|1|
+|RETIREMENT OF FIRST PARLIAMENTARY COUNSEL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Wrecked Shipping (Question No. 6051)|1|
+|ANSWERS TO QUESTIONS: Overseas Loan Raisings (Question No. 3273)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Diplomats: Uniforms (Question No. 834)|1|
+|QUESTION: TRADE WITH JAPAN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women and Politics Conference (Question No. 2995)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Constitution Referenda: Territory Residents Voting Rights (Question No. 1192)|1|
+|QUESTION: AUSTRALIAN CONSTITUTIONAL CONVENTION|1|
+|QUESTION: MEETING OF THE PACIFIC BASIN ECONOMIC COUNCIL|1|
+|IMMEDIATE STEPS|1|
+|QUESTION: PROCEEDINGS UNDER MATRIMONIAL CAUSES ACT 1959-1973|1|
+|QUESTION: WHITLAM MINISTRY: GIFTS|1|
+|QUESTION: ALBURY-WODONGA|1|
+|AUSTRALIA/WEST COAST NORTH AMERICA TRADE: International Labour Organisation Convention No. 94: Applications to Commonwealth Contracts (Question No. 4014)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Public Servants: Four  Weeks Annual Leave (Question No. 6)|1|
+|COMMUNIQUES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mutual Hospital Association Limited (Question No. 1763)|1|
+|SUSPENSION OF STANDING ORDERS: Second Reading|1|
+|PREFERENCES STATISTICAL TABLES-EXPLANATORY NOTES: Tourism Development Grants (Question No. 1255)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service (Question No. 2781)|1|
+|QUESTION: LOCAL GOVERNMENT FINANCES: CONSTITUTIONAL CONVENTION|1|
+|CIVILIAN EMPLOYEES IN THE CONSTRUCTION INDUSTRY BY STATE FOR EACH MONTH SINCE: Energy Conservation (Question No. 752)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Postal Department: Transport of Mails (Question No. 4764)|1|
+|QUESTION: PROJECTED INDUSTRIAL LEGISLATION: SELECT COMMITTEE OR ROYAL COMMISSION|1|
+|QUESTION: VIETNAM ELECTIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Overseas Trade: Grants (Question No. 2009)|1|
+|GOVERNMENT DEPARTMENTS AT 4 DECEMBER 1973: Department of Urban and Regional Development|1|
+|QUESTION: CONFERENCE ONINDO-CHINA|1|
+|QUESTION: PRICES AND WAGES FREEZE: CONCILIATION AND ARBITRATION COMMISSION JUDGMENT|1|
+|QUESTION: AUSTRALIAN NATIONAL LINE OPERATIONS IN QUEENSLAND: TRANS-AUSTRALIA AIRLINES OPERATIONS IN WESTERN AUSTRALIA|1|
+|QUESTION: CONSTITUTIONAL REFORM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medibank Hospital Patients: Pensioner Medical Service (Question No. 628)|1|
+|QUESTION: FREEDOM OF INFORMATION LEGISLATION|1|
+|COMMITTEE OF PRIVILEGES: Thursday, 9 December 1971|1|
+|SA: Deportations to Yugoslavia (Question No. 624)|1|
+|CONSTITUTION ALTERATION (INCOMES) BILL 1973: Second Reading|1|
+|QUESTION: CYPRUS: COUP D'ETAT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Religious Organisations (Question No. 256)|1|
+|TERRITORIAL SEA AND CONTINENTAL SHELF|1|
+|QUESTION: RESALE PRICE MAINTENANCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: United States Consulate General, Melbourne: Riot Laws (Question No. 841)|1|
+|QUESTION: AUSTRALIAN BROADCASTING COMMISSION: SENATE ELECTION CAMPAIGN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Broadcasting Commission: Staff and Program Cuts (Question No. 258)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Motor Cars: Bumper Bars (Question No. 5435)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Inter-State Commission (Question No. 517)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sir William Gunn: Overseas Visits (Question No. 4752)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Consultants: Defence Department (Question No. 5814)|1|
+|AUSTRALIA'S EXTERNAL AID: Conclusion|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Biological Weapons Convention (Question No. 1703)|1|
+|PROPOSED AMENDMENTS: Fiji: Australian Freehold Land Possession (Question No. 1323)|1|
+|QUESTION: RIVERINA RAILWAY RATES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Housing Loans: Interest Rates (Question No. 126)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Convention No. 32: Application in Australian States (Question No. 4335)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Inter-departmental Committee (Question No. 1474)|1|
+|TASMANIA: Police (Question No. 2821)|1|
+|CONSTITUTION ALTERATION (SIMULTANEOUS ELECTIONS) BILL: Suspension of Standing Orders: Third Reading|1|
+|TASMANIA: Papua New Guinea: Airline Employees (Question No. 5751)|1|
+|QUESTION: INSTITUTE OF CRIMINOLOGY|1|
+|QUESTION: NATIONAL RURAL 'BANK|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Reserve Bank Board (Questran No. 4617)|1|
+|QUESTION: MINISTERIAL STAFF|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Legal Aid (Question No. 187)|1|
+|QUESTION: HONOURABLE MEMBER FOR LALOR|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: The Environment: Non-Returnable Containers (Question No. 5041)|1|
+|ANSWERS TO QUESTIONS: Rainforest (Question No. 3089)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: East Timor (Question No. 807)|1|
+|QUESTION: PRIME MINISTER'S VISIT OVERSEAS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Assistance to Working Women's Centres (Question No. 265)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radiation Tests (Question No. 443)|1|
+|QUESTION: PORTUGUESE TIMOR-OPPOSITION STATEMENTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Reports: Cost (Question No. 2794)|1|
+|QUESTION: OPEN GOVERNMENT|1|
+|QUESTION: TREASURY PAPERS|1|
+|EXCISE TARIFF BILL (No. 2) 1972: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ravensthorpe: Television Reception (Question No. 1928)|1|
+|QUESTION: COMMENTS BY MINISTER FOR HEALTH ON SUGAR|1|
+|QUESTION: NATION AL DISASTER FUND|1|
+|UNITED STATES DEPARTMENT OF HEALTH, EDUCATION, AND WELFARE: Committee on Overseas Professional Qualifications (Question No. 2827)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interest Payments (Question No. 1393)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Convention No. 107: Discussion with Aboriginal Affairs Council (Question No. 877)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tomato Growers: Flood Losses (Question N». 279)|1|
+|WESTERN AUSTRALIA: Pre-School Education (Question No. 2326)|1|
+|QUESTION: RECIPIENTS OF UNEMPLOYMENT BENEFIT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Allegations Against Police (Question No. 2027)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 2948)|1|
+|QUESTION: CANBERRA MAGISTRATE|1|
+|CSIRO: Education: Grants to SCEGGS and Argyle School, Goulburn (Question No. 1646)|1|
+|WESTERN AUSTRALIA: Snowy Mountains Authority (Question No. 6041)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overtime Payments (Question No. 1844)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Female Administration Staff (Question No. 578)|1|
+|GRANTS COMMISSION BILL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australia: Diplomatic Privilege (Question No. 750)|1|
+|QUESTION: LEASE OF MAJOR TRANSPORT CAPITAL EQUIPMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sewerage Backlog (Question No. 484)|1|
+|QUESTION: INTER-STATE COMMISSION|1|
+|COMMONWEALTH ELECTORAL BILL 1972: Second Reading|1|
+|QUESTION: REGIONAL EMPLOYMENT DEVELOPMENT SCHEME AND MEDIBANK|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medical Services (Question No. 3685)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Wheat Sale to China (Question No. 3179)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Punishment of Offenders (Question No. 1032)|1|
+|QUESTION: POVERTY|1|
+|SUPERPHOSPHATE BOUNTY: Discussion of Matter of Public Importance|1|
+|QUESTION: DOCUMENT: ALLEGATION OF CONSPIRACY|1|
+|CONSTITUTION ALTERATION (SIMULTANEOUS ELECTIONS) BILL 1974|1|
+|TOTAL COST OF ABOVE ASSIGNMENTS $ 1 29,636: Ministerial Councils: Contact with States (Question No. 46)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education Council (Question No. 3653)|1|
+|QUESTION: LAWS OF THE AUSTRALIAN CAPITAL TERRITORY|1|
+|QUESTION: DEFENCE: LAVARACK BARRACKS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Burdekin Project Committee Report (Question No. 1526)|1|
+|DEATH OF THE HONOURABLE R. F. X. CONNOR, M.P|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Acts of Parliament: Annual Volumes (Question No. 242)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: North-South Highway (Question No. 1973)|1|
+|QUESTION: PACIFIC BASIN ECONOMIC COUNCIL: VISIT OF MR LI|1|
+|PUBLIC SERVICE BILL 1973: Second Reading|1|
+|QUESTION: NATIONAL SERVICE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Coal: Exports and Ownership (Question No. 6116)|1|
+|ROYAL STYLE AND TITLES BILL 1973: Third Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory Ordinances (Question No. 2482)|1|
+|QUESTION: INTERNATIONAL WOMEN'S YEAR|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Grants (Question No. 51)|1|
+|MR NIGEL BOWEN, Q.C|1|
+|QUESTION: MERINO RAM EXPORT BAN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Conventions: Inapplicability to Papua New Guinea (Question No. 4336)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Voluntary Organisations (Question No. 1433)|1|
+|OBSERVERS: Electoral: Voting Age (Question No. 4117)|1|
+|CSIRO: Government Purchases Overseas (Question No. 1504)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Trips: Whitlam Ministry (Question No. 193)|1|
+|QUESTION: FRASER MINISTRY: PECUNIARY INTERESTS|1|
+|TASK FORCES: Prices Justification Tribunal: Prisoners of War Trust Fund (Question No. 1543)|1|
+|OBSERVERS: Qantas: Financial Directive (Question No. 4483)|1|
+|QUESTION: JOINT STANDING COMMITTEE ON THE NEW AND PERMANENT PARLIAMENT HOUSE|1|
+|OVERSEAS CONTROL - MANUFACTURING SECTOR: Qantas Airways Ltd: Financial Directive (Question No. 5483)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Handmade Silver Goods and Pottery: Sales Tax (Question No. 1254)|1|
+|VICTORIA: School Dental Services (Question No. 104)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: British Foreign Awards Regulations (Question No. 6028)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cocos (Keeling) Islands: Aircraft Stop-overs (Question No. 12)|1|
+|QUESTION: EDUCATION: RECURRENT PAYMENTS TO INDEPENDENT SCHOOLS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Parliamentary Functions (Question No. 1410)|1|
+|FAMILY LAW BILL: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Charges (Question No. 4055)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hang Gliding (Question No. 659)|1|
+|COLLEGES OF ADVANCED EDUCATION: Capital Territory (Question No. 5468)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Handicapped Children (Question No. 4337)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Tola! Cocoa Project (Question No. 4456)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Convention on the Continental Shelf (Question No. 2339)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cultural Agreements (Question No. 1152)|1|
+|QUESTION: BUDGET DEFERRAL|1|
+|NATIONAL ANTHEM POLL|1|
+|QUESTION: TOURISM|1|
+|QUESTION: DEFENCE EXPENDITURE|1|
+|ANSWERS TO QUESTIONS: Department of Foreign Affairs: Administrative Arrangement Order (Question No. 2712)|1|
+|QUESTION: NATIONAL REHABILITATION AND COMPENSATION SCHEME|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Money Boar (Question No. 5282)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Milk Products: Bacterial Contamination (Question No. 1750)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Productivity Improvement (Question No. 1962)|1|
+|QUESTION: NATURAL GAS SUPPLIES|1|
+|QUESTION: INFLATION: PRICES AND INCOMES REFERENDUMS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Research Grants for the Handicapped (Question No. 1405)|1|
+|QUESTION: MOTOR VEHICLE TAX|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea Act: Administrator's Instructions (Question No. 157)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Waterfront: Working Equipment and Conditions (Question No. 1194)|1|
+|QUESTION: ADJOURNMENT DEBATE|1|
+|QUESTION: WANT OF CONFIDENCE MOTION|1|
+|NATIONAL HEALTH BILL 1970|1|
+|QUESTION: IMMIGRANTS: NATIONAL SERVICE|1|
+|POWER OVER PRICES AND INCOMES|1|
+|QUESTION: MINING EXPLORATION LICENCES|1|
+|PETITIONS: Means Test|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medical and Hospital Benefits Organisations: Reserves (Question No. 2791)|1|
+|QUESTION: LEADER OF THE OPPOSITION|1|
+|QUESTION: INFLATION: IMPLICIT DEFLATOR|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Development (Question No. 5793)|1|
+|S $: Department of Health: Payments to Connair Pty Ltd (Question No. 986)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Non-Government Schools (Question No. 5820)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interdepartmental Committees (Question No. 3601)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital Planning Bureau (Question No. 1945)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Regent Theatre, Melbourne (Question No. 325)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: United Nations Educational, Scientific and Cultural Organisation: Conventions (Question No. 119)|1|
+|QUESTION: INTERNATIONAL RELATIONS: DR KISSINGER'S LETTER|1|
+|REPORTS TABLED BY PRESENT GOVERNMENT ON INQUIRIES INSTITUTED BY THE PREVIOUS GOVERNMENT|1|
+|QUESTION: ENTRY PERMIT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Uniform Poisons Legislation (Question No. 4011)|1|
+|QUESTION: MINERALS AND ENERGY POLICY|1|
+|QUESTION: ARAB MONEY FOR ELECTION PURPOSES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Work Force (Question No. 3545)|1|
+|QUESTION: INTERRUPTION TO PARLIAMENTARY BROADCAST|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sewerage Backlog (Question No.1960)|1|
+|ANSWERS TO QUESTIONS: Postal Institute: Travel Concessions (Question No. 2450)|1|
+|QUESTION: WESTERN AUSTRALIA: ADDITIONAL ELECTORATE|1|
+|QUESTION: BORROWINGS BY THE MINISTER FOR MINERALS AND ENERGY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Insurance Investments: City Mortgages (Question No. 4269)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Constitutional Monarchy (Question No. 656)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: The Philippines: Disaster Relief (Question No. 6244)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interpreters and Translators (Question No. 791)|1|
+|QUESTION: INTERNATIONAL COURT OF JUSTICE; FRENCH NUCLEAR TESTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cost of Pensions Paid Overseas (Question No. 5391)|1|
+|QUESTION: OFF-SHORE MINING|1|
+|NORTHERN TERRITORY: Taxation: Works of Art (Question No. 1695)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Income Tax: Overseas Dependants and Expenditures (Question No. 4521)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cyclone Damage: Compensation (Question No. 254)|1|
+|QUESTION: PRIVATE USE OF AIR BASE|1|
+|APPROPRIATION BILLS: EFFECTS OF DEFERRAL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea Public Service: Appeal Against Promotion (Question No. 932)|1|
+|COMMISSIONS OF INQUIRY, COMMITTEES, TASK FORCES REPORTING TOTHE GOVERNMENT: Technical and Further Education - Australian Committee|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Forces Retirement Benefits (Question No. 41)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Visits lo Mainland China (Question No. 2067)|1|
+|WESTERN AUSTRALIA: Migrants: Advertising Campaigns (Question No. 6387)|1|
+|DEATH PENALTY ABOLITION BILL 1972: Second Reading|1|
+|QUESTION: PUBLIC SERVICE STAFF CEILINGS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Convention No. Ill (Question No. 4111)|1|
+|AUSTRALIAN BROADCASTING COMMISSION: Wrecked Ferries (Question No. (478)|1|
+|CSIRO: Education (Question No. 3389)|1|
+|QUESTION: POSSIBILITY OF RURAL MINI-BUDGET|1|
+|QUESTION: PURCHASE OF AIRCRAFT FOR CAMBODIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Continental Shelves: Indonesia (Question No. 2340)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: World Peace Council (Question No. 3217)|1|
+|QUESTION: TASMANIAN PROJECTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rhodesians: Entry to Australia (Question No. 562)|1|
+|ANSWERS TO QUESTIONS: Expenditure Review Committee (Question No. 2447)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory: Housing (Question No. 736)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: Higher Education (Question No. 2484)|1|
+|QUESTION: PRIME MINISTER: RECORDING OF INTERVIEWS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Handbook for Women Workers' (Question No. 95)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service Statistics (Question No. 988)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South Africa: Sporting Contacts (Question No. 878)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Federal-State Court Building (Question No. 4718)|1|
+|NORTHERN TERRITORY ADMINISTRATION: Child Welfare (Question No. 2971)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Prime Minister's Overseas Visits (Question No. 3179)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mururoa Atoll: Inspection by Australian Scientists (Question No. 493)|1|
+|INDUSTRIES ASSISTANCE COMMISSION BILL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS: Works of Art: Acquisitions (Question No. 1659)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Brisbane Sewerage Loan (Question No. 909)|1|
+|QUESTION: COMMONWEALTH CITIZENS: COMPULSORY VOTING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Development Assistance Agency (Question No. 1430)|1|
+|PRICES JUSTIFICATION TRIBUNAL ACT 1973|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: World Tourist Organisation (Question No. 5509)|1|
+|QUESTION: THE BUDGET|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Rhodesia (Question No. 5521)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Charges: Local Call Access to Metropolitan Zones (Question No. 167)|1|
+|No: Former Portuguese Possessions (Question No. 880)|1|
+|QUESTION: UNEMPLOYMENT BENEFIT: ELIGIBILITY|1|
+|MEETING OF AUSTRALIAN GOVERNMENT AND STATE GOVERNMENT MINISTERS|1|
+|QUESTION: VISIT OF FOREIGN MINISTER OF INDONESIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sankey Legal Proceedings (Question No. 1485)|1|
+|OBSERVERS: Diplomatic Missions: Australia and China (Question No. 4259)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Federal-State Ministerial Councils and Advisory Committees (Question No. 228)|1|
+|CSIRO: Inquiry on Public Libraries (Question No. 1146)|1|
+|NORTHERN TERRITORY ADMINISTRATION: Universities: Quotas (Question No. 2592)|1|
+|QUESTION: COMMONWEALTH EMPLOYMENT SERVICE- NORGARD REPORT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Allocation of Radio and Television Time to Political Parties- Northern Territory (Question No. 164)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Government Appointments (Question No. 509)|1|
+|PUBLICITY ADVISORY COMMITTEE ON EDUCATION IN ROAD SAFETY: Slovak Independence (Question No. 2796)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pharmaceutical Benefits (Question No. 1205)|1|
+|QUESTION: USTASHA MOVEMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fisheries Research (Question No. 1473)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory: Consumer Protection Authority (Question No. 749)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Private Employee Superannuation Funds (Question No. 1893)|1|
+|FRASER GOVERNMENT: Want of Confidence Motion|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Projects (Question No. 59)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Transport: Appointment of Permanent Head (Question No. 1012)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taiwanese Fishing Fleets (Question No. 350)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Developing Countries: Net Private Capital Flows (Question No. 4030)|1|
+|QUESTION: SENATE REPRESENTATION|1|
+|TASK FORCES: Prime Minister's Personal Staff (Question No. 1894)|1|
+|PERSONAL EXPLANATIONS: Dear Dr Patterson,|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Housing Agreements (Question No. 6308)|1|
+|DESIGNERS GRANTED SUBSIDY OF $400: Mr F. S. Stephens, Leathergoods Manufacturer: Cost Increases Affecting Defence Contracts (Question No. 1393)|1|
+|AUSTRALIAN ECONOMY: Ministerial Statement|1|
+|QUESTION: WINTER REPORT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines, Queensland (Question No. 136)|1|
+|QUESTION: TASMANIA|1|
+|QUESTION: POWER OF PARLIAMENT AND THE EXECUTIVE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Affairs Council (Question No. 3327)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Staffs: Replies to Correspondence (Question No. 374)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Abolition of Fees (Question No. 3641)|1|
+|WESTERN AUSTRALIA: Housing Outlays (Question No. 677)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migration Agreement with Italy (Question No. 4983)|1|
+|QUESTION: RECEIPTS DUTIES LEGISLATION|1|
+|NORTHERN TERRITORY: Gulf of California: Territorial Sea (Question No. 1399)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Christmas Island (Question No. 1311)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Community Health Centres (Question No. 631)|1|
+|BUILDING AND CONSTRUCTION INDUSTRIES: Welfare Housing|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Home Nursing Organisations: Nurses and Subsidies (Question No. 1165)|1|
+|QUESTION: INCOME TAX PROPOSALS|1|
+|QUESTION: EUROPEAN ECONOMIC COMMUNITY-BILATERAL AGREEMENT WITH AUSTRALIA|1|
+|GENERAL ASSEMBLY OF THE UNITED NATIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration Ministers Conference: Workers Compensation (Question No. 1457)|1|
+|TRADE UNION TRAINING PROGRAM: Official Gifts (Question No. 3410)|1|
+|ESTIMATED COST TO REVENUE OF ALLOWING DEDUCTIONS IN RESPECT OF 1967-68 . INCOME YEAR ON ACCOUNT OF: Norfolk Island: Company Registrations (Question No. 1480)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Consulate-General, Los Angeles (Question No. 435)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Qantas Flights: Defence Personnel (Question No. 6088)|1|
+|QUESTION: NURSING HOMES|1|
+|QUESTION: TREATY WITH THE EUROPEAN ECONOMIC COMMUNITY|1|
+|QUESTION: VIETNAM: UNITED NATIONS INSPECTION TEAMS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Reciprocal Medical and Hospital Care (Question No. 1931)|1|
+|AUSTRALIA/WEST COAST NORTH AMERICA TRADE: Armed Forces: Re-engagements (Question No. 3629)|1|
+|RAAF: Namibia: United Nations Trust Fund (Question No. 3262)|1|
+|QUESTION: RESIGNATION OF MINISTER FOR MINERALS AND ENERGY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South Pacific Commission and Conference (Question No. 239)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea - United Nations Resolutions (Question No. 156)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Police Officers (Question No. 1099)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Workmen's Compensation Ordinance (Question No. 1690)|1|
+|TASMANIA: Interdepartmental Committees (Question No. 2591)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Treasurer's Pecuniary Interests (Question No. 1967)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Labor Government: Establishment of Committees and Commissions of Inquiry (Question No. 630)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory Police (Question No. 3419)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 2947)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cultural Agreements (Question No. 125)|1|
+|QUESTION: JOINT SITTING OF PARLIAMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medical Practitioners: Migration to Australia (Question No. 525)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: School Fees (Question No. 179)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Aid to Bangladesh (Question No. 816)|1|
+|HOSPITALS DEVELOPMENT PROGRAM: Wine: Alcohol Content (Question No. 108)|1|
+|QUESTION: EDUCATION: PER CAPITA GRANTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Armed Forces: Resignations of Officers (Question No. 6061)|1|
+|OBSERVERS: Importation of Railway Rails (Question No. 4769)|1|
+|QUESTION: DISCRIMINATION IN SPORT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Advertising Expenditure (Question No. 33)|1|
+|QUESTION: PRIVATE OVERSEAS VISITS BY OFFICIALS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pre-school Education: Expenditure (Question No. 1222)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Assistance Plan (Question No. 713)|1|
+|AWARDS OF VC, MC, DCM AND MM FOR SERVICE IN 1939-45 WAR: Defence Payments: Local and Overseas (Question No. 1403)|1|
+|FRASER CARETAKER GOVERNMENT: Want of Confidence Motion|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Colour Television (Question No. 2581)|1|
+|QUESTION: MINIMUM WAGE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory: Self-Government (Question No. 832)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Picture Theatre Lease, Port Moresby (Question No. 5755)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: East Timor (Question No. 811)|1|
+|SENATE ELECTION: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naturalisation (Question No. 2620)|1|
+|No: Permanent Interdepartmental Committees (Question No. 36)|1|
+|QUESTION: VISIT TO AUSTRALIA BY REPRESENTATIVES OF THE PROVISIONAL REVOLUTIONARY GOVERNMENT OF SOUTH VIETNAM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Duty and Private Interest- Sir Percy Spender (Question No. 433)|1|
+|OBSERVERS: Adult Rights (Question No. 3621)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australia-Free China Society' (Question No. 378)|1|
+|QUESTION: WOMEN'S AFFAIRS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Libraries (Question No. 797)|1|
+|QUESTION: TELEVISION COVERAGE OF VIETNAM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cot Deaths (Question No. 3288)|1|
+|QUESTION: OVERSEAS BORROWINGS|1|
+|ABORIGINAL LAND RIGHTS: Aboriginal Land Rights - Ministerial Statement, 23 February 1972|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Canberra College of Advanced Education (Question No. 2089)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Social Security Benefits to Overseas Recipients (Question No. 1226)|1|
+|WESTERN AUSTRALIA: Ross River Dam (Question No. 6555)|1|
+|QUESTION: CONSTITUTION ALTERATION LEGISLATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medical and Hospital Benefits Organisations: Election of Directors (Question No. 151)|1|
+|No: Diplomatic Missions: Incidents (Question No. 5517)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interdepartmental Committees (Question No. 3600)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unpublished Reports to Governments (Question No. 135)|1|
+|TASMANIA: Census: Superannuation (Question No. 2150)|1|
+|QUESTION: OIL POLLUTION OF THE SEA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Election Campaigns: Expenditure Limits (Question No. 1745)|1|
+|AUSTRALIA COUNCIL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Orders: New Zealand (Question No. 6058)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Families of Australian Government Officials: Travel (Question No. 924)|1|
+|NORTHERN TERRITORY ADMINISTRATION: Input-Output Tables (Question No. 2973)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Policy Announcements (Question No. 403)|1|
+|QUESTION: UNITED STATES DEFENCE ALERT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Development Assistance (Question No. 7)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Universities: Post-Graduate Students (Question No. 5836)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Death of Mr Steven Biko (Question No. 1586)|1|
+|IPEC: Higher Degree Students: Foreign Students (Question No. 711)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Uninhabited Islands: Torres Strait (Question No. 1945)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital Benefits Organisations: Contributions (Question No. 565)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Prosecutions: Attorney-General's Consent (Question No. 139)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Retraining Scheme (Question No. 1276)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Provisional Revolutionary Government of South Vietnam (Question No. 835)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Adult Migrants (Question No. 2475)|1|
+|No: Nursing Homes (Question No. . 40(16)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Private Schools: Assistance (Question No. 4971)|1|
+|SCHEDULE 'B*: Aboriginal Affairs Council (Question No. 6100)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Zimbabwe (Question No. 1508)|1|
+|ADULTHOOD BILL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tourism: Ministerial Conferences (Question No. 3720)|1|
+|AUSTRALIAN BROADCASTING COMMISSION: Defence Equipment: Expenditure (Question No. 6053)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Canberra Airport (Question No. 1113)|1|
+|TEMPORARY ACCOMMODATION ALLOWANCE: Hospitals: Treatment of Pensioners (Question No.111)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Technical Scholarships (Question No. 1348)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nursing Homes Assistance (Question No. 1166)|1|
+|QUESTION: STANDARDISATION OF FIRE HOSE COUPLINGS|1|
+|QUESTION: TERTIARY ENROLMENTS|1|
+|PERSONAL EXPLANATION: Suspension of Standing Orders|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Transport Payments (Question No. 3698)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: Education (Question No. 1037)|1|
+|QUESTION: EDUCATION: GRANTS|1|
+|QUESTION: RETURNING MIGRANTS: ASSISTED PASSAGES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: University and College Admissions (Question No. 1344)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Women's Groups (Question No. 5)|1|
+|QUESTION: PETROLEUM AND MINERALS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Revenues (Question No. 3708)|1|
+|TASK FORCES: Crafts Board Grants (Question No. 1684)|1|
+|QUESTION: REPORT ON WELFARE AND HEALTH|1|
+|QUESTION: RELATIONS BETWEEN AUSTRALIA AND INDONESIA|1|
+|QUESTION: RHODESIA: AIRLINES|1|
+|QUESTION: COMMITTEE OF INQUIRY INTO RAILWAY PROJECTS|1|
+|AUSTRALIAN/STATE ADVISORY COMMITTEE TO STUDY WESTERN AUSTRALIAN AIRPORT REQUIREMENTS: Australian Government Departments: Restructuring (Question No. 889)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation Deductions: Housing Interest (Question No. 559)|1|
+|BLACKBURN|1|
+|QUESTION: MINERAL RESOURCES POLICY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Broken Mill Proprietary Co. Ltd: Prices Justification Tribunal (Question No. 1753)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Language Publications (Question No. 3318)|1|
+|INDONESIAN FISHERMEN|1|
+|QUESTION: ECONOMIC POLICY: PRESS REPORTS|1|
+|QUESTION: RE- ADMISSION OF MEMBER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear, Chemical and Bacteriological Warfare: Prohibition (Question No. 1227)|1|
+|QUESTION: SOUTH AUSTRALIA: WATER SUPPLY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telecom Employees Membership of Unions (Question No. 298)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: World Situation of Youth: Report (Question No. 700)|1|
+|QUESTION: WAGE CLAIMS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tuition Fees (Question No. 1030)|1|
+|QUESTION: NATIONAL MAPPING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Employees Compensation (Question No. 5547)|1|
+|QUESTION: MIGRANT UNEMPLOYMENT|1|
+|QUESTION: PASSPORTS TO RHODESIA|1|
+|QUESTION: AUSTRALIAN AMBASSADOR TO SOUTH VIETNAM|1|
+|QUESTION: INSURANCE OFFICES: ELECTION OF DIRECTORS|1|
+|QUESTION: INTERDEPARTMENTAL COMMITTEES: MEMBERSHIP|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Commonwealth Assistance Programmes (Question No. 3056)|1|
+|QUESTION: OIL SUPPLIES TO JAPAN: EFFECT ON AUSTRALIA|1|
+|QUESTION: REVEILLE' ARTICLE|1|
+|QUESTION: SANCTIONS AGAINST RHODESIA: AID TO MOZAMBIQUE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Censorship: Ministerial Conference (Question No. 5832)|1|
+|QUESTION: AUSTRALIAN PUBLIC SERVICE|1|
+|QUESTION: REGIONAL EMPLOYMENT DEVELOPMENT SCHEME|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: States Grants (Home Care) Act: Victoria (Question No. 2459)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Uniform Laws on Lifts and Cranes (Question No. 5792)|1|
+|QUESTION: ESTABLISHMENT OF AUSTRALIAN NEWSPAPER COMMISSION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rudolph Hess (Question No. 2930)|1|
+|RETIREMENT OF MR A. G. TURNER, C.B.E., CLERK OF THE HOUSE OF REPRESENTATIVES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women's Refuges: Queensland (Question No. 630)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth-State Financial Relations: Research Centre (Question No. 5250)|1|
+|A-: Tanzania (Question No. 345)|1|
+|AUSTRALIAN DEVELOPMENT ASSISTANCE AGENCY BILL 1974: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Prices Justification Tribunal (Question No. 421)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: China (Question No. 3671)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Georgi Ermolenko (Question No. 3072)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Stemetil Tablets: Pensioner Prescriptions (Question No. 1028)|1|
+|QUESTION: CHILDREN'S COMMISSION ACT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Census: Pensions (Question No. 2149)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Noise Levels (Question No. 6273)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cigarette Advertising (Question No. 5718)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Returns of Election Expenses (Question No. 85)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pharmaceutical Benefits: Australian Suppliers (Question No. 1435)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Salaries (Question No. 1010)|1|
+|QUESTION: ARMS FOR SOUTH AFRICA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospitals and Health Services Commission (Question No. 1062)|1|
+|QUESTION: NEWSPAPER ARTICLE|1|
+|QUESTION: AUSTRALIAN ECONOMY: ANTI-INFLATIONARY MEASURES|1|
+|COMMONWEALTH SCIENCE FACILITIES PROGRAMME: Papua New Guinea: Transport Department Employees (Question No. 6304)|1|
+|ADJOURNMENT: Alleged Misappropriation of Company Funds-Petrol Price Equalisation|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Art Exhibitions: Financial Assistance (Question No. 207)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tasmanian Beer and Cider: Freight Equalisation Assistance (Question No. 910)|1|
+|ADJOURNMENT: Migrant Workers- Industries Assistance Commission- Overseas Students- Beef Industry-Tourist Organisation|1|
+|DEATH OF MR ROBERT JOSHUA, M.C|1|
+|PERMANENT BUILDING SOCIETIES: Discussion of Matter of Public Importance|1|
+|TASMANIA: Government Revenues (Question No. 1668)|1|
+|PETITIONS: Social Services|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: France: Nuclear Tests (Question No. 6048)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Container Ships (Question No. 1444)|1|
+|No: Commonwealth Government: Art Possession (Question No. 1186)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Apprentices Ordinance 1948-1957 (Question Na 1710)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Homeless Persons Assistance Act (Question No. 995)|1|
+|WESTERN AUSTRALIA: International Labour Organisation Conventions: Application to Singapore (Question No. 6340)|1|
+|QUESTION: HANSARD|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pensioners: Western Sydney (Question No. 559)|1|
+|QUESTION: AUSTRALIAN BROADCASTING COMMISSION: BOYER LECTURES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Family Planning Program (Question No. 984)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Leases (Question No. 2386)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 2950)|1|
+|QUESTION: WORLD FOOD SHORTAGE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 1482)|1|
+|QUESTION: OFF-SHORE MINING CODE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Trust (Question No. 2309)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Vietnamese Refugees (Question No. 3263)|1|
+|REPORTS OF PUBLIC WORKS COMMITTEE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medical and Hospital Benefits Organisations: Annual Accounts and Statements (Question No. 150)|1|
+|QUESTION: TINPLATE|1|
+|AUSTRALIAN DEVELOPMENT ASSISTANCE AGENCY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Advancement: Payments (Question No. 493)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telecommunications Conference: Representation of the People's Republic of China (Question No. 5972)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Libraries: Report of Committee of Inquiry (Question No. 606)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Army: Tropical Civilian Clothing (Question No. 755)|1|
+|CAMBODIAN ROYAL FAMILY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital Benefits Organisations: Operating Expenses (Question No. 3680)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: University Fees (Question No. 1106)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Army: Expenditure on Recruitment Activities (Question No. 1312)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Judges and Magistrates (Question No. 957)|1|
+|LAW REFORM FOR THE AUSTRALIAN CAPITAL TERRITORY: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Port of Darwin: Bureau of Transport Economics Investigation (Question No. 1061)|1|
+|EDUCATION: Discussion of Matter of Public Importance|1|
+|QUESTION: TARIFF PROCEDURES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital and Allied Services Advisory Council (Question No. 4332)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Dental Health (Question No. 4843)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Transport to and from Tasmania (Question No. 1391)|1|
+|CONFERENCE OF AUSTRALIAN GOVERNMENT AND STATE GOVERNMENT MINISTERS 28-29JUNE 1973|1|
+|QUESTION: DC3 AIRCRAFT PURCHASES|1|
+|QUESTION: TARIFF ON TRUCK PARTS|1|
+|DEATH OF LORD CASEY|1|
+|GOVERNOR-GENERAL'S SPEECH: Suspension of Standing Orders|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Office Conventions Nos 87 and 98: Right to Organise (Question No. 6078)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Health: Handicapped Persons (Question No. 3591)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Arrivals and Departures (Question No. 632)|1|
+|QUESTION: DISCUSSIONS WITH QUEENSLAND PREMIER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr Massimino Del Prete: Transfer of Funds (Question No. 742)|1|
+|ORDINANCES ASSENTED TO BY THE ADMINISTRATOR TO WHICH AMENDMENTS WERE RECOMMENDED BY THE GOVERNOR-GENERAL: Freedom of Association (Question No. 2699)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Federal Judges (Question No. 5831)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral Expenses (Question No. 200)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth, State and Local Government Debts (Question No. 53)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: School Dental Scheme (Question No. 1169)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory Legislative Assembly: Transfer of Executive Power (Question No. 1036)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Woodchip Industry, Western Australia (Question No. 774)|1|
+|AUSTRALIAN INDUSTRY DEVELOPMENT CORPORATION BILL 1970: Second Reading|1|
+|QUESTION: ANNOUNCEMENT OF CABINET DECISIONS TO PARLIAMENT|1|
+|No: Australian Council of Social Service Proposals (Question No. 4091)|1|
+|QUESTION: DISASTER RELIEF TO THE SAHELIAN REGION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Members of Parliament: Travel to Southern Rhodesia (Question No. 1151)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Returned Services Leagues Pension Plan (Question No. 660)|1|
+|QUESTION: STRAIT OF MALACCA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Vietnam: Mine Casualties (Question No. 2455)|1|
+|QUESTION: TIMOR: PROPOSED STATEMENT BY PRIME MINISTER|1|
+|QUESTION: AIR TRAFFIC CONTROLLERS' STRIKE-PUBLIC SERVICE BOARD ADVERTISEMENTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Riverina Railway Rates (Question No. 6312)|1|
+|WAR SERVICE HOMES BILL 1971|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Libraries (Question No. 1145)|1|
+|QUESTION: CATTLE IMPORTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Health Benefits Organisations (Question No. 563)|1|
+|MONEY BILLS IN THE SENATE|1|
+|TASK FORCES: Market Forecasting (Question No. 1503)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Liquor Sales (Question No. 4406)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Boonah, Richmond and Yeppoon Hospitals (Question No. 421)|1|
+|QUESTION: SHARE MARKET: AUTOMOBILE INDUSTRY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Formal Votes (Question No. 820)|1|
+|QUESTION: NUCLEAR WASTE: DISPOSAL|1|
+|OBSERVERS: Victorian Police Files (Question No. 4274)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Regional Offices- Australian Legal Aid Office (Question No. 821)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Purchases Overseas (Question No. 1225)|1|
+|QUESTION: INSTITUTE OF MAKINE SCIENCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Atomic Energy (Question No. 1287)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Government Departments (Question No. 1201)|1|
+|QUESTION: TRADE UNION ORGANISATIONS|1|
+|B. TRUSTEES: Payment for Petroleum Products (Question No. 6105)|1|
+|QUESTION: WOMEN IN POLITICS: CONFERENCE|1|
+|REPORTS TABLED IN PARLIAMENT ON INQUIRIES INSTITUTED BY THE PRESENT GOVERNMENT|1|
+|No: Western Australian State Shipping Service (Question No. 1336)|1|
+|QUESTION: PRONUNCIATION OF 'KILOMETRE|1|
+|SALARIES (STATUTORY OFFICES) ADJUSTMENT BILL 1971|1|
+|TASMANIA: Commonwealth Secondary Scholarships (Question No. 5839)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Kalgoorlie Airport (Question No. 4786)|1|
+|MASTERMAN REPORT: Personal Explanation|1|
+|QUESTION: LADY GOWRIE CHILD CENTRE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Aid: Cook Islands (Question No. 387)|1|
+|QUESTION: GOVERNMENT OF SOUTH AFRICA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Workers' Compensation and Third Party Insurance Premiums (Question No, 1748)|1|
+|QUESTION: INDUSTRY: REINVESTMENT|1|
+|SCHEDULE: Airline Employees: Travel Concessions (Question No. 4773)|1|
+|No: Maunsell and Partners: Advice to Government (Question No. 70)|1|
+|QUESTION: TARIFF BOARD: PRICES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth-State Boards and Committees (Question No. 3602)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Health Insurance Contributions (Question No. 2789)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Insurance: Compulsory Third Party (Question No. 3725)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Council on Port Development and Marine Affairs (Question No. 6418)|1|
+|QUESTION: QUEENSLAND ELECTION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Adoption of Vietnamese Children (Question No. 135)|1|
+|QUESTION: FINGERPRINTING|1|
+|QUESTION: CONTROL OF PRICES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation: Education Expenses (Question No. 6033)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naturalisations: Local Government (Question No. 1458)|1|
+|QUESTION: SYDNEY|1|
+|QUESTION: PRIME MINISTER'S VISIT TO EUROPE|1|
+|TELEPHONE INSTALLATIONS: Discussion of Matter of Public Importance|1|
+|QUESTION: REDISTRIBUTION OF ELECTORATES|1|
+|QUESTION: AUSTRALIAN IMAGE ABROAD|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Flood Mitigation: New South Wales and Queensland (Question No. 1509)|1|
+|QUESTION: MERCHANT SERVICE GUILD: NOONGAH' INQUIRY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 2941)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australia Post Employees: Membership of Unions (Question No. 297)|1|
+|QUESTION: SOUTH VIETNAM: PRISONERS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Snowy Mountains Hydro-electric Authority (Question No. 77)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nation-wide Survey of Educational Needs (Question No. 2932)|1|
+|QUESTION: TAXATION: INDEXATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interdepartmental Committees (Question No. 2144)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral Divisions: Populations (Question No. 200)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Whaling (Question No. 80)|1|
+|ANSWERS TO QUESTIONS: South Pacific Meetings (Question No. 1977)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Conventions: Contracting States (Question No. 1935)|1|
+|NORTHERN TERRITORY: Developing Countries: Net Private Capital Flows (Question No. 1675)|1|
+|QUESTION: ROYAL COMMISSION ON PETROLEUM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Gollin Holdings Ltd: Health Program Payment (Question No. 922)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fraser Island (Question No. 177)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Investment Review Board (Question No. 1328)|1|
+|TASMANIA: Police (Question No. 2823)|1|
+|QUESTION: FINANCIAL CORPORATIONS ACT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Foreign Affairs: Fire Fighting Procedures (Question No. 1136)|1|
+|QUESTION: AUSTRALIAN NATIONAL LINE: QUEENSLAND PORTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth and Territory Laws (Question No. 2470)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Refuse Conversion (Question No. 1751)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Phnom Penh: Diplomatic Staff (Question No. 539)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Council of Commonwealth Public Service Organisations (Question No 468)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Foreign Affairs: Overseas Offices (Question No. 394)|1|
+|QUESTION: BEEF EXPORTS|1|
+|PERSONAL EXPLANATIONS: Parliament House, Canberra, A.C.T. 2600|1|
+|URANIUM: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Insurance Act (Question No. 2758)|1|
+|PETITIONS: Geneva Protocol - Chemical Warfare|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Income Security Review (Question No. 935)|1|
+|QUESTION: GOVERNMENT'S INTERNATIONAL POLICY|1|
+|WESTERN AUSTRALIA: Ministerial Starts: Electorate Work (Question No. 6316)|1|
+|QUESTION: COOGEE BY-ELECTION: NAZI UNIFORMS|1|
+|TASK FORCES: Australian National Gallery- Purchases (Question No. 1466)|1|
+|QUESTION: KARMEL COMMITTEE REPORT|1|
+|QUEENSLAND PARLIAMENT: Suspension of Standing Orders|1|
+|CIVILIAN EMPLOYEES IN THE CONSTRUCTION INDUSTRY BY STATE FOR EACH MONTH SINCE: Warrants to Enter and Search Premises (Question No. 674)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Investigation by Mr Justice Brennan of Affairs of Certain Companies (Question No. 160)|1|
+|NORTHERN TERRITORY: Papua and New Guinea: Education (Question No. 1817)|1|
+|No: Crown Privilege (Question No. 822)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Government Centres: Deferment (Question No. 208)|1|
+|PUBLICITY ADVISORY COMMITTEE ON EDUCATION IN ROAD SAFETY: United Nations Expenditure (Question No. 2345)|1|
+|QUESTION: STATEMENT BY THE LEADER OF THE AUSTRALIAN LABOR PARTY, MR E. G. WHITLAM, Q.C., M.P., PORT MORESBY: 17.1.1971|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Permits to Enter (Question No. 571)|1|
+|QUESTION: PAPUA NEW GUINEA- AUSTRALIAN BORDER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Assistance Plan: Western Sydney (Question No. 417)|1|
+|PLACES VISITED: Department of Productivity: Overseas Travel (Question No. 1028)|1|
+|QUESTION: RESEARCH ASSISTANCE TO PRIME MINISTER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 2946)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Superior Court (Question No. 1467)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Penal Administration (Question No. 1469)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Assistance to Lone Fathers (Question No. 1916)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unemployment: Aboriginals (Question No. 1747)|1|
+|QUESTION: SCHOOL FEES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Financial Corporations Act 1974 (Question No. 199)|1|
+|REDISTRIBUTION OF STATES INTO ELECTORAL DIVISIONS: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Poverty Report (Question No. 3289)|1|
+|WESTERN AUSTRALIA: Financial Agreements 1927 and- 1944 (Question No. 3387)|1|
+|QUESTION: EXPORT OF MERINOS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Census (Question No. 2327)|1|
+|QUESTION: INCOMES REFERENDUM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Conventions: Overseas Territories (Question No. 215)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Disposal of Surplus Commonwealth Goods (Question No. 932)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Coombs Task Force Report (Question No. 2)|1|
+|QUESTION: SCHOOL LIBRARIES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cockatoo Island Dockyard: Fire Protection Standards (Question No. 944)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Public Service: Flexi-time (Question No. 468)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Specialist Medical Practitioners: Recognition (Question No. 2785)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Houses (Question No. 711)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital Planning Bureau (Question No. 4008)|1|
+|ROAD TRAFFIC ACCIDENTS: Citizen Military Forces (Question No. 3153)|1|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Priorities Review Staff: National Compensation (Question No. 2667)|1|
+|TRAVELLING ALLOWANCES FOR MEMBERS OF PARLIAMENT: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: University: Albury-Wodonga (Question No. 6496)|1|
+|QUESTION: PAPUA AND NEW GUINEA COMMITTEE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Visits (Question No. 1792)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Armed Services: Re-engagement of Servicemen (Question No. JS93)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medical Benefits Organisations (Question No. 5908)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Oaths and Affirmations: Federal Executive Council and Privy Council (Question No. 1139)|1|
+|TELEVISION PROGRAMME THIS DAY TONIGHT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Drug Abuse (Question No. 908)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Emergency Relief (Special Program) (Question No. 851)|1|
+|QUESTION: TARIFF BOARD: FARM MACHINERY|1|
+|QUESTION: EDUCATION: ILLITERACY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radio and Television: Senate Campaign (Question No. 2529)|1|
+|QUESTION: LIBERAL PARTY LEADERSHIP|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Film Production (Question No. 72)|1|
+|QUESTION: EDUCATION: UNIVERSITIES IN > COUNTRY CENTRES|1|
+|QUESTION: CONTROL OF PRICES AND WAGES|1|
+|ANSWERS TO QUESTIONS: Commonwealth Heads of Government Meeting: Prime Minister's Party (Question No. 2487)|1|
+|BUDGET BILLS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fruit Industry: Migrant Labour (Question No. 1018)|1|
+|QUESTION: TAIWAN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Eight Nation Group (Question No. 2746)|1|
+|COMMONWEALTH POLICE: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cocos (Keeling) Islands (Question No. 2721)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Settlement of International Disputes (Question No. 1176)|1|
+|KEEP OUT OF REACH OF CHILDREN IF SWALLOWED SEEK MEDICAL ADVICE AVOID CONTACT WITH FOOD DO NOT USE IN FOOD PREPARATION OR FOOD STORAGE AREAS DO NOT USE IN NURSERIES AND SICK ROOMS WHERE PEOPLE MAY BE CONTINUOUSLY EXPOSED: Hospital Benefits Organisations: Charges and Benefits (Question No. 3675)|1|
+|BENEFITS: Doctors' Fees and Medical Benefits|1|
+|B. TRUSTEES: British Immigration Act: Administration (Question No. 6565)|1|
+|NUCLEAR WEAPONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Urban and Regional Development: Western Australia (Question No. 364)|1|
+|QUESTION: UNEMPLOYMENT BENEFIT|1|
+|QUESTION: TIMOR: ENTRY VISA|1|
+|QUESTION: SECURITIES AND EXCHANGE COMMISSION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Constitutional Convention: Local Government Representation (Question No. 330)|1|
+|ANSWERS TO QUESTIONS: International Court of Justice (Question No. 2716)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Council Tax Receipts (Question No. 2372)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Growth (Question No. 1200)|1|
+|WESTERN AUSTRALIA: Hospital Benefits Organisations (Question No. 5899)|1|
+|QUESTION: MOTOR SPIRIT: LEAD PHASE-DOWN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Terrorist Activities (Question No. 540)|1|
+|QUESTION: ABORTION LAW IN THE AUSTRALIAN CAPITAL TERRITORY|1|
+|QUESTION: AU AUSTRALIA A -PAPUA NEW GUINEA BORDER|1|
+|QUESTION: THE PARLIAMENT: FOREIGN AFFAIRS STATEMENT|1|
+|No: Diplomatic Representation in Chile (Question No. 881)|1|
+|WESTERN AUSTRALIA: Nationwide Survey of Educational Needs (Question No. 6556)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Review of Commonwealth Employment Service (Question No. 216)|1|
+|QUESTION: EXECUTION OF AUSTRALIAN CITIZENS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Baltic States (Question No. 1001)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Teachers and Pre-school Teachers Colleges (Question No. 5845)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea (Question No. 2531)|1|
+|QUESTION: TELEVISION PROGRAMME:  THIS DAY TONIGHT|1|
+|ANSWERS TO QUESTIONS: Darwin Cyclone -Mount Darwin, Rhodesia (Question No. 2468)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation (Question No. 81)|1|
+|QUESTION: VICTORIAN FLOOD DAMAGE: COMMONWEALTH ASSISTANCE|1|
+|CSIRO: Health Insurance Funds: Election of Directors (Question No. 1529)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Records of Ministerial Meetings (Question No. 2243)|1|
+|TABLING OF DOCUMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Fund Commission: Farms (Question No. 653)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Chilean, Vietnamese and Timorese Refugees (Question No. 252)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Closures of Overseas Posts (Question No. 1144)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South Africa: Sporting Contacts (Question No. 1212)|1|
+|WESTERN AUSTRALIA: Medical Benefits: Hearing Aids (Question No. 878)|1|
+|QUESTION: AUSTRALIAN CAPITAL TERRITORY COMPANIES ORDINANCE|1|
+|QUESTION: TASMANIAN BEEF EXPORTS|1|
+|DEPARTMENT OF ABORIGINAL AFFAIRS: Special Report of Auditor-General|1|
+|DEATH OF SENATOR THE HONOURABLE I. J. GREENWOOD, Q.C|1|
+|TASMANIA: States Finances (Question No. 1979)|1|
+|QUESTION: GOVERNMENT SPENDING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taiwan: Mongolia (Question No. 339v)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Securities and Exchange Commission (Question No. 325)|1|
+|WANT OF CONFIDENCE IN THE FRASER GOVERNMENT: Suspension of Standing Orders|1|
+|ROAD TRAFFIC ACCIDENTS: Doctors' Incomes (Question No. 2980)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Directory of Support Services for Women (Question No. 173)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Transport Advisory Council (Question No. 62)|1|
+|QUESTION: PRICES AND WAGES FREEZE: DOCTORS' FEES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Research and Development Expenditure and Activities (Question No. 2427)|1|
+|PRESENTATION OF PAPERS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Extension of Conventions to Antarctic Territory (Question No. 117)|1|
+|ACT. - $1,640: Education: Open University (Question No. 567)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Marketing Hoards (Question No. 2026)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Human Rights Conventions (Question No. 2303)|1|
+|QUESTION: INFLATION: GOVERNMENT ACTION|1|
+|B. TRUSTEES: Gift Duty (Question No. 6030)|1|
+|QUESTION: ROSS RIVER DAM|1|
+|QUESTION: DEVELOPMENT OF THE AUSTRALIAN URANIUM INDUSTRY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Western Australia: Additional Electorate (Question No. 6215)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Highways System (Question No. 224)|1|
+|QUESTION: AID TO BANGLADESH|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital Benefits Organisations (Question No. 1427)|1|
+|QUESTION: FILM AND TELEVISION SCHOOL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Works of Art (Question No. 1382)|1|
+|STATE LEGISLATION: Sankey Case (Question No.1486)|1|
+|HOSPITALS DEVELOPMENT PROGRAM: Dental Therapists (Question No. 1170)|1|
+|QUESTION: PRIME MINISTER'S STAFF: ADVISER ON WOMENS' AFFAIRS|1|
+|AUSTRALIAN NATIONAL GALLERY: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Environmental Impact Statements (Question No. 802)|1|
+|QUESTION: AUSTRALIAN FOREIGN POLICY: NON-ALIGNMENT|1|
+|SUBSIDIES PAID DURING 1968-69: Fisheries - Canada - Gulf of Carpentaria (Question No. 1667)|1|
+|PROPOSED AMENDMENTS: International Whaling Commission (Question No. 1284)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Railways: Pollution Precautions (Question No. 5915)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Minister's Public Duty and Private Interests (Question No. 1413)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Boyer Lectures (Question No. 1228)|1|
+|TOTAL COST OF ABOVE ASSIGNMENTS $ 1 29,636: Hostel Bed Entitlements: Transferability (Question No. 1161)|1|
+|FILM AND TELEVISION SCHOOL BILL 1973: Second Reading|1|
+|OBSERVERS: State Revenues and Expenditures (Question No. 4374)|1|
+|QUESTION: PRICES JUSTIFICATION ACT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Baltic States (Question No. 999)|1|
+|QUESTION: AMERICAN AMBASSADOR TO AUSTRALIA|1|
+|PLACES VISITED: Aboriginal Housing (Question No. 633)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Victorian Government: Aid to Pensioners (Question No. 442)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Aid to Fiji, Western Samoa and Tonga (Question No. 127)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Chemical and Bacteriological Warfare (Question No. 3674)|1|
+|QUESTION: EXECUTIONS IN SPAIN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: MrJ.F.Licardy (Question No. 1432)|1|
+|SOUTH PACIFIC CONFERENCE|1|
+|TASK FORCES: Overseas Travel: Permanent Heads (Question No. 534)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Foreign Affairs Staff (Question No. 2747)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Aid: Percentage of Gross National Product (Question No. 877)|1|
+|QUESTION: URANIUM POLICY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Inflation: Causes and Government - Policy (Question No. 170)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Prime Minister's Press Conference: Transcripts (Question No. 1339)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rural Poverty (Question No. 4098)|1|
+|QUESTION: AUSTRALIAN ECONOMY: HOUSEHOLD DISPOSABLE INCOME|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth State and Local Government Revenue (Question No. 5905)|1|
+|AUSTRALIA'S POLITICAL AND TRADING RELATIONSHIPS AND ENERGY RESERVES: Discussion of Matter of Public Importance|1|
+|QUESTION: PAPUA AND RABAUL COURTS|1|
+|QUESTION: FINANCE FOR RURAL INDUSTRY|1|
+|QUESTION: TRADE UNIONS|1|
+|No: Convention No. 84: Application to Papua New Guinea (Question No. 3279)|1|
+|QUESTION: EDUCATIONAL TELEVISION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rates Deferment for Pensioners (Question No. 1224)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cigarette Smoking; Health Warning (Question No. 2553)|1|
+|QUESTION: FISHING INDUSTRY: 200-MILE ZONE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Growth (Question No. 930)|1|
+|RESIGNATION OF ATTORNEY-GENERAL: Suspension of Standing Orders|1|
+|COMMONWEALTH, STATE AND REGIONAL FINANCES AND FUNCTIONS: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Baltic States (Question No. 1120)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Lockheed Electra Aircraft Purchase (Question No. 520)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Dental Association (Question No. 6038)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Coast Guard (Question No. 318)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tourist Ministers Council (Question No. 6104)|1|
+|QUESTION: TRANS-AUSTRALIA AIRLINES|1|
+|QUESTION: AUSTRALIAN SECURITY INTELLIGENCE ORGANISATION : TELEX MESSAGE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Payments to Connair Pty Ltd (Question No. 985)|1|
+|QUESTION: PALESTINIAN LIBERATION ORGANISATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Aid to Pacific Islands (Question No. 1181)|1|
+|REFERENDUMS AND SENATE ELECTION|1|
+|QUESTION: MIGRATION AGREEMENT WITH THE GOVERNMENT OF MALTA|1|
+|QUESTION: WESTMINSTER CONVENTION: GOVERNMENT PAPERS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Armoured Corps (Question No. 2551)|1|
+|QUESTION: FROZEN VEGETABLES AGREEMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Exchanges (Question No. 6257)|1|
+|QUESTION: QUEENSLAND FINANCES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Directory of Support Services for Women (Question No. 923)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Minister for Foreign Affairs: Discussions With Sudanese Foreign Minister (Question No. 1509)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs (Question No. 316)|1|
+|OBSERVERS: Income Tax Assessment Act: Section 120 Deductions (Question No. 4789)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Activities under Agreements for Scientific and Technical Co-operation (Question No. 162)|1|
+|CONSTITUTION ALTERATION (DEMOCRATIC ELECTIONS) BILL 1974|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Standing Committee of Attorneys-General (Question No. 1468)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Establishment of Government Organisations (Question No. 698)|1|
+|QUESTION: KINDERGARTEN- CUM-CHILDM1NDING CENTRES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Inflation: Report (Question No. 223)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Enrolments (Question No. 29)|1|
+|GRIEVANCE DEBATE: Division of Eden-Monaro-The Parliament-Education: Libraries-Australian Broadcasting Commission-Sir Henry Bland-Meat Exports-Fruit Industry- Fairbridge Scheme for Migrant Children-Brisbane Airport|1|
+|QUESTION: INDIA'S NUCLEAR TEST|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Former Japanese Islands: Sovereignty (Question No. 3670)|1|
+|JOINT COMMITTEE ON GOVERNMENT FINANCES|1|
+|PUBLICITY ADVISORY COMMITTEE ON EDUCATION IN ROAD SAFETY: Diplomatic Missions: Incidents (Question No. 2175)|1|
+|CIVILIAN EMPLOYEES IN THE CONSTRUCTION INDUSTRY BY STATE FOR EACH MONTH SINCE: Aboriginal Land Fund Commission (Question No. 75)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Basketball Players (Question No. 4964)|1|
+|NUCLEAR TESTS CASE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Urban and Regional Programs (Question No. 1143)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Investment Review Board (Question No. 1919)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Road Accidents (Question No. 2744)|1|
+|OBSERVERS: State Revenues: Education Surveys (Question No. 4039)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tanzania: Australian Diplomats (Question No. 1227)|1|
+|QUESTION: UNEMPLOYMENT: REDUCTION|1|
+|QUESTION: MINISTERIAL EXPENSES: QUESTIONS|1|
+|QUESTION: PRIME MINISTER'S VISIT OVERSEAS: FARES OF JOURNALISTS AND PARTY OFFICIALS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Conventions: Compliance by Western Australia (Question No. 214)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Launceston Hospital (Question No. 419)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Government Departments: Public Information Service Activities (Question No. 876)|1|
+|ESTIMATED COST TO REVENUE OF ALLOWING DEDUCTIONS IN RESPECT OF 1967-68 . INCOME YEAR ON ACCOUNT OF: Taxation: Comparable Countries (Question No. 1386)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tariff Reductions: Assistance to Displaced Employees (Question No. 82)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 2945)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Women's Year (Question No. 1093)|1|
+|QUESTION: ELECTORAL: CENSUS|1|
+|QUESTION: EQUAL PAY CASE|1|
+|QUESTION: PASSPORTS: VIETCONG AND NORTH VIETNAMESE DELEGATION TO AUSTRALIA|1|
+|CONSTITUTION ALTERATION (LOCAL GOVERNMENT BODIES) BILL 1974 [No. 2]: Third Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Posting of Ballot Papers (Question No. 144)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Service Personnel: Movement (Question No. 4051)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 2956)|1|
+|PRIVY COUNCIL (APPEALS FROM THE HIGH COURT) BILL 1975: Second Readings|1|
+|APPROPRIATION BILL (No. 1) 1977-78: Second Reading (Budget Debate)|1|
+|QUESTION: CATTLE QUARANTINE REQUIREMENTS|1|
+|APPROPRIATION BILL (No, 4) 1973-74: Second Reading|1|
+|No: People's Republic of China (Question No. 2066)|1|
+|QUESTION: UNEMPLOYMENT: STATEMENT BY THE PRIME MINISTER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Staff: Publication of Reports (Question No. 2161)|1|
+|INVALID PENSIONERS REJECTED FOR REHABILITATION: States Grants (Nursing Homes) Act (Question No. 2153)|1|
+|QUESTION: COLOMBO PLAN STUDENTS FROM VIETNAM|1|
+|QUESTION: OIL RIGS|1|
+|QUESTION: VALIDITY OF FEDERAL-STATE AGREEMENTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electricity Supply (Question No. 161)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Treaty of Nara (Question No. 210)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Election Campaigns: Government Subsidy (Question No. 238)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Honours (Question No. 550)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Strategic Materials to China (Question No. 2033)|1|
+|RAAF: European Nuclear Energy Agency (Question No. 5016)|1|
+|QUESTION: APPEALS TO THE PRIVY COUNCIL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Properties purchased or sought by Aboriginal Land Fund Commission (Question No. 895)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Television (Question No. 6068)|1|
+|QUESTION: WHITLAMMINISTRY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Equal Pay by Commonwealth (Question No. 1377)|1|
+|AUSTRALIAN BROADCASTING COMMISSION: Decentralisation and Tourist Ministers (Question No. 6237)|1|
+|AT 30 JUNE: Schools: Revenues (Question No. 4142)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals (Question No. 3258)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Councils and Associations Act (Question No. 76)|1|
+|QUESTION: FINANCIAL ASSISTANCE FOR TORNADO DAMAGE|1|
+|ANSWERS TO QUESTIONS UPON NOT ICE: War Service Homes (Question No. 127)|1|
+|QUESTION: MINISTER FOR FOREIGN AFFAIRS|1|
+|QUESTION: FRASER ISLAND|1|
+|QUESTION: STATEMENTS ON GOVERNMENT POLICY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Servicemen's Children In Richmond Area (Question No. 4510)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Major Inquiries, Task Forces and Reviews Initiated by the Government (Question No. 192)|1|
+|QUESTION: PAPUA/QUEENSLAND BORDER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Coober Pedy: Rail and Road Service (Question No. 1923)|1|
+|No: Defence Equipment: Expenditure (Question No. 3632)|1|
+|DEATH OF TUN ABDUL RAZAK|1|
+|RACIALLY SELECTED SPORTS TEAMS: Discussion of Matter of Public Importance|1|
+|JAPAN: Papua New Guinea: Expatriate Banks (Question No. 2359)|1|
+|QUESTION: INFLATION AND UNEMPLOYMENT|1|
+|ADDRESS TO THE UNITED NATIONS GENERAL ASSEMBLY|1|
+|B. NEW SOUTH WALES: GENERAL ELECTION, 1 MAY, 1976: Weisscredit (Question No. 554)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Soviet Russia: Jewish Emigrants (Question No. 1532)|1|
+|QUESTION: TRADE PRACTICES LEGISLATION|1|
+|QUESTION: APPOINTMENT OF ASSISTANT MINISTERS|1|
+|QUESTION: RURAL POLICIES|1|
+|QUESTION: ABORIGINAL HEALTH AND HOUSING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Invalid Pensions: Female (Question No. 5417)|1|
+|No: Commonwealth Superannuation Scheme (Question No. 1643)|1|
+|FUNCTIONS OF THE JOINT SERVICES EDP COMMITTEE|1|
+|QUESTION: RANGER PROJECT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Guinea-Bissau (Question No. 1421)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Croatian Embassy' (Question No. 437)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Broadcasting Commission: Ethnic Radio (Question No. 1957)|1|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: Public Service: Education Bonds (Question No. 4749)|1|
+|QUESTION: VIETNAM AND THE UNITED NATIONS|1|
+|No: Repatriation Pensions (Question No. 3128)|1|
+|QUESTION: MINISTER FOR MINERALS AND ENERGY|1|
+|QUESTION: ADDRESS BY PRESIDENT NIXON|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Conciliation and Arbitration Commission (Question No. 1040)|1|
+|QUESTION: COMMONWEALTH GOVERNMENT ADVERTISING IN ETHNIC NEWSPAPERS|1|
+|PRESENTATION TO GOVERNOR-GENERAL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Visits of Nuclear Powered Warships (Question No. 1183)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mining and Milling of Radioactive Ores (Question No. 145)|1|
+|QUESTION: PUBLIC SERVICE SUPERANNUATION SCHEME|1|
+|APPOINTMENT OF DESIGNS LAW REVIEW COMMITTEE: Ministerial Statement|1|
+|QUESTION: COMMONWEALTH GRANTS COMMISSION: PRE-SCHOOLS|1|
+|QUESTION: RACISM IN AUSTRALIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Stan's: Appointment of Relatives (Question No. 659)|1|
+|BUDGET|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospitals Development Program (Question No. 982)|1|
+|QUESTION: SUPPLEMENTARY SUPPLY LEGISLATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Population (Question No. 3872)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Special Minister of State: Press Releases (Question No. 1645)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: United Nations Peacekeeping: Middle East (Question No. 3258)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Insurance Investments: City Properties (Question No. 4268)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr Licardy (Question No. 204)|1|
+|QUESTION: ROYAL AUSTRALIAN AIR FORCE|1|
+|FRASER GOVERNMENT: Motion of Want of Confidence|1|
+|TASMANIA: Qantas Employees in Fiji (Question No. 5938)|1|
+|JAPAN: Taxation: Education Deduction (Question No. 2294)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South Australia Police Force (Question No. 3418)|1|
+|No: Teacher Statistics (Question No. 744)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Palmerston Freeway (Question No. 761)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service (Question No. 7)|1|
+|SPECIAL ADJOURNMENT|1|
+|NUMBERS EMPLOYED IN RAN ESTABLISHMENTS: Excise Duties Question No. 1658)|1|
+|QUESTION: MINING INDUSTRY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Road Safety Statistics (Question No. 1451)|1|
+|DEATH OF THE RIGHT HONOURABLE SIR ARTHUR FADDEN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pre-School Teachers: Salaries (Question No. 1131)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Priorities Review Staff (Question No. 2827)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Administrative Review Committee (Question No. 4913)|1|
+|PROPOSED STEEL PRICE INCREASES|1|
+|QUESTION: SOCIAL SERVICES: MEANS TEST|1|
+|FEDERAL ELECTORAL DIVISION, ALSO SHOWING SUBDIVISIONAL ENROLMENTS: Public Servants: Leave Without Pay (Question No. 546)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: United Nations Committee (Question No. 1004)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pacific Islands Regiment (Question No. 3607)|1|
+|SALE OF COMMONWEALTH EQUITY IN COMMONWEALTH-NEW GUINEA TIMBERS LTD: Ministerial Statement|1|
+|QUESTION: COMMONWEALTH AID TO SCHOOLS|1|
+|QUESTION: OVERSEAS TOURISTS TO WESTERN AUSTRALIA|1|
+|MONEY BILLS|1|
+|QUESTION: CASUAL SENATE VACANCIES|1|
+|QUESTION: HIGH COURT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Wivenhoe Dam (Question No. 412)|1|
+|AUSTRALIAN/STATE ADVISORY COMMITTEE TO STUDY WESTERN AUSTRALIAN AIRPORT REQUIREMENTS: Australian Aid Projects (Question No. 696)|1|
+|QUESTION: BUDGET 1975-76|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pest Strips (Question No. 2578)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: It is not known why other countries have not adopted the M60 machine-gun. 0il Exploration: Incentives (Question No. 5532)|1|
+|COMMONWEALTH ADMINISTRATIVE REVIEW COMMITTEE|1|
+|HYACINTH TUNGUTALUM: Bathurst Island|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Darwin Harbour (Question No. 4015)|1|
+|QUESTION: AUSTRALIAN CONTROL OF NATURAL RESOURCES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Natural Gas, North West Shelf Field (Question No. 61)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medical Benefits Organisations: Contributions (Question No. 566)|1|
+|QUESTION: RECOMMENDATION AND DRAFT CONSTITUTIONAL ALTERATIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Shipping Register (Question No. 6074)|1|
+|TASMANIA: Diplomatic Passports (Question No. 1782)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Convention No. 58: Minimum Age (Sea) (Question No. 6218)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea - Queensland Border (Question No. 143)|1|
+|QUESTION: MALLARD PROJECT|1|
+|QUESTION: COMMUNIST PARTY OF AUSTRALIA|1|
+|TASK FORCES: Department of Foreign Affairs: Publications (Question No. 1578)|1|
+|QUESTION: JOINT COMMITTEE ON PECUNIARY INTERESTS|1|
+|ELECTORAL: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Bulk Mail (Question No. 2593)|1|
+|QUESTION: STEVEDORING: AUSTRALIAN NATIONAL LINE|1|
+|QUESTION: PARLIAMENTARY SALARIES|1|
+|NOTICES OF MOTION: Want of Confidence|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women and Politics Conference (Question No. 3073)|1|
+|ANSWERS TO QUESTIONS: Australian National Gallery: Purchasing Commissions (Question No. 2201)|1|
+|QUESTION: TERRITORIAL CRIMINAL LAW|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Parliament House Receptions (Question No. 647)|1|
+|HOSPITALS DEVELOPMENT PROGRAM: Electoral: Enrolment of Commonwealth Citizens (Question No. 1224)|1|
+|RECENT EVENTS IN PAPUA NEW GUINEA: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: African National Liberation Movements: Government Assistance (Question No. 1278)|1|
+|APPROPRIATION BILL (No. 5) 1974-75: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Special Minister of State (Question No. 2689)|1|
+|HMAS ALBATROSS, NOWRA, NEW SOUTH WALES: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Water Resources Development (Question No. 6246)|1|
+|QUESTION: FREQUENCY MODULATION BROADCASTING|1|
+|QUESTION: PETROLEUM SUBSIDY SCHEME|1|
+|ADULTHOOD BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Baltic States (Question No. 1003)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Teaching Hospital, Westmead (Question No. 3989)|1|
+|QUESTION: TAXATION REDUCTIONS|1|
+|QUESTION: AUSTRALIAN EMBASSY IN SAIGON|1|
+|QUESTION: AUSTRALIAN BROADCASTING TRIBUNAL: CHAIRMAN'S INTERESTS|1|
+|QUESTION: AMBASSADOR TO IRELAND|1|
+|QUESTION: PRICES AND WAGES FREEZE: REQUEST FOR STATEMENT BY PRIME MINISTER|1|
+|QUESTION: SOUTH AFRICAN TERRORISM ACT: ALEXANDER MOUNBARIS|1|
+|VISITS BY NUCLEAR POWERED WARSHIPS: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Insurance Companies: Election of Directors (Question No. 1178)|1|
+|QUESTION: INQUIRY INTO TASMANIAN TRANSPORT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pensioner Medical Service: Specialists (Question No. 2786)|1|
+|QUESTION: VIETNAM: GOVERNMENT COMMUNICATIONS|1|
+|GENERAL ELECTION: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: New Zealand (Question No. 2022)|1|
+|UNEMPLOYMENT BENEFITS: Discussion of Matter of Public Importance|1|
+|No: Standing Committee of Attorneys-General (Question No. 4594)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines and Torres Strait Islanders: Payment of Mining Royalties (Question No. 256)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Quantitative Import Restrictions and GATT (Question No. 591)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Queensland Treaties Commission (Question No. 255)|1|
+|PERSONAL EXPLANATIONS: Now, Mr Speaker -|1|
+|FRENCH NUCLEAR WEAPONS EXPLOSIONS IN THE PACIFIC: Ministerial Statement|1|
+|QUESTION: WINE INDUSTRY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Great Barrier Reef Marine Park (Question No. 1151)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Bank Charges (Question No. 57)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Civil Aviation: Low Fare Passenger Flights (Question No. 4917)|1|
+|TASMANIA: Qantas: Passport Examination (Question No. 1108)|1|
+|QUESTION: PREMIERS CONFERENCE|1|
+|QUESTION: MALAYSIA|1|
+|QUESTION: SECURITIES INDUSTRY|1|
+|COLLEGES OF ADVANCED EDUCATION: Prosecutions: Attorney-General's Consent (Question No. 5469)|1|
+|No: Overseas Loans (Question No. 1549)|1|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Commonwealth Heads of Government Meeting: Charter Cost of Aircraft (Question No. 2734)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: School Pupils: Government Grants (Question No. 6081)|1|
+|QUESTION: FOX REPORT: PRIOR INFORMATION|1|
+|QUESTION: LAWS OF THE AUSTRALIAN CAPITAL TERRITORY: GAZETTE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Convention No. 65- Penal Sanctions (Indigenous Workers), 1939 (Question No. 90)|1|
+|ANSWERS TO QUESTIONS: Overseas Loan Raisings (Question No. 3271)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr Georgi Ermolenko (Question No. 2220)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Loan Funds for State Railways (Question No. 6248)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Specialist Medical Practitioners: Registration (Question No. 2784)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Consulate-General of Yugoslavia, Melbourne (Question No. 3217)|1|
+|ELECTORAL AMENDMENT BILL 1976: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commissions and Task Forces of Inquiry: Staff Employed (Question No. 2346)|1|
+|ANSWERS TO QUESTIONS: Antarctic Fin Whales (Question No. 2205)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Pupil-Teacher Ratio (Question No. 4455)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Wool Growers Economic Disabilities (Question No. 253)|1|
+|COLLEGES OF ADVANCED EDUCATION: Repatriation: Pensions (Question No. 5587)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Conference: Voting (Question No. 1466)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Imports of Films (Question No. 1390)|1|
+|QUESTION: AUSTRALIAN HONOURS LIST|1|
+|CIVILIAN EMPLOYEES IN THE CONSTRUCTION INDUSTRY BY STATE FOR EACH MONTH SINCE: Teaching of Migrant Languages (Question No. Ill)|1|
+|QUESTION: TARIFF BOARD INQUIRIES|1|
+|PETITIONS: Immigration: Dr E. Mandel|1|
+|QUESTION: EAST TIMOR: MEDIA REPRESENTATIVES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sydney (Kingsford-Smith) Airport (Question No. 6194)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Film and Television Board: Appropriations (Question No. 510)|1|
+|INVALID PENSIONERS REJECTED FOR REHABILITATION: Health (Question No. 1884)|1|
+|QUESTION: VISIT OF PRESIDENT THIEU|1|
+|WESTERN AUSTRALIA: Australian Industry Development Corporation: Loan to Robe River Project (Question No. 6125)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Appeals Against Administrative Decisions- Legal Aid (Question No. 576)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Art: Expenditure (Question No. 625)|1|
+|QUESTION: BALTIC COMMUNITY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Semi-Government Loans (Question No. 1343)|1|
+|JOINT COMMITTEE ON FOREIGN AFFAIRS AND DEFENCE: Appointment|1|
+|HOSPITALS DEVELOPMENT PROGRAM: Aboriginals: Unemployment Benefit (Question No. 556)|1|
+|UGANDA: Discussion of Matter of Public Importance|1|
+|QUESTION: INTERNATIONAL WEAPONRY CONFERENCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Premiers' Conferences: Financial Discussions (Question No. 188)|1|
+|OBSERVERS: Austraiian Industry Development Corporation (Question No. 3852)|1|
+|QUESTION: SECTION 96 GRANTS|1|
+|QUESTION: AID TO NORTHERN AFRICA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Washington Energy Conference (Question No. 220)|1|
+|NOW THEREFORE I, SIR PAUL MEERNAA: Papua and New Guinea: Commonwealth Departments Expenditure (Question No. 2361)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Local Government Debts (Question No. 2320)|1|
+|INQUIRY INTO THE CRAFTS|1|
+|QUESTION: ARBITRATION SYSTEM: WAGES POLICY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Colleges of Advanced Education: Enrolments (Question No. 5008)|1|
+|QUESTION: INQUIRIES INTO BROADCASTING|1|
+|ANSWERS TO QUESTIONS: Indonesia: Australian Scientists (Question No. 1013)|1|
+|QUESTION: TELEVISION DEBATE|1|
+|ABORIGINAL AFFAIRS: Discussion of Matter of Public Importance|1|
+|QUESTION: GOVERNMENT PUBLIC RELATIONS STAFF|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Exports: Cultural Property (Question No. 2308)|1|
+|QUESTION: CUTS IN GOVERNMENT EXPENDITURE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Homes Savings Grant Scheme (Question No. 2448)|1|
+|NORTHERN TERRITORY ADMINISTRATION: International Labour Conference (Question No. 2967)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Joint Research Programs (Question No. 1232)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Conference of Railway Commissioners (Question No. 4591)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Inter-State Commission Act 1975 (Question No. 581)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medical Benefits (Question No. 2794)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Dentists (Question No. 4226)|1|
+|PUBLICITY ADVISORY COMMITTEE ON EDUCATION IN ROAD SAFETY: Aid to South Pacific Area (Question No. 2349)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cannabis (Question No. 781)|1|
+|OBSERVERS: Expert Group on Road Safety (Question No. 4845)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Advertising: Oak Insurance Ltd (Question No. 1160)|1|
+|QUESTION: MR JUSTICE FOX: CABLES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Baltic States (Question No. 998)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Treasurer's Pecuniary Interests (Question No. 1940)|1|
+|CSIRO: Tasmanian Shipping Service (Question No. 1527)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: Housing (Question No. 1606)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Acquisition of Northern Territory Pastoral Lease: Aboriginal Land Claims (Question No. 141)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Meetings of Housing Ministers (Question No. 5557)|1|
+|PROPOSED VISIT TO WASHINGTON BY PRIME MINISTER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: First Whitlam Ministry: Decisions and Instructions (Question No. 129)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Port Development (Question No. 3713)|1|
+|QUESTION: SOUTH AFRICA AND RHODESIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Metropolitan and Rural Relief Schemes (Question No. 342)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sales Tax: Racing Yachts (Question No. 3945)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Coal Resources (Question No. 3891)|1|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Rudolph Hess (Question No. 2656)|1|
+|AUSTRALIAN CAPITAL TERRITORY EVIDENCE (TEMPORARY PROVISIONS) BILL 1972: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Passports- Companies Under Investigation (Question No. 2907)|1|
+|QUESTION: LAND PRICE CONTROL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth, State, Semi-Government and Local Government Revenues (Question No. 52)|1|
+|WESTERN AUSTRALIA: Baulking: Credit Cards (Question No. 6479)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Schools (Question No. 1270)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interdepartmental Committees: Drugs (Question No. 3689)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Transport: Budget (Question No. 682)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Port Development: Ministerial Conference (Question No. 907)|1|
+|QUESTION: INSTITUTE OF INTERNATIONAL LAW|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Visit of South African Members of Parliament (Question No. 70)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Political Broadcasts (Question No. 259)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Uniform Building Code (Question No. 122)|1|
+|MUNICH OLYMPIC GAMES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Punishment of Prisoners (Question No. 873)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Environmental Organisations: Responsibilities (Question No. 941)|1|
+|QUESTION: AUSTRALIAN COUNCIL OF TRADE UNIONS: RESTRAINTS ON WAGES AND INCOMES|1|
+|QUESTION: WOOL PRICE|1|
+|QUESTION: INFLATION: GOVERNMENT EXPENDITURE|1|
+|QUESTION: BROKEN HILL: REPORTED NEW DEFENCE BASE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Economy (Question No. 1922)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Press Releases (Question No. 1629)|1|
+|ALBURY-WODONGA DEVELOPMENT: MEETING OF PREMIERS AND PRIME MINISTER|1|
+|QUESTION: ISRAELI-ARAB WAR|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Canberra: Hospital Beds (Question No. 862)|1|
+|QUESTION: WAR SERVICE HOMES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Rejection of Employment (Question No. 2245)|1|
+|QUESTION: NATIONAL RESOURCES DEVELOPMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: Tertiary and Technical Education Facilities (Question No. 6112)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Trade Practices Act (Question No. 5481)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Staffs: Replies to Correspondence (Question No. 227)|1|
+|QUESTION: TAX REDUCTIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Vietnam: Australian Prisoners of War (Question No. 5389)|1|
+|QUESTION: MR PETER LEAKE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr K. C. Gale: Liberal Industrial Relations Policy (Question No. 793)|1|
+|TASMAN BRIDGE RESTORATION BILL (No. 2) 1975: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: New and Permanent Parliament House (Question No. 497)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Residents of East Timor (Question No. 689)|1|
+|QUESTION: PREMIER OF SOUTH AUSTRALIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: International Labour Organisation Convention No. 65- Penal Sanctions (Indigenous) Workers, 1939 (Question No. 874)|1|
+|CONSTITUTION ALTERATION (INTER-CHANGE OF POWERS) BILL 1974: Second Reading|1|
+|PROPOSED AMENDMENTS: National Book Resources Development Committee (Question No. 1032)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Coombs Report (Question No. 543)|1|
+|STATE INCOME TAXES: Discussion of Matter of Public Importance|1|
+|QUESTION: SIR HENRY BLAND AND THE PRICES JUSTIFICATION TRIBUNAL|1|
+|S $: Simulated Navy Exercise (Question No. 796)|1|
+|GOVERNOR-GENERAL|1|
+|HARMFUL: Fawnmac Companies (Question No. 3334)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Health Expenditure: Hospitals Development Program (Question No. 149)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 2943)|1|
+|SUPERIOR COURT OF AUSTRALIA BILL 1974 [No. 2]: Second Reading|1|
+|PUBLICITY ADVISORY COMMITTEE ON EDUCATION IN ROAD SAFETY: Extradition Treaties (Question No. 2333)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fair Rent (Question No. 1300)|1|
+|QUESTION: GOVERNMENT ECONOMIC DECISIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Public Service: Divisions and Branches (Question No. 1122)|1|
+|QUESTION: MILITARY CODE|1|
+|COMMONWEALTH SCIENCE FACILITIES PROGRAMME: Commonwealth, State and Local Government Debts (Question No. 5904)|1|
+|QUESTION: EXTRADITION (FOREIGN STATES) ACT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Standing Committee of Attorneys-General (Question No. 1878)|1|
+|QUESTION: PERUVIAN FISH MEAL|1|
+|ESTATE DUTY ASSESSMENT BILL 1970: Second Reading|1|
+|QUESTION: MON. V. C. GAIR|1|
+|QUESTION: AUSTRALIA AND THE WORLD SITUATION|1|
+|ELECTORAL RE-DISTRIBUTION (SOUTH AUSTRALIA) BILL 1975: Second Reading|1|
+|TEXT OF TREATIES, ETC. PRESENTED TO THE PARLIAMENT|1|
+|SOCIAL SERVICES BILL (No. 2) 1975: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Home Building Blocks (Question No. 824)|1|
+|PAPUA NEW GUINEA INDEPENDENCE BILL 1975: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Racial Discrimination (Question No. 3669)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 2944)|1|
+|RIVER MURRAY WATERS|1|
+|QUESTION: ANNOUNCEMENT OF TARIFF DECISIONS|1|
+|QUESTION: GALSTON AIRPORT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Yugoslav Intelligence Organisations (Question No. 382)|1|
+|No: Australian National University: School of General Studies (Question No. 824)|1|
+|QUESTION: AUSTRALIAN ECONOMY: INFLATION|1|
+|WANT OF CONFIDENCE IN THE FRASER GOVERNMENT: Notice of Motion|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Distribution of Ethnic Groups by Electoral Divisions (Question No. 159)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Proposed Bureau of Environmental Studies (Question No. 868)|1|
+|QUESTION: RESEARCH AND DEVELOPMENT|1|
+|PRICES AND WAGES FREEZE: Ministerial Statement|1|
+|CONSTITUTION ALTERATION (INTERCHANGE OF POWERS) BILL 1974: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Research and Development: Reference to Industries Assistance Commission (Question No. 1752)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aid for Italian Earthquake Relief (Question No. 650)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 3169)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital Benefits Organisations (Question No. 4000)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Orders: Malaysia (Question No. 3638)|1|
+|QUESTION: BROADCASTING AND TELEVISION ACT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Council of Social Service (Question No. 132)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Handicapped Children (Question No. 4782)|1|
+|QUESTION: REPORTS OF REVIEW COMMITTEES|1|
+|JAPAN: Papua New Guinea: Trading Banks (Question No. 1736)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of the Army: Civilian Staff Content (Question No. 1313)|1|
+|QUESTION: ELECTION OF SPEAKER|1|
+|JAPAN: Productivity (Question No. 2872)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Advisers to Ministers or Departments (Question No. 1199)|1|
+|QUESTION: HOME SAVINGS GRANTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Legal Service, New South Wales (Question No. 913)|1|
+|WESTERN AUSTRALIA: Servicemen's Dependants: Hospital Treatment (Question No. 6241)|1|
+|WESTERN AUSTRALIA: Naturalisation (Question No. 3081)|1|
+|OBSERVERS: Natural Disaster Relief Schemes (Question No, 2316)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Adoptions of Indo-Chinese War Orphans (Question No. 794)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: (Question No. 915)|1|
+|QUESTION: AUSTRALIAN COUNCIL OF TRADE UNIONS ACTION AGAINST FRANCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Economy: Anti-Inflationary Measures (Question No. 567)|1|
+|QUESTION: EMPLOYMENT STATISTICS FOR AUGUST|1|
+|QUESTION: LEBANESE REFUGEES: DAMASCUS EMBASSY|1|
+|QUESTION: THE GOVERNMENTS ACHIEVEMENTSTHE FIRST SIX MONTHS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Royal Australian Air Force: Mirage Squadrons (Question No. 1038)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Prime Minister's Statement: Philippines and Thailand (Question No. 959)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Semi-Government Authorities (Question No. 2146)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Trade Unions: Demarcation (Question No. 291)|1|
+|PAPUA NEW GUINEA BILL 1975: Second Reading|1|
+|QUESTION: TAXATION: NEW HEBRIDES COMPANIES|1|
+|QUESTION: WORKERS COMPENSATION: OVERSEAS DEPENDANTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Foreign Affairs: Couriers (Question No. 3265)|1|
+|WAGES|1|
+|QUESTION: OVERSEAS LOAN NEGOTIATIONS|1|
+|QUESTION: TRANSPORT|1|
+|QUESTION: RECEIPTS DUTY LEGISLATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Employment Service: Staffing of Offices in Victoria (Question No. 98)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Libraries (Question No. 237)|1|
+|QUESTION: DEPORTATIONS TO YUGOSLAVIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migration: South Pacific (Question No. 3338)|1|
+|DEATH OF HIS ROYAL HIGHNESS PRINCE WILLIAM OF GLOUCESTER|1|
+|OR: Cost of Specific Services (Question No. 742)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Christmas Island (Question No. 477)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua-Queensland Boundary (Question No. 153)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Consumer Price Index (Question No. 1355)|1|
+|PERCENTAGE OF DOCTORS UNDER MEDIBANK ENGAGED IN SOME FORM OF DIRECT BILLING: Sir Henry Bland (Question No. 154)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Finance Conference (Question No. 2698)|1|
+|QUESTION: PIKES CREEK DAM IRRIGATION } PROJECT|1|
+|QUESTION: VIP FLIGHTS|1|
+|QUESTION: STATISTICAL ADVICE FROM THE TREASURY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Police Report: Foreign Exchange Regulations (Question No. 513)|1|
+|QUESTION: LIQUID PETROLEUM GAS: USE IN MOTOR VEHICLES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sydney (Kingsford-Smith) Airport: Incinerator (Question No. 2017)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Political Appointments (Question No. 2388)|1|
+|ANSWERS TO QUESTIONS: Egg Pulp (Question No. 2461)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Commissions, Committees and Inquiries (Question No. 514)|1|
+|APPROPRIATION BILL (No. 1) 1972-73: Second Reading (Budget Debate)|1|
+|TEACHING OF MIGRANT LANGUAGES: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Nuclear Fuel Cycle Evaluation (Question No. 1147)|1|
+|QUESTION: CENSUS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Official Establishments (Question No. 1572)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tourism Development Grants (Question No. 1025)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Child Endowment (Question No. 1812)|1|
+|QUESTION: TARIFFS|1|
+|QUESTION: ROYAL COMMISSION ON PETROLEUM: AUSTRALIAN COUNCIL OF TRADE UNIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Third Party Insurance (Question No. 5540)|1|
+|QUESTION: BONYTHON ELECTORATE: BY-ELECTION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cattle Exports from France (Question No. 1628)|1|
+|QUESTION: ABORIGINAL LAND PURCHASES|1|
+|QUESTION: TARIFF BOARD REPORT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Superannuation (Question No. 1666)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Visitors to Southern Rhodesia (Question No. 771)|1|
+|QUESTION: REDISTRIBUTION OF ELECTORAL DIVISIONS|1|
+|OBSERVERS: Population of Electorates (Question No. 4567)|1|
+|QUESTION: RUSSIAN AND UNITE© STATES PRESENCE IN INDIAN OCEAN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Supervision of Insurance Brokers (Question No. 687)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Petrol: Octane Ratings (Question No. 170)|1|
+|S $: Aboriginal Affairs in Queensland (Question No. 932)|1|
+|AUSTRALIA/WEST COAST NORTH AMERICA TRADE: Coal Loading (Question No. 6391.)|1|
+|MASS EXECUTIONS IN VIETNAM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aged Persons Hostels (Question No. 1160)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Oil Pollution Damage: Compensation Fund (Question No. 6398)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: Income Tax Exemptions for Pioneering Industries (Question No. 751)|1|
+|QUESTION: INDIAN OCEAN ZONE OF PEACE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Treaties (Question No. 6043)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Vietnam (Question No. 10)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Salaries and Allowances (Question No. 447)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Citizenship (Question No. 157)|1|
+|STANDARDS FOR THE PROTECTION OF CONSUMERS: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: River. Murray: Salinity (Question No. 2072)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation (Question No. 6309)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Banking (Question No. 4251)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migration Agreements 1 (Question No. 2537)|1|
+|QUESTION: SAND MINING ON FRASER ISLAND|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tertiary Students: Schools of Origin (Question No. 3906)|1|
+|QUESTION: THE ENVIRONMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Singapore and Indonesia: Political Prisoners (Question No. 128)|1|
+|QUESTION: PRICE CONTROLS|1|
+|SUPPLY BILL (No. 1) 1977-78: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: I Forestry Council (Question No. 4263)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Vietnam: Australian Commitment (Question No. 3978)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Electricity Commission (Question No. 1876)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australia-Japan Air Service Agreement (Question No. 4394)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Parliaments: Sittings (Question No. 3610)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unemployment: Western Sydney (Question No. 219)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Visitors to Southern Rhodesia (Question No. 416)|1|
+|DEATH OF FIELD-MARSHAL VISCOUNT SLIM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Queensland Aboriginal and Torres Strait Islanders Community Health Service (Question No. 77)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Capital Market (Question No. 202)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Employment of Candidates (Question No. 1795)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory: Conservation Legislation (Question No. 875)|1|
+|QUESTION: ACQUISITION OF AIRCRAFT|1|
+|MOVES TO PREVENT OVERSEAS TAKEOVER OF NORTHERN TERRITORY URANIUM DEPOSITS: Ministerial Statement|1|
+|AUSTRALIAN BROADCASTING COMMISSION AND ETHNIC RADIO: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Darwin Harbour: Report (Question No. 72)|1|
+|QUESTION: FINANCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Development (Question No. 1289)|1|
+|QUESTION: COMMONWEALTH BUILDINGS|1|
+|PARLIAMENTARY SALARIES AND ALLOWANCES: Ministerial Statement|1|
+|QUESTION: ELECTION DATE|1|
+|BROADCASTING AND TELEVISION AMENDMENT BILL (No. 2) 1976 [No. 2]: Second Reading|1|
+|QUESTION: MUNICIPAL AND UTILITY RATES|1|
+|QUESTION: SPECULATION ABOUT FEDERAL ELECTION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Orders: Singapore (Question No. 6059)|1|
+|QUESTION: INTERSTATE TRADE M NATURAL GAS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Standing Committee of Commonwealth and State Attorneys-General (Question No. 5648)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nimmo Report (Question No. 3955)|1|
+|UNITED NATIONS GENERAL ASSEMBLY|1|
+|QUESTION: CROATIAN TERRORISM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea Enterprises: Government Shareholdings (Question No. 5742)|1|
+|ROYAL ASSENT TO A BILL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Natural Disaster Assistance (Question No. 1119)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Compensation (Question No. 712)|1|
+|OBITUARIES: Deaths of Former Presidents Truman and Johnson and Mr Lester Pearson|1|
+|QUESTION: MULTI-NATIONAL CORPORATIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tullamarine Airport: Noise Levels (Question No. 6335)|1|
+|CATEGORY 7: Diplomatic Recognition of China (Question No. 2335)|1|
+|ROAD TRAFFIC ACCIDENTS: Specialist Medical Consultations (Question No. 2783)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Government Public Servants: Geographic Distribution (Question No. 204)|1|
+|UNITED STATES DEPARTMENT OF HEALTH, EDUCATION, AND WELFARE: Papua and New Guinea: Housing (Question No. 2404)|1|
+|QUESTION: AUSTRALIAN LEAGUE OF RIGHTS|1|
+|QUESTION: TELEPHONE AND TELEPRINTER CHARGES|1|
+|No: Museums Inquiry (Question No. 937)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Employers Policy Committee (Question No. 3001)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Indonesia: Aid (Question No. 1414)|1|
+|QUESTION: INTERSTATE RAILWAYS TRAFFIC|1|
+|TASK FORCES: Interdepartmental Committees: Reports (Question No. 1668)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Engineers (Question No. 4225)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth-State Education Committees (Question No. 3657)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: East Timorese Refugees (Question No. 197)|1|
+|QUESTION: REJECTION OF THE BUDGET|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medical Benefits Organisations: Operating Expenses (Question No. 3683)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South African Services Attache (Question No. 838)|1|
+|WESTERN AUSTRALIA: Racial Discrimination (Question No. 6417)|1|
+|QUESTION: PUBLIC SERVICE: 35-HOUR WEEK|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aid to Yugoslavia (Question No. 651)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea - Police Officers (Question No. 178)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Indigenous Representation on Commissions (Question No. 5735)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rural Unemployment (Question No. 3979)|1|
+|QUESTION: STATISTICS: ELECTORAL AND OVERSEAS INVESTMENT|1|
+|QUESTION: QUESTIONS WITHOUT NOTICE POLITICAL PARTY FUNDS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Public Service (Question No. 842)|1|
+|PREFERENCES STATISTICAL TABLES-EXPLANATORY NOTES: Agricultural Exports (Question No. 1624)|1|
+|CONSTITUTION ALTERATION (RETIREMENT OF JUDGES) BILL 1977: Second Reading|1|
+|DEATH OF HER EXCELLENCY LADY KERR|1|
+|ROAD TRAFFIC ACCIDENTS: Decentralisation (Question No. 3384)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Employment of Candidates (Question No. 1289)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Income Tax: Family Allowances (Question No. 188)|1|
+|ANSWERS TO QUESTIONS|1|
+|QUESTION: THIRTY-FIVE HOUR WEEK|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Foreign Affairs Public Information Program (Question No. 2714)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: World Peace Council (Question No. 900)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital Benefits Organisations: Revenues (Question No. 3679)|1|
+|TERRITORIAL SEA AND CONTINENTAL SHELF BILL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Servicemen: Foreign Awards (Question No. 507)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television Companies: Beneficial Ownership of Shares (Question No. 5535)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Advertising for Migrants (Question No. 1179)|1|
+|QUESTION: NATIONAL FILM AND TELEVISION TRAINING SCHOOL|1|
+|QUESTION: MEETING OF MIDDLE EAST REPRESENTATIVES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Portuguese Timor (Question No. 1233)|1|
+|QUESTION: STATE PARLIAMENTS: DISTRIBUTION AND DURATION|1|
+|DEATH OF SENATOR B. R. MILLINER|1|
+|DEFENCE FORCES RETIREMENT BENEFITS LEGISLATION: Appointment of Joint Select Committee|1|
+|UNITED STATES DEPARTMENT OF HEALTH, EDUCATION, AND WELFARE: Housing (Question No. 2992)|1|
+|QUESTION: ARBITRATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Public Servants Disciplinary Provisions (Question No. 321)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Canberra Mosque (Question No. 676)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Antarctic Marine Living Resources (Question No. 116)|1|
+|No: Issuing of Passports to Rhodesian Citizens (Question No. 1031)|1|
+|QUESTION: ELECTORAL: PRIME MINISTER|1|
+|ANSWERS TO QUESTIONS: Women and Politics Conference (Question No. 3047)|1|
+|No: Papua and New Guinea: Patrol Officers (Question No. 1033)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Membership of Cabinet Committees (Question No. 2246)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Convention No. 107 (Question No. 74)|1|
+|UNITED STATES OF AMERICA 1967: Tourist Ministers Conference (Question No. 1481)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cambodia: Representation (Question No. 645)|1|
+|QUESTION: AUSTRALIAN CITIZENS IN PORTUGUESE TIMOR|1|
+|QUESTION: PRIME MINISTER: ANNOUNCEMENT OF POLICY DECISIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Maritime Consultative Organisation Conventions (Question No. 1029)|1|
+|QUESTION: PAIR ARRANGEMENTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Subsidised Medical Scheme (Question No. 4002)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Fund Commission: Ministerial Directive (Question No. 798)|1|
+|RAAF: Prime Minister's Overseas Visits (Question No. 3404)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Social Service Payments: Waiting Time (Question No. 5786)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Youth Community Support Scheme Projects (Question No. 218)|1|
+|ADJOURNMENT: Validictory - National Science - Aboriginals|1|
+|S $: In substitution for the answer which appeared in Hansard, (pages 3003 to 3005) of 1 June 1978|1|
+|CONSTITUTION ALTERATION (SIMULTANEOUS ELECTIONS) BILL 1975: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Housing Agreement (Question No. 3224)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service - Annual Leave (Question No. 40)|1|
+|QUESTION: NUCLEAR WASTE DISPOSAL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Judgments: Reciprocal Enforcements (Question No. 2020)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: SEATO Council: Pakistan (Question No. 4062)|1|
+|VICTORIA: Indian-Pacific Railway (Question No. 786)|1|
+|PAPUA NEW GUINEA (STAFFING ASSISTANCE) BILL 1975: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Namibia (Question No. 1510)|1|
+|QUESTION: COMMONWEALTH PUBLIC SERVANTS: SUPERANNUATION|1|
+|MINIMUM DEPOSIT REQUIRED FOR SALE OF DWELLINGS BUILT UNDER THE COMMONWEALTH-STATE HOUSING AGREEMENTS: Surveying (Question No. 670)|1|
+|SUBSIDIES PAID DURING 1968-69: Medical Benefits Organisations (Question No. 1428)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Norfolk Island: Registered Companies (Question No. 3994)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unemployment Registrations: Western Sydney (Question No. 875)|1|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Government Reports: Cost (Question No. 2789)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Minister's Visit to Bali (Question No. 857)|1|
+|RADIO|1|
+|QUESTION: UNITED KINGDOM LEVY ON AUSTRALIAN SHEEP MEATS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Cost of Police Action (Question No. 188)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Developing Countries: Net Capital Flows (Question No. 6223)|1|
+|QUESTION: CONSIDERATION OF TARIFF BOARD REPORTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Racism and Racial Discrimination (Question No. 1915)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Service Training Course: Papua New Guineans (Question No. 5747)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Calvary Hospital (Question No. 1078)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Uniform Foods Legislation (Question No. 1528)|1|
+|INDUSTRIES ASSISTANCE COMMISSION BILL 1974: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Shipping: Ports (Question No. 4264)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unemployment: New South Wales Districts (Question No. 1414)|1|
+|QUESTION: ROSS RIVER DAM PROJECT: FINANCING|1|
+|HONOURABLE MEMBER FOR OXLEY: Motion of Censure|1|
+|QUESTION: AUSTRALIANS IN YUGOSLAVIA|1|
+|QUESTION: SEIZURE OF WORKS OF ART|1|
+|CSIRO: East Timor (Question No. 1362)|1|
+|HOSPITALS DEVELOPMENT PROGRAM: Federal and State Arbitration Tribunals: Joint Sittings of Members (Question No. 1269)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Dental Health (Question No. 4010)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 2936)|1|
+|OBSERVERS: Importation of Railway Rolling Stock (Question No. 4038)|1|
+|COLLEGES OF ADVANCED EDUCATION: Australian Police College (Question No. 5470)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Conference (Question No. 1026)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Dartmouth Dam, Project (Question No. 551)|1|
+|QUESTION: MOTOR VEHICLE INDUSTRY|1|
+|COLLEGES OF ADVANCED EDUCATION: Criminology Research Act (Question No. 5473)|1|
+|VICTORIA: Water Conservation and Drainage (Question No. 190)|1|
+|WESTERN AUSTRALIA: Human Rights Inquiry: Mr Justice Staples (Question No. 777)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Local Government Statutory Contributions (Question No. 56)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Youth Employment Subsidy Scheme (Question No. 217)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Baltic Migrants (Question No. 1893)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Infra-State Shipping Services (Question No. 3715)|1|
+|QUESTION: KINDERGARTEN-CUM-CHILD MINDING CENTRES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Proposals for Regional Associations (Question No. 2715)|1|
+|QUESTION: SYDNEY METROPOLITAN RAILWAYS|1|
+|FEDERAL ELECTORAL DIVISION, ALSO SHOWING SUBDIVISIONAL ENROLMENTS: International Women's Year (Question No. 973)|1|
+|RAAF: Land Prices (Question No. 4974)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Art Exhibitions: Financial Assistance (Question No. 1680)|1|
+|DEATH PENALTY ABOLITION BILL 1973: Second Reading|1|
+|RAAF: Official Residences (Question No. 3405)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration from Cyprus (Question No. 652)|1|
+|QUESTION: NATIONAL HEALTH INSURANCE COMMISSION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tarcoola-Alice Springs Railway (Question No. 1100)|1|
+|TASMANIA: Taxation: Stock Valuation (Question No. 1021)|1|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Priorities Review Staff: Insurance (Question No. 2668)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Superannuation Fund (Question No. 930)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employment Statistics (Question No. 782)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Standing Committee of Commonwealth and State Attorneys-General (Question No. 6096)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Public Service: Part-time Female Employees (Question No. 315)|1|
+|SA: National Health Scheme (Question No. 722)|1|
+|ADJOURNMENT: Fraser Ministry: Pecuniary Interests of Treasurer|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cost of Electricity (Question No. 496)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Aid: Tonga (Question No. 386)|1|
+|ADJOURNMENT: Times, 8 April 1954|1|
+|QUESTION: FINANCIAL ASSISTANCE TO LOCAL GOVERNMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Conventions (Question No. 4112)|1|
+|QUESTION: CRAFTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Ordinances (Question No.2362)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Investment Review Board (Question No. 1575)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Minister for Productivity: Overseas Travel (Question No. 1631)|1|
+|UNIT: Unemployment Relief (Question No. 4750)|1|
+|QUESTION: TOUR OF SOUTH AFRICA|1|
+|No: Qantas Airways Ltd (Question No. 3127)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tariff Board (Question No. 1968)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: People's Republic of China: Archaelogical Exhibition (Question No. 1354)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Injured Worker (Question No. 975)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Decentralisation (Question No. 2086)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 2938)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employees of Munitions, Aircraft and Guided Weapons Establishments: Membership of Unions (Question No. 676)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigrants: Australian Citizenship (Question No. 4395)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Vietnam: Prisoners of War (Question No. 1412)|1|
+|WESTERN AUSTRALIA: Taxation: Broiler Growers (Question No. 3379)|1|
+|QUESTION: TAXATION INQUIRY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Area Improvement Program: Western Sydney (Question No. 1173)|1|
+|QUESTION: RAILWAYS: PORT PIRIE TO ADELAIDE|1|
+|QUESTION: EUREKA STOCKADE MUSEUM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Therapeutic Goods Act (Question No. 1232)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Armed Services: Training Costs (Question No. 5484)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Press Releases: Dispatch to Members (Question No. 375)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Restrictive Trade Practices (Question No. 3097)|1|
+|QUESTION: BEEF IMPORT RESTRICTIONS ABROAD|1|
+|QUESTION: POLITICAL ADVERTISING|1|
+|SUSPENSION OF STANDING ORDERS: Austria, Belgium, Finland, Ireland, Norway, Portugal, Spain -|1|
+|QUESTION: HAY REPORT|1|
+|QUESTION: COMMODITY PRICES LEGISLATION|1|
+|PUBLIC SERVICE BOARD: Christmas Island (Question No. 927)|1|
+|LEADER OF THE HOUSIE|1|
+|QUESTION: AUSTRALIA DAY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Underground Railways (Question No. 1447)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Membership of Employees' Organisations (Question No. 2398)|1|
+|QUESTION: PRICES AND INCOMES POWERS|1|
+|QUESTION: FEDERAL ELECTION|1|
+|QUESTION: PRICES AND WAGES FREEZE: INTEGRATED COMMODITY PROGRAM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Inflation: Report (Question No. 1121)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interdepartmental Committees (Question No. 1669)|1|
+|AWARDS OF VC, MC, DCM AND MM FOR SERVICE IN 1939-45 WAR: Defence Purchases: Local and Overseas (Question No. 1402)|1|
+|QUESTION: WRECKS ON NEW SOUTH WALES COAST|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: United Nations Environment Program (Question No. 1223)|1|
+|QUESTION: INTERNATIONAL COURT OF JUSTICE|1|
+|QUESTION: PRIVILEGES COMMITTEE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Civil Aviation: Papua New Guinea (Question No. 2409)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Rabaul Bus Services (Question No. 394)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Vietnam- Provisional Revolutionary Government (Question No. 1467)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory: Housing (Question No. 659}|1|
+|QUESTION: STAFF OF THE MINISTER FOR DEFENCE: RESIGNATION OF MR CLEM LLOYD|1|
+|QUESTION: URBAN PUBLIC TRANSPORT: ETON WATER CONSERVATION PROJECT|1|
+|FEDERAL ELECTORAL DIVISION, ALSO SHOWING SUBDIVISIONAL ENROLMENTS: Salaries: Opposition Staff (Question No. 817)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Staffs: Security Clearances (Question No. 3)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Former Parliamentarians: Appointment to Government Positions (Question No. 727)|1|
+|TASMANIA: Semi-Government Interest Rates (Question No. 3723)|1|
+|QUESTION: DISPOSABLE INCOME|1|
+|QUESTION: VIETNAMESE IMMIGRANTS|1|
+|QUESTION: REFERENDUM: GOVERNMENT ADVERTISING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Museums and National Collections (Question No. 87)|1|
+|COMMONWEALTH SCIENCE FACILITIES PROGRAMME: Defence Standards Laboratories (Question No. 6123)|1|
+|RAAF: Works of Art: Acquisitions (Question No. 3177)|1|
+|REPRINT SERIES: Departmental Reports (Question No. 2591)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Foreign Affairs: Staff (Question No. 694)|1|
+|OBSERVERS: Sydney Airport Accident (Question No. 4852)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South Vietnamese Orphans (Question No. 465)|1|
+|HOSPITALS DEVELOPMENT PROGRAM: National Estate Program (Question No. 1175)|1|
+|PRIME MINISTER'S OVERSEAS VISIT: Ministerial Statement|1|
+|AUSTRALIAN GOVERNMENT INSURANCE OFFICE BILL 1975: Second Reading|1|
+|QUESTION: TERRITORIAL SEA: MAKINE POLLUTION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Plantation Workers (Question No. 167)|1|
+|QUESTION: NATIONWIDE SURVEY OF EDUCATIONAL NEEDS|1|
+|COLLEGES OF ADVANCED EDUCATION: Chip Mill Project (Question No. 5361)|1|
+|OVERSEAS CONTROL - MANUFACTURING SECTOR: Telephones: Installation Charges (Question No. 5366)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Maltese Migrants: Language Tuition (Question No. 679)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unemployment Benefits (Question No. 1180)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Art (Question No. 1990)|1|
+|No: Area Improvement Program: New South Wales (Question No.1365)|1|
+|QUESTION: CIGARETTE ADVERTISEMENTS IN NEWSPAPERS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr Vincent Teresa (Question No. 866)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Immigration and Ethnic Affairs: Overseas Staff (Question No. 1178)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Community Health Services and Facilities (Question No. 629)|1|
+|QUESTION: THE PARLIAMENT: REJECTION OF LEGISLATION|1|
+|QUESTION: HON. V. C. GAM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Servants: Air Travel (Question No. 415)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Paracel Islands Conflict (Question No. 663)|1|
+|CONCILIATION AND ARBITRATION BILL (No. 2) 1975: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Road Safety - Car Seats (Question No. 426)|1|
+|DEATH OF HIS ROYAL HIGHNESS, THE PRINCE HENRY, DUKE OF GLOUCESTER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Divorce (Question No. 6099)|1|
+|AUSTRALIAN SECURITY INTELLIGENCE ORGANIZATION BILL 1976: Second Reading|1|
+|PRIVILEGE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Boards and Statutory Authorities (Question No. 698)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Free School Dental Service (Question No. 985)|1|
+|QUESTION: ARBITRATION COMMISSION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Alice Springs: Commonwealth Railways Facilities (Question No. 1434)|1|
+|WESTERN AUSTRALIA: Aboriginal Infant Mortality (Question No. 5323)|1|
+|WANT OF CONFIDENCE IN THE GOVERNMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Miklouho-Maclay Centenary (Question No. 3666)|1|
+|QUESTION: ELECTORAL: PREFERENTIAL VOTING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Judiciary Act Committee (Question No. 137)|1|
+|QUESTION: TRAVEL TO TAIWAN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Control of Mergers (Question No. 4761)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Staffs: Appointment of Relatives (Question No. 2)|1|
+|DEATH OF THE RIGHT HONOURABLE N. E. KIRK|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Servicemen's Children (Question No. 6239)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Health Care: Joint Hospital's Works Councils (Question No. 487)|1|
+|WESTERN AUSTRALIA: Doctors: Number and. Payment (Question No. 2439)|1|
+|QUESTION: ETON. V. C. GAM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Employment Service: Staffing of Offices in Tasmania (Question No. 102)|1|
+|CSIRO: Commonwealth Fire Board (Question No. 1658)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Army: Application Rejection Rate (Question No. 1311)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sea Transport to and from Tasmania (Question No. 1226)|1|
+|WESTERN AUSTRALIA: Fire Brigade Services: Insurance Companies' Contributions (Question No. 6547)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Minister: Press Releases (Question No. 1635)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Antarctic Expeditions: Transport Arrangements (Question No. 1037)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Government Newspapers (Question No. 1256)|1|
+|QUESTION: MINERAL SECURITIES AUSTRALIA LTD|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Insurance (Question No. 338)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 3171)|1|
+|QUESTION: PRICE OF CLOTHING|1|
+|QUESTION: PRIME MINISTER'S VISIT TO CHINA|1|
+|QUESTION: CONVENTIONS|1|
+|SOCIAL SERVICES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Delmont Private Hospital (Question No. 3154)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral Divisions: Enrolments (Question No. 1912)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Inflation: Report (Question No. 1553)|1|
+|QUESTION: INSTITUTE OF MAKINE SCIENCE: SITING|1|
+|AWARDS OF VC, MC, DCM AND MM FOR SERVICE IN 1939-45 WAR: Institute of Criminology (Question No. 1676)|1|
+|QUESTION: LABOR PARTY'S POLICY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: River Murray Commission; Dartmouth Dam (Question No. 845)|1|
+|QUESTION: FINANCE TO RESTORE GOLD COAST BEACHES AND PROPERTY|1|
+|QUESTION: INCOMES OF DOCTORS|1|
+|QUESTION: THIRTIETH ANNIVERSARIES OF MR JOHN CURTIN AND MR DALY|1|
+|QUESTION: VIETNAM: GENEVA CONFERENCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Salmonella Infection: Victorian Milk Factories (Question No. 1457)|1|
+|QUESTION: RECEIPTS DUTY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Orders: Britain (Question No. 3637)|1|
+|QUESTION: CHINA: WHEAT SALES|1|
+|VICTORIA GRANT (SHEPPARTON PRESERVING COMPANY LIMITED) BILL 1971|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Army: Cost of Training Infantrymen (Question No. 2452)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Road Accidents: Hospital Debts (Question No. 3678)|1|
+|MATRIMONIAL CAUSES BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Production of Pear Alcohols (Question No. 1120)|1|
+|SUBSIDIES PAID DURING 1968-69: Advertising for Teachers Overseas (Question No. 1421)|1|
+|QUESTION: AUSTRALIAN VOTING SYSTEM: GOVERNMENT POLICY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Foreign Affairs: Pacific Islands Division (Question No. 1221)|1|
+|QUESTION: WAGE RESTRAINT|1|
+|ADJOURNMENT: Mr Wilfred Burchett|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Industrial Tribunals (Question No. 165)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Woodchip Industry (Question No. 4923)|1|
+|IPEC: Commonwealth Savings Bank Insurance Scheme (Question No. 819)|1|
+|AUSTRALIAN SYSTEM OF HONOURS AND AWARDS|1|
+|REMARKS OF PRIME MINISTER: Suspension of Standing Orders|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Civil Aviation (Question No. 2126)|1|
+|QUESTION: CAMBODIA: DIPLOMATIC REPRESENTATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Democratic People's Republic of Korea: Diplomatic Relations (Question No. 538)|1|
+|DEATH OF PRESIDENT MAKARIOS|1|
+|RETIREMENT OF PRINCIPAL PARLIAMENTARY REPORTER|1|
+|QUESTION: SECURITY CHECKS OF MINISTERIAL STAFF|1|
+|QUESTION: EMPLOYMENT AND INDUSTRIAL RELATIONS|1|
+|MINISTER FOR FOREIGN AFFAIRS: Want of Confidence Motion|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: University: Albury-Wodouga (Question No. 2428)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: United Nations Committee (Question No. 546)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Decentralisation Committee (Question No. 3604)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Departmental Advertising Budget (Question No. 2858)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Africa: National Liberation Movements (Question No. 2708)|1|
+|QUESTION: TARIFF CHANGES|1|
+|FRENCH NUCLEAR TESTS: RESOLUTION OF TASMANIAN PARLIAMENT: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS: Apartheid (Question No. 3260)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory Police (Question No. 3420)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: HMAS 'Albatross': Fire Damage (Question No. 89)|1|
+|ANSWERS TO QUESTIONS: Fraser Island: Mineral Exports (Question No. 2395)|1|
+|MOVES TO PREVENT OVERSEAS TAKEOVER OF NORTHERN TERRITORY URANIUM DEPOSITS: Attorney-General's Department|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loans (Question No. 703)|1|
+|MASTERMAN REPORT: Suspension of Standing Orders|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: 15 to 18 Year Olds (Question No. 3649)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Indonesia: Aid (Question No. 3963)|1|
+|WESTERN AUSTRALIA: Nursing Homes: Financial Assistance (Question No. 6027)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Capital Assistance for Leisure Facilities (Question No. 1959)|1|
+|QUESTION: IMMIGRATION FROM LEBANON|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Guidlines to Use (Question No. 137)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Relations with China (Question No. 736)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Petroleum (Submerged Lands) Act (Question No. 5476)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Safeguards (Question No. 1661)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fluoridation: Dental Health (Question No. 3464)|1|
+|QUESTION: POSTMASTER-GENERAL'S DEPARTMENT: METRIC MEASURES|1|
+|QUESTION: CASUAL SENATE VACANCIES: CONSTITUTIONAL CONVENTION|1|
+|QUESTION: RIVERINA RAIL FREIGHTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian National Line: Queensland Ports (Question No. 660)|1|
+|QUESTION: RESEARCH ASSISTANCE: LIBERAL CODE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Dental Therapists (Question No. 986)|1|
+|QUESTION: RELEASE OF DOCUMENTS|1|
+|ELECTORAL REDISTRIBUTION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Foreign Affairs (Question No. 68)|1|
+|QUESTION: TAXATION CUTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Movements of Expatriates and Indigenes (Question No. 437)|1|
+|QUESTION: AUSTRALIAN BATTALION IN SINGAPORE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Minister for Primary Industry: Pecuniary Interests (Question No. 1231)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interpreters and Translators (Question No. 72)|1|
+|TASMANIA: Education: 18-year-olds (Question No. 2155)|1|
+|UNITED STATES OF AMERICA 1967: The Perpetual Calendar (Question No. 1568)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Criminal Code (Question No. 4762)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Public Service: Third Division (Question No. 1050)|1|
+|UNITED STATES DEPARTMENT OF HEALTH, EDUCATION, AND WELFARE: Matrimonial Causes (Question No. 2533)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Industrial Disputes (Question No. 1245)|1|
+|QUESTION: PROPOSED NATIONAL INQUIRY INTO DRUGS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 2954)|1|
+|QUESTION: DUAL REPRESENTATION' DRAFT RESOLUTION|1|
+|QUESTION: K.G.CRUICE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Commonwealth and State Subsidies to Parent Organisations (Question No. 100)|1|
+|COLLEGES OF ADVANCED EDUCATION: Police Commissioners Conference (Question No. 5703)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South Pacific Islands: Plantation Workers' Wages (Question No. 168)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Social Welfare Programs: Western Sydney (Question No. 239)|1|
+|QUESTION: PROPOSED ECONOMIC MEASURES|1|
+|QUESTION: OVERSEAS VISIT BY PRIME MINISTER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Broadcasting Commission (Question No. 199)|1|
+|QUESTION: PUBLIC SERVANTS: EMPLOYMENT AFTER RESIGNATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation (Question No. 93)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Customs and Excise (Question No. 1963)|1|
+|KEEP OUT OF REACH OF CHILDREN IF SWALLOWED SEEK MEDICAL ADVICE AVOID CONTACT WITH FOOD DO NOT USE IN FOOD PREPARATION OR FOOD STORAGE AREAS DO NOT USE IN NURSERIES AND SICK ROOMS WHERE PEOPLE MAY BE CONTINUOUSLY EXPOSED: Fire-Fighting Equipment (Question No. 4177)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory - Legal Aid (Question No. 138)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interdepartmental Committees (Question No. 1356)|1|
+|QUESTION: DEVALUATION: OVERSEAS BORROWINGS|1|
+|DEATH OF MR J. C. SEXTON|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Canberra Bay Holiday (Question No. 335)|1|
+|ROAD TRAFFIC ACCIDENTS: Metric System: Conversion (Question No. 3385)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Reciprocal Enforcement of Court Judgments (Question No. 342)|1|
+|TROPICAL ALLOWANCE: Australian Road System (Question No. 66)|1|
+|APPROPRIATION BILL (No. 1) 1971-72|1|
+|QUESTION: SUPPLY OF DC3 AIRCRAFT TO CAMBODIA, LAOS AND NEPAL|1|
+|QUESTION: INFLATION: SOCIAL WELFARE PROGRAMS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Fishing Zone (Question No. 2344)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Reserve Bank: Foreign Exchange Cover (Question No. 558)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Loan Funds: Allocations to Transport Systems (Question No. 6249)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Press Releases: Dispatch to Members (Question No. 130)|1|
+|QUESTION: MR H. W. FANCHER: TELEPHONE ACCOUNT|1|
+|QUESTION: WHITLAM MINISTRY: DISPOSAL OF SHARES|1|
+|WESTERN AUSTRALIA: Colleges of Advanced Education: Enrolments, Scholarships and Finances (Question No. 5837)|1|
+|OVERSEAS CONTROL - MANUFACTURING SECTOR: High Court Justices: Privy Council Sittings (Question No. 5303)|1|
+|QUESTION: LABOR PARTY CAMPAIGN FUNDS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Superannuation Scheme (Question No. 1446)|1|
+|QUESTION: FIJI|1|
+|TEXT OF TREATIES ETC. PRESENTED TO THE PARLIAMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cigarette Advertisements (Question No. 5697)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Private International Law (Question No. 5504)|1|
+|FRASER GOVERNMENT: Motion of Censure|1|
+|QUESTION: INDONESIA AND AUSTRALIA: SEABED BOUNDARY|1|
+|AUSTRALIAN AID TO THE SOUTH PACIFIC: Ministerial Statement|1|
+|QUESTION: RESOURCES EXPORT POLICY|1|
+|QUESTION: POLLUTION OF THE SEA BY OIL|1|
+|QUESTION: COMMONWEALTH PUBLIC SERVANTS: FOUR WEEKS ANNUAL LEAVE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: European Carp (Question No. 1214)|1|
+|FUTURE OF AUSTRALIAN FORCES IN VIETNAM: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cultural Property: Export (Question No. 5502)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medical Boards (Question No.1 877)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Voting Age (Question No. 140)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: The Open University (Question No. 5494)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 2942)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 3173)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Post Graduate Course Fees (Question No. S3)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Service Personnel: Movement (Question No. 4052)|1|
+|QUESTION: BEEF INDUSTRY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Aboriginal Affairs (Question No. 1153)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Home Nursing Subsidies (Question No. 4004)|1|
+|UNIT: Decentralisation: Insurance Companies (Question No. 4914)|1|
+|QUESTION: RHODESIA INFORMATION CENTRE|1|
+|QUESTION: GUNN RESOURCES AND EXPLORATION INCORPORATED|1|
+|QUESTION: PROBLEM No. 2|1|
+|QUESTION: PERSONAL INCOME TAXATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Housing Ministers' Conference (Question No. 825)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Livestock and Property of Rural Residents (Question No. 926)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Trachoma and Eye Health Program (Question No. 143)|1|
+|RANGER URANIUM MINING PROJECT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fourth Report of the Royal Commission on Petroleum (Question No. 144)|1|
+|AUSTRALIAN NATIONAL ANTHEM QUEST|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Iron Ore: Exports and Ownership (Question No. 6115)|1|
+|QUESTION: ELECTORAL ACT: COURT PROCEEDINGS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr John Bracey (Question No. 1554)|1|
+|QUESTION: PETROL PRICES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International labour Organisation: Maritime Conventions (Question No. 49)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Special Minister of State (Question No. 112)|1|
+|QUESTION: TAX INDEXATION|1|
+|DEATH OF THE HONOURABLE SIR WILFRID KENT HUGHES, K.B.E.. M.V.O., M.C., E.D., M.P|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Civil Aviation (Carriers Liability) Act: State Laws (Question No. 2465)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Rhodesia (Question No. 2476)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Law Reform (Question No. 3619)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Payments to Non-government Schools, Werriwa Division (Question No. 345)|1|
+|DEATH OF SENATOR THE HONOURABLE GERALD COLIN MCKELLAR|1|
+|No: International Comparisons of Educational Expenditure (Question No. 933)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation: Ratification of Conventions (Question No. 92)|1|
+|QUESTION: JOINT COMMITTEE ON FOREIGN AFFAIRS: REPORT ON FOREIGN AID|1|
+|QUESTION: QUEENSLAND ELECTRICITY SUPPLY NETWORK|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Public Service: Second Division Officers (Question No. 322)|1|
+|CENSURE OF PRIME MINISTER: Notice of Motion|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Transcontinental Pipeline Grid (Question No. 910)|1|
+|SALARIES (STATUTORY OFFICES) ADJUSTMENT BILL . 1972: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Malaysia: Territorial Waters (Question No. 6046)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Victorian Branch of Australian Labor Party: Salary of Officers (Question No. 857)|1|
+|QUESTION: FLEET AIR ARM FIRE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Responsibilities of Citizens of Commonwealth Countries (Question No. 84)|1|
+|QUESTION: CURRENCY REGULATIONS: ALLEGED BREACHES|1|
+|ORDINANCES AND REGULATIONS: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 2937)|1|
+|QUESTION: CONCLUSION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Water Resources Council (Question No. 1464)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Prices Justification Tribunal (Question No. 304)|1|
+|QUESTION: PAPUA AND NEW GUINEA: ADMINISTRATIVE TRAINING|1|
+|TASMANIA: Nursing Homes (Question No. 2153)|1|
+|PASSENGER MOTOR INDUSTRY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Court of Justice (Question No. 654)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Election Promises: Amenities (Question No. 5545)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: States Grants (Deserted Wives) Act and States Grants (Home Care) Act (Question No. 495)|1|
+|CRIMINOLOGY RESEARCH BILL 1971: Second Reading|1|
+|TELEPHONIC COMMUNICATIONS (INTERCEPTION) BILL 1975: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Tertiary Education (Question No. 2402)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sponsored Overseas Students (Question No. 3998)|1|
+|EXECUTIONS IN YUGOSLAVIA: Discussion of Matter of Public Importance|1|
+|CONSTITUTION ALTERATION (SENATE CASUAL VACANCIES) BILL 1977: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Works of Art (Question No. 3990)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Road Safety (Question No. 65)|1|
+|QUESTION: INTERNATIONAL NARCOTICS CONTROL|1|
+|TROPICAL ALLOWANCE: Cooks River Bridge (Question No. 936)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Missions: Personnel (Question No. 340)|1|
+|TEMPORARY ACCOMMODATION ALLOWANCE: Local Authorities: for Sewerage Services (Question No. 726)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Curriculum Proposals (Question No. 5498)|1|
+|QUESTION: HOUSING MORTGAGE INTEREST PAYMENTS: TAX DEDUCTIBILITY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Standards Association of Australia Lift Code (Question No. 6393)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Area Improvement Program (Question No. 262)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Relocation of Public Servants (Question No. 1140)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Medical Benefits: Visual Aids (Question No. 5593)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant Hostels' (Question No. 4334)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Conference of Commonwealth and State Ministers (Question No. 456)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Former Japanese Islands: Sovereignty (Question No. 42S8)|1|
+|QUESTION: PUBLIC SERVICE: EMPLOYMENT OF WOMEN|1|
+|TRESPASS ON COMMONWEALTH LANDS ORDINANCE 1972: Ministerial Statement|1|
+|QUESTION: DISALLOWED QUESTION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 3170)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Melbourne Metropolitan Railways (Question No. 415)|1|
+|QUESTION: UNEMPLOYMENT BENEFITS: SCHOOL LEAVERS|1|
+|ANSWERS TO QUESTIONS UPON NOT ICE: Television Companies: Shareholdings (Question No. 134)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr Wiley Fancher: Payment of Telephone Accounts (Question No. 896)|1|
+|QUESTION: SOCIAL SERVICES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Health Insurance Commission (Question No. 5319)|1|
+|QUESTION: PACIFIC ISLANDS REGIMENT|1|
+|QUESTION: SUPERPHOSPHATE|1|
+|URBAN AND REGIONAL DEVELOPMENT: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Spratly and Paracel Islands: Sovereignty (Question No. 4060)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Passports: Rhodesia (Question No. 561)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medical and Hospital Benefits Funds (Question No. 5072)|1|
+|QUESTION: TERRITORY OF PAPUA AND NEW GUINEA: RURAL WAGES|1|
+|QUESTION: ETHIOPIA: DROUGHT VICTIMS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea - Flow of Investment (Question No. 186)|1|
+|TROPICAL ALLOWANCE: Strata Title Legislation (Question No. 739)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Exercises: Malaysia and Singapore (Question No. 1410)|1|
+|QUESTION: BISHOP F. O. HULME-MOIR|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Chilean, Vietnamese and Timorese Refugees (Question No. 154)|1|
+|QUESTION: MR BIJEDIC'S VISIT: INTER DEPARTMENTAL COMMITTEE MEETING|1|
+|THE PARLIAMENT: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Portrait of Her Majesty (Question No. 856)|1|
+|ANSWERS TO QUESTIONS: Australia Police Statistics (Question No. 2244)|1|
+|QUESTION: IMMIGRATION FROM NEW ZEALAND|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Parliamentary Staff Establishments: Non-Government Parties (Question No. 874)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital Planning Bureau (Question No. 5911)|1|
+|ABORIGINAL EMPLOYMENT: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South Australia and Territorial Air Services (Question No. 1425)|1|
+|QUESTION: TERRITORIAL WATERS|1|
+|QUESTION: PUBLICATION OF COMMONWEALTH ACTS AND STATUTORY RULES|1|
+|QUESTION: GOVERNMENT EXPENDITURES|1|
+|PRIME MINISTER: ELECTION PROMISES: Discusssion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Local Government Finances: Debt Charges and Revenues (Question No. 54)|1|
+|TASMAN BRIDGE RESTORATION BILL 1975: Second Reading|1|
+|QUESTION: LIFE OFFICE AND SUPERANNUATION FUND INVESTMENTS|1|
+|QUESTION: SUPERPHOSPHATE SUBSIDY|1|
+|TASK FORCES: International Comparisons of Inflation Rates (Question No. 1399)|1|
+|QUESTION: UNITED KINGDOM: IMMIGRATON|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr H. W. Fancher: Telephone Accounts (Question No. 957)|1|
+|QUESTION: OVERSEAS BORROWING|1|
+|QUESTION: WOOMERA: SECRET RECORDS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Transfer of Foreign Aid Functions (Question No. 134)|1|
+|QUESTION: PROFITS AND WAGES|1|
+|ADJOURNMENT: Opposition Members - Hal|1|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Priorities Review Staff: Education (Question No. 2670)|1|
+|DEPARTMENT OF FOREIGN AFFAIRS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Publication of Acts, Rules and Ordinances (Question No. 170)|1|
+|ANSWERS TO QUESTIONS: Control of Wages (Question No. 1962)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medical Benefits Scheme: Most Common Fee (Question No. 116)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Canberra: Library Services (Question No. 4558)|1|
+|QUESTION: UNITED STATES SURCHARGE ON IMPORTS|1|
+|CONSTITUTION ALTERATION (MODE OF ALTERING THE CONSTITUTION) BILL 1974 [No. 2]: Third Reading|1|
+|FISHERIES (PAPUA NEW GUINEA BOATS) BILL 1974: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Private Investment (Question No. 1578)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory: Employment of School Leavers (Question No. 4743)|1|
+|PRICES AND INCOMES REFERENDUMS: Ministerial Statement|1|
+|QUESTION: CATTLE TICK CONTROL FUNDS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Grants (Question No. 2825)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Currency Regulations: Alleged Breaches (Question No. 1590)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Automatic Data Processing Committees (Question No. 4141)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Vietnam: Disabilities Incurred by Servicemen (Question No. 728)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: War Service Homes (Question No. 546)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Consultants and Advisers (Question No. 326)|1|
+|AWARDS OF VC, MC, DCM AND MM FOR SERVICE IN 1939-45 WAR: Productivity (Question No. 2119)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fifth South Pacific Forum (Question No. 10)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Scientific and Technical Co-operation between Australia and other Countries (Question No. 263)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Conference (Question No. 1164)|1|
+|QUESTION: STATEMENTS BY FOREIGN MINISTER|1|
+|PAPUA NEW GUINEA LOANS GUARANTEE BILL 1975: Second Reading|1|
+|KEEP OUT OF REACH OF CHILDREN IF SWALLOWED SEEK MEDICAL ADVICE AVOID CONTACT WITH FOOD DO NOT USE IN FOOD PREPARATION OR FOOD STORAGE AREAS DO NOT USE IN NURSERIES AND SICK ROOMS WHERE PEOPLE MAY BE CONTINUOUSLY EXPOSED: Health: Commonwealth and State Standing Committee (Question No. 3588)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Maritime Safety and Pollution Conventions (Question No. 4516)|1|
+|QUESTION: TRANS-AUSTRALIA AIRLINES: PILOTS DISPUTE|1|
+|TASK FORCES: Prime Minister's Overseas Visits (Question No. 1883)|1|
+|DEATH OF MR L. C. HAYLEN|1|
+|QUESTION: DAMAGE TO GLASSHOUSES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Legal Practitioners (Question No. 1733)|1|
+|WESTERN AUSTRALIA: Compensation: Victims of Criminal Acts (Question No.2523)|1|
+|PROPYLENE OXIDE DERIVATIVES: Tariff Board Report|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Livestock Supplies to Developing Countries (Question No. 1525)|1|
+|QUESTION: MOUNT DRUITT TOUR, 4 MAY 1972|1|
+|OBSERVERS: Immigration: Naturalisation of Migrants (Question No. 4619)|1|
+|QUESTION: CREDIT UNIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Insurance (Question No. 4267)|1|
+|TASMANIA: Trans-Australia Airlines (Question No. 1454)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Student Assistance Schemes (Question No. 1392)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation- United States Withdrawal (Question No. 672)|1|
+|QUESTION: NEW STATES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Graduate School of Business Management (Question No. 3659)|1|
+|QUESTION: MINERAL EXPORTS: FRASER ISLAND|1|
+|KEEP OUT OF REACH OF CHILDREN IF SWALLOWED SEEK MEDICAL ADVICE AVOID CONTACT WITH FOOD DO NOT USE IN FOOD PREPARATION OR FOOD STORAGE AREAS DO NOT USE IN NURSERIES AND SICK ROOMS WHERE PEOPLE MAY BE CONTINUOUSLY EXPOSED: Dental Care for School Children (Question No. 3589)|1|
+|QUESTION: FUNDS FOR MEDIBANK AND REGIONAL EMPLOYMENT DEVELOPMENT SCHEME|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tuberculosis: Hospital Beds (Question No. 4690)|1|
+|QUESTION: DELAY OF BUDGET|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Fishing (Question No. 1076)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interpreting and Translating Services (Question No. 870)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Health Scheme: Cost of Benefits (Question No. 117)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital Charges (Question No. 110)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pre-School Education (Question No. 1640)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: North Vietnam: Aid (Question No. 496)|1|
+|QUESTION: POVERTY INQUIRY|1|
+|PETITIONS: Lake Pedder|1|
+|MANUFACTURING POLICIES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Croatian Embassy' (Question No. 775)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Draft Criminal Code (Question No. 2471)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nautical Training (Question No. 6073)|1|
+|QUESTION: ABORIGINAL HEALTH IN QUEENSLAND|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Will (Question No. 1679)|1|
+|DEPARTMENT OF THE INTERIOR: Water Quality (Question No. 3124)|1|
+|DEATH OF MR A. C. W. FISKEN, C.M.G., O.B.E., M.C|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Superannuation: Transfer of Rights (Question No. 4396)|1|
+|QUESTION: MR BIJEDIC: VISIT TO AUSTRALIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Capital Assistance for Leisure Facilities (Question No. 1258)|1|
+|NORTHERN TERRITORY: Brussels Maritime Conventions 1967 (Question No. 3271)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Election Campaign: Secretarial Assistance (Question No. 853)|1|
+|QUESTION: AUSTRALIAN REEF: SOVIET VESSEL|1|
+|QUESTION: OPINION ON CONTEMPT APPLICATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Timor: Seabed Boundaries and Petroleum Exploration (Question No. 130)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Repatriation Pensioners: Distribution by Electoral Division (Question No. 567)|1|
+|WELFARE AND HEALTH: Reports and Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commissions and Committees: Reports (Question No. 30)|1|
+|WESTERN AUSTRALIA: War Service Homes (Question No. 6439)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation: State Attitudes to Conventions (Question No. 6219)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Inter-State Commission Act 1975 (Question No. 222)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Maritime and Pollution Conventions (Question No. 123)|1|
+|MINISTERS OF STATE BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employment Training Scheme (Question No. 5240)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Kangaroos (Question No. 3154)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Scientific Exchange Agreements (Question No. 2140)|1|
+|QUESTION: TAXATION|1|
+|QUESTION: KALGOORLIE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Control of Industry (Question No. 108)|1|
+|QUESTION: COMMONWEALTH HEADS OF GOVERNMENT CONFERENCE|1|
+|HOUSING, LAND DEVELOPMENT AND URBAN ENVIRONMENT: Discussion of Matter of Public Importance|1|
+|QUESTION: LOCAL GOVERNMENT REVENUES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Purchase of Newspapers and Periodicals (Question No. 470)|1|
+|QUESTION: CABINET SOLIDARITY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Employment (Question No. 198)|1|
+|HOSPITALS: FEES AND COMMONWEALTH ASSISTANCE: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Railway Inquiries (Question No. 1 147)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Teacher Trainees (Question No. 4756)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Automotive Trade Products (Question No. 3895)|1|
+|ANSWERS TO QUESTIONS: Famine: International Assistance (Question No. 1908)|1|
+|QUESTION: OIL PRICES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australians of South Sea Island Descent (Question No. 139)|1|
+|QUESTION: GOVERNMENT BUSINESS|1|
+|TASK FORCES: Prime Minister: Personal Staff (Question No. 1846)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Capital Works (Question No. 2069)|1|
+|AUSTRALIA/WEST COAST NORTH AMERICA TRADE: Armed Forces: Resigning Officers (Question No. 3630)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Railways: Tarcoola-Alice Springs (Question No. 490)|1|
+|TRADE UNION TRAINING PROGRAM: Australia Council: Luncheons (Question No. 3219)|1|
+|WESTERN AUSTRALIA: Draft Criminal Code (Question No. 6097)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Canberra Airport: Restrictions on Light Aircraft (Question No. 4043)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Decentralisation Committee (Question No. 4330)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Task Force on Co-ordination in Welfare and Health (Question No. 1149)|1|
+|NATIONAL GALLERY BILL 1975: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Health and Vital Statistics (Question No. 305)|1|
+|QUESTION: PAPUA NEW GUINEA: LOAN FUNDS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Leopard Tank (Question No. 715)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Rehabilitation and Compensation Scheme (Question No. 132)|1|
+|ANSWERS TO QUESTIONS: Committees, Commissions of Inquiry and Task Forces (Question No. 2345)|1|
+|QUESTION: LAND PRICES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sub-Contract Production of Boeing 747 Aircraft (Question No. 2724)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Provision for Prisoners' Dependants (Question No. 190)|1|
+|QUESTION: PRIVATE SCHOOLS|1|
+|QUESTION: EMPLOYMENT OF SCHOOL LEAVERS|1|
+|QUESTION: ATD TO AFRICAN NATIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Local Government: Treasury Survey (Question No. 2049)|1|
+|QUESTION: UNIFORMS FOR AMBASSADORS|1|
+|SCHOOLS COMMISSION: Discussion of Matter of Public Importance|1|
+|QUESTION: COCOS ISLANDS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Teacher Education (Question No. 5844)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Life Insurance Companies: Income and Investments (Question No. 4034)|1|
+|DECENTRALISATION: Discussion of Matter of Public Importance|1|
+|No: Public Libraries Inquiry (Question No. 938)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Convention on Consular Relations (Question No., 3005)|1|
+|DOUBLE DISSOLUTION OF PARLIAMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Financial Corporations Act: Permanent Building Societies (Question No. 339)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Agricultural Council (Question No. 2081)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Wheat (Question No. 4609)|1|
+|QUESTION: TAXATION RATES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Productivity Statistics (Question No. 2028)|1|
+|AUSTRALIAN/STATE ADVISORY COMMITTEE TO STUDY WESTERN AUSTRALIAN AIRPORT REQUIREMENTS: Australian Public Service: Fellowship Scheme (Question No. 738)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: United Nations Convention: Recognition and Enforcement of Foreign Arbitral Awards (Question No. 4058)|1|
+|STATES RECEIPTS DUTIES (ADMINISTRATION) BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aviation: Salaries of Pilots (Question No. 792)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Directory of Support Services for Women (Question No. 264)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Visit of Mr Peacock to Bali, September 1975 (Question No. 488)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Asian Development Bank (Question No. 2348)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: Prime Minister's Visits (Question No. 5460)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Negotiations for Overseas Loans (Question No. 201)|1|
+|QUESTION: FRENCH NUCLEAR TESTS: SHIPPING BAN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Africa: Assistance to Drought Areas (Question No. 221)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Court of Justice (Question No. 655)|1|
+|QUESTION: DEFENCE FORCES RETIREMENT BENEFITS LEGISLATION|1|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Priorities Review Staff: Broadcasting (Question No. 2669)|1|
+|QUESTION: TAXATION DEDUCTIONS|1|
+|QUESTION: TREASURER: PECUNIARY INTERESTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Allocation of Radio and Television Time to Political Parties -South Australia (Question No. 165)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Armed Services: Orders for Ships and Aircraft (Question No. 6054)|1|
+|QUESTION: HONOURABLE MEMBER'S VISIT TO SOUTHERN RHODESIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pre-school and Child Care Programs (Question No. 133)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Chairman of Australian Broadcasting Commission (Question No. 1955)|1|
+|CONSTITUTION ALTERATION (DEMOCRATIC ELECTIONS) BILL 1974: Second Reading|1|
+|QUESTION: LOCAL GOVERNMENT: LOAN COUNCIL FUNDS|1|
+|SEMI-GOVERNMENT AN»&#62; LOCAL GOVERNMENT AUTHORITIES: Discussion of Matter of Public Importance|1|
+|PRIVY COUNCIL APPEALS ABOLITION BULL 1973: Second Readings|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Acts: Reprints (Question No. 6098)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Prime Minister's Mission to Europe (Question No. 2203)|1|
+|OR: Public Service: Promotions and Transfers (Question No. 37)|1|
+|QUESTION: PLIGHT OF PEOPLE IN SOUTH VIETNAM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Capital Assistance for Leisure Facilities (Question No. 1176)|1|
+|NUCLEAR TESTS: Ministerial Statement|1|
+|QUESTION: HOUSING: AUSTRALIAN COUNCIL OF TRADE UNIONS PROPOSAL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radioactive Materials: Storage and Disposal (Question No. 673)|1|
+|QUESTION: AUSTRALIAN ECONOMY: GROWTH|1|
+|QUESTION: COMPANY LAW|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cabinet Handbook (Question No. 197)|1|
+|NATIONAL REHABILITATION AND COMPENSATION BILL 1977: Second Reading|1|
+|QUESTION: BUREAU OF TRANSPORT ECONOMICS|1|
+|QUESTION: CABINET MINISTERS' SALARIES|1|
+|QUESTION: BUS TRAGEDY COMPENSATION CLAIMS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Appointment of Committees, Commissions and Specialist Advisers (Question No. 1797)|1|
+|COMMONWEALTH ELECTORAL AMENDMENT BILL 1977: Second Reading|1|
+|QUESTION: BORDER OF AUSTRALIA AND PAPUA NEW GUINEA|1|
+|QUESTION: BANGLA DESH: SEATO|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Treaties (Question No. 2745)|1|
+|INTELLIGENCE AND SECURITY ARRANGEMENTS: Ministerial Statement|1|
+|INVALID PENSIONERS REJECTED FOR REHABILITATION: Papua and New Guinea: Airline Employees (Question No. 1739)|1|
+|TRADE PRACTICES AMENDMENT BILL 1976: Second Reading|1|
+|QUESTION: REVIEW OF HOSPITAL AGREEMENTS WITH STATES|1|
+|QUESTION: PRIME MINISTER: VISIT TO PARIS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Yugoslav Government: Trials of Australian Citizens (Question No. 967)|1|
+|NOW THEREFORE I, SIR PAUL MEERNAA: Australian Coastal Shipping Commission (Question No. 2590)|1|
+|QUESTION: VISIT BY TABLE TENNIS TEAM FROM CHINA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Burdekin River Scheme (Question No. 6269)|1|
+|TIME LIMIT FOR DEBATE|1|
+|QUESTION: MRS MADONNA WEBER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ross River Dam (Question No. 6270)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral: Employment of Candidates (Question No. 2219)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: Electricity Commission (Question No. 1678)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence: Exercises Malaysia, Singapore (Question No. 3988)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Decentralisation (Question No. 4329)|1|
+|BUILDING AND CONSTRUCTION INDUSTRIES: Discussion of Matter of Public Importance|1|
+|QUESTION: JOINT AUSTRALIAN-RUSSIAN SCIENTIFIC STATION IN AUSTRALIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Public Service: Employment of Handicapped Persons (Question No. 877)|1|
+|QUESTION: STAFF OF PRIME MINISTER|1|
+|CSIRO: Minister for Industry and Commerce: Communications to Mr J. Bracey (Question No. 1556)|1|
+|CONSTITUTION ALTERATION (MODE OF ALTERING THE CONSTITUTION) BELL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: War Pensioners (Question No. 2048)|1|
+|No: Degree Courses (Question No. 747)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Counter Staff (Question No. 619)|1|
+|QUESTION: PRIME MINISTER'S VISIT TO SOUTH-EAST ASIA|1|
+|QUESTION: CENSURE MOTIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Co-operative Farmers and Graziers Direct Meat Supply Ltd (Question No. 670)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Police (Question No. 5471)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr H. W. Fancher: Telephone Accounts (Question No. 956)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loans: Mr Wiley Fancher (Question No. 203)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Division of National Mapping - Assistance to Map Publisher (Question No. 79)|1|
+|PRICES-INCOMES REFERENDUMS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medical Benefits Funds Payments (Question No. 3999)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Conference on Drug Trafficking (Question No. 4794)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Preservation of Government Documents (Question No. 3357)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Art Gallery Exhibits (Question No. 1147)|1|
+|QUESTION: DEPENDANTS OF SOUTH VIETNAMESE STUDENTS IN AUSTRALIA|1|
+|QUESTION: HIGH COMMISSION IN LONDON|1|
+|QUESTION: DOUBLE INCOME TAXATION|1|
+|ECONOMIC POLICIES OF THE GOVERNMENT: Notice of Motion of Censure|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Treasurer: Meeting with Media (Question No. 205)|1|
+|QUESTION: THE HONOURABLE MEMBER FOR LALOR|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Conciliation and Arbitration: Auditing of Accounts of Registered Organisations (Question No. 669)|1|
+|QUESTION: NEW SOUTH WALES ELECTION POSTAL VOTING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Staffs: Composition (Question No. 190)|1|
+|QUESTION: KING ISLAND SHIPPING SERVICE|1|
+|QUESTION: PRIME MINISTER: VISIT TO WASHINGTON|1|
+|QUESTION: BROKEN HILL COMPANY: APPLICATION FOR PRICE INCREASE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Social Services (Question No. 3250)|1|
+|QUESTION: INDEMNITY PAYMENTS|1|
+|QUESTION: FISCAL MEASURES|1|
+|QUESTION: WOOL MARKET: GOVERNMENT SUPPORT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South Pacific Commission: Australian Members of Staff (Question No. 388)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Export of Australian Cultural Property (Question No. 39)|1|
+|PERSONAL EXPLANATIONS: Mr P. Troy|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Housing Commission (Question No. 732)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Trade Practices Legislation: South Australia (Question No. 2467)|1|
+|WESTERN AUSTRALIA: Education: Non-Government School Fees (Question No. 6080)|1|
+|QUESTION: RETAIL PRICE MAINTENANCE|1|
+|QUESTION: THAI STUDENTS IN AUSTRALIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Wool Committee (Question No. 4792)|1|
+|QUESTION: NATIONAL ESTATE: WESTERN AUSTRALIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Orders: United States of America (Question No. 6060)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Assistance to Local Government (Question No. 2823)|1|
+|QUESTION: IMMIGRANTS FROM LEBANON AND CYPRUS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: European Economic Community (Question No. 5928)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tariff Board (Question No. 538)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Defence: Reports (Question No 2595)|1|
+|WESTERN AUSTRALIA: Armed Services: Married Personnel (Question No. 6064)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Provisional Revolutionary Government of South Vietnam (Question No. 833)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Judges: Retiring Ages (Question No. 560)|1|
+|ROAD TRAFFIC ACCIDENTS: States Finances: Receipt Duties (Question No. 1814)|1|
+|PLACES VISITED: Newspapers: Foreign Control (Question No. 741)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Convention: Labour Standards (N on-metropolitan Territories) (Question No. 3267)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Federal Council of Apiarists Associations (Question No. 2014)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 3256)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital Bed Statistics (Question No. 6036)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Plague Locust Commission: Establishment (Question No. 516)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory: Police Force (Question No. 2822)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australians Overseas: Return Campaign (Question No. 1041)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants: Overseas Advertising (Question No. 882)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Technical Scholarships (Question No. 89)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Dental Therapists (Question No. 5937)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Development Assistance Recipients (Question No. 2726)|1|
+|ROYAL STYLE AND TITLES BILL 1973: Second Reading|1|
+|SPECIAL ADJOURNMENT: Valedictory|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory - School Children (Question No. 2486)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Indonesia: Devisa Kredit Scheme (Question No. 15)|1|
+|WESTERN AUSTRALIA: Department of Health: Non-English Speaking Clients (Question No. 801)|1|
+|QUESTION: AUSTRALIAN TASK FORCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Decentralisation Reports (Question No. 2248)|1|
+|QUESTION: JERVIS BAY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Development Assistance Agency: Staff (Question No. 135)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Conference on the Development of Australia's Ports (Question No. 1441)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Great Barrier Reef (Question No. 38)|1|
+|JAPAN: Education: Departmental Teachers (Question No. 2421)|1|
+|VICTORIA: Public Service Act: Disciplinary Provisions (Question No. 545)|1|
+|SUPERANNUATION PENSIONS|1|
+|QUESTION: DIPLOMATIC RELATIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Letter Bombs (Question No. 939)|1|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Priorities Review Staff: Structural Assistance (Question No. 2671)|1|
+|QUESTION: INDUSTRIES ASSISTANCE COMMISSION: RURAL REPORTS|1|
+|QUESTION: RESTRICTED SERVICES FOR MEMBERS OF PARLIAMENT|1|
+|QUESTION: SUPERANNUATION|1|
+|OBSERVERS: Australian Wool Board (Question No. 4753)|1|
+|CONSTITUTION ALTERATION (MODE OF ALTERING THE CONSTITUTION) BILL 1974 [No. 2]|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cyprus: Turkish and Greek Armed Forces (Question No. 1150)|1|
+|QUESTION: LABOR PARTY POLICY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Major Airport Needs of Sydney (Question No. 107)|1|
+|PUBLIC SERVICE AMENDMENT (FIRST DIVISION OFFICERS) BILL 1976: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foreign Aid Projects in Fiji, Western Samoa, Tonga, New Hebrides, Solomon Islands (Question No. 130)|1|
+|GOVERNMENT ECONOMIC MANAGEMENT: Suspension of Standing Orders|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commencement of Public Works (Question No. 260)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Energy Committee (Question No. 2825)|1|
+|RETIREMENT OF DEPUTY GOVERNMENT WHIP|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Labour Organisation Convention: Government Contracts (Question No. 927)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Aid: Percentage of Gross National Product (Question No. 1203)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Handicapped Children (Question No. 336)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service: Employment of Handicapped (Question No. 1357)|1|
+|QUESTION: MILITARY PRESENCE IN POLAND AND GERMAN DEMOCRATIC REPUBLIC|1|
+|COMMONWEALTH SCIENCE FACILITIES PROGRAMME: Railway Loans: Repayments to Commonwealth (Question No. 6031)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Colleges of Advanced Education: Nursing Courses (Question No. 3660)|1|
+|WHITLAM GOVERNMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr A. D. Aussie Stone (Question No. 818)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Annual Report (Question No. 664)|1|
+|TABLING AND POSSESSION OF DOCUMENTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aged or Disabled Persons: Grants (Question No. 994)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interdepartmental Committees: Membership (Question No. 1676)|1|
+|QUESTION: OVERSEAS TRAVELLERS: LETTERS OF ACCREDITATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medical Benefits Organisations: Reserves (Question No. 3684)|1|
+|KEEP OUT OF REACH OF CHILDREN IF SWALLOWED SEEK MEDICAL ADVICE AVOID CONTACT WITH FOOD DO NOT USE IN FOOD PREPARATION OR FOOD STORAGE AREAS DO NOT USE IN NURSERIES AND SICK ROOMS WHERE PEOPLE MAY BE CONTINUOUSLY EXPOSED: Hospital Charges (Question No. 3676)|1|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Fraser Island: Mineral Exports (Question No. 2729)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Women and Politics Conference (Question No. 2994)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Resource Development (Question No. 1141)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Senior Citizens Centres, Queensland: Annual Grants (Question No. 1158)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Business in Fiji (Question No. 132)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Advisers to Ministers or Departments (Question No. 1577)|1|
+|PLACES VISITED: Departments of Productivity and Finance: Staff (Question No. 795)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Motor Vehicles: Design Rules (Question No. 2750)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Trade Stores - 1LO Convention No. 95 (Question No. 3664)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: War Service Homes (Question No. 1439)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Authority Revenue: Percentage at Each Level (Question No. 4029)|1|
+|POSTMASTER-GENERAL'S DEPARTMENT: Gold-mining Industry (Question No. 1294)|1|
+|QUESTION: COMMONWEALTH OFFICE OF THE ENVIRONMENT|1|
+|QUESTION: GOVERNOR-GENERAL: TRADE WITH PHILIPPINES|1|
+|FEDERAL ELECTORAL DIVISION, ALSO SHOWING SUBDIVISIONAL ENROLMENTS: Overseas Property Bureau (Question No. 929)|1|
+|QUESTION: CO-OPERATIVE FARMERS AND GRAZIERS DIRECT MEAT SUPPLY LTD|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pecuniary Interests of Members of Parliament and Public Servants (Question No. 1585)|1|
+|QUESTION: RESTRICTIVE TRADE PRACTICES|1|
+|QUESTION: NEW SOUTH WALES ELECTIONS|1|
+|DEATH OF' THE HONOURABLE ARTHUR BLAKELEY|1|
+|QUESTION: HOSPITAL FEES AND BENEFITS|1|
+|QUESTION: PAPUA AND NEW GUINEA - ALLEGATIONS AT THE WAIGANI SEMINAR|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television: Programmes of Australian Origin (Question No. 3582)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Conferences (Question No. 3596)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua New Guinea: Localisation of Professions (Question No. 5746)|1|
+|TROPICAL ALLOWANCE: Monies Savings Grant Scheme: Interest Rates (Question No. 874)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Decentralisation (Question No. 3728)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Freedom of Information Legislation (Question No. 1438)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Libraries: Northern Territory (Question No. 1675)|1|
+|QUESTION: PAPUA AND NEW GUINEA: SELECT COMMITTEES ON CONSTITUTIONAL DEVELOPMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Table of Precedence (Question No. 1400)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Child Care Projects (Question No. 1032)|1|
+|QUESTION: HOUSING LOANS BY BUILDING SOCIETIES|1|
+|QUESTION: DEPUTY PRIME MINISTER: APPOINTMENT OF OFFICER|1|
+|RIVER MURRAY WORKING PARTY|1|
+|PORTUGUESE TIMOR: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea - Registered Employees Organisations (Question No. 242)|1|
+|ADJOURNMENT: Industrial Relations|1|
+|ANSWERS TO QUESTIONS: School Dental Scheme (Question No. 2347)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Loan Raisings (Question No. 3272)|1|
+|NATIONAL REHABILITATION AND COMPENSATION SCHEME INQUIRY - EXTENDED TERMS OF REFERENCE: Ministerial Statement|1|
+|No: Civil Aviation (Carriers' Liability) Act (Question No. 5482)|1|
+|QUESTION: AUSTRALIAN AID TO NORTH VIETNAM|1|
+|QUESTION: DOCUMENT TABLED IN THE SENATE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Reciprocal Enforcement of Custody Orders (Question No. 122)|1|
+|QUESTION: TARIFF REDUCTIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Whitlam Ministry: Foreign Policy Statements (Question No. 376)|1|
+|QUESTION: GAS PIPELINE: DELAY IN CONSTRUCTION|1|
+|PRESIDENT NIXON'S DECISIONS ON VIETNAM: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Karmel Report (Question No. 1272)|1|
+|SCHEDULE: Decentralisation) Air Services (Question No. 4113)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Orders: Malaysia (Question No. 6057)|1|
+|VISIT TO AFRICA BY SPECIAL MINISTER OF STATE|1|
+|QUESTION: PRIME MINISTER'S VISIT TO INDONESIA BRIEFINGS HELD BY OFFICIALS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Uniform Home Building Code (Question No. 1642)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ethnic Groups: Western Sydney (Question No. 250)|1|
+|QUESTION: GIFTS TO THE PRIME MINISTER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Police and Customs (Question No. 2828)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South African Visitors (Question No. 2909)|1|
+|QUESTION: SOUTH EAST ASIAN NEUTRAL ZONE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: International Women's Year (Question No. 1309)|1|
+|QUESTION: REPORT ON BROADCASTING|1|
+|No: Standing Committee of Attorneys-General (Question No. 3617)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr George Ermolenko (Question No. 1914)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Finance Conference (Question No. 5549)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Conciliation and Arbitration (Organizations) Act 1974: Complementary State Legislation (Question No. 211)|1|
+|QUESTION: ARMS FOR CEYLON|1|

@@ -1,0 +1,391 @@
+---
+layout: default
+title: CG4 - fife-wal - Topics
+---
+## Topics that FIFE, Wal spoke about during the 1970s
+
+| Topic | Number of speeches |
+|--------------|----------------|
+|TARIFF PROPOSALS|33|
+|CUSTOMS AMENDMENT BILL 1979|31|
+|INDUSTRIES ASSISTANCE COMMISSION|28|
+|TEMPORARY ASSISTANCE AUTHORITY|10|
+|QUESTION: FEDERAL NARCOTICS BUREAU|5|
+|INDUSTRIES ASSISTANCE COMMISSION REPORTS|5|
+|PRICES JUSTIFICATION TRIBUNAL|5|
+|QUESTION: NARCOTICS BUREAU|5|
+|QUESTION: PETROL PRICES|4|
+|BOUNTY (ROTARY CULTIVATORS) BILL 1979: Second Reading|4|
+|QUESTION: NOMINAL DIRECTORSHIPS|3|
+|INDUSTRIES ASSISTANCE COMMISSION REPORT|3|
+|INDUSTRIES ASSISTANCE COMMISSION AMENDMENT BILL 1978: Second Reading|3|
+|TRADE PRACTICES AMENDMENT BILL (No. 2) 1977: Second Reading|3|
+|CUSTOMS AMENDMENT BILL 1979: Second Reading|3|
+|QUESTION: INDUSTRIES ASSISTANCE COMMISSION|3|
+|PRICES JUSTIFICATION AMENDMENT BILL 1979: Second Reading|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Footwear Imports (Question No. 886)|3|
+|TRADE PRACTICES COMMISSION|3|
+|TRADE PRACTICES AMENDMENT BILL 1978: Second Reading|2|
+|QUESTION: NATIONAL COMPANIES AND SECURITIES COMMISSION|2|
+|CUSTOMS TARIFF VALIDATION BILL 1978: Second Reading|2|
+|HOURS IN WORKING WEEK: NEW SOUTH WALES: Ministerial Statement|2|
+|NATIONAL COMPANIES AND SECURITIES COMMISSION BILL 1979|2|
+|BOUNTY (DRILLING MACHINES) BILL 1978: Second Reading|2|
+|BOUNTY (POLYESTER-COTTON YARN) BILL 1978: Second Reading|2|
+|QUESTION: DRUG SMUGGLING|2|
+|QUESTION: GOVERNOR-GENERAL'S SPEECH|2|
+|BOUNTY (AGRICULTURAL TRACTORS) AMENDMENT BILL 1978: Second Reading|2|
+|QUESTION: DAYS AND HOURS OF MEETING-ADJOURNMENT OF SITTINGS|2|
+|QUESTION: ALBURY-WODONGA GROWTH CENTRE|2|
+|QUESTION: ILLEGAL IMPORTATION OF DRUGS|2|
+|CUSTOMS TARIFF VALIDATION BILL 1979: Second Reading|2|
+|NATIONAL COMPANIES AND SECURITIES COMMISSION BILL 1979: Second Reading|2|
+|CUSTOMS TARIFF AMENDMENT BILL (No. 2) 1978: Second Reading|2|
+|BOUNTY (INJECTION-MOULDING EQUIPMENT) BILL 1979: Second Reading|2|
+|CUSTOMS AMENDMENT BILL 1977: Second Reading|2|
+|CUSTOMS TARIFF AMENDMENT BILL (No. 3) 1978: Second Reading|2|
+|STATES GRANTS (PETROLEUM PRODUCTS) AMENDMENT BILL 1978|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tyres: Firestone Australia Pty Ltd (Question No. 2087)|2|
+|QUESTION: UNEMPLOYMENT|2|
+|DEPARTMENT OF BUSINESS AND CONSUMER AFFAIRS|2|
+|QUESTION: PETROLEUM INDUSTRY|2|
+|TRADE PRACTICES AMENDMENT BILL (No. 2) 1978: Second Reading|2|
+|BANKRUPTCY ACT|2|
+|STATES GRANTS (PETROLEUM PRODUCTS) AMENDMENT BILL 1978: Second Reading|2|
+|COMPANY TAKE-OVERS BILL 1979: Second Reading|2|
+|DIESEL FUEL TAX (No. 1) AMENDMENT BILL 1977: Second Reading|2|
+|CUSTOMS TARIFF PROPOSALS|2|
+|EXCISE TARIFF AMENDMENT BILL (No. 2) 1978: Second Reading|2|
+|CUSTOMS TARIFF (COAL EXPORT DUTY) AMENDMENT BILL 1979: Second Reading|1|
+|NITROGENOUS FERTILIZERS SUBSIDY AMENDMENT BILL 1979: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Almonds (Question No. 2472)|1|
+|UNIVAC 1100/11: Dyeing Agents (Question No. 4691)|1|
+|UNIVAC 1100/11: Philippines Consulate: Alleged Breaches of Customs Act (Question Na 5094)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Business and Consumer Affairs: Libraries (Question No. 1372)|1|
+|QUESTION: MT LYELL MINING AND RAILWAY CO. LTD|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ball Bearing Imports (Question No. 995)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Car Tyres (Question No. 2979)|1|
+|No: Insurance Industry: Bankruptcies (Question No. 5113)|1|
+|QUESTION: DEXTROSE: TARIFF|1|
+|BANKRUPTCY AMENDMENT BILL 1979: Second Reading|1|
+|UNIVAC 1100/11: Petroleum Retailing Industry (Question No. 4984)|1|
+|HOSPITALS DEVELOPMENT PROGRAM: Kenana Sugar Project, Sudan (Question No. 1136)|1|
+|QUESTION: FAMILY LAW IN NEW SOUTH WALES|1|
+|UNCTAD 5: Medical Negligence (Question No. 3978)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Trade Practices Act (Question No. 1929)|1|
+|COMPANIES AND SECURITIES LEGISLATION: Discussion of Matter of Public Importance|1|
+|EXCISE TARIFF AMENDMENT BILL (No. 3) 1979: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Coffee Imports (Question No. 965)|1|
+|ANSWERS TO QUESTIONS: Petroleum Product Purchases (Question No. 4090)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Age Pensioners: Psychiatric Assessment (Question No. 3241)|1|
+|BOUNTY (BED SHEETING) AMENDMENT BILL 1979: Second Reading|1|
+|ANSWERS TO QUESTIONS: Galvanised Steel Roofing Tiles (Question No. 4140)|1|
+|ANSWERS TO QUESTIONS: Oil Industry (Question No. 1870)|1|
+|BED SHEETING BOUNTY|1|
+|UNCTAD 5: Galvanised Steel Roofing Tiles (Question No. 4139)|1|
+|S $: Department of Business and Consumer Affairs: Travel Costs (Question No. 273)|1|
+|CUSTOMS TARIFF AMENDMENT BILL (No. 4) 1979: Second Reading|1|
+|FEDERAL NARCOTICS BUREAU: Discussion of Matter of Public Importance|1|
+|BOUNTY (COMMERCIAL MOTOR VEHICLES) BILL 1978: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Coastal Surveillance (Question No. 652)|1|
+|STATES GRANTS (HOME CARE) AMENDMENT BILL 1978: Second Reading|1|
+|DIESEL FUEL TAXATION (ADMINISTRATION) AMENDMENT BILL 1979: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Advertising (Question No. 47)|1|
+|CUSTOMS TARIFF AMENDMENT BILL (No. 3) 1979: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Petroleum Products: Price Increases (Question No. 2279)|1|
+|QUESTION: FURNITURE INDUSTRY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Textile Imports: Quota Holders (Question No. 1821)|1|
+|QUESTION: PETROL RETAILING|1|
+|ADJOURNMENT|1|
+|USSR: Road Traffic Accident Statistics (Question No. 4878)|1|
+|NITROGENOUS FERTILIZERS SUBSIDY AMENDMENT BILL 1977: Second Reading|1|
+|MINISTER FOR BUSINESS AND CONSUMER AFFAIRS: Censure Motion|1|
+|PERSONAL INCOME TAX SHARING ARRANGEMENTS|1|
+|DC9-3: Air Services: Isolated Areas (Question No. 3808)|1|
+|REPORT OF THE TEMPORARY ASSISTANCE AUTHORITY|1|
+|CSIRO: Prices Justification Act: Notification Provisions (Question No. 1551)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Broken Mill Proprietary Co. Ltd: Prices Justification Tribunal (Question No. 1753)|1|
+|QUESTION: NATIONAL RURAL BANK|1|
+|CUSTOMS TARIFF AMENDMENT BILL 1979: Second Reading|1|
+|NITROGENOUS FERTILIZERS SUBSIDY AMENDMENT BILL 1978: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: New Zealand Peas and Beans (Question No. 885)|1|
+|S $: Department of Business and Consumer Affairs: Administration of Tribunals (Question No. 727)|1|
+|SPEECH OF HER MAJESTY THE QUEEN: Most Gracious Sovereign:|1|
+|LOCAL GOVERNMENT (PERSONAL INCOME TAX SHARING) ACT|1|
+|ANSWERS TO QUESTIONS: Trade Practices Act (Question No. 4670)|1|
+|TARIFF PROPOSAL|1|
+|INDUSTRIES ASSISTANCE COMMISSION: POLYESTER AND POLYESTER VISCOSE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Footwear Imports: Quotas (Question No. 1822)|1|
+|FINANCIAL ASSISTANCE TO LOCAL GOVERNMENT|1|
+|PRIORITY OF CROWN DEBTS: Ministerial Statement|1|
+|MINISTER FOR PRIMARY INDUSTRY: Majority...... 41|1|
+|QUESTION: PETROLEUM FREIGHT SUBSIDY SCHEME|1|
+|TRADE PRACTICES AMENDMENT BILL (No. 2) 1978|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Advisory and Consultative Committees: Inclusion of Members of Parliament (Question No. 1154)|1|
+|PRODUCTS OF THE PRINTING INDUSTRY: Industries Assistance Commission Report|1|
+|TEMPORARY ASSISTANCE AUTHORITY REPORTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Oil Industry (Question No. 1396)|1|
+|ABORIGINAL LAND RIGHTS (NORTHERN TERRITORY) AMENDMENT BILL 1978: Second Reading|1|
+|UNIVAC 1100/11: Dextrose Monohydrate (Question No. 5078)|1|
+|AUSTRALIAN STEVEDORING INDUSTRY AUTHORITY|1|
+|QUESTION: TAKEOVER BID: HERALD AND WEEKLY TIMES LTD|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Bankruptcy (Question No. 3568)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Imports: Safety Aspects (Question No. 1928)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Apparel Imports: Quota Holders (Question No. 1820)|1|
+|S $: Customs Control (Question No. 327)|1|
+|STATE LEGISLATION: Federal Bureau of Narcotics (Question No. 1299)|1|
+|TRADE PRACTICES CONSULTATIVE COMMITTEE|1|
+|QUESTION: COMMITTEE OF PRIVILEGES|1|
+|CUSTOMS AMENDMENT BILL (No. 5) 1979: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Prohibited Imports: Preventive Measures (Question No. 329)|1|
+|No: Business and Consumer Affairs: Official Openings of Projects (Question No. 5202)|1|
+|QUESTION: CUSTOMS CLEARANCES|1|
+|ANSWERS TO QUESTIONS: Galvanised Steel Roofing Tiles (Question No. 4137)|1|
+|PARLIAMENT HOUSE: SECURITY ARRANGEMENTS|1|
+|QUESTION: DETECTION OF ILLEGAL IMPORTS|1|
+|TARIFF (COAL EXPORT) PROPOSALS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Purchase of Newspapers and Periodicals (Question No. 491)|1|
+|CSIRO: Trade Practices Act: Small and Uneconomic Orders (Question No. 1285)|1|
+|CUSTOMS AMENDMENT BILL (No. 3) 1979: Second Reading|1|
+|S $: Marine Operations Centre: Movement of Aircraft (Question No. 982)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Marijuana Cultivation: Patrols (Question No. 1918)|1|
+|RESTRICTED: National Companies and Securities Legislation (Question No. 1691)|1|
+|INDUSTRIAL RESEARCH AND DEVELOPMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Coal Export Duty (Question No. 991)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Answer to Parliamentary Question 1678 (Question No. 2072)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employment and Report Statistics (Question No. 1380)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Companies and Securities Legislation (Question No. 782)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Intergovernmental Impact Statements (Question No. 2088)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Footwear Imports (Question No. 1261)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Whale Products (Question No. 3426)|1|
+|QUESTION: UNIFORM COMPANIES AND SECURITIES LEGISLATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tariff Protection (Question No. 2202)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Consumer Protection: Discontinuance of Publication of Magazine (Question No. 1678)|1|
+|HOSPITALS DEVELOPMENT PROGRAM: Wine: Alcohol Content (Question No. 108)|1|
+|MUSIC RECORDING INDUSTRY|1|
+|CUSTOMS TARIFF AMENDMENT BILL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Drug Smuggling (Question No. 3676)|1|
+|ANSWERS TO QUESTIONS: Dextrose Monohydrate (Question No. 4662)|1|
+|LOCAL GOVERNMENT GRANTS COMMISSIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tariffs (Question No. 3299)|1|
+|CUSTOMS TARIFF VALIDATION BILL (No. 2) 1979: Second Reading|1|
+|METAL WORKING MACHINE TOOLS: Industries Assistance Commission Report|1|
+|LIQUEFIED GAS (ROAD VEHICLE USE) TAX (REPEAL) BILL 1979: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Narcotics (Question No. 808)|1|
+|UNIVAC 1100/11: Radioactive Waste (Question No. 4852)|1|
+|APPROPRIATION BILL (No. 3) 1978-79: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Use of Concorde Aircraft (Question No. 2911)|1|
+|ADVISORY COUNCIL FOR INTER-GOVERNMENT RELATIONS|1|
+|S $: Vegetable Oil Imports (Question No. 563)|1|
+|EXCISE TARIFF PROPOSALS|1|
+|RURAL INCOME FLUCTUATIONS|1|
+|QUESTION: PENSIONS|1|
+|ANSWERS TO QUESTIONS: Motor Spirit Prices (Question No. 3669)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Industries Assistance Commission Reports (Question No. 1669)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ball Bearing Industry (Question No. 902)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Import Quotas for Clothing, Textiles and Footwear (Question No. 1904)|1|
+|QUESTION: AVIATION FUEL|1|
+|CUSTOMS TARIFF VALIDATION BILL (No. 3) 1977: Second Reading|1|
+|UNIVAC 1100/11: Petroleum Products: Price Rises (Question No. 4634)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Use of Concorde Aircraft (Question No. 2925)|1|
+|BOTTLE WASHING MACHINES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Business and Consumer Affairs: Computers (Question No. 2227)|1|
+|QUESTION: NEW SOUTH WALES ROYAL COMMISSION INTO DRUG TRAFFICKING|1|
+|QUESTION: USE OF DIPLOMATIC BAG|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Maternity Leave (Question No. 1286)|1|
+|CARBON COATED FILM|1|
+|QUESTION: DRUG TRAFFICKING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Company Law: Defaulting Officers (Question No. 1 186)|1|
+|FAMILY LAW AMENDMENT BILL 1977: Second Reading|1|
+|STATUTORY RULES PUBLICATION ACT|1|
+|QUESTION: NEWSPAPER PUBLISHERS AND NEWSAGENTS|1|
+|INTERNATIONAL LABOUR CONFERENCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Queensland Cement and Lime Company (Question No. 3125)|1|
+|NERDDC TECHNICAL STANDING COMMITTEES: Department of Business and Consumer Affairs: Purchase of Equipment (Question No. 1795)|1|
+|CUSTOMS TARIFF AMENDMENT BILL (No. 4) 1978: Second Reading|1|
+|QUESTION: TRADE PRACTICES ACT: APPLICATION TO SPORT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Bovine Semen Imports (Question No. 996)|1|
+|QUESTION: FLUORIDATION OF WATER SUPPLIES|1|
+|ANSWERS TO QUESTIONS: Business and Consumer Affairs: Motor Vehicle Fuel Consumption (Question No. 4332)|1|
+|DIESEL FUEL TAX (No. 2) AMENDMENT BILL 1977: Second Reading|1|
+|CUSTOMS TARIFF AMENDMENT BILL (No. 2) 1977: Second Reading|1|
+|QUESTION: UNEMPLOYMENT BENEFIT|1|
+|ANSWERS TO QUESTIONS: Trade Practices Act: Government Commercial Activities (Question No. 3259)|1|
+|PRICES JUSTIFICATION AMENDMENT BILL 1979|1|
+|CSIRO: Consumption Tax (Question No. 3027)|1|
+|QUESTION: CUSTOMS SEARCHES|1|
+|ANSWERS TO QUESTIONS: Rehabilitation Services in Melbourne (Question No. 4737)|1|
+|QUESTION: YOUTH UNEMPLOYMENT|1|
+|ANSWERS TO QUESTIONS: Cloncurry Airport (Question No. 3999)|1|
+|INDUSTRIES ASSISTANCE COMMISSION: REPORTS|1|
+|WESTERN AUSTRALIA: Government Offices: Tea Making and Distribution (Question No. 520)|1|
+|NEWSPAPER STRIKE: Discussion of Matter of Public Importance|1|
+|BOUNTY (DENTAL ALLOYS) BILL 1979: Second Reading|1|
+|ANSWERS TO QUESTIONS: Petrol Retailing Industry (Question No. 3885)|1|
+|SALES TAX BILLS|1|
+|QUESTION: ADVERTISEMENTS FOR SALE OF LAND|1|
+|ATOMIC ENERGY AMENDMENT BILL (No. 2) 1978: Second Reading|1|
+|OTHER PROGRAMS: National Companies and Security Legislation (Question No. 1508)|1|
+|S $: Tomatoes (Question No. 1234)|1|
+|ASBESTOS: Industries Assistance Commission Report|1|
+|CUSTOMS TARIFF AMENDMENT BILL (No. 2) 1979: Second Reading|1|
+|UNCTAD 5: Liquefied Petroleum Gas Cylinders (Question No. 3798)|1|
+|QUESTION: PRICES JUSTIFICATION TRIBUNAL: CONSIDERATION OF WAGE INCREASES|1|
+|TELECOMMUNICATIONS AMENDMENT BILL 1976: Third Reading|1|
+|ATOMIC ENERGY AMENDMENT BILL 1978: Second Reading|1|
+|ANSWERS TO QUESTIONS: Military Assistance to Thailand and the Philippines (Question No. 4569)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Petrol Prices (Question No. 2198)|1|
+|ANSWERS TO QUESTIONS: Bankruptcy Proceedings (Question No. 4660)|1|
+|QUESTION: ANSETT AIRLINES|1|
+|CURRICULUM DEVELOPMENT CENTRE|1|
+|QUESTION: AWARDING OF COMPUTER CONTRACT|1|
+|ANSWERS TO QUESTIONS: Petroleum Product Prices (Question No. 4088)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pig Slaughter Levy (Question No. 1042)|1|
+|AUSTRALIAN SURVEY OFFICE|1|
+|EXCISE TARIFF AMENDMENT BILL (No. 2) 1979: Second Reading|1|
+|QUESTION: IMPORT QUOTAS: CLOTHING, TEXTILE AND FOOTWEAR INDUSTRIES|1|
+|CITRUS INDUSTRY: Industries Assistance Commission Report|1|
+|EXERCISES CONDUCTED WITH US NAVY SHIPS AND COMPOSITION OF FORCES INVOLVED,: Galvanised Steel Roofing Tiles (Question No. 4138)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Uniform Consumer Credit Legislation (Question No. 1464)|1|
+|QUESTION: ASSOCIATED SECURITIES LTD|1|
+|QUESTION: LOW COST CITRUS IMPORTS|1|
+|QUESTION: GLASS AND FIBRE PACKAGING INDUSTRIES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Minister for Business and Consumer Affairs: Overseas Travel (Question No. 272)|1|
+|REGULATION OF PETROLEUM MARKETING|1|
+|QUESTION: TARIFFS: LONG-TERM REVIEW|1|
+|QUESTION: HOSPITALS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employment of School Leavers (Question No. 998)|1|
+|ANSWERS TO QUESTIONS: Distribution and Marketing of Petroleum Products (Question No. 4091)|1|
+|GOVERNMENT POLICY TOWARDS THE TEXTILES, CLOTHING AND FOOTWEAR INDUSTRIES: Ministerial Statement|1|
+|UNIVAC 1100/11: Petrol Supplies to Southern Cross Petroleum (Question No. 4701)|1|
+|STATE LEGISLATION: Industry: Tariff Protection (Question No. 1268)|1|
+|UNCTAD 5: Imported Crab Meat (Question No. 3975)|1|
+|TAXATION STATISTICS|1|
+|REPORT OF INDUSTRIES ASSISTANCE COMMISSION|1|
+|QUESTION: DISMISSALS IN WODONGA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Bureau of Customs: Staff (Question No. 3716)|1|
+|ANSWERS TO QUESTIONS: Packaging and Labelling Legislation (Question No. 3504)|1|
+|ANSWERS TO QUESTIONS: Motor Spirit Retailing (Question No. 4095)|1|
+|A: Motor Vehicles: Components of Prices (Question No. 2461)|1|
+|TEMPORARY ASSISTANCE AUTHORITY: Report|1|
+|NERDDC TECHNICAL STANDING COMMITTEES: Review of Australia's International Civil Aviation Policy (Question No. 2878)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Illegal Narcotics: Rewards for Information (Question No. 2693)|1|
+|BOUNTY (BOOKS) AMENDMENT BILL 1979: Second Reading|1|
+|BOUNTY (PAPER) BILL 1979: Second Reading|1|
+|ANSWERS TO QUESTIONS: Motor Spirit Retail Costs (Question No. 4089)|1|
+|EXCISE AMENDMENT BILL 1978: Second Reading|1|
+|SUSPENSION OF STANDING ORDER 399|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Staff Canteens (Question No. 588)|1|
+|QUESTION: PETROL FREIGHT SUBSIDY|1|
+|QUESTION: BACKGROUND TO COMMONWEALTHSTATE TALKS ON OFF-SHORE LEGISLATION|1|
+|UNIVAC 1100/11: Bankruptcy Statistics (Question No. 4981)|1|
+|A: Industries Assistance Commission (Question Na 2493)|1|
+|UNIVAC 1100/11: Motor Vehicle Manufacture (Question No. 5052)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Import Quotas (Question No. 931)|1|
+|TIN ORES AND CONCENTRATES|1|
+|ANSWERS TO QUESTIONS: Telephone Call Revenue (Question No. 4540)|1|
+|QUESTION: STEEL BELTED RADIAL TYRES|1|
+|S $: Drug Offences (Question No. 957)|1|
+|APPLE AND PEAR STABILIZATION AMENDMENT BILL (No. 2) 1977: Second Reading|1|
+|CUSTOMS TARIFF AMENDMENT BILL (No. 2) 1979|1|
+|S $: Public Servants: Payment of Telephone Charges (Question No. 1118)|1|
+|QUESTION: FOOD PRICES|1|
+|INTERNATIONAL DEVELOPMENT ASSOCIATION (FURTHER PAYMENT) BILL 1977: Second Reading|1|
+|QUESTION: DISALLOWED QUESTION: ROYAL COMMISSION INTO DRUGS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Music Recording: Chart Rigging (Question No. 786)|1|
+|NERDDC TECHNICAL STANDING COMMITTEES: Bankruptcies (Question No. 2558)|1|
+|S $: Prices Justification Tribunal: Transport Costs (Question No. 940)|1|
+|ANSWERS TO QUESTIONS: Exports to New Zealand (Question No. 4135)|1|
+|RESTRICTED: Mount Lyell Mining and Railway Company Limited (Question No. 1871)|1|
+|QUESTION: U.S.S. TRUXTUN|1|
+|UNCTAD 5: Petroleum Products: Wholesale Prices (Question No. 3593)|1|
+|BOUNTY (POLYESTER-COTTON YARN) AMENDMENT BILL 1979: Second Reading|1|
+|FILES AND RASPS|1|
+|BOUNTY (BOOKS) AMENDMENT BILL 1978: Second Reading|1|
+|QUESTION: DRUGS|1|
+|CUSTOMS TARIFF AMENDMENT BILL 1978: Second Reading|1|
+|AUSTRALIAN NATIONAL UNIVERSITY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Brisbane Public Transport (Question No. 3409)|1|
+|S $: Import Licensing: Footwear (Question No. 1217)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Oil Industry (Question No. 1724)|1|
+|EXERCISES CONDUCTED WITH US NAVY SHIPS AND COMPOSITION OF FORCES INVOLVED,: Federal Narcotics Bureau (Question No. 4275)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Statutory Authorities, Corporations and Undertakings (Question No. 1368)|1|
+|CSIRO: Hansard Index (Question No. 3104)|1|
+|NEW BUSINESS AFTER 11 P.M.: ADJOURNMENT OF THE HOUSE|1|
+|AUSTRALIA'S NATURAL RESOURCES: Discussion of Matter of Public Importance|1|
+|UNIVAC 1100/11: Federal Narcotics Bureau (Question No. 4566)|1|
+|EXERCISES CONDUCTED WITH US NAVY SHIPS AND COMPOSITION OF FORCES INVOLVED,: Liquefied Petroleum Gas: Excise (Question No. 3797)|1|
+|QUESTION: COMMUNITY YOUTH SUPPORT SCHEME|1|
+|EXCISE TARIFF AMENDMENT BILL 1978: Second Reading|1|
+|LIQUEFIED GAS (ROAD VEHICLE USE) TAX AMENDMENT BILL 1977: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory Companies Ordinance: Prosecutions (Question No. 945)|1|
+|INCOME TAX ASSESSMENT AMENDMENT BILL (No. 3) 1978: Second Reading|1|
+|QUESTION: POSTAL DISPUTE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Parliamentary Question No. 2072 (Question No. 2321)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Advisory Council for Inter-Government Relations (Question No. 3531)|1|
+|QUESTION: FARM INCOMES AND TARIFF PROTECTION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Trade Practices Act: Small Business (Question No. 2952)|1|
+|ANSWERS TO QUESTIONS: Medical Practitioner Advertising (Question No. 3878)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Importation of Drugs and Contraband Goods on Oil Tankers (Question No. 953)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Stevedoring Companies and Farm Machinery Manufacturers: Charges (Question No. 1701)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Trade Practices Commission Recommendations (Question No. 2546)|1|
+|QUESTION: PRICES JUSTIFICATION TRIBUNAL|1|
+|No: Export of Birds (Question No. 5251)|1|
+|ANSWERS TO QUESTIONS: Trade Practices Commission (Question No. 4797)|1|
+|QUESTION: HOMELESS PERSONS PROGRAM|1|
+|QUESTION: TAKEOVER BID BY NEWS LTD|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Companies and Securities Legislation (Question No. 1074)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Business and Consumer Affairs: Computers (Question No. 2257)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Vegetable Oils: Margarine (Question No. 651)|1|
+|ANSWERS TO QUESTIONS: Motor Spirit Retailing (Question No. 4096)|1|
+|SCHOOLS COMMISSION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ball and Roller Bearings (Question No. 1326)|1|
+|ANSWERS TO QUESTIONS: Trade Practices Act (Question No. 4698)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Bureau of Customs: Valuation of Goods (Question No. 1405)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Supervision of Insurance Brokers (Question No. 687)|1|
+|PERFORMING ARTS|1|
+|GRIEVANCE DEBATE: Suspension of Standing Orders|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Narcotics (Question No. 634)|1|
+|QUESTION: LOCAL GOVERNMENT (PERSONAL INCOME TAX SHARING) ACT|1|
+|WESTERN AUSTRALIA: Department of Business and Consumer Affairs: Domestic Air Travel (Question No. 462)|1|
+|EXCISE AMENDMENT BILL (No. 3) 1979: Second Reading|1|
+|AUSTRALIAN ROYAL COMMISSION OF INQUIRY INTO DRUGS: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Recycling of Waste Materials (Question No. 1456)|1|
+|TARIFF PROPOSALS: Discharge of Items|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Philippine Embassy: Customs (Question No. 3954)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Federation of Consumer Organisations (Question No. 3114)|1|
+|INDUSTRIES ASSISTANCE COMMISSION AMENDMENT BILL 1977: Second Reading|1|
+|ANSWERS TO QUESTIONS: Business and Consumer Affairs: Motor Vehicles (Question No. 4304)|1|
+|QUESTION: INCREASED PRICE OF MOTOR VEHICLES|1|
+|QUESTION: WOOLBROKING CHARGES|1|
+|AUSTRALIAN SECURITY INTELLIGENCE ORGANIZATION BILL 1979: Second Reading|1|
+|PUBLIC WORKS COMMITTEE|1|
+|QUESTION: NEWSAGENTS|1|
+|NEW BUSINESS AFTER 11 P.M.: ADJOURNMENT OF THE HOUSE: Suspension of Standing Orders|1|
+|TRADE PRACTICES AMENDMENT BILL 1978|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telecom (Question No. 2125)|1|
+|UNIVAC 1100/11: Petroleum Products: Price Increases (Question No. 4964)|1|
+|COMPANY TAKE-OVERS (FEES) BILL 1979: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Small Businesses: Rentals (Question No. 3292)|1|
+|ANSWERS TO QUESTIONS: Petroleum Product Pricing (Question No. 4097)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Business and Consumer Affairs: Polls and Surveys (Question No. 3770)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Passenger Motor Vehicle Imports: Quotas (Question No. 1823)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cheese (Question No. 3057)|1|
+|LIST OF ASSOCIATIONS AND AUTHORITIES: Petroleum Marketing Industry (Question No. 4932)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Bankruptcy: Small Business and Farming (Question No. 412)|1|
+|QUESTION: FUEL FREIGHT SUBSIDY DIFFERENTIAL SCHEME|1|
+|ANSWERS TO QUESTIONS: Distribution and Marketing of Petroleum Products (Question No. 4093)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Motor Vehicle Imports (Question No. 161)|1|
+|ANSWERS TO QUESTIONS: Petroleum Industry (Question No. 4092)|1|
+|MOTOR VEHICLES|1|
+|QUESTION: DRUG OFFENCES: SENTENCES|1|
+|QUESTION: URANIUM|1|
+|QUESTION: GOVERNMENT BUSINESS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Beer and Spirits Statistics (Question No. 1927)|1|
+|EXCISE AMENDMENT BILL 1979: Second Reading|1|
+|PRICES JUSTIFICATION TRIBUNAL: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Tile Manufacturers Association: Requests (Question No. 687)|1|
+|HIGH COURT OF AUSTRALIA BILL 1979: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cheese Dumping (Question No. 2770)|1|
+|QUESTION: IMPORTS FROM EUROPEAN ECONOMIC COMMUNITY|1|
+|BOUNTY (METAL- WORKING MACHINE TOOLS) BILL 1978: Second Reading|1|

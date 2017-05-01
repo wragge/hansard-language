@@ -1,0 +1,649 @@
+---
+layout: default
+title: 8V4 - grassby-al - Topics
+---
+## Topics that GRASSBY, Al spoke about during the 1970s
+
+| Topic | Number of speeches |
+|--------------|----------------|
+|ADJOURNMENT|22|
+|FUNCTIONS OF THE JOINT SERVICES EDP COMMITTEE: Defence: Joint Planning Committee (Question No. 362)|10|
+|QUESTION: IMMIGRATION|9|
+|PERSONAL EXPLANATION|8|
+|PERSONAL EXPLANATIONS|7|
+|ANSWERS TO QUESTIONS UPON NOTICE: Perpetual Calendar (Question No. 1057)|6|
+|No|6|
+|MEAT EXPORT CHARGE COLLECTION BILL 1973|5|
+|SUSPENSION OF STANDING ORDERS|5|
+|PETITIONS: Education|5|
+|APPROPRIATION BILL (No. 1) 1970-71|3|
+|AUSTRALIAN CITIZENSHIP BILL 1973: Second Reading|3|
+|AUSTRAIIAN CITIZENSHIP BILL 1973: Second Reading|3|
+|LOAN (AUSTRALIAN WHEAT BOARD) BILL 1970: Second Reading|3|
+|QUESTION: STANDING ORDERS COMMITTEE|3|
+|QUESTION: WHEAT|3|
+|QUESTION: SUSPENSION OF STANDING ORDERS|3|
+|APPROPRIATION BILL (No. 1) 1971-72|3|
+|AUSTRALIAN CITIZENSHIP BILL 1973|3|
+|CUSTOMS TARIFF BILL 1971: Second Reading|3|
+|APPROPRIATION BILL (No. 1) 1972-73|3|
+|AFFIRMATION OF ALLEGIANCE|3|
+|QUESTION: RURAL RECONSTRUCTION|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Permanent Residence: Requirements (Question No. 5573)|2|
+|ADVANCE TO THE TREASURER 1969-70: In Committee|2|
+|QUESTION: IMMIGRATION POLICY|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rhodesian Girls Brigade (Question No. 99)|2|
+|DRIED FRUITS LEVY COLLECTION BILL 1971|2|
+|WOOL INDUSTRY BILL 1972: Second Reading|2|
+|NEW SOUTH WALES GRANT (FLOOD MITIGATION) BILL 1971|2|
+|RIVER MURRAY WATERS BILL 1970|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Immigration: Interdepartmental Committees (Question No. 1083)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Charges (Question No. 4055)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fish Products: Exports to Asia (Question No. 2770)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants: Citizenship Courses (Question No. 97)|2|
+|WOOL INDUSTRY BELL 1974: The Bill|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Woodchip Industry (Question No. 4923)|2|
+|QUEENSLAND GRANT (BUNDABERG IRRIGATION WORKS) BILL 1970: Second Reading|2|
+|OBSERVERS: Brandy (Question No. 4583)|2|
+|QUESTION: WOOL|2|
+|NITROGENOUS FERTILIZERS SUBSIDY BILL 1972: Second Reading|2|
+|QUESTION: MR ALEXANDER BARTON|2|
+|ALIENS BILL 1973: Second Reading|2|
+|QUESTION: OVERSEAS INVESTMENT IN AUSTRALIA|2|
+|MEAT EXPORT CHARGE BILL 1973|2|
+|AUSTRALIAN APPLE AND PEAR CORPORATION BILL 1973|2|
+|PETITIONS: Aboriginals|2|
+|MEAT EXPORT CHARGE BILL 1973: Second Reading|2|
+|MIGRATION BILL 1973: Second Reading|2|
+|QUESTION: IMMIGRATION: INTERPRETERS|2|
+|QUESTION: MIGRATION: OVERSEAS STUDENTS|2|
+|No: Productivity Promotion Council (Question No. 2118)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Decentralisation (Question No. 5635)|2|
+|INDUSTRIES ASSISTANCE  COMMISSION BILL 1973|2|
+|QUESTION: DEPORTATION OF YUGOSLAVS|2|
+|ESTATE DUTY ASSESSMENT BILL 1970: Second Reading|2|
+|STATES GRANTS (FRUIT-GROWING RECONSTRUCTION) BILL 1972|2|
+|QUESTION: MIGRANT EDUCATION|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Chemical Sprays (Question No. 1971)|2|
+|B. TRUSTEES: Pakistani Refugees (Question No. 4700)|1|
+|GRANTS COMMISSION ACT 1973|1|
+|QUESTION: ECONOMY: REDUCTIONS IN COMMONWEALTH EXPENDITURES|1|
+|NORTHERN TERRITORY: Dried Fruits Stabilisation Scheme (Question No. 1321)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration Procedures (Question No. 80)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration Agreements (Question No. 95)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unsponsored Migrants (Question No. 76)|1|
+|QUESTION: HIRE PURCHASE: WARNING TO MIGRANTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Minister for Immigration: Passports and Visas (Question No. 780)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration Program (Question No. 74)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants' Contributions to Productivity (Question No. 81)|1|
+|JAPAN: Butter (Question No. 3171)|1|
+|PUBLICITY ADVISORY COMMITTEE ON EDUCATION IN ROAD SAFETY: Vietnam (Question No. 2569)|1|
+|QUESTION: ASSISTANT MINISTERS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Commonwealth Inquiry (Question No. 707)|1|
+|QUESTION: STATEMENT BY MEMBER|1|
+|QUESTION: WEST INDIAN TERMITE INFESTATION|1|
+|WESTERN AUSTRALIA: Medical Graduates (Question No. 6476)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Whale Meal, Solubles and By-Products (Question No. 989)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migration Agreements 1 (Question No. 2537)|1|
+|RURAL RECONSTRUCTION EMPLOYMENT TRAINING SCHEME: Advisory Committee|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Canberra and the Australian Capital Territory (Question No. 4209)|1|
+|TRADE PRACTICES BILL 1973|1|
+|ADJOURNMENT: Airport for Sydney - Export of Merino Rams - Australian Army - Electorate Office - Motor Vehicle Insurance Company|1|
+|QUESTION: DAIRY PRODUCE BOARD|1|
+|APPROPRIATION BILL (No. 1.) 1970-71|1|
+|JAPAN: Canberra-Tumut Road (Question No. 3054)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: The Little Red Schoolbook' (Question No. 5812)|1|
+|QUESTION: BILINGUAL BROADCASTING|1|
+|QUESTION: CONFIDENCE IN ATTORNEYGENERAL: CROATIAN TERRORISM|1|
+|WESTERN AUSTRALIA: Technical Education: Commonwealth Aid (Question No. 6506)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Irrigation (Question No. 5970)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Riven naUniversity (Question No. 5052)|1|
+|STATES GRANTS (SPECIAL FINANCIAL ASSISTANCE) BILL 1970: Third Reading|1|
+|APPROPRIATION BILL (No. 1): Second Reading (Budget Debate)|1|
+|AUSTRALIAN MEAT INDUSTRY: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Citizenship (Question No. 777)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Issue of Visas for Travel to Australia (Question No. 4)|1|
+|QUESTION: EDUCATION: MIGRANT ENGLISH TEACHERS|1|
+|EXECUTIONS IN YUGOSLAVIA: Discussion of Matter of Public Importance|1|
+|SA: United Kingdom Migrants: Selection (Question No. 440)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Decentralisation (Question No. 6138)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Trade Bureau (Question No. 5457)|1|
+|AUSTRALIAN WOOL COMMISSION BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Dairy Products: Manufacturing Companies (Question No. 916)|1|
+|ADJOURNMENT: Assistance to Wool Industry - Apples and Pears - Tourism - Motor Vehicle Industry - Immigration: Asian Students|1|
+|INCOME TAX ASSESSMENT BILL (No. 5) 1973|1|
+|NORTHERN TERRITORY: Natural Resources (Question No. 1790)|1|
+|BROADCASTING AND TELEVISION BILL (No. 2) 1972: Second Reading|1|
+|DRIED VINE FRUITS LEVY BILL 1971: Second Reading|1|
+|QUESTION: IMMIGRATION: INTERNATIONAL CRIMINALS|1|
+|QUESTION: DEPARTMENT OF IMMIGRATION: OVERSEAS POSTINGS|1|
+|AUSTRALIAN APPLE AND PEAR CORPORATION BILL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Employers Policy Committee (Question No. 3001)|1|
+|PROCESSED MILK PRODUCTS BOUNTY BILL (No. 2) 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Asian-Pacific Economic Community (Question No. 5458)|1|
+|CSIRO: Flood Damage: Salinity (Question No. 3172)|1|
+|WESTERN AUSTRALIA: Tuberculosis and Brucellosis in Cattle (Question No. 6516)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Government Policy (Question No. 503)|1|
+|AUSTRALIAN DRIED FRUITS CONTROL BOARD|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naturalisation (Question No. 3081) (This answer replaces the one appearing at pages 490-1 of Hansard for 20th August 1971 which contained a typographical error.)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Economic Review of Australia (Question No. 5989)|1|
+|WHITE AUSTRALIA LEAGUE|1|
+|QUESTION: ILLEGAL MIGRANTS|1|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: Wine Imports (Question No. 4582)|1|
+|APPROPRIATION BILL (No. I) 1970-71|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Poplars: Fungus Disease (Question No. 5609)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Visa Applications: Rejections (Question No. 100)|1|
+|QUESTION: VISAS : CZECHOSLOVAKIA|1|
+|QUESTION: EASY VISA SYSTEM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: pollution . (Question No. 3478)|1|
+|MOST GRACIOUS SOVEREIGN:|1|
+|LOAN (AUSTRALIAN WHEAT BOARD) BILL 1971: Second Reading|1|
+|APPOINTMENT OF ASSISTANT MINISTERS: Ministerial Statement|1|
+|QUESTION: PASSPORTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Advertising Expenditure (Question No. 987)|1|
+|WESTERN AUSTRALIA: Plague Locust Infestations (Question No. 6542)|1|
+|QUESTION: QUARANTINE|1|
+|RURAL INDUSTRY: Discussion of Matter of Public Importance|1|
+|IMMIGRATION|1|
+|AGRICULTURAL TRACTORS  BOUNTY BELL 1972: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Medical Journal of Australia' (Question No. 4172)|1|
+|QUESTION: MIGRANT SMUGGLING RACKET|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: General Motors Corporation (Question No. 2767)|1|
+|INCOME TAX ASSESSMENT BILL 1971: Second Reading|1|
+|WOOL INDUSTRY BELL 1974: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr R. Chan: Appeal Against Conviction (Question No. 254)|1|
+|PROPOSED AMENDMENTS: Australian Fishermen: Long Term Loans (Question No. 1111)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Good Neighbour Council (Question No. 85)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naturalisation (Question No. 1228)|1|
+|ADJOURNMENT: Valedictory - Newspaper Report - Social Services - Children's Television Programmes  - Vietnam - Electoral|1|
+|VIETNAMESE AND CAMBODIAN ORPHANS|1|
+|PROGRESSIVE REVIEW OF THE TARIFF: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: War Service Homes (Question No. 1278)|1|
+|JAPAN: Decentralisation (Question No. 3117)|1|
+|QUESTION: NATIONAL WATER CONSERVATION AND CONSTRUCTING AUTHORITY|1|
+|QUESTION: NATIONAL POPULATION INQUIRY|1|
+|MIGRANT SERVICES|1|
+|APPROPRIATION BILL (No.1) 1970-71: Second Reading (Budget Debate)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Directories: Contract for Pink Pages Advertising (Question No. 6505)|1|
+|AUSTRALIAN RURAL ECONOMY: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Butter and Vegetable Oil Spreads (Question No. 4294)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Fauna Authorities Conference (Question No. 3699)|1|
+|OF ADVISORY COMMITTEE ON ABORIGINES BENEFITS TRUST FUND: S. Warrabri Social Club|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Colour Television (Question No. 1972)|1|
+|MIGRANT TASK FORCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Army Establishments (Question No. 1545)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Forces (Question No. 39)|1|
+|QUESTION: IMMIGRATION: MIGRANT EDUCATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Apples and Pears: Shipping Freights (Question No. 4701)|1|
+|AUSTRALIA'S IMMIGRATION POLICY: Discussion of Matter of Public Importance|1|
+|SCHEDULE 'B*: Repatriation: Boer War and World War I Veterans (Question No. 6151)|1|
+|JAPAN: Pollution (Question No. 3395)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cigarettes (Question No. 4041)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Geehi Aqueduct (Question No. 5916)|1|
+|WHEAT TAX BILL 1973: Second Reading|1|
+|APPROPRIATION BILL (No. 1) 1971-72: Second Reading (Budget Debate)|1|
+|WANT OF CONFIDENCE IN THE GOVERNMENT|1|
+|DEPORTATION OF FIJIANS: Ministerial Statement|1|
+|APPROPRIATION BILL (No.3) 1971-72: Second Reading|1|
+|WOOL (DEFICIENCY PAYMENTS) BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Water Quality (Question No. 3177)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Immigration: Office Accommodation (Question No. 614)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mineral Policy (Question No. 4585)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants: Eligibility for Assisted Passages (Question No. 70)|1|
+|QUESTION: RURAL INDUSTRIES|1|
+|ADJOURNMENT: Canned Fruit Industry - The Parliament - Door to Door Sales - Television - Currency|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pollution (Question No. 3800)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Wool (Question No. 2053)|1|
+|MOUNT HAGEN, 29-30 JUNE, 1970: Professional and Semi-Government Bodies (Question No. 1637)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Ordinances (Question No.2362)|1|
+|QUESTION: FOREIGN INVESTMENT IN AUSTRALIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tariff Board (Question No. 1968)|1|
+|SUPPLY BILL (No. 1) 1971-72: Second Reading|1|
+|SOCIAL SERVICES BILL (No. 3) 1972: Second Reading|1|
+|QUESTION: LEETON CO-OPERATIVE CANNERY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Standardisation of Rail Gauge (Question No. 706)|1|
+|QUESTION: OPERA HOUSE: OPENING|1|
+|QUESTION: WHEAT QUOTAS IN WESTERN AUSTRALIA|1|
+|WESTERN AUSTRALIA: Cyclamates (Question No. 3396)|1|
+|IMMIGRATION (EDUCATION) BILL 1970|1|
+|EXPORT PAYMENTS INSURANCE CORPORATION BILL (No. 2) 1971: Second Reading|1|
+|QUESTION: COMMONWEALTH SCIENTIFIC AND INDUSTRIAL RESEARCH ORGANISATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rabbit Farms (Question No. 994)|1|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: New Zealand: Investment (Question No. 4780)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Civil Aviation: Perth-Darwin Service (Question No. 6089)|1|
+|WAR SERVICE LANDSETTLEMENT: Third Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Imported Films and literature (Question No. 1880)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Quarantine (Question No. 4351)|1|
+|QUESTION: EXPORTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Frozen Chickens (Question No. 5047)|1|
+|RAAF: Australian Passports (Question No. 5051)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration Policy: Nurses Training Program (Question No. 1196)|1|
+|STATES GRANTS (WATER RESOURCES MEASUREMENT) BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Citrus Exports to Japan (Question No. 5640)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Inquiries and Research Projects (Question No. 77)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Animal Quarantine (Question No. 848)|1|
+|QUESTION: PENSIONS FOR IMMIGRANTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory: Milk Supplies (Question No. 899)|1|
+|QUESTION: ORGANISATION FOR ECONOMIC CO-OPERATION AND DEVELOPMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Advertising Agencies (Question No. 2768)|1|
+|QUESTION: PRIMARY INDUSTRY|1|
+|QUESTION: ABDUCTION OF AUSTRALIAN CHILD|1|
+|QUESTION: IMMIGRATION: VISAS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: North-South Highway (Question No. 1973)|1|
+|WESTERN AUSTRALIA: Federal Biological Assay Laboratory (Question No. 1879)|1|
+|COMMONWEALTH ELECTORAL BILL (No. 2) 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naturalisation (Question No. 5050)|1|
+|COLLEGES OF ADVANCED EDUCATION: Chip Mill Project (Question No. 5361)|1|
+|OVERSEAS CONTROL - MANUFACTURING SECTOR: Telephones: Installation Charges (Question No. 5366)|1|
+|STATES GRANTS (SPECIAL FINANCIAL ASSISTANCE) BILL 1970: Second Reading|1|
+|STATES GRANTS (FRUITGROWING RECONSTRUCTION) BILL 1972: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Postgraduate Research Allowance (Question No. 3228)|1|
+|AUSTRALIA/WEST COAST NORTH AMERICA TRADE: Wool Prices (Question No. 3843)|1|
+|ADJOURNMENT: Immigration - West Sydney: Regional Development - Local Government Grants - Geelong Theatre Complex - Electoral - The Parliament|1|
+|PROPOSED AMENDMENTS: Wheat (Question No. 1007)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: General Agreement on Tariffs and Trade (Question No. 6141)|1|
+|QUESTION: FOOD SHORTAGES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Port Development and Marine Affairs: Ministerial Meeting (Question No. 5821)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Citizenship (Question No. 94)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Discriminatory Legislation (Question No. 5055)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sydney Metropolitan Water, Sewerage and Drainage Board: Finances (Question No. 3962)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Water Research Development Fund (Question No. 629)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants' Contributions to Productivity (Question No. 767)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Scholarships and Cadetships (Question No. 4221)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation Review Committee (Question No. 63)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Poultry Industry: Foreign Ownership (Question No. 4210)|1|
+|QUESTION: ISLAND GIRLS: DOMESTIC LABOUR|1|
+|ADJOURNMENT: International Affairs - Wine Excise - Political Parties - Psychiatric Hospitals|1|
+|QUESTION: EQUAL RIGHTS FOR TOURISTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Campbell Committee Report (Question No. 701)|1|
+|ADJOURNMENT: Apartheid - Army Medical Standards - The Parliament - International Trade Agreements - National Service - Japan - Civil Defence: Fire Brigade Equipment - Woollen Textile Industry - Australian Broadcasting Commission|1|
+|ESTATE DUTY ASSESSMENT BILL 1972: Second Reading|1|
+|UNEMPLOYMENT: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Decentralisation (Question No. 3794)|1|
+|STATES GRANTS (PETROLEUM PRODUCTS) BILL 1973: Second Reading|1|
+|INDUSTRIAL RESEARCH AND DEVELOPMENT GRANTS BILL 1972: Third Reading|1|
+|QUESTION: QANTAS: ASSISTED MIGRANTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Industry: Apprentices (Question No. 768)|1|
+|IMMIGRATION: REPORTS OF MIGRANT TASK FORCE COMMITTEES|1|
+|QUESTION: WHEAT PRICES|1|
+|SA: Migrants: Deportations (Question No. 504)|1|
+|QUESTION: DEPARTMENT OF IMMIGRATION: APPOINTMENT OF MULTI-LINGUAL WELFARE OFFICERS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australia Day Observance (Question No. 75)|1|
+|SA: Deportations (Question No. 516)|1|
+|AGRICULTURAL TRACTORS BOUNTY BILL 1970: Second Reading|1|
+|WESTERN AUSTRALIA: Plague Locust Control (Question No. 6570)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rural Subsidy Schemes (Question No. 747)|1|
+|WESTERN AUSTRALIA: Meat Imports (Question No. 2919)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Merino Rams (Question No. 2251)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Overseas Migration Offices (Question No. 96)|1|
+|SA: Immigration: Australian Citizenship (Question No. 182)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Honey Board (Question No. 1547)|1|
+|REPORT ON MIGRANT TASK FORCE|1|
+|APPROPRIATION BILL (No. 3) 1970-71: Second Reading|1|
+|AND ARBITRATION ACT 1904-1969 SINCE 1957: Citrus Fruit Exports (Question No. 1320)|1|
+|VICTORIA GRANT (SHEPPARTON PRESERVING COMPANY LIMITED) BILL 1971|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant Resettlement (Question No. 71)|1|
+|QUESTION: NEWSPAPER REPORT: ALLEGED EXPLOITATION OF NEWCOMERS|1|
+|MAPPING SURVEYS BILL 1970: Second Reading|1|
+|QUESTION: DEPORTATION OF FIJIANS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Broadcasting (Question No. 1*83)|1|
+|QUESTION: MIGRATION: AUSTRALIA- ITALY AGREEMENT|1|
+|NATIONAL HEALTH BILL 1970: Second Reading|1|
+|REVISED VISITOR VISA SYSTEM: Revised Visitor Visa System- Ministerial Statement, 3 April 1974|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Patent Office Charges (Question No. 3174)|1|
+|PHOSPHATE FERTILIZERS BOUNTY BILL 1971: Second Reading|1|
+|CSIRO: Indonesia (Question No. 3170)|1|
+|ADJOURNMENT: Dear Sir,|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Immigration: Multi-lingual Welfare Officers (Question No. 436)|1|
+|QUESTION: RURAL INDEBTEDNESS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Indonesia: Aid (Question No. 3963)|1|
+|ADJOURNMENT: Thursday, 7 October 1971|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Fruit Industry: Migrant Labour (Question No. 1018)|1|
+|EXCISE TARIFF BILL (No. 2) 1973: Second Reading|1|
+|AUSTRALIAN MEAT BOARD|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rented Offices (Question No. 611)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rural Reconstruction Employment Training Scheme (Question No. 5292)|1|
+|QUESTION: IMMIGRATION: INTERPRETING AND TRANSLATING FACILITIES|1|
+|WESTERN AUSTRALIA: Overseas Ownership of Flour Mills, Stock Feed Mills and Bakeries (Question No. 6142)|1|
+|QUESTION: AFRICA|1|
+|IMMIGRATION (EDUCATION) BILL 1973: Second Reading|1|
+|QUESTION: IMMIGRATION: MULTI-LINGUAL WELFARE OFFICERS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant Organisations: Financial Assistance (Question No. 90)|1|
+|AUSTRALIAN DAIRY PRODUCE BOARD|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Birthplace of Peter Lalor: Joint National Monument (Question No. 324)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Apple and Pear Industry: Compensation (Question No. 1053)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Commonwealth Countries (Question No. 3697)|1|
+|QUESTION: MERINO EXPORT EMBARGO|1|
+|No: Butterfat and Vegetable Oil Spread (Question No. 4638)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Citizenship Status (Question No. 2922)|1|
+|LOAN (AUSTRALIAN WHEAT BOARD) BILL 1972: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: New Settlers Federation (Question No. 773)|1|
+|QUESTION: IMMIGRATION: OVERCROWDING OF INNER CITY AREAS|1|
+|IMMIGRATION: Ministerial Statement|1|
+|QUESTION: NEW PROMOTIONS SCHEME FOR SOUTH AUSTRALIAN TEACHERS|1|
+|QUESTION: MIGRANTS: TASK FORCES|1|
+|WESTERN AUSTRALIA: Taxation: Broiler Growers (Question No. 3377)|1|
+|WINE OVERSEAS MARKETING BILL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migration: Approvals (Question No. 260)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Population Studies (Question No. 86)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant Intake (Question No. 942)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant Education (Question No. 5207)|1|
+|DARTMOUTH RESERVOIR AGREEMENT BILL 1970|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Properties (Question No. 471)|1|
+|WHEAT INDUSTRY STABILISATION BILL 1970: Second Reading|1|
+|No: Rural Reconstruction: Forestry (Question No. 5244)|1|
+|ROAD TRAFFIC ACCIDENTS: Taxation: Grants to Wool Growers (Question No. 3397)|1|
+|IMMIGRATION ADVISORY COUNCIL|1|
+|OVERSEAS INVESTMENT IN AUSTRALIA: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sydney (Kingsford-Smith) Airport: International Terminal (Question No. 1368)|1|
+|QUESTION: INTERNATIONAL MONETARY CRISIS|1|
+|GOOD NEIGHBOUR COUNCIL|1|
+|OBSERVERS: Milk for School Children (Question No. 4293)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Croatian Independence (Question No. 3219)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sewerage Services (Question No. 6145)|1|
+|QUESTION: NON-ENGLISH SPEAKING MIGRANT WORKERS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Highways (Question No. 5971)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rural Reconstruction Scheme (Question No. 923)|1|
+|WINE EXCISE|1|
+|WHEAT: Discussion of Matter of Public Importance|1|
+|ADJOURNMENT: Thursday, 28 October 1971|1|
+|LIVE-STOCK SLAUGHTER LEVY BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aid to Indonesia (Question No. 2570)|1|
+|RURAL RECONSTRUCTION: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cellular Container Ships (Question No. 5583)|1|
+|B. TRUSTEES: Cheese Bounty (Question No. 6250)|1|
+|UREA BOUNTY BILL 1970: Second Reading|1|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: Overseas Investment in Australia (Question No. 4433)|1|
+|MINISTER FOR MINERALS AND ENERGY: Suspension of Standing Orders|1|
+|LOAN (WAR SERVICE LAND SETTLEMENT) BILL 1972: Second Reading|1|
+|WHEAT INDUSTRY STABILISATION: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Council of Trade Unions (Question No. 3550)|1|
+|QUESTION: AUSTRALIANS IN HUNGARY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Banana Growing: Pest Control (Question No. 6251.)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tariff: Acrylic Fibre (Question No. 2939)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Deportations (Question No. 4472)|1|
+|No: Shipping: Bulk Handling Facilities (Question No. 5582)|1|
+|WHEAT EXPORT CHARGE BILL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Bananas (Question No. 5865)|1|
+|QUESTION: IMMIGRATION: STUDENTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Works Committee (Question No. 6364)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: AM to Indonesia (Question No. 1970)|1|
+|QUESTION: JAPANESE VISITORS TO AUSTRALIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Railways: Finances (Question No. 3756)|1|
+|QUESTION: UNITED KINGDOM IMMIGRANTS: AUSTRALIAN CITIZENSHIP|1|
+|SALES TAX (EXEMPTIONS AND CLASSIFICATIONS) (No. 2) BILL 1973: Second Reading|1|
+|CITIZENSHIP AND SETTLEMENT POLICY|1|
+|GRIEVANCE DEBATE|1|
+|WESTERN AUSTRALIA: Drought Relief (Question No. 6515)|1|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: Oil and Mineral Exploration (Question No. 4781)|1|
+|ADJOURNMENT: Norma L. Borowski 79 Cobden Street, South Melbourne. -|1|
+|ADJOURNMENT: Primary Producers|1|
+|NON-METROPOLITAN UNEMPLOYMENT RELIEF: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pollution: Motor Vehicles (Question No. 2580)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Chinese Fabrics (Question No. 4640)|1|
+|QUESTION: WHEAT QUOTAS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Ministerial Conferences (Question No. 93)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Isolated Children (Question No. 5886)|1|
+|QUESTION: IMMIGRATION: HISTORY|1|
+|QUESTION: IMMIGRATION: LONG TERM POPULATION TARGETS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Civil Aviation: Papua New Guinea (Question No. 2409)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Revaluation: Loans to Fruit Canneries (Question No. 955 )|1|
+|WESTERN AUSTRALIA: Canberra: Enrolment Fees for Pre-School Centres (Question No. 6253)|1|
+|QUESTION: ECONOMIC PLANNING AND TRADE COMMITTEE 1971|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Trade Practices: Narrandera Brewery (Question No. 2297)|1|
+|QUESTION: ISSUE OF PASSPORTS|1|
+|NEW SOUTH WALES GRANT (LEETON CO-OPERATIVE CANNERY LIMITED) BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Farm Machinery (Question No. 5709)|1|
+|DEFINITION: Mice Plague (Question No. 794)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Applications to Migrate (Question No. 101)|1|
+|SA: Passports: African Visitors (Question No. 665)|1|
+|QUESTION: OBITUARIES|1|
+|QUESTION: MALCOLM FRASER|1|
+|QUESTION: WINE INDUSTRY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Windamere Dam (Question No. 6517)|1|
+|LOAN (WAR SERVICE LAND SETTLEMENT) BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Professional People (Question No. 79)|1|
+|FISHERIES BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Wheat Board: Insurance (Question No. 5580)|1|
+|QUESTION: PACIFIC BASIN ECONOMIC CONFERENCE: VISIT BY MR K. T. LI|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Development (Question No. 3797)|1|
+|QUESTION: UGANDAN ASIAN MIGRANTS|1|
+|PETITIONS: Postmaster-General's Department|1|
+|QUESTION: SHIPPING FREIGHTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pensioners: Interstate Travel Concessions (Question No. 5421)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Citizenship (Question No. 322)|1|
+|SCHEDULE: Decentralisation (Question No. 468)|1|
+|WOOL INDUSTRY BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Victoria: Child Migrant Education Program (Question No. 278)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Plan for Australian Development (Question No. 1325)|1|
+|QUESTION: JAPANESE IMMIGRATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Papua New Guinea Residents (Question No. 83)|1|
+|ADJOURNMENT: Immigration - Toowoomba Foundry - Political Parties - Decentralisation|1|
+|EXCISE TARIFF BILL 1970: Second Reading|1|
+|VICTORIA GRANT (SHEPPARTON PRESERVING COMPANY LIMITED) BILL 1971: Second Reading|1|
+|AUSTRALIAN EGG BOARD|1|
+|ADJOURNMENT: Canneries Abortion|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Herd Testing (Question No. 5810)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Industrial Relations: Union Dispute at Griffith (Question No. 323)|1|
+|OBSERVERS: Decentralisation|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Calls: Interception (Question No. 5607)|1|
+|HONEY INDUSTRY BILL 1972: Second Reading|1|
+|No: Multiphasic Health Screening Services Committee (Question No. 5565)|1|
+|QUESTION: AUSTRALIAN POPULATION: BALANCE OF THE SEXES|1|
+|STATES GRANTS (RURAL RECONSTRUCTION) BILL 1971: Second Reading|1|
+|QUESTION: AUSTRALIAN VISITORS TO SOUTH AFRICA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Animal Health (Question No. 472)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Citizenship (Question No. 396)|1|
+|QUESTION: IMMIGRATION: HISTORICAL DOCUMENTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Assisted Passages to Australia (Question No. 252)|1|
+|OBSERVERS: Australian Exports (Question No. 4291)|1|
+|SCHEDULE 1: Sections 6, 6a and 6b|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Apples and Pears (Question No. 1322)|1|
+|QUESTION: COMMONWEALTH HOSTEL ACCOMMODATION|1|
+|QUESTION: TRADE WITH THE PEOPLE'S REPUBLIC OF CHINA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nitrogen (Question No. 2250)|1|
+|QUESTION: BACKGROUND TO COMMONWEALTHSTATE TALKS ON OFF-SHORE LEGISLATION|1|
+|ASIAN DEVELOPMENT BANK (SPECIAL FUNDS CONTRIBUTIONS) BILL 1970: Second Reading|1|
+|QUESTION: APPROPRIATION BULL (No. 1) 1973-74|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation: Migrants (Question No. 5890)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Lake Pedder (Question No. 6518)|1|
+|BANKRUPTCY BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Assisted Passage Migrants: Settlement in Non-Metropolitan Areas (Question No. 82)|1|
+|QUESTION: EXPORT OF MERINO RAMS|1|
+|UNITED STATES DEPARTMENT OF HEALTH, EDUCATION, AND WELFARE: Dried Fruits Industry (Question No. 2571)|1|
+|QUESTION: C BLOCK COMES UNDER FIRE FROM LIBERAL MINISTERS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant Counselling and Selection System (Question No. 439)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Industry: Apprentices (Question No. 487)|1|
+|QUESTION: WOOL MARKETING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant Education Centres (Question No. 438)|1|
+|SPECIAL ADJOURNMENT|1|
+|QUESTION: AUSTRALIA'S NATIONAL ANTHEM|1|
+|DRIED FRUITS EXPORT CHARGES BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cattle: Tuberculosis (Question No. 6148)|1|
+|APPRENTICES: Australian Navy Establishments (Question No. 1544)|1|
+|BANKS (SHAREHOLDINGS) BILL 1971: Second Reading|1|
+|APPLE AND PEAR STABILIZATION BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Wool Growers: Emergency Relief Scheme (Question No. 4699)|1|
+|QUESTION: IMMIGRATION: OVERSEAS STUDENTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Diplomatic Service (Question No. 2142)|1|
+|NORTHERN TERRITORY ADMINISTRATION: Vietnamese Children-Adoption (Question No. 2938)|1|
+|QUESTION: IMMIGRATION: ENTRY OF CRIMINALS INTO AUSTRALIA|1|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: Advertising Agencies (Question No. 3798)|1|
+|RAAF: Australian Capital Territory: Building Contracts (Question No. 5151)|1|
+|OBSERVERS: Wool (Question No. 4723)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Air Pollution: McWade Control Unit (Question No. 5866)|1|
+|WOOL (DEFICIENCY PAYMENTS) BILL 1971|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Immigration: Migrant Employees (Question No 73)|1|
+|QUESTION: IMMIGRATION: OVERSEAS TRADE TESTING OF MIGRANTS|1|
+|QUESTION: EASY VISITOR SYSTEM|1|
+|STATES GRANTS (ABORIGINAL ADVANCEMENT) BILL 1970: Second Reading|1|
+|SOFTWOOD FORESTRY AGREEMENTS BILL 1972: Second Reading|1|
+|ADJOURNMENT: Thursday, 23 April 1970|1|
+|GRIEVANCE DEBATE: Member for Griffith|1|
+|SOUTH AUSTRALIA GRANT (FRUIT CANNERIES) BILL 1971: Second Reading|1|
+|DAIRYING INDUSTRY LEVY BILL 1970: Second Reading|1|
+|MARGINAL DAIRY FARMS AGREEMENTS BILL 1970|1|
+|ADJOURNMENT: This Day Tonight' - Wool - Charter Flights - Postal Services - Wine Industry - Unemployment Benefit|1|
+|DAIRYING INDUSTRY BILL 1972: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South Vietnam Elections (Question No. 3786)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Bovine Semen: Importation (Question No. 6147)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant Selection Procedures (Question No. 78)|1|
+|SNOWY MOUNTAINS ENGINEERING CORPORATION BILL 1970|1|
+|EXCISE TARIFF BILL 1973: Second Reading|1|
+|EXPORT PAYMENTS INSURANCE CORPORATION BILL 1970|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Child Migrant Education (Question No. 774)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Conferences of Immigration Ministers (Question No. 796)|1|
+|AUSTRALIAN WOOL INDUSTRY: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migration: Increase (Question No. 1042)|1|
+|NATIONAL URBAN AND REGIONAL DEVELOPMENT AUTHORITY BILL 1972: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Malnutrition (Question No. 806)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants: Assisted Passages (Question No. 775)|1|
+|QUESTION: ILLEGAL MIGRANTS FROM COLOMBIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Export of Merino Rams (Question No. 705)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral (Question No. 4349)|1|
+|TASMANIA: Shipping: Sydney-Darwin Costs (Question No. 2124)|1|
+|QUESTION: RURAL CREDIT FACILITIES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Employment Opportunities and Priorities (Question No. 84)|1|
+|QUESTION: ALLEGED SALE OF DISEASED MEAT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation (Question No. 2254)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australians of Former German Nationality (Question No. 3417)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Adopted Vietnamese Children (Question No. 5611)|1|
+|JAPAN: Railways: Tocumwal-Mangalore Link (Question No. 3416)|1|
+|QUESTION: PASSPORTS: RONALD BIGGS CASE|1|
+|QUESTION: ENGLISH LANGUAGE TRAINING SCHEME FOR MIGRANTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Poultry Industry: Assistance (Question No. 4491)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Civil Aviation: Low Fare Passenger Flights (Question No. 4917)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Lamb Prices (Question No. 6252)|1|
+|OBSERVERS: Monetary Control (Question No. 4450)|1|
+|QUESTION: WOOL INDUSTRY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Land Ownership (Question No. 4860)|1|
+|WOOL INDUSTRY BOLL 1970|1|
+|QUESTION: TRADE WITH UNITED KINGDOM|1|
+|FUNCTIONS OF THE JOINT SERVICES EDP COMMITTEE|1|
+|TASMANIA: Television (Question No. 2920)|1|
+|QUESTION: NATURALISATION: OATH OF ALLEGIANCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Oil Refineries Limited (Question No. 1803)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Coloured Migrants: Assisted Passages (Question No. 918)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Wheat (Question No. 999)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Air Force Establishments (Question No. 1546)|1|
+|QUESTION: UNEMPLOYED WOMEN: WOLLONGONG DISTRICT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Children's Books: Lead Content (Question No. 1524)|1|
+|CRIMINAL EXTREMIST ACTIVITIES|1|
+|QUESTION: MIGRATION AND CITIZENSHIP: HISTORIC DOCUMENTS|1|
+|DRIED FRUITS RESEARCH BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Railways: Fares (Question No. 1826)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Meat Industry: Brucellosis and Tuberculosis Eradication Campaigns (Question No. 833)|1|
+|QUESTION: MIGRANT RECRUITING PROGRAMS|1|
+|LOAN (AUSTRALIAN WHEAT BOARD) BILL 1970: Third Reading|1|
+|MEAT EXPORT CHARGE COLLECTION BILL 1973: Second Reading|1|
+|NORTHERN TERRITORY ADMINISTRATION: Overseas Relief (Question No. 2867)|1|
+|CERTIFICATES OF AUSTRALIAN CITIZENSHIP|1|
+|ADJOURNMENT: Vietnam Moratorium Campaign - Social Services - Aircraft Noise - Newspaper Article|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Applications to Migrate (Question No. 92)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Reserves: Prospecting (Question No, 4951)|1|
+|OBSERVERS: Wool (Question No. 4292)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Shipping: Container Handling Facilities (Question No. 5584)|1|
+|OVERSEAS CONTROL - MANUFACTURING SECTOR: Aboriginal Population: Northern Territory (Question No. 5570)|1|
+|QUESTION: TOURIST VISAS: DELAYS IN ISSUE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: The Environment: Daishowa Harris Company (Question No. 5362)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Blood Tests (Question No. 4639)|1|
+|APPROPRIATION BILL (No. 1) 1973-74: Second Reading (Budget Debate)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration Department Officers: Training for Overseas Appointments (Question No. 91)|1|
+|QUESTION: FOREIGN POLICY|1|
+|QUESTION: FRUIT INDUSTRY: MIGRANT LABOUR|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Oil Imports (Question No. 1326)|1|
+|DESIGNERS GRANTED SUBSIDY OF $400: Migrant Program: Regional Development (Question No. 1135)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Visa Applications (Question No. 289)|1|
+|No: Second Sydney Airport (Question No. 4296)|1|
+|QUESTION: THE LEADER OF THE HOUSE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Butter Fat and Vegetable Oil Spread (Question No. 5636)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: River Murray: Salinity (Question No. 1585)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: United States-Japan Trade Bloc (Question No. 5949)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: European Economic Community: Britain's Entry (Question No. 5948)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Post Office News': Cost (Question No. 6150)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant Intake (Question No. 72 )|1|
+|SUSPENSION OF STANDING ORDERS: Allotment of Time|1|
+|SA: Migrants: Approvals (Question No. 551)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Territorial Sea and Continental Shelf Bill (Question No. 3106)|1|
+|QUESTION: FOREIGN INVESTMENT|1|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: Company Income: Foreign Debt (Question No. 3961)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Environmental Impact Statements (Question No. 167)|1|
+|QUESTION: ORIENTATION COURSES FOR MIGRANTS|1|
+|POULTRY INDUSTRY ASSISTANCE ACT|1|
+|IMMIGRATION ADVISORY COUNCIL INQUIRY: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Broiler Growers (Question No. 3173)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Child Migrant Education Program: Bilingual Teachers (Question No. 87)|1|
+|QUESTION: AUSTRALIAN LAND CORPORATION|1|
+|QUESTION: IMMIGRATION: MINISTERIAL MEETING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Eggs (Question No. 1020)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cheese Imports (Question No. 4350)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: New Settlers Federation (Question No. 88)|1|
+|QUESTION: WANT OF CONFIDENCE MOTION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Trade: Overseas Representation (Question No. 2143)|1|
+|DAIRY PRODUCE EXPORT CONTROL BILL 1971: Second Reading|1|
+|MAXIMUM REPAYMENT TERM: Papua and New Guinea: Hospital Fees (Question No.1 065)|1|
+|QUESTION: IMMIGRATION: TERRORIST ACTIVITIES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Primary Industry (Question No. 5864)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Baling Wire (Question No. 1054)|1|
+|ANSWERS TO QUESTIONS UPON NOT ICE: Prune Industry (Question No. 704)|1|
+|QUESTION: WINE TAX|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australians Overseas: Return Campaign (Question No. 1041)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Citizenship Ceremonies (Question No. 89)|1|
+|CHINA: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Travellers from Australia: Bonds (Question No. 315)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: Tertiary and Technical Education Facilities (Question No. 6112)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Wool Commission (Question No. 4323)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Export: Australian Cars (Question No. 1570)|1|
+|ADJOURNMENT: Abolition of Price Maintenance - Textile Industry - Trade - The Parliament - Long Service Leave - Royal Australian Air Force Pay and Conditions - Taxation Concessions|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Ireland (Question No. 5811)|1|
+|EXCISE TARIFF AND CUSTOMS TARIFF PROPOSALS|1|
+|QUESTION: MIGRATION|1|
+|QUESTION: AUSTRALIAN INDUSTRIES AND RESOURCES: FOREIGN CONTROL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral Divisions: Enrolments (Question No. 6093)|1|
+|QUESTION: IMMIGRATION: BUILDING TRADESMEN|1|
+|QUESTION: EDUCATION: MIGRANT CHILDREN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Natural Gas: Costs (Question No. 726)|1|
+|IMMIGRATION (EDUCATION) BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Visa Applications (Question No. 770)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Population Studies: Working Paper (Question No. 776)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants: Social Security Rights (Question No. 4492)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Dried Fruits (Question No. 3047)|1|
+|MIGRANT EDUCATION|1|
+|NEW SOUTH WALES GRANT (FLOOD MITIGATION) BILL 1971: Second Reading|1|
+|PIG INDUSTRY RESEARCH BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: British Government: Screening of Migrants (Question No. 781)|1|
+|ADJOURNMENT: Newspaper Articles - Repatriation - Telephone Accounts - Sales Tax - Plague Locusts - Artificial Milk - Gross National Product: Statistics|1|
+|PIG SLAUGHTER LEVY COLLECTION BILL 1971|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants: Departures (Question No. 126)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Animal Quarantine Station (Question No. 849)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Appeals Against Rejected Entry Permits (Question No. 772)|1|
+|INDUSTRIES ASSISTANCE COMMISSION BILL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Indonesian Visits to Australia (Question No. 4612)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Broadcasting Commission (Question No. 2572)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Development (Question No. 3119)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Service Homes Loan (Question No. 325)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Handicapped Children (Question No. 4782)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Free Milk for Schoolchildren (Question No. 5048)|1|
+|QUESTION: RUDOLPH WEBER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naturalisation (Question No. 6149)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Wheat Sales (Question No. 873)|1|
+|AUSTRALIAN MEAT RESEARCH COMMITTEE|1|
+|ADJOURNMENT: Repatriation-Radioactive Waste - Australian Currency - Industrial Relations|1|
+|WESTERN AUSTRALIA: Naturalisation (Question No. 3081)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Honours and Awards (Question No. 6288)|1|
+|QUESTION: CITIZENSHIP CEREMONIES: NATIONAL ANTHEM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cheese: Imports (Question No. 5163)|1|
+|ADJOURNMENT: The Parliament - Hospitals - Wheat - Australian Art - Canberra: Capital Hill - Snowy Mountains Hydro-Electric Authority|1|
+|CUSTOMS TARIFF BILL 1972|1|
+|OBSERVERS: Meat Exports (Question No. 4791)|1|
+|ADJOURNMENT: Sgd. (Ivor J. Greenwood)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Minister for Immigration: Press Release (Question No. 730)|1|
+|AUSTRALIAN CHICKEN MEAT RESEARCH COMMITTEE|1|
+|QUESTION: IMMIGRANTS FROM THE PHILIPPINES|1|
+|AIR NAVIGATION BILL 1971|1|
+|No: Animal Breeding: New Genetic Material (Question No. 5420)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hume Weir (Question No. 1683)|1|
+|WESTERN AUSTRALIA: Northwest Shelf Gas Field: Control (Question No. 6345)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigrants: Australian Citizenship (Question No. 182)|1|
+|CSIRO: Indonesia (Question No. 3303)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Wool Subsidy (Question No. 5049)|1|

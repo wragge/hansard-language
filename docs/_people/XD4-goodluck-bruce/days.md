@@ -1,0 +1,115 @@
+---
+layout: default
+title: XD4 - goodluck-bruce - Days
+---
+## Sitting days when GOODLUCK, Bruce spoke during the 1970s
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wragge/1013.embed"></iframe>
+
+| Date | Number of words |
+|--------------|----------------|
+|[28 February 1978](https://historichansard.net/hofreps/1978/19780228_reps_31_hor108/)|2571|
+|[4 April 1979](https://historichansard.net/hofreps/1979/19790404_reps_31_hor113/)|2568|
+|[26 February 1976](https://historichansard.net/hofreps/1976/19760226_reps_30_hor98/)|2472|
+|[14 September 1978](https://historichansard.net/hofreps/1978/19780914_reps_31_hor110/)|2302|
+|[11 November 1976](https://historichansard.net/hofreps/1976/19761111_reps_30_hor101/)|2105|
+|[28 March 1979](https://historichansard.net/hofreps/1979/19790328_reps_31_hor113/)|1852|
+|[7 November 1978](https://historichansard.net/hofreps/1978/19781107_reps_31_hor112/)|1741|
+|[20 March 1979](https://historichansard.net/hofreps/1979/19790320_reps_31_hor113/)|1732|
+|[7 November 1977](https://historichansard.net/hofreps/1977/19771107_reps_30_hor107/)|1671|
+|[16 March 1978](https://historichansard.net/hofreps/1978/19780316_reps_31_hor108/)|1656|
+|[28 September 1978](https://historichansard.net/hofreps/1978/19780928_reps_31_hor111/)|1602|
+|[22 March 1979](https://historichansard.net/hofreps/1979/19790322_reps_31_hor113/)|1554|
+|[13 October 1977](https://historichansard.net/hofreps/1977/19771013_reps_30_hor107/)|1543|
+|[2 November 1976](https://historichansard.net/hofreps/1976/19761102_reps_30_hor101/)|1442|
+|[21 February 1979](https://historichansard.net/hofreps/1979/19790221_reps_31_hor113/)|1380|
+|[10 April 1978](https://historichansard.net/hofreps/1978/19780410_reps_31_hor108/)|1374|
+|[13 April 1978](https://historichansard.net/hofreps/1978/19780413_reps_31_hor108/)|1329|
+|[10 May 1979](https://historichansard.net/hofreps/1979/19790510_reps_31_hor114/)|1323|
+|[26 May 1977](https://historichansard.net/hofreps/1977/19770526_reps_30_hor105/)|1301|
+|[2 June 1976](https://historichansard.net/hofreps/1976/19760602_reps_30_hor99/)|1179|
+|[27 September 1979](https://historichansard.net/hofreps/1979/19790927_reps_31_hor115/)|1032|
+|[25 October 1977](https://historichansard.net/hofreps/1977/19771025_reps_30_hor107/)|994|
+|[4 May 1976](https://historichansard.net/hofreps/1976/19760504_reps_30_hor99/)|917|
+|[19 October 1977](https://historichansard.net/hofreps/1977/19771019_reps_30_hor107/)|913|
+|[9 September 1976](https://historichansard.net/hofreps/1976/19760909_reps_30_hor100/)|870|
+|[20 May 1976](https://historichansard.net/hofreps/1976/19760520_reps_30_hor99/)|835|
+|[25 August 1976](https://historichansard.net/hofreps/1976/19760825_reps_30_hor100/)|834|
+|[7 March 1979](https://historichansard.net/hofreps/1979/19790307_reps_31_hor113/)|801|
+|[1 April 1976](https://historichansard.net/hofreps/1976/19760401_reps_30_hor98/)|753|
+|[26 October 1978](https://historichansard.net/hofreps/1978/19781026_reps_31_hor111/)|746|
+|[24 August 1978](https://historichansard.net/hofreps/1978/19780824_reps_31_hor110/)|743|
+|[4 November 1977](https://historichansard.net/hofreps/1977/19771104_reps_30_hor107/)|713|
+|[17 March 1977](https://historichansard.net/hofreps/1977/19770317_reps_30_hor104/)|709|
+|[11 April 1978](https://historichansard.net/hofreps/1978/19780411_reps_31_hor108/)|689|
+|[27 March 1979](https://historichansard.net/hofreps/1979/19790327_reps_31_hor113/)|667|
+|[17 October 1978](https://historichansard.net/hofreps/1978/19781017_reps_31_hor111/)|646|
+|[18 October 1978](https://historichansard.net/hofreps/1978/19781018_reps_31_hor111/)|643|
+|[11 October 1979](https://historichansard.net/hofreps/1979/19791011_reps_31_hor116/)|628|
+|[13 September 1978](https://historichansard.net/hofreps/1978/19780913_reps_31_hor110/)|607|
+|[7 June 1978](https://historichansard.net/hofreps/1978/19780607_reps_31_hor109/)|604|
+|[9 May 1978](https://historichansard.net/hofreps/1978/19780509_reps_31_hor109/)|603|
+|[6 April 1978](https://historichansard.net/hofreps/1978/19780406_reps_31_hor108/)|597|
+|[12 October 1976](https://historichansard.net/hofreps/1976/19761012_reps_30_hor101/)|562|
+|[22 February 1977](https://historichansard.net/hofreps/1977/19770222_reps_30_hor103/)|506|
+|[1 June 1978](https://historichansard.net/hofreps/1978/19780601_reps_31_hor109/)|505|
+|[30 May 1978](https://historichansard.net/hofreps/1978/19780530_reps_31_hor109/)|482|
+|[16 February 1977](https://historichansard.net/hofreps/1977/19770216_reps_30_hor103/)|460|
+|[5 October 1976](https://historichansard.net/hofreps/1976/19761005_reps_30_hor101/)|428|
+|[26 August 1976](https://historichansard.net/hofreps/1976/19760826_reps_30_hor100/)|427|
+|[31 May 1978](https://historichansard.net/hofreps/1978/19780531_reps_31_hor109/)|408|
+|[12 October 1978](https://historichansard.net/hofreps/1978/19781012_reps_31_hor111/)|368|
+|[18 August 1977](https://historichansard.net/hofreps/1977/19770818_reps_30_hor106/)|358|
+|[22 September 1976](https://historichansard.net/hofreps/1976/19760922_reps_30_hor100/)|354|
+|[19 September 1978](https://historichansard.net/hofreps/1978/19780919_reps_31_hor110/)|329|
+|[3 May 1977](https://historichansard.net/hofreps/1977/19770503_reps_30_hor105/)|299|
+|[17 November 1976](https://historichansard.net/hofreps/1976/19761117_reps_30_hor102/)|294|
+|[5 June 1979](https://historichansard.net/hofreps/1979/19790605_reps_31_hor114/)|200|
+|[18 October 1977](https://historichansard.net/hofreps/1977/19771018_reps_30_hor107/)|195|
+|[6 December 1976](https://historichansard.net/hofreps/1976/19761206_reps_30_hor102/)|183|
+|[8 March 1978](https://historichansard.net/hofreps/1978/19780308_reps_31_hor108/)|177|
+|[30 May 1977](https://historichansard.net/hofreps/1977/19770530_reps_30_hor105/)|143|
+|[7 June 1979](https://historichansard.net/hofreps/1979/19790607_reps_31_hor114/)|117|
+|[21 September 1977](https://historichansard.net/hofreps/1977/19770921_reps_30_hor106/)|117|
+|[4 June 1979](https://historichansard.net/hofreps/1979/19790604_reps_31_hor114/)|114|
+|[6 March 1979](https://historichansard.net/hofreps/1979/19790306_reps_31_hor113/)|114|
+|[28 April 1977](https://historichansard.net/hofreps/1977/19770428_reps_30_hor105/)|113|
+|[5 May 1978](https://historichansard.net/hofreps/1978/19780505_reps_31_hor109/)|113|
+|[2 December 1976](https://historichansard.net/hofreps/1976/19761202_reps_30_hor102/)|106|
+|[5 May 1977](https://historichansard.net/hofreps/1977/19770505_reps_30_hor105/)|106|
+|[21 March 1979](https://historichansard.net/hofreps/1979/19790321_reps_31_hor113/)|104|
+|[7 October 1976](https://historichansard.net/hofreps/1976/19761007_reps_30_hor101/)|102|
+|[8 June 1978](https://historichansard.net/hofreps/1978/19780608_reps_31_hor109/)|98|
+|[22 November 1979](https://historichansard.net/hofreps/1979/19791122_reps_31_hor116/)|88|
+|[24 May 1979](https://historichansard.net/hofreps/1979/19790524_reps_31_hor114/)|87|
+|[8 May 1979](https://historichansard.net/hofreps/1979/19790508_reps_31_hor114/)|83|
+|[23 August 1979](https://historichansard.net/hofreps/1979/19790823_reps_31_hor115/)|82|
+|[24 March 1977](https://historichansard.net/hofreps/1977/19770324_reps_30_hor104/)|82|
+|[3 April 1979](https://historichansard.net/hofreps/1979/19790403_reps_31_hor113/)|81|
+|[22 February 1978](https://historichansard.net/hofreps/1978/19780222_reps_31_hor108/)|80|
+|[20 October 1976](https://historichansard.net/hofreps/1976/19761020_reps_30_hor101/)|78|
+|[25 October 1979](https://historichansard.net/hofreps/1979/19791025_reps_31_hor116/)|75|
+|[21 September 1976](https://historichansard.net/hofreps/1976/19760921_reps_30_hor100/)|74|
+|[27 May 1976](https://historichansard.net/hofreps/1976/19760527_reps_30_hor99/)|71|
+|[30 March 1976](https://historichansard.net/hofreps/1976/19760330_reps_30_hor98/)|69|
+|[10 October 1979](https://historichansard.net/hofreps/1979/19791010_reps_31_hor116/)|67|
+|[28 April 1976](https://historichansard.net/hofreps/1976/19760428_reps_30_hor99/)|66|
+|[8 September 1977](https://historichansard.net/hofreps/1977/19770908_reps_30_hor106/)|65|
+|[16 August 1978](https://historichansard.net/hofreps/1978/19780816_reps_31_hor110/)|63|
+|[9 March 1977](https://historichansard.net/hofreps/1977/19770309_reps_30_hor104/)|60|
+|[6 November 1979](https://historichansard.net/hofreps/1979/19791106_reps_31_hor116/)|55|
+|[6 October 1976](https://historichansard.net/hofreps/1976/19761006_reps_30_hor101/)|55|
+|[13 November 1979](https://historichansard.net/hofreps/1979/19791113_reps_31_hor116/)|53|
+|[18 March 1976](https://historichansard.net/hofreps/1976/19760318_reps_30_hor98/)|53|
+|[23 May 1979](https://historichansard.net/hofreps/1979/19790523_reps_31_hor114/)|53|
+|[26 September 1979](https://historichansard.net/hofreps/1979/19790926_reps_31_hor115/)|52|
+|[16 March 1976](https://historichansard.net/hofreps/1976/19760316_reps_30_hor98/)|49|
+|[3 November 1977](https://historichansard.net/hofreps/1977/19771103_reps_30_hor107/)|42|
+|[9 November 1976](https://historichansard.net/hofreps/1976/19761109_reps_30_hor101/)|39|
+|[3 June 1976](https://historichansard.net/hofreps/1976/19760603_reps_30_hor99/)|38|
+|[10 October 1978](https://historichansard.net/hofreps/1978/19781010_reps_31_hor111/)|36|
+|[20 April 1977](https://historichansard.net/hofreps/1977/19770420_reps_30_hor104/)|36|
+|[16 October 1979](https://historichansard.net/hofreps/1979/19791016_reps_31_hor116/)|29|
+|[10 March 1977](https://historichansard.net/hofreps/1977/19770310_reps_30_hor104/)|22|
+|[29 March 1979](https://historichansard.net/hofreps/1979/19790329_REPS_31_HoR113/)|3|
+|[12 September 1978](https://historichansard.net/hofreps/1978/19780912_reps_31_hor110/)|2|

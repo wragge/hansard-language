@@ -1,0 +1,107 @@
+---
+layout: default
+title: DJ4 - short-jim - Topics
+---
+## Topics that SHORT, Jim spoke about during the 1970s
+
+| Topic | Number of speeches |
+|--------------|----------------|
+|ADJOURNMENT|6|
+|QUESTION: MEDIBANK STRIKE|2|
+|QUESTION: CURRENCY FLUCTUATIONS|2|
+|ESTATE DUTY ASSESSMENT AMENDMENT BILL 1976: Second Reading|2|
+|QUESTION: GOVERNOR-GENERAL'S SPEECH|2|
+|BOUNTY (ROTARY CULTIVATORS) BILL 1979: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Connection Costs (Question No. 697)|1|
+|QUESTION: MEDICAL BENEFITS FOR ABORTIONS|1|
+|INCOME TAX ASSESSMENT AMENDMENT BILL 1978|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tanning and Footwear Industries (Question No. 695)|1|
+|SUPERANNUATION BILL 1976: Second Reading|1|
+|QUESTION: ABORTIONS: COST TO MEDICAL BENEFITS FUNDS|1|
+|QUESTION: INDUSTRIAL DISPUTES IN VICTORIA|1|
+|PREFERENCES STATISTICAL TABLES-EXPLANATORY NOTES: National Health Scheme (Question No. 1580)|1|
+|APPROPRIATION BILL (No. 3) 1976-77: Second Reading|1|
+|P. F. CASHIN: Hamilton|1|
+|ROAD SAFETY STANDARDS AUTHORITY (REPEAL) BILL 1976: Second Reading|1|
+|ADJOURNMENT: Honourable Member for Wills- Sir John Kerr - Youth Unemployment Immigration Computer Contract- World Water Speed Record: Sir Donald Campbell: Ken Warby- Deportations|1|
+|QUESTION: AID TO EAST TIMOR|1|
+|GRIEVANCE DEBATE|1|
+|QUESTION: DEATH OF THE RIGHT HONOURABLE SIR ROBERT GORDON MENZIES|1|
+|QUESTION: FRETILIN RADIO TRANSMITTER|1|
+|ADJOURNMENT: Institute of Technology, Sydney- Telephone Charges- Liberal Party of Australia -Unemployment -Industrial Relations-Trade Union Elections- Mind Development Courses- New South Wales Hospital System|1|
+|ORGANISATION FOR ECONOMIC CO-OPERATION AND DEVELOPMENT (FINANCIAL SUPPORT FUND) BILL 1976: Second Reading|1|
+|HOUSE OF REPRESENTATIVES SELECT COMMITTEE ON TOURISM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Rural Bank: Establishment (Question No. 1246)|1|
+|QUESTION: WESTERN VICTORIA: BUSHFIRES|1|
+|QUESTION: AUSTRALIAN LABOR PARTY'S ECONOMIC POLICIES|1|
+|ENVIRONMENT PROTECTION (ALLIGATOR RIVERS REGION) BILL 1978: Second Reading|1|
+|QUESTION: BUILDING INDUSTRY: TAXATION PROVISIONS|1|
+|INCOME TAX ASSESSMENT AMENDMENT BILL (No. 2) 1976: Second Reading|1|
+|DISCUSSION PAPER ON PAYING FOR HEALTH CARE: Ministerial Statement|1|
+|PERSONAL EXPLANATIONS|1|
+|NITROGENOUS FERTILIZERS SUBSIDY AMENDMENT BILL 1976: Second Reading|1|
+|QUESTION: REPATRIATION PENSIONS: PAYMENT BY CHEQUE|1|
+|COMMONWEALTH BUREAU OF ROADS (REPEAL) BILL 1977: Second Reading|1|
+|QUESTION: INCOMES AND WAGES|1|
+|THE ECONOMY: Discussion of Matter of Public Importance|1|
+|GRIEVANCE DEBATE: Commonwealth and States Financial Relationships-Failure of Financial Company- Victorian Election- Youth of Australia|1|
+|QUESTION: SIR WILLIAM VINES|1|
+|QUESTION: TELEPHONE ACCOUNTS: BANKRUPTCY PROCEEDINGS|1|
+|REPORT OF AUSTRALIAN PARLIAMENTARY DELEGATION|1|
+|QUESTION: STOCK PRICES|1|
+|LOAN (FARMERS' DEBT ADJUSTMENT) REPEAL BILL 1979: Second Reading|1|
+|QUESTION: LIQUEFIED PETROLEUM GAS|1|
+|QUESTION: TRAVELLING ALLOWANCES FOR ARMY RESERVE MEMBERS|1|
+|QUESTION: AUSTRALASIAN MEAT INDUSTRY EMPLOYEES UNION|1|
+|ADJOURNMENT: Unemployment-Australia Day-Albert Einstein|1|
+|PERSONAL EXPLANATION|1|
+|QUESTION: TASK FORCE ON TRANSITION FROM SCHOOL TO WORK|1|
+|QUESTION: JOINT COMMITTEE ON FOREIGN AFFAIRS AND DEFENCE|1|
+|AUSTRALIAN ECONOMY: Suspension of Standing Orders|1|
+|IPEC: Local Telephone Calls (Question No. 698)|1|
+|QUESTION: WOOLWORTHS LTD: WAGE INCREASE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Telecommunications Commission (Question No. 699)|1|
+|QUESTION: TAXATION OF INSURANCE PAYMENTS TO FARMERS|1|
+|AUSTRALIAN DEFENCE: Ministerial Statement|1|
+|STATE INCOME TAXES: Discussion of Matter of Public Importance|1|
+|APPROPRIATION BILL (No. 1) 1977-78|1|
+|APPROPRIATION BILL (No. 1) 1977-78: Second Reading (Budget Debate)|1|
+|ADJOURNMENT: Conduct of Parliamentary Business- General Aviation Industry: Aviation Gasolene- Tasmania-Political Parties: Policies-Accessibility of Information to Members of Parliament-Apex Clubs Anniversary- Vietnamese Refugees-Unemployment|1|
+|QUESTION: COAL EXPORTS TO JAPAN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Land Fund Commission: Farms (Question No. 653)|1|
+|INDUSTRIES ASSISTANCE COMMISSION AMENDMENT BILL 1978: Second Reading|1|
+|QUESTION: AUSTRALIAN SAVINGS BONDS|1|
+|QUESTION: COMMONWEALTH DECENTRALISED DEVELOPMENT PROGRAM|1|
+|QUESTION: MONETARY POLICY|1|
+|QUESTION: BUILDING OF MODULAR HOMES|1|
+|QUESTION: ALP MINISTERIAL STATEMENTS|1|
+|QUESTION: TERMINATION OF PREGNANCY: MEDICAL BENEFITS|1|
+|INCOMES, TAXES AND PRICES|1|
+|PRIMARY INDUSTRY BANK AMENDMENT BILL (No. 2) 1978: Second Reading|1|
+|QUESTION: COMMONWEALTH EMPLOYMENT SERVICE: STAFFING|1|
+|QUESTION: CHEMISTS' FEES|1|
+|HONOURABLE MEMBER FOR OXLEY: Motion of Censure|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ballarat College of Advanced Education (Question No. 1194)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Growth Centres Program (Question No. 694)|1|
+|GOVERNMENT OVERSEAS BORROWINGS: Discussion of Matter of Public Importance|1|
+|RURAL INDUSTRY: FINANCE: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Recycling of Waste Materials (Question No. 1459)|1|
+|ADJOURNMENT: Employment- Government Fiscal Policy-Rhodesian Elections-Family Welfare Support -New South Wales Coal Industry- Australian Manufacturing Industry|1|
+|LIVING STANDARDS OF AUSTRALIAN FAMILIES: Discussion of Matter of Public Importance|1|
+|QUESTION: EDUCATION|1|
+|INTEREST RATES: Discussion of Matter of Public Importance|1|
+|APPROPRIATION BILL (No. 1) 1978-79: Second Reading (Budget Debate)|1|
+|QUESTION: TAXATION: WOOL GROWERS' INCOMES|1|
+|TRADE UNIONS: Branch Secretary for Australian Postal and Telecommunications Union|1|
+|CUSTOMS TARIFF VALIDATION BILL 1976: Second Reading|1|
+|REPATRIATION ACTS AMENDMENT BILL 1979: Second Reading|1|
+|FOREIGN INVESTMENT IN AUSTRALIA: Ministerial Statement|1|
+|APPROPRIATION BILL (No. 1) 1976-77: Second Reading (Budget Debate)|1|
+|ADJOURNMENT: Sydney City Mission-Qantas Airways Ltd- National Aboriginal Conference- Education- Government Overseas Borrowings- Petroleum Industry|1|
+|QUESTION: SMALL BUSINESS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tanning and Footwear Industries (Question No. 696)|1|
+|INTERNATIONAL MONETARY AGREEMENTS AMENDMENT BILL 1978: Second Reading|1|
+|QUESTION: NATIONAL WAGE CASE|1|
+|ADJOURNMENT: Drug Rehabilitation Program- Brisbane City Council - Liberal Party- Unemployment|1|
+|QUESTION: AUGUST LOAN|1|
+|ADJOURNMENT: Lebanese Immigrants- Union Black Bans- Purchase of Historic Articles- Family Allowances|1|

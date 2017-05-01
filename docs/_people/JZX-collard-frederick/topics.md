@@ -1,0 +1,206 @@
+---
+layout: default
+title: JZX - collard-frederick - Topics
+---
+## Topics that COLLARD, Frederick spoke about during the 1970s
+
+| Topic | Number of speeches |
+|--------------|----------------|
+|QUESTION: GOLD MINING|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Economy (Question No. 5034)|3|
+|WOOL INDUSTRY BILL 1972: Second Reading|3|
+|QUESTION: GOLD SUBSIDY|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Civil Aviation Flights North-Western Australia (Question No. 4283)|3|
+|STANDING ORDERS COMMITTEE: Report|2|
+|QUESTION: WHEAT|2|
+|APPROPRIATION BILL (No. 1) 1971-72|2|
+|QUESTION: ECONOMIC PLANNING AND TRADE COMMITTEE 1971|2|
+|APPROPRIATION BILL (No. 1) 1972-73|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Possession of Firearms (Question No. 393)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Civil Aviation: Aerodromes Civil Aviation (Question No. 3740) (Question No. 3741)|2|
+|KEEP OUT OF REACH OF CHILDREN IF SWALLOWED SEEK MEDICAL ADVICE AVOID CONTACT WITH FOOD DO NOT USE IN FOOD PREPARATION OR FOOD STORAGE AREAS DO NOT USE IN NURSERIES AND SICK ROOMS WHERE PEOPLE MAY BE CONTINUOUSLY EXPOSED: Medical Treatment: Fares from Northern Territory (Question No. 3736)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sea Foods: United States Legislation (Question No. 5168)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Funeral Benefit (Question No. 1827)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (Question No. 241)|2|
+|QUESTION: GOLD|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Civil Aviation (Question No. 1662)|1|
+|QUESTION: WATER STORAGE: CARNARVON DISTRICT|1|
+|ADJOURNMENT: Norma L. Borowski 79 Cobden Street, South Melbourne. -|1|
+|APPROPRIATION BILL (No. 1) 1972-73: Second Reading (Budget Debate)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 4068)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Petrol: Excise (Question No. 5070)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Civil Aviation - Perth Airport (Question No. 238)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Children in Remote Areas (Question No. 4868)|1|
+|TASMANIA: Trans-Australia Airlines: Delayed Flights (Question No. 1665)|1|
+|QUESTION: TAX ZONE ALLOWANCES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television Station, Esperance (Question No. 3738)|1|
+|JAPAN: Civil Aviation: Kalgoorlie Aerodrome (Question No. 3375)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: School Fees (Question No. 179)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television Station: Esperance (Question No. 5368)|1|
+|QUESTION: EDUCATIONAL TELEVISION|1|
+|QUESTION: TELEVISION|1|
+|SOCIAL SERVICES BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Privately Owned Light Aircraft: Inspections (Question No. 4787)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Meat Diversification Scheme (Question No. 1713)|1|
+|ELECTORAL DIVISIONS OF WESTERN AUSTRALIA: Proposed Redistribution|1|
+|QUESTION TO BE RE-PHRASED|1|
+|QUESTION: MINERALS AND ENERGY RESOURCES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Non-official Post Offices (Question No. 4070)|1|
+|TASMANIA: Civil Aviation: Perth-Melbourne Flights (Question No. 1(60)|1|
+|AVERAGE PRICE RECEIVED FOR WOOL AND GROSS VALUE OF PRODUCTION: AUSTRALIA: Sources: National Council of Wool Selling Brokers and Commonwealth Bureau of Census and Statistics|1|
+|QUESTION: SPORTING AND RECREATIONAL FACILITIES|1|
+|QUESTION: FOREIGN FISHING VESSELS|1|
+|QUESTION: PENSIONER MEDICAL SERVICE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Railways: Fares (Question No. 1826)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Kalgoorlie Aerodrome (Question No. 6346)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 2885)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Income Tax: Deductions (Question No. 4375)|1|
+|AT 30 JUNE: Pensioners: Medical Entitlement Cards (Question No. 4809)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (Question No. 1714)|1|
+|QUESTION: DROUGHT RELIEF|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Income Tax (Question No. 4067)|1|
+|OVERSEAS CONTROL - MANUFACTURING SECTOR: Telephones: Installation Charges (Question No. 5366)|1|
+|ANSWERS TO QUESTIONS: Regional Employment Development Scheme: Kalgoorlie Electorate (Question No. 1971)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Meat Diversification Scheme (Question No. 1712)|1|
+|QUESTION: NORTH-WEST SHELF GAS RESOURCES|1|
+|TASMANIA: Trans-Australia Airlines: Delayed Flight (Question No. 1664)|1|
+|QUESTION: WESTERN AUSTRALIAN GOLD MINING INDUSTRY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Health Service: Dispensing Fee (Question No. 234)|1|
+|GOLD MINING INDUSTRY ASSISTANCE BILL 1972: Second Reading|1|
+|No: Telephones: Applications Outstanding (Question No. 5367)|1|
+|QUESTION: WATER SUPPLIES: WESTERN AUSTRALIA|1|
+|QUESTION: A NATIONAL SUPERANNUATION SCHEME|1|
+|QUESTION: CLOSURE OF POST OFFICES|1|
+|ANSWERS TO QUESTIONS UPON NOT ICE: Industrial Research Grants (Question No. 233)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Wheat (Question No. 220)|1|
+|QUESTION: MEAT INDUSTRY|1|
+|OBSERVERS: Diesel Fuel Tax (Question No. 4647)|1|
+|QUESTION: NATIONAL SERVICE|1|
+|MARKETING OF AUSTRALIAN WOOL: Discussion of Matter of Public Importance|1|
+|QUESTION: GOLD MINING: INCOME TAX EXEMPTIONS|1|
+|QUESTION: GOLD MINING INDUSTRY|1|
+|DETERMINATION OF SRRI RATINGS FOR NONGOVERNMENT SCHOOLS: Education: Grants to Independent Schools (Question No. 1943)|1|
+|QUESTION: REPATRIATION BULL 1973|1|
+|QUESTION: FINANCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Grain Alcohol (Question No. 5686)|1|
+|QUESTION: GOVERNMENT EXPENDITURE|1|
+|AUSTRALIAN BROADCASTING COMMISSION: Trans-Australian Airlines: Perth-Darwin Service (Question No. 6347)|1|
+|JAPAN: Civil Aviation: Kalgoorlie Aerodrome (Question No. 3373)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television Station: Southern Cross (Question No. 5634)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mail Services (Question No. 4867)|1|
+|QUESTION: CIVIL AVIATION|1|
+|QUESTION: ADJOURN MENT|1|
+|WESTERN AUSTRALIA: Hospital and Medical Benefit Funds (Question No. 3374)|1|
+|INTER-PARLIAMENTARY COUNCIL: Report of Australian Delegation|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Servicemen (Question No. 5087)|1|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: Learmonth Airfield: Compensation (Question No. 4869)|1|
+|GOLD MINING INDUSTRY: Discussion of Matter of Public Importance|1|
+|INCOME TAX ASSESSMENT BILL (No. 5) 1973|1|
+|MANZCP: Kalgoorlie: Proposed Television Station (Question No. 1512)|1|
+|QUESTION: MANUFACTURING INDUSTRY: PROTECTION|1|
+|QUESTION: ORTHODONTIC TREATMENT|1|
+|QUESTION: NORTH WEST CAPE BASE|1|
+|STATES GRANTS BILL 1972: Second Reading|1|
+|INCOME TAX BILL 1971: Second Reading|1|
+|QUEENSLAND: Post Offices: Western Australia (Question No. 1116)|1|
+|QUESTION: MINING INDUSTRY: EMPLOYMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Former Prime Minister: Official and Personal Papers (Question No. 42)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Desalination Process (Question No. 5669)|1|
+|BUDGET|1|
+|SCHEDULE: Wheat Industry (Question No. 221)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Social Services (Question No. 4371)|1|
+|JAPAN: Civil Aviation: Kalgoorlie Aerodrome (Question No. 3372)|1|
+|QUESTION: COMMONWEALTH HEALTH LABORATORIES|1|
+|COMMERCIAL TELEVISION STATIONS - MOUNT ISA, DARWIN, KALGOORLIE: Mid-Western Television Pty Ltd|1|
+|APPROPRIATION BILL (No. 1.) 1970-71|1|
+|APPROPRIATION BILL (No. 3) 1970-71: Second Reading|1|
+|CONCILIATION AND ARBITRATION BILL 1972: Second Reading|1|
+|STATES GRANTS (RURAL RECONSTRUCTION) BILL 1971: Second Reading|1|
+|PETITIONS: Aboriginal Land Rights|1|
+|No|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Railways: Indian-Pacific Inaugural Train (Question No. 230)|1|
+|QUESTION: TRANS-AUSTRALIA AIRLINES: SERVICES IN WESTERN AUSTRALIA|1|
+|PETITIONS: Aid to India and East Pakistan|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Services: Kambalda (Question No. 4072)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (Question No. 2886)|1|
+|GOLD-MINING INDUSTRY ASSISTANCE BILL 1970: Second Reading|1|
+|APPROVAL OF WORK- PUBLIC WORKS COMMITTEE ACT: Provision of Portable Houses and Classroom, Royal Australian Air Force Base, Learmonth, Western Australia|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Broadcasting (Question No. 226)|1|
+|INTER-PARLIAMENTARY UNION CONFERENCE AT TOKYO|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 222)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television Development: Seventh Stage (Question No. 5559)|1|
+|QUESTION: PILBARA INDUSTRIAL COMPLEX: WATER SUPPLY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Benefit (Question No. 4866)|1|
+|QUESTION: ADJOURNMENT OF SITTING|1|
+|NATIONAL HEALTH BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Butter, Margarine and Milk Consumption (Question No. 4220)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rural Loans (Question No. 5563)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Wheat (Question No. 1293)|1|
+|TASMANIA: Trans-Australia Airlines: Melbourne-Perth Flights (Question No. 1663)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Leprosy (Question No. 237)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Kalgoorlie Airport (Question No. 4786)|1|
+|QUESTION: CYCLONE TRIXIE|1|
+|INCOME TAX BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals (Question No. 232)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Parliaments: Sittings (Question No. 3610)|1|
+|QUESTION: WESTERN MINING COMPANY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian National Line (Question No. 3714)|1|
+|QUESTION: UNEMPLOYMENT|1|
+|PETITIONS: Aboriginals|1|
+|ANSWERS TO QUESTIONS: Kalgoorlie Electorate: Disadvantaged Schools (Question No. 1972)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (QuestionNo. 4533)|1|
+|OVERSEAS CONTROL - MANUFACTURING SECTOR: Aborigines: Leprosy (Question No. 5365)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Grain Alcohol (Question No. 5687)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Censorship (Question No. 1776)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Wheat: Advance Payments (Question No. 1292)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 4071)|1|
+|KEEP OUT OF REACH OF CHILDREN IF SWALLOWED SEEK MEDICAL ADVICE AVOID CONTACT WITH FOOD DO NOT USE IN FOOD PREPARATION OR FOOD STORAGE AREAS DO NOT USE IN NURSERIES AND SICK ROOMS WHERE PEOPLE MAY BE CONTINUOUSLY EXPOSED: Poultry Industry Levy (Question No. 4282)|1|
+|RAILWAY AGREEMENT (WESTERN AUSTRALIA) BELL 1971: Second Reading|1|
+|WESTERN AUSTRALIA (SOUTH-WEST REGION WATER SUPPLIES) AGREEMENT BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Health Problems (Question No. 2889)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Northern Territory: X-Ray Survey (Question No. 5364)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Grain Alcohol Production: Inquiry (Question No. 5689)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Citizenship Convention (Question No. 235)|1|
+|POSTMASTER-GENERAL'S DEPARTMENT: Gold-mining Industry (Question No. 1294)|1|
+|PETITIONS: Social Services|1|
+|RURAL INDUSTRY: Discussion of Matter of Public Importance|1|
+|OVERSEAS CONTROL - MANUFACTURING SECTOR: Television: Stage 7 (Question No. 5691)|1|
+|BRIEF HISTORY OF KURNELL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation (Question No. 229)|1|
+|QUESTION: EDUCATION: DISADVANTAGED SCHOOLS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (Question No. 1715)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Local Government Statutory Contributions (Question No. 56)|1|
+|QUESTION: LOCAL GOVERNMENT FINANCE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (Question No. 4534)|1|
+|STATES GRANTS (ABORIGINAL ADVANCEMENT) BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Farmers: Financial Difficulties (Question No. 1115)|1|
+|QUESTION: SALES TAX|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Perth: Alternative Airport (Question No. 1513)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radio Service: Wyndham-Kununurra (Question No. 5560)|1|
+|QUESTION: SENATE ELECTIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Telephones: Caravan Parks (Question No. 6236)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aviation (Question No. 3742)|1|
+|QUESTION: COUNTRY TELEPHONE SERVICES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 2887)|1|
+|OBSERVERS: Fitzroy Crossing Aerodrome (Question No. 4810)|1|
+|FOR DARWIN: Reference to Public Works Committee|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Civil Aviation (Question No. 1661)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (Question No. 227)|1|
+|SOCIAL SERVICES BILL 1973: Second Reading|1|
+|QUESTION: WINE AND BEER EXCISE|1|
+|AUSTRALIAN MEAT INDUSTRY: Discussion of Matter of Public Importance|1|
+|PROGRESS WITH SEVENTH STAGE OF TELEVISION DEVELOPMENT: Ministerial Statement|1|
+|QUESTION: LEPROSY|1|
+|AUSTRALIAN WOOL INDUSTRY: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (Question No. 228)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mail Delivery (Question No. 5117)|1|
+|TASMANIA: Civil Aviation: Perth-Sydney Flights (Question No. 1659)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cotton: Financial Assistance to Farmers (Question No. 240)|1|
+|QUESTION: PROPOSED INDUSTRIAL COMPLEX IN PILBARA REGION|1|
+|QUESTION: TAXATION REDUCTIONS|1|
+|QUESTION: RURAL RECONSTRUCTION SCHEME|1|
+|No: Railways: Amenities (Question No. 5562)|1|
+|QUESTION: WOOL ACQUISITION SCHEME|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telegram Services (Question No. 4783)|1|
+|QUESTION: TELEPHONE SERVICES|1|
+|No: Gold Requirements (Question No. 1295)|1|
