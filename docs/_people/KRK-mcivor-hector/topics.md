@@ -1,0 +1,54 @@
+---
+layout: default
+title: KRK - mcivor-hector - Topics
+---
+## Topics that MCIVOR, Hector spoke about during the 1970s
+
+| Topic | Number of speeches |
+|--------------|----------------|
+|PETITIONS: Social Services|3|
+|QUESTION: IMMIGRATION|2|
+|EXPORT MEAT TRADE: Discussion of Matter of Public Importance|1|
+|QUESTION: NAVY: INSPECTION STAFF|1|
+|QUESTION: COMMONWEALTH MEAT INSPECTORS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Defence Forces Retirement Benefits Fund (Question No, 1148)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radio Transceivers (Question No. 1569)|1|
+|QUESTION: COMMONWEALTH DEFENCE DEPARTMENTS|1|
+|HANDICAPPED CHILDREN (ASSISTANCE) BILL 1970: Second Reading|1|
+|APPROVAL OF WORKS- PUBLIC WORKS COMMITTEE ACT|1|
+|QUESTION: INDUSTRIAL ACCIDENTS|1|
+|QUESTION: INSPECTORIAL GRADES|1|
+|QUESTION: MENTALLY RETARDED CHILDREN|1|
+|APPROPRIATION BILL (No. 1): Second Reading (Budget Debate)|1|
+|COMMONWEALTH PARLIAMENTARY ASSOCIATION: Trinidad and Tobago Conference|1|
+|ADJOURNMENT: Broadcasting - European Common Market - National Service - Drugs - Meat Industry - The Parliament|1|
+|QUESTION: CANBERRA ARCHITECTURE|1|
+|QUESTION: MEAT EXPORT LICENCES|1|
+|QUESTION: AIRCRAFT INDUSTRY|1|
+|QUESTION: AMERICANA CO-OPERATIVE CLUB|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overdosage of Drugs (Question No. 4603)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Government Printing Office (Question No. 2561)|1|
+|PETITIONS: Commonwealth Employees Compensation|1|
+|PETITIONS: Censorship|1|
+|QUESTION: WOOL FOR CARPET MAKING|1|
+|QUESTION: DEFENCE ESTABLISHMENTS|1|
+|PETITIONS: Refugees: Bangla Desh|1|
+|QUESTION: MEAT INSPECTORS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Service (Question No. 5558)|1|
+|COMMITTEE OF PRIVILEGES|1|
+|ADJOURNMENT: Valedictory - Newspaper Report - Social Services - Children's Television Programmes  - Vietnam - Electoral|1|
+|QUESTION: NAVAL POLICE|1|
+|WESTERN AUSTRALIA: Navy Inspection Services (Question No. 6503)|1|
+|QUESTION: RETRAINING OF WORKERS|1|
+|QUESTION: DECENTRALISATION OF INDUSTRY|1|
+|QUESTION: WILTONA HOSTEL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Service (Question No. 282)|1|
+|QUESTION: EMPLOYMENT AND UNEMPLOYMENT|1|
+|QUESTION: BUILDING INDUSTRY|1|
+|QUESTION: SOCIAL SERVICES|1|
+|PETITIONS: Postmaster-General's Department|1|
+|PETITIONS: Aid to Pakistani Refugees|1|
+|QUESTION: ADVERTISING|1|
+|PETITIONS: Williamstown Rifle Range: Snake Menace|1|
+|PETITIONS: Education|1|
+|QUESTION: HOUSING FINANCE|1|

@@ -1,0 +1,125 @@
+---
+layout: default
+title: KXI - webb-charles - Topics
+---
+## Topics that WEBB, Charles spoke about during the 1970s
+
+| Topic | Number of speeches |
+|--------------|----------------|
+|CONCILIATION AND ARBITRATION BILL 1972|8|
+|PETITIONS: Education|3|
+|PETITIONS: Contraceptives|3|
+|APPROPRIATION BILL (No. 1) 1972-73|2|
+|PETITIONS|2|
+|UNEMPLOYMENT: Discussion of Matter of Public Importance|2|
+|QUESTION: STANDING ORDERS COMMITTEE|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Trans-Australia Airlines (Question No. 8)|1|
+|APPROPRIATION BILL (No. 1) 1970-71|1|
+|OR: Education Expenses (Question No. 1 199)|1|
+|QUESTION: SHIPPING|1|
+|STANDING ORDERS COMMITTEE: Report|1|
+|POST AND TELEGRAPH RATES BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation (Question No. 2)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ombudsman (Question No. 547)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cigarette Smoking; Health Warning (Question No. 2553)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals: Integration (Question No. 6018)|1|
+|WESTERN AUSTRALIA: Railways: Kalgoorlie-Esperance (Question No. 1706)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation (Question No. 6012)|1|
+|NAVIGATION BILL 1972: Second Reading|1|
+|INVALID PENSIONERS REJECTED FOR REHABILITATION: Income Tax Deductions (Question No. 2191)|1|
+|OBSERVERS: Trans- Australian Airlines: Perth-Darwin Service (Question No. 4804)|1|
+|POST AND TELEGRAPH BILL 1971: Second Reading|1|
+|CLOSURE OF INDUSTRIES: UNEMPLOYMENT: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pensioner Medical Service Entitlement Cards (Question No. 4757)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation (Question No. 3)|1|
+|ESTIMATES OF PUPIL-TEACHER RATIOS IN PRIMARY AND SECONDARY GRADES OF GOVERNMENT SCHOOLS- 1969 AND 1970: Overseas Shipping Freights (Question No. 4798)|1|
+|QUESTION: CONCILIATION AND ARBITRATION COMMISSION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Directory (Question No. 2030)|1|
+|QUESTION: ARBITRATION|1|
+|QUESTION: A NATIONAL SUPERANNUATION SCHEME|1|
+|QUESTION: OVERSEAS INVESTMENT IN AUSTRALIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation: Child Welfare Centres (Question No. 6010)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Health Insurance (Question No. 1782)|1|
+|QUESTION: STEEL AND PETROL PRICES|1|
+|OBSERVERS: Pensioners: Transport Concessions (Question No. 480 1)|1|
+|QUESTION: PENSIONS|1|
+|QUESTION: NATIONAL SERVICE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital Charges (Question No. 3088)|1|
+|SOCIAL SERVICES BILL 1972: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Long Cancer (Question No. 4800)|1|
+|CONCILIATION AND ARBITRATION: Discussion of Matter of Public Importance|1|
+|QUESTION: IMMIGRATION|1|
+|OBSERVERS: Pensions (Question No. 4802)|1|
+|QUESTION: VIETNAM: RETURN OF FORCES|1|
+|PETITIONS: Chemical Agents of Warfare|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation (Question No. 6011)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Roads (Question No. 1571)|1|
+|PUBLIC SERVICE ARBITRATION BILL 1972: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation: Zone Allowance (Question No. 6013)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Income Tax Levy (Question No. 6016)|1|
+|QUESTION: LAND LEASE DISASTER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Graduates: Placement (Question No. 6275)|1|
+|GOLD MINING INDUSTRY: Discussion of Matter of Public Importance|1|
+|QUESTION: SUSPENSION OF STANDING ORDERS|1|
+|OBSERVERS: Taxation Deductions (Question No. 4799)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Bureau of Roads (Question No. 1572)|1|
+|QUESTION: COCKBURN SOUND|1|
+|NORTHERN TERRITORY: No-Pest Strips' (Question No. 1707)|1|
+|AT 30 JUNE: Hospitals: Commonwealth Bed Subsidy (Question No. 4863)|1|
+|PERSONAL EXPLANATION|1|
+|QUESTION: SOCIAL SERVICES: PETITIONS|1|
+|QUESTION: FLIES|1|
+|OBSERVERS: Taxation: Funeral Expenses (Question No. 4862)|1|
+|APPROPRIATION BILL (No. 3) 1970-71: Second Reading|1|
+|INVALID PENSIONERS REJECTED FOR REHABILITATION: Income Tax (Question No. 2189)|1|
+|CONCILIATION AND ARBITRATION BILL 1972: Second Reading|1|
+|PETITIONS: Aboriginal Land Rights|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pensioners: Board Money (Question No. 6017)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation (Question No. 6007)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation (Question No. 1)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Charges (Question No. 1528)|1|
+|INVALID PENSIONERS REJECTED FOR REHABILITATION: Income Tax Deductions (Question No. 2188)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation (Question No, 548)|1|
+|QUESTION: ADJOURNMENT OF SITTING|1|
+|QUESTION: ABORIGINAL CHILD|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Exchanges (Question No. 6257)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Shipping: Western Australian  Services (Question No. 1705)|1|
+|QUESTION: SEWERAGE SERVICES: PERTH METROPOLITAN AREA|1|
+|COMMONWEALTH EMPLOYEES: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Social Services Review (Question No. 4803)|1|
+|PETITIONS: Aboriginals|1|
+|PETITIONS: Aboriginal Welfare|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation (Question No. 6008)|1|
+|AT 30 JUNE: Lung Cancer (Question No. 4800)|1|
+|QUESTION: COCKBURN SOUND NAVAL FACILITIES|1|
+|QUESTION: PENSION RATES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Child Minding Centres (Question No. 4076)|1|
+|QUESTION: SOCIAL SERVICES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginals (Question No. 7)|1|
+|PETITIONS: Aid to Pakistani Refugees|1|
+|STATES GRANTS BILL 1972: Second Reading|1|
+|QUESTION: ROYAL VISIT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation (Question No. 6015)|1|
+|WESTERN AUSTRALIA (SOUTH-WEST REGION WATER SUPPLIES) AGREEMENT BILL 1971: Second Reading|1|
+|QUESTION: HEART DISEASE|1|
+|QUESTION: DEFENCE: WESTERN AUSTRALIA|1|
+|QUESTION: DRAFT RESISTERS|1|
+|SEAMEN S COMPENSATION BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Estate and Gift Duty (Question No. 6009)|1|
+|QUESTION: TAXATION|1|
+|STATES GRANTS (HOUSING) BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Housing: Army Personnel (Question No. 486)|1|
+|APPROPRIATION BILL (No. 1) 1971-72|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Exchanges (Question No. 6255)|1|
+|PETITIONS: Aid for Pakistan's Refugees: Taxation|1|
+|COMPENSATION (COMMONWEALTH EMPLOYEES) BILL 1971: Second Reading|1|
+|PETITIONS: Censorship|1|
+|APPROPRIATION BILL (No. 1) 1971-72: Second Reading (Budget Debate)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Service (Question No. 614)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South Africa (Question No. 595)|1|
+|QUESTION: SWANBOURNE BARRACKS|1|
+|QUESTION: HOUSING|1|
+|ROAD TRAFFIC ACCIDENTS: Survey of Family Incomes and Expenditure (Question No. 3087)|1|
+|TEMPORARY ACCOMMODATION ALLOWANCE: Hospitals (Question No. S)|1|
+|B. TRUSTEES: Tax Concessions: Encouragement to Development (Question No. 6014)|1|
+|INVALID PENSIONERS REJECTED FOR REHABILITATION: Income Tax (Question No. 2190)|1|

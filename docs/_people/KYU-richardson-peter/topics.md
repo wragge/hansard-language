@@ -1,0 +1,39 @@
+---
+layout: default
+title: KYU - richardson-peter - Topics
+---
+## Topics that RICHARDSON, Peter spoke about during the 1970s
+
+| Topic | Number of speeches |
+|--------------|----------------|
+|APPROPRIATION BILL (No. 1) 1976-77|2|
+|QUESTION: VISITORS TO AUSTRALIA: ALLEGED CARRIAGE OF WEAPONS AND MONEY|1|
+|PSYCHOTROPIC SUBSTANCES BILL 1976: Second Reading|1|
+|QUESTION: MEDIBANK HOSPITAL AGREEMENTS|1|
+|QUESTION: AUSTRALIAN VISIT VISAS|1|
+|QUESTION: URANIUM-AUSTRALIA'S DECISION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ranger Uranium Environmental Inquiry: Expenditure (Question No. 1067)|1|
+|QUESTION: HMAS 'STIRLING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Guided Missile Frigates (Question No. 1718)|1|
+|QUESTION: MOTOR CAR PRICES|1|
+|QUESTION: SINO-SOVIET DISPUTE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Navy and Army Work Boats: Tenders (Question No. 1730)|1|
+|ADJOURNMENT: Australian Shipbuilding Industry- Road Safety-Family Allowances- Fishing- Government Policies- Industry Review- Court Proceedings -Demonstrations|1|
+|QUESTION: MEDIBANK|1|
+|AUSTRALIAN DEFENCE: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rhodesian Migrants (Question No. 655)|1|
+|QUESTION: SURVEILLANCE OF COASTLINE|1|
+|QUESTION: APPLICATION FOR POLITICAL ASYLUM|1|
+|QUESTION: URANIUM|1|
+|ADJOURNMENT|1|
+|QUESTION: TAGAMET|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naval Patrol Boats (Question No. 1731)|1|
+|QUESTION: GOVERNMENT WITHOUT SUPPLY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Performance of Australian Meat Board (Question No. 758)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Meat Board: Constitution (Question No. 759)|1|
+|QUESTION: GOVERNOR-GENERAL'S SPEECH|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nuclear Weapons Storage (Question No. 654)|1|
+|QUESTION: COCKBURN SOUND|1|
+|QUESTION: RUSSELL HILL: LEAKAGE OF CLASSIFIED INFORMATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naval Patrol Boats (Question No. 1735)|1|
+|QUESTION: REDUCTION IN SALES TAX|1|

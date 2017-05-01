@@ -1,0 +1,340 @@
+---
+layout: default
+title: KIF - hulme-alan - Topics
+---
+## Topics that HULME, Alan spoke about during the 1970s
+
+| Topic | Number of speeches |
+|--------------|----------------|
+|QUESTION: AUSTRALIAN BROADCASTING COMMISSION|24|
+|QUESTION: TELEVISION|18|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television Programmes: Station TCN 9 (Question No. 3578)|13|
+|QUESTION: POSTAL DEPARTMENT|8|
+|BROADCASTING AND TELEVISION BILL 1970: Second Reading|6|
+|BROADCASTING AND TELEVISION BILL 1972|5|
+|QUESTION: POST OFFICE|5|
+|QUESTION: FREQUENCY MODULATION BROADCASTING|5|
+|QUESTION: TELEPHONE SERVICES|5|
+|AUSTRALIAN POST OFFICE|4|
+|QUESTION: TELEPHONES|4|
+|QUESTION: POSTMASTER-GENERAL'S DEPARTMENT|4|
+|POST AND TELEGRAPH RATES BILL 1970: Second Reading|3|
+|QUESTION: TELEPHONE CHARGES|3|
+|BROADCASTING AND TELEVISION BILL 1972: Second Reading|3|
+|QUESTION: CIGARETTE ADVERTISING|3|
+|QUESTION: POSTAL CHARGES|3|
+|AUSTRALIAN BROADCASTING CONTROL BOARD|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (Question No. 241)|3|
+|OVERSEAS TELECOMMUNICATIONS COMMISSION|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 2845)|3|
+|QUESTION: COLOUR TELEVISION|3|
+|No: Multiphasic Health Screening Services Committee (Question No. 5565)|2|
+|BROADCASTING AND TELEVISION BILL (No. 2) 1972: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 3302)|2|
+|TASMANIA: Television (Question No. 2920)|2|
+|QUESTION: EDUCATIONAL TELEVISION|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Colour Television (Question No. 2581)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Post Offices: Closures (Question No. 3103)|2|
+|POST AND TELEGRAPH BILL 1971: Second Reading|2|
+|TASMANIA: Norfolk Island Companies Ordinance (Question No. 3889)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Post Offices: Forrest Electorate (Question No. 4920)|2|
+|QUESTION: RURAL TELEPHONE SERVICES|2|
+|INVALID PENSIONERS REJECTED FOR REHABILITATION: Postal Department: Five Day Week (Question No. 1303)|2|
+|POST AND TELEGRAPH ACT|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cheese Imports (Question No. 4350)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Possession of Firearms (Question No. 393)|2|
+|ORDINANCES ASSENTED TO BY THE ADMINISTRATOR TO WHICH AMENDMENTS WERE RECOMMENDED BY THE GOVERNOR-GENERAL: Radio and Television: Political Broadcasts (Question No. 2273)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea - Female Administration Staff (Question No. 175)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Services: Western Australia (Question No. 4939)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Colour Television (Question No. 3583)|2|
+|POSTAL SERVICES: Discussion of Ma'ter of Public Importance|2|
+|AUSTRALIAN BROADCASTING COMMISSION|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (Question No. 4534)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aged Persons Homes (Question No. 4363)|2|
+|QUESTION: PUBLICATIONS COMMITTEE|2|
+|QUESTION: TELEPHONE DIRECTORIES: PINK PAGES ADVERTISING|1|
+|QUESTION: VIETNAM MORATORIUM CAMPAIGN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 2078)|1|
+|OVERSEAS CONTROL - MANUFACTURING SECTOR: Television: Stage 7 (Question No. 5691)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 3231)|1|
+|INVALID PENSIONERS REJECTED FOR REHABILITATION: Bunbury Airfield (Question No. 2186)|1|
+|QUESTION: RUGBY LEAGUE|1|
+|REORGANISATION OF THE AUSTRALIAN POST OFFICE TELECOMMUNICATIONS ACTIVITIES: Ministerial Statement|1|
+|QUESTION: DAVID FROST INTERVIEW|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television Programmes: Drama Content (Question No. 4890)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 4068)|1|
+|OVERSEAS TELECOMMUNICATIONS BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Postmaster-General's Department: Whyalla Area Management (Question No. 6526)|1|
+|QUESTION: PORNOGRAPHIC MATERIAL|1|
+|BROADCASTING AND TELEVISION: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (Question No. 227)|1|
+|QUESTION: BROADCASTING STATIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radio Transceivers (Question No. 1569)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television Programmes: Station TVQ 0 (Question No. 3752)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 719)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Country Hour' Programme (Question No. 4815)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Capital Territory Police (Question No. 3419)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Postal Delivery Services (Question No. 6489)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Civil Aviation: Perth-Darwin Service (Question No. 6089)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Postal Services (Question No. 1339)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Broadcasting Commission: Commentators (Question No. 2560)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television Station: Esperance (Question No. 5368)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radio and Television (Question No. 15)|1|
+|AUSTRALIA/WEST COAST NORTH AMERICA TRADE: Telephones (Question No. 3921)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Post Office (Question No. 1908)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Volunteer Citizens' Security Service Organisation (Question No. 3755)|1|
+|QUESTION: PORTNOY'S COMPLAINT|1|
+|QUESTION: APARTHEID FILM|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television Station: Southern Cross (Question No. 5634)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Post Offices: Closures (Question No. 5005)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: This Day Tonight' (Question No. 4856)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aircraft: Use in Malaysia-Singapore Region (Question No. 762)|1|
+|INVALID PENSIONERS REJECTED FOR REHABILITATION: Postal Department: 5-Day Week (Question No. 1305)|1|
+|THIS DAY TONIGHT*|1|
+|QUESTION: POSTAL WORKERS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Broadcasting and Television: Defamation (Question No. 6069)|1|
+|COLLEGES OF ADVANCED EDUCATION: Telephone Charges (Question No. 5778)|1|
+|QUESTION: TELEPHONE DIRECTORIES, WESTERN AUSTRALIA|1|
+|COMMONWEALTH SCIENCE FACILITIES PROGRAMME: Four Corners Programme: Dr Germaine Greer (Question No. 6361)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Directories (Question No. 3195)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Bureau of Roads (Question No.11 10)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 2885)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Telecommunications Commission: Finances (Question No. 6182)|1|
+|POST AND TELEGRAPH RATES BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Automatic Mail Sorting (Question No. 3367)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Non-official Post Offices (Question No. 4070)|1|
+|JAPAN: Television Companies: Shares (Question No. 2477)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (Question No. 1714)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Installations (Question No. 4683)|1|
+|QUESTION: AUSTRALIAN POSTAGE STAMPS|1|
+|TELEPHONE INSTALLATIONS: Discussion of Matter of Public Importance|1|
+|POST AND TELEGRAPH BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Post Office News': Cost (Question No. 6150)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Notes on the News' Radio Programme (Question No. 3151)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Charges (Question No. 4055)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 1965)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Directory (Question No. 2030)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones: Port Augusta Exchange (Question No. 4493)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Broadcasting Commission (Question No. 3299)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 3873)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (Question No. 1691)|1|
+|QUESTION: RADIO TRANSMISSION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (Question No. 4428)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Post Office Employees: Wage Increases (Question No. 657)|1|
+|QUESTION: RADIO STATION AT DARWIN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Parliamentary Broadcasts (Question No. 683)|1|
+|APPROPRIATION BILL (No. 1) 1972-73|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Post Office: Wages (Question No. 272)|1|
+|QUESTION: TELEVISION AND RADIO PROGRAMMES|1|
+|QUESTION: AUSTRALIAN BROADCASTING COMMISSION: TELEVISION PROGRAMME|1|
+|QUESTION: TELEGRAPH SERVICES|1|
+|QUESTION: ILLEGAL BROADCASTING STATIONS|1|
+|MAXIMUM REPAYMENT TERM: Frequency Modulation Broadcasting (Question No. 962)|1|
+|QUESTION: TAPES OF TELEVISION PROGRAMMES|1|
+|ANSWERS TO QUESTIONS UPON NOT ICE: Television Companies: Shareholdings (Question No. 134)|1|
+|RAAF: Australian Capital Territory: Maintenance Ordinance (Question No. 4928)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education (Question No. 2230)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Education and Science (Question No. 4550)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Charges (Question No. 1722)|1|
+|QUESTION: RECORDING OF TELEPHONE CONVERSATIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: District Telephone Zones (Question No. 5765)|1|
+|QUESTION: REORGANISATION OF THE AUSTRALIAN POST OFFICE TELECOMMUNICATIONS ACTIVITIES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Political Broadcasts (Question No. 2414)|1|
+|QUESTION: RADIO WEATHER BULLETINS|1|
+|QUESTION: BROADCASTING: 'AM' AND 'PM' PROGRAMMES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: This Day Tonight Programmes (Question No. 5994)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Encouragement of Australian Productions for Television (Question No. 599)|1|
+|QUESTION: TELEPHONE AND TELEPRINTER CHARGES|1|
+|ENVIRONMENT: Discussion of Matter of Public Importance|1|
+|BROADCASTING AND TELEVISION BILL (No. 2) 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Post Offices (Question No. 3941)|1|
+|WIRELESS TELEGRAPHY REGULATIONS BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Air Mails: Payments to Carriers (Question No. 4129)|1|
+|APPROPRIATION BILL (No. 1)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Colour Television (Question No. 3026)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mail Services (Question No. 4867)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Third Party Claims (Question No. 4825)|1|
+|OVERSEAS CONTROL - MANUFACTURING SECTOR: Telephones: Installation Charges (Question No. 5366)|1|
+|QUESTION: COPY OF CHARGES|1|
+|COMMERCIAL TELEVISION STATIONS - MOUNT ISA, DARWIN, KALGOORLIE: Ministerial Statement|1|
+|QUESTION: AUSTRALIAN BROADCASTING COMMISSION: CURRENT AFFAIRS PROGRAMMES|1|
+|QUESTION: RADIO BROADCAST|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radio Stations: Refusal to Play Records (Question No. 1369)|1|
+|QUESTION: FREQUENCY MODULATION|1|
+|QUESTION: TELEVISION STATION AT MT BELLENDEN KER|1|
+|QUESTION: WATERFRONT EMPLOYMENT|1|
+|MANZCP: Kalgoorlie: Proposed Television Station (Question No. 1512)|1|
+|QUESTION: MICROWAVE SERVICE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Clutha Development Company (Question No. 3158)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones: Applications (Question No. 5682)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones: Outstanding Applications (Question No. 6305)|1|
+|BROADCASTING STATIONS LICENCE FEES BILL 1972: Second Reading|1|
+|QUESTION: TELEPHONE AND TELEPRINTER CHARGES: DECENTRALISATION|1|
+|QUESTION: TOUR CORNERS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tourism: Ministerial Conferences (Question No. 3720)|1|
+|NEWSPAPER ARTICLE|1|
+|QUEENSLAND: Post Offices: Western Australia (Question No. 1116)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 528)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radio and Television Advertising (Question No. 3862)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Charges (Question No. 1528)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Revenues (Question No. 3708)|1|
+|QUESTION: NON-OFFICIAL POST OFFICES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mail Services (Question No. 918)|1|
+|QUESTION: SATELLITE COMMUNICATIONS SYSTEMS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones; Parliament House (Question No. 5658)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Broadcasting Commission (Question No. 4685)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Servants: Telephones (Question No. 2566)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Frequency Modulation (Question No. 6117)|1|
+|QUESTION: NATIONAL ART GALLERY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Works Committee (Question No. 6364)|1|
+|AUSTRALIA/WEST COAST NORTH AMERICA TRADE: Charter Flights (Question No. 3840)|1|
+|DEFENCE BILL 1970: Second Reading|1|
+|APPROPRIATION BILL (No. I) 1970-71|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telegraphs: TRESS System (Question No. 3943)|1|
+|No: Telephones: Applications and Installations (Question No. 4016)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Telephones: Caravan Parks (Question No. 6236)|1|
+|QUESTION: POSTAL SERVICES|1|
+|OBSERVERS: Health: Cigarette Smoking (Question No. 4527)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telecommunications Equipment (Question No. 6267)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Services: Revenue (Question No. 5038)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Services: Kambalda (Question No. 4072)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Third Party Insurance (Question No. 1657)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones . (Question No. 3905)|1|
+|OVERSEAS POSTAGE RATES TO NEW ZEALAND: Ministerial Statement|1|
+|QUESTION: TELEPHONE DIRECTORIES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television Development: Seventh Stage (Question No. 5559)|1|
+|POSTAL SERVICES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television: Gosford-Wyong Area (Question No. 5290)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (Question No. 2886)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Broadcasting (Question No. 1*83)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Drugs of Dependence (Question No. 133)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Broadcasting (Question No. 598)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Broadcasting Station: Streaky Bay (Question No. 1635)|1|
+|QUESTION: TELEVISION CENSORSHIP|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television: Colour Transmission (Question No. 5275)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Broadcasting (Question No. 226)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministerial Staffs: Telephones (Question No. 2563)|1|
+|PROGRESS WITH SEVENTH STAGE OF TELEVISION DEVELOPMENT: Ministerial Statement|1|
+|QUESTION: FOUR CORNERS' PROGRAMMES|1|
+|QUESTION: CONCESSIONAL BULK POSTAGE|1|
+|POSTAL DEPARTMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 222)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Postal Department: Giro System of Money Exchange (Question No. 3942)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Sub-Contract Production of Boeing 747 Aircraft (Question No. 2724)|1|
+|OBSERVERS: East Pakistani Refugees (Question No. 4620)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Bulk Postage (Question No. 4900)|1|
+|TASMANIA: Telephones (Question No. 3114)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Exchanges (Question No. 6257)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television Stations (Question No. 3867)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Butter, Margarine and Milk Consumption (Question No. 4220)|1|
+|QUESTION: ELECTORAL|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Port Development and Marine Affairs: Ministerial Meeting (Question No. 5821)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: South Africa (Question No. 595)|1|
+|APPROVALS OF WORKSPUBLIC WORKS COMMITTEE ACT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Exchange: Seaford, Victoria (Question No. 6266)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Postal Services (Question No. 4458)|1|
+|QUESTION: TELEGRAMS|1|
+|QUESTION: STATE EDUCATION IN VICTORIA: COMMEMORATIVE POSTAGE STAMP|1|
+|QUESTION: INTERRUPTION TO PARLIAMENTARY BROADCAST|1|
+|POSTAL AND TELEPHONE CHARGES: Ministerial Statement|1|
+|OVERSEAS TELECOMMUNICATIONS BILL- 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Meters (Question No. 4432)|1|
+|QUESTION: OLYMPIC GAMES|1|
+|ADJOURNMENT: Valedictory - Newspaper Report - Social Services - Children's Television Programmes  - Vietnam - Electoral|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Television (Question No. 6068)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pensioners: Hospital and Medical Benefits (Question No. 4467)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (QuestionNo. 4533)|1|
+|QUESTION: CHISHOLM BY-ELECTION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: War Service Homes (Question No. 1278)|1|
+|SUSPENSION OF STANDING ORDERS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Directories (Question No. 6193)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Services (Question No. 1625)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radio and Television: Senate Campaign (Question No. £154)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Post Office: Management - Staff Relations (Question No. 385)|1|
+|QUESTION: BROADCASTING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Directories: Contract for Pink Pages Advertising (Question No. 6505)|1|
+|QUESTION: AUSTRALIAN BROADCASTING COMMISSION: DISMISSAL|1|
+|MAXIMUM REPAYMENT TERM: Four Corners' Television Programme (Question No. 940)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radio and Television Advertising (Question No. 3049)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Income Tax (Question No. 5398)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 4071)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Postal Services: Kadina (Question No. 4631)|1|
+|QUESTION: THURSDAY ISLAND RADIO RELAY STATION|1|
+|QUESTION: TELEPHONE ACCOUNTS|1|
+|NORTHERN TERRITORY: Australian Broadcasting Commission: Prime Minister (Question No. 1872)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Airline Operations (Question No. 5694)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pensioners: Telephone Rental Charges (Question No. 2260)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radio Australia: Indonesia (Question No. 5620)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Public Telephones (Question No. 541)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 3115)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education (Question No. 3788)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 4725)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Colour Television (Question No. 1972)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Directories (Question No. 3194)|1|
+|QUESTION: AUSTRALIAN BROADCASTING COMMISSION: NEWS PROGRAMMES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: War Service Homes (Question No. 1439)|1|
+|GRIEVANCE DEBATE|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Directories (Question No. 3080)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Service (Question No. 1047)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Post Office Finances (Question No. 4991)|1|
+|TROPICAL ALLOWANCE: Australian Broadcasting Commission (Question No. 948)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Broadcasting Commission (Question No. 2572)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones . (Question No. 5297) ,|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ministers: Telephones (Question No. 2565)|1|
+|QUESTION: TELEVISION IN COUNTRY AREAS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Country  Hour* Programme (Question No. 4816)|1|
+|QUESTION: TELEVISION: SUNDAY MORNING PROGRAMMES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commemorative Postage Stamps (Question No. 1765)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 1482)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Army Personnel: Children of School Age (Question No. 4849)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (Question No. 1715)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television: Programmes of Australian Origin (Question No. 3582)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Services: Complaints (Question No. 4431)|1|
+|No: Commonwealth Contracts (Question No. 4064)|1|
+|QUESTION: RADIO AND TELEVISION PROGRAMMES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Demonstrations (Question No. 1580)|1|
+|QUESTION: TELEVISION STATION: EYRE PENINSULA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Postal Services (Question No. 4496)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Cigarettes (Question No. 4041)|1|
+|HOUSE OF REPRESENTATIVES (QUORUM OF MEMBERS) BILL 1970|1|
+|APPROPRIATION BILL (No. 1) 1971-72|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radio Service: Wyndham-Kununurra (Question No. 5560)|1|
+|QUESTION: THIS DAY TONIGHT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Exchanges (Question No. 6255)|1|
+|QUESTION: TRADE UNION AMALGAMATION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Egg Industry Stabilisation Scheme (Question No. 4134)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones (Question No. 2887)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Installations (Question No. 4684)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Affairs Committee (Question No. 3901)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Broadcasting: Frequency Modulation (Question No.1913)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Bulk Mail (Question No. 2593)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Postal Department: Transport of Mails (Question No. 4764)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television Companies: Beneficial Ownership of Shares (Question No. 5535)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (Question No. 423)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telecommunication Services: Area Management (Question No. 5827)|1|
+|TELEVISION STATIONS LICENCE FEES BILL 1972: Second Reading|1|
+|QUESTION: MAIL SERVICES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telegram Services (Question No. 4783)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: This Day Tonight': Invitations to Ministers (Question No. 6372)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Radio and Television: Senate Campaign (Question No. 2529)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Postmaster-General's Department: Public Relations Officer (Question No. 5788)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Postal Services: Revenue (Question No. 5037)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Maternity Bonus Diamond Jubilee: Commemorative Stamps (Question No. 6510)|1|
+|OBSERVERS: Educational Television|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television (Question No. 228)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Radio Programmes (Question No. 4898)|1|
+|CATEGORY 7: Television (Question No. 2059)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television Station, Esperance (Question No. 3738)|1|
+|INVALID PENSIONERS REJECTED FOR REHABILITATION: Pensions (Question No. 2248)|1|
+|QUESTION: MAIL DELIVERIES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Parliamentary Broadcasts (Question No. 963)|1|
+|No: Qantas Airways Ltd (Question No. 3127)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Parliamentary Broadcasts: Interruption (Question No. 6390)|1|
+|APPROPRIATION BILL (No.1)1970-71: Second Reading (Budget Debate)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephones: Outstanding Applications (Question No. 6298)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Postal Department: Overtime (Question No. 4430)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Services (Question No. 1061)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Services (Question No. 1059)|1|
+|QUESTION: AUSTRALIAN BROADCASTING COMMISSION: SENATE ELECTION CAMPAIGN|1|
+|POSTMASTER-GENERAL'S DEPARTMENT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Television: Perth Football Matches (Question No. 4443)|1|

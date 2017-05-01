@@ -1,0 +1,111 @@
+---
+layout: default
+title: JZB - fitzgerald-joseph - Days
+---
+## Sitting days when FITZGERALD, Joseph spoke during the 1970s
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wragge/1333.embed"></iframe>
+
+| Date | Number of words |
+|--------------|----------------|
+|[11 June 1970](https://historichansard.net/senate/1970/19700611_senate_27_s44/)|4122|
+|[22 September 1970](https://historichansard.net/senate/1970/19700922_senate_27_s45/)|3867|
+|[2 September 1970](https://historichansard.net/senate/1970/19700902_senate_27_s45/)|3520|
+|[6 April 1971](https://historichansard.net/senate/1971/19710406_senate_27_s47/)|3036|
+|[16 March 1971](https://historichansard.net/senate/1971/19710316_senate_27_s47/)|2398|
+|[21 April 1971](https://historichansard.net/senate/1971/19710421_senate_27_s47/)|1832|
+|[10 March 1970](https://historichansard.net/senate/1970/19700310_senate_27_s43/)|1650|
+|[16 February 1971](https://historichansard.net/senate/1971/19710216_senate_27_s47/)|1007|
+|[19 March 1970](https://historichansard.net/senate/1970/19700319_senate_27_s43/)|932|
+|[21 May 1970](https://historichansard.net/senate/1970/19700521_senate_27_s44/)|598|
+|[17 June 1970](https://historichansard.net/senate/1970/19700617_senate_27_s44/)|492|
+|[3 November 1970](https://historichansard.net/senate/1970/19701103_senate_27_s46/)|473|
+|[5 May 1971](https://historichansard.net/senate/1971/19710505_senate_27_s48/)|427|
+|[7 May 1971](https://historichansard.net/senate/1971/19710507_senate_27_s48/)|383|
+|[27 August 1970](https://historichansard.net/senate/1970/19700827_senate_27_s45/)|359|
+|[1 September 1970](https://historichansard.net/senate/1970/19700901_senate_27_s45/)|347|
+|[23 February 1971](https://historichansard.net/senate/1971/19710223_senate_27_s47/)|330|
+|[2 March 1972](https://historichansard.net/senate/1972/19720302_senate_27_s51/)|310|
+|[18 June 1970](https://historichansard.net/senate/1970/19700618_senate_27_s44/)|257|
+|[28 April 1971](https://historichansard.net/senate/1971/19710428_senate_27_s47/)|250|
+|[14 May 1971](https://historichansard.net/senate/1971/19710514_senate_27_s48/)|231|
+|[8 April 1970](https://historichansard.net/senate/1970/19700408_senate_27_s43/)|228|
+|[3 April 1973](https://historichansard.net/senate/1973/19730403_senate_28_s55/)|225|
+|[20 October 1970](https://historichansard.net/senate/1970/19701020_senate_27_s46/)|219|
+|[16 August 1972](https://historichansard.net/senate/1972/19720816_senate_27_s53/)|203|
+|[22 April 1971](https://historichansard.net/senate/1971/19710422_senate_27_s47/)|196|
+|[31 March 1971](https://historichansard.net/senate/1971/19710331_senate_27_s47/)|185|
+|[15 April 1970](https://historichansard.net/senate/1970/19700415_senate_27_s43/)|175|
+|[21 October 1970](https://historichansard.net/senate/1970/19701021_senate_27_s46/)|171|
+|[21 April 1970](https://historichansard.net/senate/1970/19700421_senate_27_s43/)|167|
+|[29 April 1971](https://historichansard.net/senate/1971/19710429_senate_27_s47/)|166|
+|[16 June 1970](https://historichansard.net/senate/1970/19700616_senate_27_s44/)|158|
+|[20 April 1971](https://historichansard.net/senate/1971/19710420_senate_27_s47/)|152|
+|[29 September 1970](https://historichansard.net/senate/1970/19700929_senate_27_s45/)|150|
+|[11 March 1970](https://historichansard.net/senate/1970/19700311_senate_27_s43/)|150|
+|[13 May 1970](https://historichansard.net/senate/1970/19700513_senate_27_s44/)|149|
+|[9 April 1970](https://historichansard.net/senate/1970/19700409_senate_27_s43/)|146|
+|[6 May 1970](https://historichansard.net/senate/1970/19700506_senate_27_s43/)|145|
+|[16 April 1970](https://historichansard.net/senate/1970/19700416_senate_27_s43/)|144|
+|[10 June 1970](https://historichansard.net/senate/1970/19700610_senate_27_s44/)|144|
+|[2 June 1970](https://historichansard.net/senate/1970/19700602_senate_27_s44/)|144|
+|[19 May 1970](https://historichansard.net/senate/1970/19700519_senate_27_s44/)|144|
+|[2 November 1970](https://historichansard.net/senate/1970/19701102_senate_27_s46/)|141|
+|[3 June 1970](https://historichansard.net/senate/1970/19700603_senate_27_s44/)|140|
+|[18 February 1971](https://historichansard.net/senate/1971/19710218_senate_27_s47/)|138|
+|[6 May 1971](https://historichansard.net/senate/1971/19710506_senate_27_s48/)|136|
+|[28 October 1970](https://historichansard.net/senate/1970/19701028_senate_27_s46/)|135|
+|[30 May 1973](https://historichansard.net/senate/1973/19730530_senate_28_s56/)|134|
+|[11 May 1971](https://historichansard.net/senate/1971/19710511_senate_27_s48/)|131|
+|[19 May 1971](https://historichansard.net/senate/1971/19710519_senate_27_s48/)|130|
+|[17 March 1970](https://historichansard.net/senate/1970/19700317_senate_27_s43/)|130|
+|[25 August 1970](https://historichansard.net/senate/1970/19700825_senate_27_s45/)|126|
+|[22 October 1970](https://historichansard.net/senate/1970/19701022_senate_27_s46/)|126|
+|[15 October 1970](https://historichansard.net/senate/1970/19701015_senate_27_s46/)|125|
+|[9 May 1972](https://historichansard.net/senate/1972/19720509_senate_27_s52/)|124|
+|[15 September 1970](https://historichansard.net/senate/1970/19700915_senate_27_s45/)|120|
+|[26 August 1970](https://historichansard.net/senate/1970/19700826_senate_27_s45/)|113|
+|[22 April 1970](https://historichansard.net/senate/1970/19700422_senate_27_s43/)|113|
+|[5 March 1970](https://historichansard.net/senate/1970/19700305_senate_27_s43/)|112|
+|[13 October 1970](https://historichansard.net/senate/1970/19701013_senate_27_s46/)|112|
+|[12 May 1970](https://historichansard.net/senate/1970/19700512_senate_27_s44/)|109|
+|[14 May 1970](https://historichansard.net/senate/1970/19700514_senate_27_s44/)|109|
+|[7 April 1970](https://historichansard.net/senate/1970/19700407_senate_27_s43/)|109|
+|[17 August 1971](https://historichansard.net/senate/1971/19710817_senate_27_s49/)|109|
+|[25 February 1971](https://historichansard.net/senate/1971/19710225_senate_27_s47/)|108|
+|[30 September 1970](https://historichansard.net/senate/1970/19700930_senate_27_s45/)|107|
+|[9 March 1971](https://historichansard.net/senate/1971/19710309_senate_27_s47/)|107|
+|[26 October 1970](https://historichansard.net/senate/1970/19701026_senate_27_s46/)|105|
+|[12 May 1971](https://historichansard.net/senate/1971/19710512_senate_27_s48/)|104|
+|[3 March 1970](https://historichansard.net/senate/1970/19700303_senate_27_s43/)|103|
+|[9 June 1970](https://historichansard.net/senate/1970/19700609_senate_27_s44/)|102|
+|[27 April 1971](https://historichansard.net/senate/1971/19710427_senate_27_s47/)|102|
+|[20 August 1970](https://historichansard.net/senate/1970/19700820_senate_27_s45/)|100|
+|[23 April 1970](https://historichansard.net/senate/1970/19700423_senate_27_s43/)|98|
+|[24 September 1970](https://historichansard.net/senate/1970/19700924_senate_27_s45/)|96|
+|[4 May 1971](https://historichansard.net/senate/1971/19710504_senate_27_s48/)|93|
+|[17 February 1971](https://historichansard.net/senate/1971/19710217_senate_27_s47/)|91|
+|[4 June 1970](https://historichansard.net/senate/1970/19700604_senate_27_s44/)|88|
+|[30 October 1970](https://historichansard.net/senate/1970/19701030_senate_27_s46/)|85|
+|[20 May 1971](https://historichansard.net/senate/1971/19710520_senate_27_s48/)|84|
+|[9 December 1971](https://historichansard.net/senate/1971/19711209_senate_27_s50/)|83|
+|[1 April 1971](https://historichansard.net/senate/1971/19710401_senate_27_s47/)|83|
+|[19 August 1970](https://historichansard.net/senate/1970/19700819_senate_27_s45/)|75|
+|[17 September 1970](https://historichansard.net/senate/1970/19700917_senate_27_s45/)|73|
+|[5 May 1970](https://historichansard.net/senate/1970/19700505_senate_27_s43/)|70|
+|[20 May 1970](https://historichansard.net/senate/1970/19700520_senate_27_s44/)|70|
+|[4 March 1970](https://historichansard.net/senate/1970/19700304_senate_27_s43/)|67|
+|[7 April 1971](https://historichansard.net/senate/1971/19710407_senate_27_s47/)|66|
+|[30 March 1971](https://historichansard.net/senate/1971/19710330_senate_27_s47/)|66|
+|[23 November 1971](https://historichansard.net/senate/1971/19711123_senate_27_s50/)|62|
+|[13 September 1972](https://historichansard.net/senate/1972/19720913_senate_27_s53/)|62|
+|[14 October 1970](https://historichansard.net/senate/1970/19701014_senate_27_s46/)|62|
+|[18 May 1971](https://historichansard.net/senate/1971/19710518_senate_27_s48/)|60|
+|[18 August 1971](https://historichansard.net/senate/1971/19710818_senate_27_s49/)|58|
+|[11 April 1972](https://historichansard.net/senate/1972/19720411_senate_27_s51/)|54|
+|[24 February 1971](https://historichansard.net/senate/1971/19710224_senate_27_s47/)|52|
+|[22 February 1972](https://historichansard.net/senate/1972/19720222_senate_27_s51/)|50|
+|[5 June 1970](https://historichansard.net/senate/1970/19700605_senate_27_s44/)|49|
+|[15 March 1971](https://historichansard.net/senate/1971/19710315_senate_27_s47/)|47|
+|[13 May 1971](https://historichansard.net/senate/1971/19710513_senate_27_s48/)|41|
+|[26 September 1973](https://historichansard.net/senate/1973/19730926_senate_28_s57/)|35|
