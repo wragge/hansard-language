@@ -25,9 +25,9 @@ def generate_tfidf(data_dir, ngram):
         sorted_scores = sorted(scores, key=lambda t: t[1] * -1)
         # Get labelled score, reomoving numbers
         labelled_scores = [(feature_names[word_id], score) for (word_id, score) in sorted_scores if not re.search(r'^\d+$', feature_names[word_id])]
-        score_dict = dict(labelled_scores[:200])
+        # score_dict = dict(labelled_scores[:200])
         # Print the top 10 results
         for phrase, score in labelled_scores[:20]:
             print('{0: <40} {1}'.format(phrase.encode('utf-8'), score))
-        results.append({'name': name, 'scores': score_dict})
+        results.append({'name': name, 'scores': labelled_scores[:200]})
     return results

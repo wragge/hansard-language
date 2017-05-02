@@ -911,6 +911,8 @@ My question is directed to the Attorney-General. I ask whether he is aware that 
 asked the Prime Minister, upon notice, on 22 March 1977: 
 1 ) Which of the recommendations of the Royal Commission on Australian Government Administration have been implemented. 
 What administrative steps have been taken to implement those recommendations. 
+asked the Minister for Transport, upon notice, on 22 March 1977 : 
+Are companies, businesses or persons other than Avis Rent-A-Car System Pty Ltd permitted to operate motor vehicle hiring businesses in terminal buildings at airports in Australia; if not, why not. 
 asked the Minister for Transport, upon notice, on 22 March 1977. 
 1 ) At which airports in Australia does Avis Rent-A-Car System Pty Ltd have a concession to operate within airport terminal buildings. 
 With respect to each such concession to which the company is presently entitled 
@@ -928,8 +930,6 @@ c ) to whom were the applications made,
 in relation to which airports were the applications made, 
 what was the outcome of each application, and 
 with respect of each application that was refused, on what grounds was the application made. 
-asked the Minister for Transport, upon notice, on 22 March 1977 : 
-Are companies, businesses or persons other than Avis Rent-A-Car System Pty Ltd permitted to operate motor vehicle hiring businesses in terminal buildings at airports in Australia; if not, why not. 
 asked the Minister for Productivity, upon notice, on 22 March 1 977: 
 1 ) What is the entire complement of officers employed in his Department. 
 How many officers of each Division of the Commonwealth Public Service are presently employed in his Department? 
@@ -940,15 +940,18 @@ How are increases in productivity measured.
 Has productivity in Australia increased since the establishment of his Department: if so by what measure. 
 -Has the attention of the Prime Minister been drawn to a recent article in the  New Statesman  magazine, which he may read, discussing the role of Parliament and, amongst other things, opposition within Parliament? I ask the Prime Minister whether he is satisfied with the opposition within the community to his Government's policies; whether he would like to see that opposition strengthened or coming from some other quarter, or whether he can think of any other way in which opposition, as an important part of the process, can be improved? 
 asked the Minister for Post and Telecommunications, upon notice, on 22 March 1976: 
-1 ) Does the Australian Broadcasting Commission have a panel of speakers for its radio program  Notes on the News. 
-) If so, what are the names of the persons who presently comprise that panel. 
-What are the names of the persons who have been added to or deleted from the panel since 30 June 1976. 
-What fee is normally paid to persons who contribute to the program. 
-asked the Minister for Post and Telecommunications, upon notice, on 22 March 1976: 
 Does the Australian Broadcasting Commission have a panel of speakers Tor its radio program  News Commentary. 
 ) If so, what are the names of the persons who presently comprise that panel. 
 What are the names of the persons who have been added to or deleted from the panel since 30 June 1 976. 
 What fee is normally paid to persons who contribute to the program. 
+asked the Minister for Post and Telecommunications, upon notice, on 22 March 1976: 
+1 ) Does the Australian Broadcasting Commission have a panel of speakers for its radio program  Notes on the News. 
+) If so, what are the names of the persons who presently comprise that panel. 
+What are the names of the persons who have been added to or deleted from the panel since 30 June 1976. 
+What fee is normally paid to persons who contribute to the program. 
+asked the Prime Minister, upon notice, on 22 March 1977: 
+1 ) What are the purposes for which the Department of Productivity was established. 
+What are the present responsibilities of that Department 
 -In support of the motion I wish to make a few brief remarks with respect to the report of the 2 parliamentary advisers that is attached to the report of the delegation as an appendix. The House may be wondering why there is a separate report of the parliamentary advisers as part of the delegation's report. The reason why a separate report has been appended is set out in the first paragraph of the report. I shall take a brief moment to read it out, as it makes it plain why the separate report has been appended. It states: 
 The purpose of this report is to acquaint members of both Houses of our experience as the parliamentary advisers to Australia's delegation to the General Assembly of the United Nations. We feel that we have an obligation to report to the Parliament and also to make some suggestions which we believe will improve the quality of parliamentary representation on the delegation in the future. 
 There are 2 reasons why the honourable member for Hindmarsh  (Mr Clyde Cameron)  and I felt that there should be a separate report from the 2 parliamentary representatives. Firstly, we felt that we had an obligation to report to the Parliament. Secondly, we felt that out remarks could possibly improve the quality of parliamentary representation in the future. 
@@ -965,9 +968,6 @@ There is another particular matter to which I would like to make some brief refe
 Finally, although not the least important, I wish to pay particular respect and regard to the honourable member for Hindmarsh who was, of course, a pleasant travelling companion and a very valuable member of the delegation. The honourable member spoke a number of times in New York and impressed delegations from other countries and the other significant international figures who were present at the time. In fact they were so impressed by the honourable member that they must have asked themselves a few questions about his Leader because there is no doubt as to the quality of the representation which the Australian Labor Party sent to New York in the form of the honourable member. 
 Also I would like to reiterate the remarks we made in the report by way of acknowledgement and thanks to the Minister for Foreign Affairs  (Mr Peacock)  for his excellent leadership of the delegation and for the high quality of the speech which he delivered to the General Assembly, it being one of the comparatively few interesting speeches delivered in the General Assembly, and for the hospitality he extended to us on a number of occasions. As a result of this hospitality we were given the opportunity to meet a number of significant leaders of the international community whom the Minister of course already knew but whom we did not know. Also, they were given the opportunity to meet us and to listen to some of the interesting views which the honourable member for Hindmarsh had put forward on the structure of the economies of western societies which they found educational and interesting, even if they were not the views which they would necessarily accept. 
 Although all honourable members are not in the chamber at the moment I commend the report of the parliamentary advisers to honourable members. I urge them to read and consider what we have said because we feel that not only does the report raise some interesting issues about the United Nations and the Parliamentary representation at the United Nations but also it raises some very important issues as to just exactly what is the role of Parliament and members of Parliament in the conduct of international affairs in this country. 
-asked the Prime Minister, upon notice, on 22 March 1977: 
-1 ) What are the purposes for which the Department of Productivity was established. 
-What are the present responsibilities of that Department 
 asked the Minister for Employment and Industrial Relations, upon notice, on 22 March 1977: 
 1 ) What Proclamations have been made under subsection 2 (2 ) of the  Conciliation and Arbitration Amendment  /fr/ 1976. 
 ) Where is each Proclamation to be found. 
@@ -985,13 +985,13 @@ What decision was made by the Industrial Registrar on each application.
 Have any organisations conducted an election or ballot for any office since the date upon which the Industrial Registrar made his decision with respect to each application; if so, what organisations, and for what offices. 
 -I direct my question to the Minister for Foreign Affairs. Was a conference held recently in Moscow relating to military restraint in the Indian Ocean? Who took part in that conference and what was the outcome of it? Were there any implications for Australia arising from that conference and, if so, what were they? What has Australia done about making its views known on that subject? 
 asked the Minister for Employment and Industrial Relations, upon notice, on 22 March 1977: 
-How many secret postal ballots of the type referred to in sub-section 133AA( 1 ) of the Conciliation and Arbitration Act have been conducted since 9 June 1976. 
-On what date was each ballot conducted. 
-For election to what office within what organisation was each ballot conducted. 
-asked the Minister for Employment and Industrial Relations, upon notice, on 22 March 1977: 
 1 ) How many elections have been conducted pursuant to the regulations referred to in sub-section 133AA(2) of the Conciliation and Arbitration Act since 9 June 1976. 
 On what date was each such election conducted. 
 For election to what office within what organisation was each such election conducted. 
+asked the Minister for Employment and Industrial Relations, upon notice, on 22 March 1977: 
+How many secret postal ballots of the type referred to in sub-section 133AA( 1 ) of the Conciliation and Arbitration Act have been conducted since 9 June 1976. 
+On what date was each ballot conducted. 
+For election to what office within what organisation was each ballot conducted. 
 If the honourable member for Gellibrand  (Mr Willis)  had shown one ounce of concern for the social and economic consequences of unemployment, which he has been talking about for the last 15 minutes, and if he had suggested one means by which some of these problems could be rectified we would have supported the matter of public importance with enthusiasm. Indeed it looked to me when I read the daily program that this was to be something of a bipartisan suggestion to deal with some of these great social problems. But it seems that all we are faced with is yet another debate about the causes of unemployment- who caused it, Liberal, Labor or whatever? What a turgid, dull experience this is going to be once again. If we are going to have an argument about unemployment and about the causes of unemployment then let us have it. 
 I put it to the House that it is abundantly clear that the increases in unemployment started to set in in this country in the three years of the Australian Labor Party's rule. I promise not to bore the House with statistics, as the honourable member for Gellibrand did, but there is one simple statistic which should put an end to the whole of this argument. I ask the honourable member for Gellibrand and other honourable members supporting him to deny it if it is not true. When we left office at the end of 1972 the economy of this country was in a very healthy state. There were 136,000 people unemployed. When the Labor Party left office there were 328,000 people unemployed in this country. Unemployment had more than doubled as a result of the economic policies that that party adopted when it was in power. When one looks at a basis statistic such as that, one sees what a completely meretricious matter of public importance this one is. Unemployment started its upward movement during those three years and it is very clear that the wholesale damage done to the economy during those three years has been a major contributing factor to the continuous unemployment we have had. 
 I put it to honourable members that the economic policies that were adopted during that time were almost calculated policies which certainly resulted in substantial unemployment during that period. We have only to look at some of the policies. We could talk of them for hours but let us just look at one or two. There was the 25 per cent tariff cut which was brought in with, I would think, an almost complete indifference to its consequences for the individuals concerned. It was from that time until the present that our industries such as the clothing, textiles, plastic and rubber industries and many others started their decline. It was from the time of the 25 per cent tariff cut that the rot started to set in. Quite apart from the economic damage caused by that decision and quite apart from the wholesale assault on those industries, what concerns me far more than all of them is the indifference that was shown on that occasion to the individual men and women in those industries. What was the attitude of the honourable member for Lalor  (Dr J. F. Cairns)  who was the responsible Minister at that stage?  His  attitude and the Government's attitude were that these people could be bought off, that all that had to be done was to establish yet another government scheme, to give it a fancy name such as Structural Adjustment Assistance, to pour in millions of dollars if they could be found and to buy off those exemployees. What a callous, indifferent and heartless attitude that was towards the ordinary men and women working in those industries whom the Labor Party continually pretends that it represents. 
@@ -1037,21 +1037,21 @@ While I am on that subject I might as well mention that it is extraordinary that
 Those are just some of the basic principles. As I have said, what this Bill does is draw attention to those basic principles. It goes some distance towards laying down those principles. It is on those grounds that this piece of legislation should have the unqualified support of every honourable member of this House. 
 My question is directed to the Treasurer. Has the rate of inflation in Australia been reduced in the last 21 months? If so, by what degree has it been reduced? 
 I am not an economist like the honourable member. Has the Treasurer seen reports that unemployment in Australia has in fact increased in the last 21 months? Are those reports accurate"? What is the Treasurer's prognosis of the extent of unemployment and the prospects for the opening up of new job opportunities? 
+asked the Minister representing the Minister for Education, upon notice, on 13 October 1977: 
+What grants have been provided to the La Trobe University in each of the years 1975-76 to 1977-78, inclusive. 
+asked the Minister representing the Minister for Education, upon notice, on 13 October 1977: 
+What grants have been provided to the Preston Institute of Technology in each of the years 1975-76 to 1977-78, inclusive. 
+asked the Minister, representing the Minister for Social Security, upon notice, on 13 October 1977: 
+1 ) What programs have been supported by funds provided by the Department of Social Security in the electoral division of Diamond Valley, including recurrent and nonrecurrent expenditure during the years 1975-76 and 1976- 77. 
+What was the expenditure on each program. 
+What programs will be supported during the year 1977- 78. 
+What will be the expenditure on each program. 
 asked the Minister representing the Minister for Social Security, upon notice, on 13 October 1977: 
 How many grants have been made or committed for projects under the Aged Persons Hostels Act in the State of victoria in each of the years 1975-76 to 1977-78, inclusive. 
 With respect to each of these grants, (a) what is the name of the organisation undertaking the project, (b) what is the value of the project, (c) what is the amount of the grant, (d) where is the project situated and (e) how many aged persons and staff will the project accommodate. 
 asked the Minister representing the Minister for Social Security, upon notice, on 13 October 1977: 
 1 ) How many grants have been made or committed for projects under the Aged or Disabled Persons Homes Act in the State of Victoria in each of the years 1975-76 to 1977-78, inclusive. 
 With respect to each of these grants, (a) what is the name of the organisation undertaking the project, (b) what is the value of the project, (c) what is the amount of the grant, (d) where is the project situated and (e) how many aged or disabled persons and staff will the project accommodate. 
-asked the Minister representing the Minister for Education, upon notice, on 13 October 1977: 
-What grants have been provided to the Preston Institute of Technology in each of the years 1975-76 to 1977-78, inclusive. 
-asked the Minister representing the Minister for Education, upon notice, on 13 October 1977: 
-What grants have been provided to the La Trobe University in each of the years 1975-76 to 1977-78, inclusive. 
-asked the Minister, representing the Minister for Social Security, upon notice, on 13 October 1977: 
-1 ) What programs have been supported by funds provided by the Department of Social Security in the electoral division of Diamond Valley, including recurrent and nonrecurrent expenditure during the years 1975-76 and 1976- 77. 
-What was the expenditure on each program. 
-What programs will be supported during the year 1977- 78. 
-What will be the expenditure on each program. 
 -I propose to the House for its  Speaker Sir Billy  Mackie Snedden, the right honourable member for Bruce, and move: 
 That the right honourable member for Bruce do take the Chair of this House as Speaker. 
 The commencement of a new Parliament and the Governor-General's Speech should encourage us to consider the direction in which our country is proceeding and the direction in which we believe it should be proceeding. If we do not make this examination of" basic principles from time to time we run the risk of getting lost in a wilderness of details and concentrating on short term issues while we ignore the consequences of what we are doing, the type of society we are building and the type of society we believe we should be trying to create. If we are to undertake this type of examination- this is an appropriate time at which to do it- our first task should be to get clearly into our minds what we believe government should be doing and to understand what it is capable of doing. 
@@ -1105,15 +1105,15 @@ wn asked the Minister for Health, upon notice, on 5 April 1978:
 Are health insurance benefits provided for the purchase of hearing aids and other aids to hearing; if not, why not. 
 Has he given any consideration to the provision of health insurance benefits for those purposes; if so, what action does he intend to take. 
 If not, will he now give consideration to the provision of these benefits. 
+wn asked the Treasurer, upon notice, on 15 March 1978: 
+What are the interdepartmental committees of (a) a permanent and (b) an ad hoc nature on which his Department is presently represented. 
+What subjects are presently being investigated by each of these interdepartmental committees. 
 wn asked the Minister for Construction, upon notice, on 4 April 1978: 
 1 ) Was his Department requested by the Administrative Review Council to provide information ofthe type-described in Appendix III of the First Annual Report of the Administrative Review Council relating to the operation of tribunals created under legislation administered by his Department and tribunals administered or serviced by his Department during 1976-77; if so, did his Department respond to that request. 
 Will he now provide the information referred to in part (1). 
 wn asked the Minister for Aboriginal Affairs, upon notice, on 4 April 1978: 
 Was his Department requested by the Administrative Review Council to provide information ofthe type described in Appendix III of the First Annual Report of the Administrative Review Council relating to the operation of tribunals created under legislation administered by his Department and tribunals administered or serviced by his Department during 1976-77; if so, did his Department respond to that request. 
 Will he now provide the information referred to in pan (1) 
-wn asked the Treasurer, upon notice, on 15 March 1978: 
-What are the interdepartmental committees of (a) a permanent and (b) an ad hoc nature on which his Department is presently represented. 
-What subjects are presently being investigated by each of these interdepartmental committees. 
 -I ask the Prime Minister whether, during the visit of the American VicePresident,  Mr Mondale,  he was able to pursue with  Mr Mondale  the issues relating to the international economic order which have been the subject of debate? If he was able to pursue those matters, can he tell us whether any substantial agreement was reached on those and related issues and, if so, what was it? 
 wn asked the Minister for Immigration and Ethnic Affairs, upon notice, on 4 April 1978: 
 1 ) Was his Department requested by the Administrative Review Council to provide information of the type described in Appendix III of the First Annual Report of the Administrative Review Council relating to the operation of tribunals created under legislation administered by his Department and tribunals administered or serviced by his Department during 1976-77; if so did his Department respond to that request. 
@@ -1148,24 +1148,24 @@ Will he now provide the information referred to in pan(l).
 wn asked the Minister for Environment, Housing and Community Development, upon notice, on 4 April 1 978: 
 1 ) Was his Department requested by the Administrative Review Council to provide information of the type described in Appendix III of the First Annual Report of the Administrative Review Council relating to the operation of tribunals created under legislation administered by his Department and tribunals administered or serviced by his Department during 1976-77: if so, did his Department respond to that request. 
 Will he now provide the information referred to in part(l). 
--I ask the Treasurer: How does it come about, if it is the case, that 40 per cent of workers in the building industry do not pay income tax at all, according to the New South Wales President of the Building Workers Industrial Union of Australia? 
--How do the rest of us get into it? How did this situation arise, and will the Budget proposals bring it to an end? Furthermore, is there then a case, as the  president  of that union went on to say, for those employees to obtain higher wages to restore what the  president  called their real income? What would be the consequences for the economy of higher wage claims to recoup the payment of normal tax which should already have been paid in the first place? 
 wn asked the Minister representing the Attorney-General, upon notice, on 4 April 1978: 
 Has the Administrative Decisions (Judicial Review) Act 1 977 been proclaimed; if not, what is the reason and when will it be proclaimed. 
+-I ask the Treasurer: How does it come about, if it is the case, that 40 per cent of workers in the building industry do not pay income tax at all, according to the New South Wales President of the Building Workers Industrial Union of Australia? 
+-How do the rest of us get into it? How did this situation arise, and will the Budget proposals bring it to an end? Furthermore, is there then a case, as the  president  of that union went on to say, for those employees to obtain higher wages to restore what the  president  called their real income? What would be the consequences for the economy of higher wage claims to recoup the payment of normal tax which should already have been paid in the first place? 
+n asked the Minister representing the Minister for Science, upon notice, on 4 April 1978: 
+1 ) Was the Department of Science requested by the Administrative Review Council to provide information of the type described in Appendix III of the First Annual Report of the Administrative Review Council relating to the operation of tribunals created under legislation administered by his Department and tribunals administered or serviced by the Minister's Department during 1976-77: if so, did the Department of Science respond to that request. 
+Will the Minister now provide the information referred to in part ( 1 ). 
 I am sure that if the honourable member for Melbourne Ports  (Mr Holding)  had given more thought to his remarks this evening he would not have said what he did. Indeed, he would not have made those remarks if he had given more consideration to the basic issue in the dispute about compulsory unionism. The first thing that should be said with respect to this issue, at least in relation to the case of Miss Biggs in Melbourne which the honourable member raised, is that what he said was a gross reflection on the capacity of the Industrial Registrar. It will be recalled that the honourable member said, as is the case, that the grant of a certificate of conscientious objection is made after an examination is conducted by the Industrial Registrar. The honourable member more or less said that the certificate should not have been granted because it was granted on improper material and the evidence of Miss Biggs was not subject to cross-examination. Surely to heavens one can accept that the Industrial Registrar conducted his inquiries properly. As I have said, it is a gross reflection on his capacity and ability to say that when he granted a certificate to Miss Biggs he did so improperly. So far as I am concerned, I am prepared to accept the decision of the Industrial Registrar in that matter and to accept that the certificate was properly given. 
 The second point to be made about this issue is that the argument advanced by the honourable member for Melbourne Ports, by  Mr Hawke  and by those in the union movement who advocate compulsory unionism is along these lines. They say to people: 'You do not want to join the union but you are prepared to take the advantages of the work of the union. You are prepared to take the benefit of wage increases, improvements in conditions and all the other benefits that are obtained by the trade union movement'. In some cases that may well be true, but the point about it is that if Miss Biggs wanted to work under conditions less favourable than those in the award who would be opposing it? It would not be the Tramway Board, not the employer. It would be the union itself which would say: 'No, you are not going to take benefits less than those prescribed by the award'. If the employer was given an opportunity to pay less than the award he would probably agree to it but he would be prevented from doing so. That is the basic answer to the objection. It is the union itself which prevents people such as Miss Biggs from not taking the advantages which the union maintains it secured. In any event, the whole argument that was advanced is quite absurd because, with indexation, it is the benefits granted by the Conciliation and Arbitration Commission under indexation and not any great achievements of the union which are passed on to the employee. 
 At the root of the whole argument is a basic issue which the honourable member for Melbourne Ports seems to fail to understand, and that is whether in our society persons should be compelled to join organisations which they do not want to join. That is what is at the basis of the whole argument. 
 Yes. There are many in Melbourne who do. The honourable member, who is a lawyer himself, does not know that basic proposition that one does not need to sign the Bar roll to practise as a barrister in Melbourne. The basic point, as I say, is that in a free society in which people are entitled to join organisations that they wish they should likewise be allowed to go their own way as individuals if they so wish provided they do not do harm to other individuals. That is the base of our society. That is what is the base of this whole dispute. The fact that the Opposition does not understand this and the fact that some of its supporters outside the Parliament do not understand it, in my view, is one of the great evils in our society which sooner or later we will have to face and to resolve. So long as we fail to resolve that basic issue we will not be a complete society in which individuals are entitled to lead the lives of full, free and independent human beings. 
-n asked the Minister representing the Minister for Science, upon notice, on 4 April 1978: 
-1 ) Was the Department of Science requested by the Administrative Review Council to provide information of the type described in Appendix III of the First Annual Report of the Administrative Review Council relating to the operation of tribunals created under legislation administered by his Department and tribunals administered or serviced by the Minister's Department during 1976-77: if so, did the Department of Science respond to that request. 
-Will the Minister now provide the information referred to in part ( 1 ). 
-wn asked the Minister for Primary Industry, upon notice, on 1 5 August 1 978: 
-1 ) Has there been any decision made to increase the quality of brewers sugar. 
-If so, when was that decision made and by whom. 
 wn asked the Minister for Primary Industry, upon notice, on 1 5 August 1 978: 
 1 ) Is the sugar known as brewers sugar available for sale in Australia to persons or companies other than brewers. 
 If so, is it available at the same or similar price as the price paid by brewers. 
 If it is not available for sale to persons or companies other than brewers, what is the reason. 
+wn asked the Minister for Primary Industry, upon notice, on 1 5 August 1 978: 
+1 ) Has there been any decision made to increase the quality of brewers sugar. 
+If so, when was that decision made and by whom. 
 wn asked the Minister for Primary Industry, upon notice, on 1 5 August 1978: 
 Can he say whether the Colonial Sugar Refining Company Limited agreed with several breweries to reduce the price of brewers sugar sold to those breweries shortly prior to the announcement on 1 June 1978, of an increase in the domestic price of sugar. 
 If so, what is the explanation for the apparent disparity between the increase in the price of domestic sugar and the decrease in the price of brewers sugar. 

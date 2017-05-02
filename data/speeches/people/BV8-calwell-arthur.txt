@@ -60,12 +60,12 @@ Yes, and they are entitled to be concerned. They are also expected to be consist
 I do not know what he said. If it was contemptible, then 1 ho'' him in contempt. People have the right to disagree. The honourable member for Lyne  (Mr Lucock)  spoke of Churchill. Churchill would never have been Prime Minister of Great Britain if it had not been for the Labour Party. It refused to serve under Chamberlain. When Chamberlain put up Haldane, the Labour Party refused to serve under him. By a process of attrition it came to Churchill. When Churchill formed his ministry, who was his  Deputy  Prime Minister? It was Clement Attleee. Who were the architects of victory under Churchill? They were Ernest Bevin, Aneurin Bevan and Stafford Cripps. These were the men who, in association with Churchill, brought Britain to victory, lt was not a one-man band, lt was a combined effort on the part of very brave and intelligent people. But the people of Britain repudiated Churchill when the war was over. I thought it was a disgraceful disservice which the people of Britain rendered to Winston Churchill because, had he wanted it, he could have been a duke on the day the war ended. Then he was repudiated later. 
 We have to keep this question of Vietnam in proper perspective. People have the right to dissent. 1 am not in favour of violence anywhere. I am not in favour of sit-downs or sit-ins or anything that will disrupt traffic or anything else. But people have the right to express themselves, and because of a fear that something might happen, nobody, in my view, has the right to say that people should restrict their right to demonstrate. Violence can happen, but that is incidental to the whole thing. 
 I move: 
+That the House do now adjourn. 
+Get around that one. 
+I move: 
 That  Mr Deputy  Speaker's ruling be disagreed with. 
 Then I shall move that your ruling that you did not give a ruling, be disagreed with. 
  Mr Deputy Speaker,  if we are going to have Rafferty's Rules, I shall move that the House do now adjourn. 
-I move: 
-That the House do now adjourn. 
-Get around that one. 
 asked the Minister for Education and Science, upon notice: 
 Has his attention been drawn to a statement by  Mr D.  J. 0'Hearn, the sub-dean of the Faculty of Arts at the University of Melbourne, following surveys made recently at the University of Melbourne, that (a) 1,000 of the University's 14,000 students were living on the poverty line, (b) between 200 and 300 of these students were nol getting enough to eat and were suffering from malnutrition, (c) some students were living in toolsbeds, curtained-ofT corridors and overcrowded slum houses in the Carlton-Parkville area and (d) students on the poverty line included both undergraduate and post-graduate students and that many of them were on Commonwealth scholarships. 
 If so, has be yet investigated the matter. 
@@ -193,9 +193,9 @@ I have never done Alan Reid the honour of reading his books and I am not now rea
  Mr Speaker, 1 wish the Government had brought our men out of Vietnam earlier. I hope that it will reconsider Australia's defence strategy. I have no objection to the building up of a strong defence force in this country. I was a Minister in a wartime government that conscripted kids and other people to fight for the defence of this country and I would agree to that policy being adopted again if this country were threatened with an invasion by people who were near our shores. But I have been sickened by the hypocrisy and the humbug of the rainbow heroes that I have talked about who are trying to attract to themselves the honour and credit for what has been decided in recent years when they did not have the moral fibre to stand up and be counted when we walked the streets. Even if we did walk them alone, which was my challenge, we did demonstrate and we did make our protests. I am glad that I have lived to be a member of this Parliament still when the final chapter on that awful Vietnamese encounter is about to be written. 
 Question resolved in the affirmative. 
 asked the Minister for Immigration, upon notice: 
-Will he provide a statement in tabular form showing in adjoining columns the number of (a) pure blood and (b) mixed-blood people from each Asian and African country who have been admitted to Australia in each of the years 1967-68, 1968-69 and 1969-70? 
-asked the Minister for Immigration, upon notice: 
 What amount was spent on Immigration programmes in each of the years 1967-68, 1968-69 and 1969-70? 
+asked the Minister for Immigration, upon notice: 
+Will he provide a statement in tabular form showing in adjoining columns the number of (a) pure blood and (b) mixed-blood people from each Asian and African country who have been admitted to Australia in each of the years 1967-68, 1968-69 and 1969-70? 
 asked the Minister for Education and Science, upon notice: 
 How many (a) boys and (b) girls passed the matriculation examination and were refused admission to universities because of the operation Of a quota system in (i) 1970 and (ii) 19717 
 How many of these students were refused admission to each faculty where quotas had been established in these years? 
@@ -203,14 +203,14 @@ How many Asian and African students were admitted to Australian universities in 
 How many of these overseas students are enrolled in each faculty in universities from which qualified Australian students have been excluded because of the quota system? 
 asked the PostmasterGeneral, upon notice: 
 Will he consider taking steps to establish a committee of both Houses of the Parliament to examine the question of television and radio broadcasting by the Australian Broadcasting Commission and privately-owned television and radio companies? 
-asked the Minister representing the Attorney-General, upon notice: 
-Has the Minister's attention been drawn to revelations in the United States of America of improper practices by the controllers of the Reader's Digest in that country. 
-If so, will the Minister institute an investigation under the Trade Practices Act in order to discover to what extent similar practices are being practised in Australia. 
-Can the Minister say whether thousands of Australians are being pressured by this company to accept and pay for unwanted publications that have never been ordered; if so, will he take remedial action to stop this practice. 
 asked the Minister for the Interior, upon notice: 
 If the quota established as a result of the recent Census affects the number of seats in each Slate of the Commonwealth, will he arrange for a redistribution of electoral divisions for the House of Representatives to be made before the election of the 28th Parliament. 
 If marked discrepancies in the number of electors in each electoral division in one or more States are found to exist, even if the number of divisions now allotted to each State does not need to be varied, will he give favourable consideration to a general redistribution. 
 If a redistribution is undertaken, will the Government instruct the Chief Electoral Officer to make adequate allowances for the transfer of population now taking place throughout Australia and, in particular, the growth of population in each capital city. 
+asked the Minister representing the Attorney-General, upon notice: 
+Has the Minister's attention been drawn to revelations in the United States of America of improper practices by the controllers of the Reader's Digest in that country. 
+If so, will the Minister institute an investigation under the Trade Practices Act in order to discover to what extent similar practices are being practised in Australia. 
+Can the Minister say whether thousands of Australians are being pressured by this company to accept and pay for unwanted publications that have never been ordered; if so, will he take remedial action to stop this practice. 
 asked the Minister for Labour and National Service, upon notice: 
 What are the provisions of the last award handed down by the Arbitration Commission governing the pay and allowances of, and all cognate matters relating to. male and female journalists. 
 asked the PostmasterGeneral, upon notice: 
@@ -369,6 +369,8 @@ Similar petitions were presented by  Mr Stewart, Dr Klugman, Dr Cass  and  Dr Je
 Petitions severally received. 
 I desire to ask a question of the Minister for Labour and National Service. He is having a busy day. Is it a fact that negotiations between the Australian Federation of Air . Pilots and Qantas Airways Ltd for increases of up to 72.2 per cent, which would, mean a salary increase from $30,595 to $51,035 a year for a Boeing 747 captain, have broken down? 
 Do not tempt me. It might be more than some people deserve. What is the Government's attitude to such a large annual salary and such a vast increase in take home money annually? Has the Government intervened in this case, as it did before the Commonwealth Conciliation and Arbitration Commission in the national wage case recently, to urge moderation in wage demands so as to restrain inflation and all the evils that flow from inflation which hit people who live on fixed incomes and social services so badly? 
+asked the Minister  for  Shipping and Transport, upon notice:  - (1) What is the present position in regard to the proposed railway link between Yass and Canberra. 
+Has any date been set for the commencement of the project. 
 I wish to make a personal explanation. 
 
  Mr ACTING SPEAKER (Mr Lucock)Does the right honourable gentleman claim to have been misrepresented? 
@@ -378,8 +380,6 @@ Mark the word 'envoys':
 Canberra, Monday. - Four senior Australian diplomats today attacked statements made last week by the former Opposition Leader,  Mr Calwell. 
 I am sure that the Department of Foreign Affairs gave no permission to  4  senior diplomats or to  4  junior diplomats to attack me, and to me it was a gross misuse of authority on the part of any member of the staff of the Department of Foreign Affairs to use his office to attack me in this way. I have found out that these so-called  4  senior Australian diplomats are  4  very junior employees in the Department. 
 They cannot be senior because 2 of them are only 28 years of age. I have tremendous respect for the honourable member for St George, who is a very capable man and has served Australia very well. He has the distinction of having been expelled twice from Russia while he was in the service of Australia. 
-asked the Minister  for  Shipping and Transport, upon notice:  - (1) What is the present position in regard to the proposed railway link between Yass and Canberra. 
-Has any date been set for the commencement of the project. 
 asked the Minister for 
 Immigration, upon notice: 
 Has his attention been drawn to an article in the 'Weekend News' of Perth, Western Australia, dated 16th October 1971, in which it was announced that an Anglo-Burmese (Eurasian) family, consisting of a father and mother and 10 children, had arrived in Western Australia shortly before that date. 
@@ -392,6 +392,9 @@ Can he say whether the Rev. Father Nicholas Mcsweeney, Director of Catholic Immi
 Is it a fact that Western Australia has experienced the second biggest flood of Eurasians into Australia and that some authorities estimate the coloured flood at 5,000 a year. 
 If there Is to be any reduction in our immigration intake, will he see that British, Irish and European people will be given precedence over people whose presence endangers, and will continue to endanger, the social, wage and housing conditions of Australians, whether bom here or naturalised. 
 Will he urge the Catholic immigration authorities in every State and the World Council of Churches to concentrate their efforts on helping Australian Aborigines and part-Aborigines on the principle that charity begins at home. 
+asked the Minister for Labour and National Service, upon notice: 
+What were the unemployment figures for each year from August 1945 to August 1972. 
+What was the proportion of unemployed to employed in each of those years. 
  I have not delayed the House or the Committee very often or for very long in the years since I retired from the leadership of the Australian Labor Party, but there is something I want to bring to the attention of the Minister for Customs and Excise  (Mr Chipp).  I presume that he is the responsible Minister. I have here some exhibits which are a product of William Butler Tobacco Co. Ltd, 50 Marshall Street, Surry Hills, Sydney. The brand of the tobacco is  Dr Pat.  It is an Irish mixture. It is just a lot of stalk which Australians are expected to smoke. I will hand these to the Minister. 
  1  well remember the day when a very distinguished colleague of mine, the Honourable John J. Dedman, got the permission of the House to erect a blackboard in this House in order that he might explain his economic theories. That was a famous occasion. This sort of rubbish, which T have produced, is being sold to the Australian people. I remember before I came to this House, back about 1940, when Australian pipe smokers were able to get pure Virginia leaf. After that time, and during the war, the Australian tobacco manufacturers chopped up the stalks, impregnated them with something or other, and included them with their products. The situation has followed that pattern ever since. I do not want to anticipate a debate or a measure that is coming forward, but I have a very strong feeling that many thousands of dollars - perhaps hundreds of thousands of dollars - are being spent by the tobacco interests to try to save themselves from the Government's legislation. I know that a lot of commercial television stations will lose many thousands of dollars a year if the Government's legislation is passed, and I hope it will be passed. 
 I have a telegram from a very good friend of mine, MacAlister Blain, who was a member of this Parliament for many years. He went to the war and he was a guest of the Japanese. He holds very strong feelings about it all. I cannot do what he wants me to do, and that is to read his telegram in full. But he said: 
@@ -417,9 +420,6 @@ I think the Minister for Defence has given the lie completely to  Mr Santamaria'
 I do not want to harm the future prospects of  Mr Maher  in semi-retirement, because he is a good man, nor of  Mr Mitchell,  but  Mr Mitchell  should have told the truth. He has 2 sons aged 31 and 30 who might have served in Vietnam so I suppose it pays to belong to the National Civic Council or the DLP - the demented lunatic party. 
 None of those in the other House. 
 I do not know how many members of the DLP served in World War II but whenever I look at  Senator Gair  on television I look at an animated toad that croaks like a frog. 
-asked the Minister for Labour and National Service, upon notice: 
-What were the unemployment figures for each year from August 1945 to August 1972. 
-What was the proportion of unemployed to employed in each of those years. 
 The Americans have a famous saying and that is: 'Where there is smoke there is cancer'. I agree with it and I want to warn members of Parliament that if they are voting for this Bill they must do it in all due honesty. No Party at Federal or State level and no member or candidate of any party should take any money that the tobacco interests are prepared to spend in order to maintain their campaign, succeed in their campaign or in a continuation of a system where people can smoke if they like. I am opposed to the whole thing. I think that smoking even in the best of circumstances is a filthy habit and nobody should encourage it. Somebody has raised the question of nationalisation of television. 
 The  DEPUTY CHAIRMAN (Mr Drury)  - Order! I ask the right honourable gentleman to relate his remarks to the amendment 
 1 was led astray by the honourable member for Angas  (Mr Giles)  who said that the Australian Labor Party's policy was to nationalise television stations. So it was, but the present Government altered our policy. The Australian Labor Party provided for  nationalisation of television stations and the Government of which I was a member laid it down in legislation. I do not want to proceed any further on that other than to say that we in the Opposition are great nationalisers - banking, insurance and everything else - because we are socialists. I am not in favour of running away from anything. But to get back to smoking; smoking is a hazard. I hope we will do everything we can to influence the Australian people to abandon their smoking habit and not cultivate it. When this Bill comes to a vote I hope we will all act honestly and when the siren voices say to us: 'You can get some money from us if you want provided you support our compaign*, I hope we will be like Ulysses and strap ourselves to the mast and refuse to be perverted. 
@@ -452,10 +452,10 @@ Were 1,571 companies registered in Norfolk Island at 1st January 1972 and 1,531 
 Are all these companies registered in Norfolk Island for the purpose of evading taxation. 
 Can he say whether Vila is another tax evasion haven. 
 Is it a fact that the Reserve Bank has placed no insurmountable barriers to the movement of capital or funds because these are channelled to other places; if not, what is the real position. 
-asked the Minister for Defence, upon notice: 
-How many (a) regular and (b) national servicemen have been (i) killed and (ii) wounded in Vietnam since 1st January 1967. 
 asked the Minister for Immigration, upon notice: 
 What are the titles and dates of all agreements made with other countries on all matters affecting immigration since 1945. 
+asked the Minister for Defence, upon notice: 
+How many (a) regular and (b) national servicemen have been (i) killed and (ii) wounded in Vietnam since 1st January 1967. 
 I desire to ask the Prime Minister a question. Has he seen a report in today's 'Australian' that he had visited  Sir Robert  Menzies recently to secure advice on how to win elections? If so, is there any truth in the statement? Is there any justification for a man named Alan Ramsey, who acquired some notoriety here a little while back, to write such a story? Worst of all, is it a fact that one of his senior Ministers leaked this information to  Mr Ramsey? 
 asked the Prime Minister, upon notice; 
 When he is considering the personnel of the committee of inquiry into poverty in Australia, will he include a person who believes that it is impossible to abolish poverty under the capitalist system. 
@@ -492,17 +492,21 @@ How many of those approved have guarantees of housing and employment opportuniti
 To what extent are those approved foi admission being assisted and guaranteed by church and secular organisations. 
 Has he any information which shows that the overwhelming majority of Australians do not want to see any Ugandan Asians brought to Australia and also that they feel strongly that the intake of 10,000 coloured and semi-coloured migrants, other than Chinese, should be reduced to no more than SOO annually. 
 Will he tell the do-gooders who have been pressurising bis Department on African and Asian migration to exhaust themselves in doing something practical to help fair dinkum Australians to do something worthwhile for the Australian Aborigines who alone have a claim for justice and fair treatment by the Australian people. 
-asked the Minister representing the Attorney-General, upon notice: 
-What action has the Government taken to prevent or minimise the possibility of the hijacking of aircraft in Australia. 
-Has a parly consisting of an Assistant Secretary of the Attorney-General's Department and two leading Commonwealth Police officers, now in the United States of America, been asked to report on the question of hijacking of aircraft in that and other countries. 
-What lessons have been learnt from the recent tragedy at the Olympic Games in Munich following the capture of Israeli athletes and the attempted hijacking of an aircraft by members of the Palestinian Liberation Movement. 
 asked the Minister representing the Minister for Health, upon notice: 
 Has the Minister's attention been drawn to a report from Peking which appeared in the Australian Press recently to the effect that venereal disease has been eradicated in Communist China. 
 If so, has he any information with respect to this report. 
 If necessary, will he ask some Australian Chinese Communophile who has visited China in recent times to assist him to determine the facts. 
 If it is finally established that Communist China has eradicated venereal disease, why has Australia not been able to do the same. 
+asked the Minister representing the Attorney-General, upon notice: 
+What action has the Government taken to prevent or minimise the possibility of the hijacking of aircraft in Australia. 
+Has a parly consisting of an Assistant Secretary of the Attorney-General's Department and two leading Commonwealth Police officers, now in the United States of America, been asked to report on the question of hijacking of aircraft in that and other countries. 
+What lessons have been learnt from the recent tragedy at the Olympic Games in Munich following the capture of Israeli athletes and the attempted hijacking of an aircraft by members of the Palestinian Liberation Movement. 
 asked the PostmasterGeneral, upon notice: 
 Will he consider the issue  of  a special postage stamp to mark the diamond jubilee of the introduction of the first social service of its kind  in  the world, the maternity bonus, by, the Fisher Labor Government in 1912. 
+asked the Prime Minister, upon notice: 
+Is it a fact that both Canada and New Zealand have a separate National Anthem as well as  '000*  Save The Queen'. 
+If so, why cannot Australia have its own National Anthem as well as 'God Save The Queen'. 
+If there is no valid objection to an Australian Anthem, when does the Government intend to give the people of Australia an opportunity to produce an Australian equivalent to 'La Marseillaise' and 'The Star Spangled Banner'. 
 I thank honourable members for their kindness. I wish to ask the Prime Minister a question. This is the last question that I will ever be able to ask in this House and it concerns peace - peace in Indo-China. I ask the right honourable gentleman: Are his relations with President Nixon so friendly and complete - and I hope they are - as to encourage him to believe that a negotiated peace settlement is likely to be achieved in Vietnam, Laos and Cambodia at any early date? 
 
  - Mr Speaker, I seek leave to make a personal explanation. 
@@ -523,10 +527,6 @@ asked  the  Minister for Immigration, upon notice:
 Has his attention been drawn to the declaration, signed by Professor E. G. Saint who was Dean of the Faculty of Medicine in the University of Queensland, which appeared in the West Australian' on 20th November 1963, in support of a claim that Australia's immigration policy needed reappraisal so that our restrictiveness should balance a regard for our national interests with some concern for the susceptibilities of our coloured neighbours; if so, why was Professor Saint appointed a member of the Committee on Overseas Professional Qualifications in March 1969. 
 Is the Government satisfied that Professor Saint, as a member of the Committee on Overseas Professional Qualifications, has acted in such a way as to preserve the high medical standards of Australia and that he has supported the decisions of branches of the Australian Medical Association and the various medical boards to make sure that Indian and Pakistani doctors who possess only the highest qualifications are admitted to practise in Australia. 
 Will he make available that part of any recent report of the Committee on Overseas Professional Qualifications which deals specifically with the medical qualifications, now demanded or to be demanded, of medical practitioners seeking to be admitted to Australia from India, Pakistan, Uganda and the Caribbean Islands. 
-asked the Prime Minister, upon notice: 
-Is it a fact that both Canada and New Zealand have a separate National Anthem as well as  '000*  Save The Queen'. 
-If so, why cannot Australia have its own National Anthem as well as 'God Save The Queen'. 
-If there is no valid objection to an Australian Anthem, when does the Government intend to give the people of Australia an opportunity to produce an Australian equivalent to 'La Marseillaise' and 'The Star Spangled Banner'. 
 asked the Minister  for  Immigration, upon notice: 
 Has his attention been drawn to a reported statement by,  Dr Alan  McLean of Newcastle, New South Wales, that it was a widely held opinion that the standard of doctors in Australia was being eroded by the admission to this country of some Asian doctors. 
 How many Indian and Pakistani doctors with qualifications below those required by Australian universities entered Australia during the last 5 years. 

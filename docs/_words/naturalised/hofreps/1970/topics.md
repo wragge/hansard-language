@@ -1,0 +1,104 @@
+---
+layout: default
+title: naturalised - hofreps - 1970 - Topics
+---
+## Topics when the word **naturalised** was used in the House of Representatives during the 1970s
+
+| Topic | Number of uses |
+|--------------|----------------|
+|SOCIAL SERVICES BILL (No. 3) 1972: Second Reading|25|
+|PART IV: Article 18|12|
+|AUSTRALIAN CITIZENSHIP BILL 1973: Second Reading|8|
+|ADJOURNMENT|7|
+|PASSPORTS AMENDMENT BILL 1979: Second Reading|6|
+|CRIMES BILL 1973: Second Reading|6|
+|QUESTION: CONFIDENCE IN ATTORNEYGENERAL: CROATIAN TERRORISM|6|
+|APPROPRIATION BILL (No. 1) 1971-72|6|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australians Travelling to New Zealand (Question No. 4298)|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Citizenship (Question No. 396)|5|
+|CONSTITUTION ALTERATION (DEMOCRATIC ELECTIONS) BILL 1974: Second Reading|4|
+|EXECUTIONS IN YUGOSLAVIA: Discussion of Matter of Public Importance|4|
+|APPROPRIATION BILL (No. 1) 1977-78|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: United States- Australian Defence or Scientific Installations or Facilities (Question No. 1417)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Citizenship Status (Question No. 2922)|4|
+|QUESTION: NEW PROMOTIONS SCHEME FOR SOUTH AUSTRALIAN TEACHERS|4|
+|FOREIGN INVESTMENT POLICY AND EXCHANGE CONTROL PROCEDURES: Ministerial Statement|4|
+|APPROPRIATION BILL (No. 1) 1970-71|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Age Pension (Question No. 2598)|3|
+|SOCIAL SERVICES BILL: Second Reading|3|
+|APPROPRIATION BILL (No. 1) 1978-79|3|
+|FOREIGN INVESTMENT POLICY: Ministerial Statement|2|
+|JOINT COMMITTEE ON FOREIGN AFFAIRS AND DEFENCE: Appointment|2|
+|QUESTION: DEPARTMENT OF SUPPLY|2|
+|APPROPRIATION BILL (No.1) 1970-71: Second Reading (Budget Debate)|2|
+|MOVES TO PREVENT OVERSEAS TAKEOVER OF NORTHERN TERRITORY URANIUM DEPOSITS: Special Additional Payments for Age and Invalid Pensioners|2|
+|QUESTION: IMMIGRATION|2|
+|FOR DARWIN: Reference to Public Works Committee|2|
+|SA: Migrants: Deportations (Question No. 504)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Armed Services: Officer Entry (Question No. 3221)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Nationalisation (Question No. 716)|2|
+|IMMIGRATION (EDUCATION) BILL 1970: Second Reading|2|
+|APPROPRIATION BILL (No. 1) 1976-77|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Population Statistics (Question No. 4505)|2|
+|QUESTION: CONSTITUTION REVIEW COMMITTEE 1958|2|
+|QUESTION: CHINESE CITIZENS: EXIT VISAS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Enrolment of Naturalised Citizens (Question No. 1184)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr V. Petrov (Question No. 6431)|2|
+|AUSTRALIAN SECURITY INTELLIGENCE ORGANIZATION BILL 1979|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Telephone Directories (Question No. 3080)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants: Origins and Naturalisation (Question No. 4563)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naturalisation Statistics (Question No. 1188)|2|
+|APPROPRIATION BILL (No.1)1970-71: Second Reading (Budget Debate)|2|
+|SOME VIEWS ON THE IMMIGRATION OF LEBANESE TO AUSTRALIA: Conclusion|1|
+|DUAL NATIONALITY: Ministerial Statement|1|
+|COMMONWEALTH ELECTORAL BILL (No. 2) 1973: Second Reading|1|
+|AUSTRALIAN INSTITUTE OF MAKINE SCIENCE BILL 1972|1|
+|QUESTION: COMMONWEALTH ELECTORAL ACT (No. 2) 1973|1|
+|COMMONWEALTH ELECTORAL BILL (No. 2) 1973: Third Reading|1|
+|GRIEVANCE DEBATE|1|
+|ELECTORAL DIVISIONS OF WESTERN AUSTRALIA: Proposed Redistribution|1|
+|QUESTION: REFERENDUM: GOVERNMENT ADVERTISING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australians of Former German Nationality (Question No. 3417)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Service (Question No. 1906)|1|
+|COMMONWEALTH ELECTORAL AMENDMENT BILL 1977: Second Reading|1|
+|QUESTION: RECIPROCAL PENSIONS|1|
+|QUESTION: BALTIC COMMUNITY|1|
+|IMMIGRATION POLICIES AND AUSTRALIA'S POPULATION: Paper and Ministerial Statement|1|
+|COMMONWEALTH ELECTORAL BILL 1972: Second Reading|1|
+|CROATIAN TERRORISM: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Deportations (Question No. 4305)|1|
+|QUESTION: TIMOR: ENTRY VISA|1|
+|QUESTION: EXECUTION OF AUSTRALIAN CITIZENS|1|
+|COMMONWEALTH ELECTORAL BILL (No. 2) 1071: Second Reading|1|
+|COMMONWEALTH ELECTORAL BILL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naturalisation (Question No. 3110)|1|
+|QUESTION: AUSTRALIAN SECURITY INTELLIGENCE ORGANISATION|1|
+|RACIAL DISCRIMINATION BILL 1975|1|
+|AUSTRAIIAN CITIZENSHIP BILL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naturalisation (Question No. 4303)|1|
+|No: Multiphasic Health Screening Services Committee (Question No. 5565)|1|
+|ANGLO-AUSTRALIAN TELESCOPE AGREEMENT BILL 1970: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Electoral Divisions: Enrolments (Question No. 6093)|1|
+|QUESTION: DEPORTATION OF YUGOSLAVS|1|
+|PUBLIC SERVICE BILL (No. 4) 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Mr R. Chan: Appeal Against Conviction (Question No. 254)|1|
+|QUESTION: EXECUTIONS IN YUGOSLAVIA|1|
+|CRIMES (FOREIGN INCURSIONS AND RECRUITMENT) BILL 1978: Second Reading|1|
+|AMNESTY FOR ILLEGAL IMMIGRANTS: Discussion of Matter of Public Importance|1|
+|TASMANIA: Australians Travelling to New Zealand: Visas (Question No. 2181)|1|
+|ADJOURNMENT: Prawn Fishing - Wildlife Conservation - Australian Broadcasting Commission - Naturalised Immigrants: Liability for Foreign National Service - Wool Marketing|1|
+|QUESTION: REDISTRIBUTION OF NEW SOUTH WALES ELECTORAL DIVISIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Commonwealth Countries (Question No. 3697)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea (Question No. 664)|1|
+|QUESTION: POLISH LANGUAGE NEWSPAPER|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Deportation (Question No. 2520)|1|
+|APPROPRIATION BILL (No. 1) 1970-71: Second Reading (Budget Debate)|1|
+|OBSERVERS: Dual Nationality (Question No. 4807)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naturalisation (Question No. 2617)|1|
+|QUESTION: GREEK MIGRANT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Census: Housing Finance (Question No. 2151)|1|
+|QUESTION: DOCUMENT: ALLEGATION OF CONSPIRACY|1|
+|ADJOURNMENT: Sydney City Mission-Qantas Airways Ltd- National Aboriginal Conference- Education- Government Overseas Borrowings- Petroleum Industry|1|
+|COMMONWEALTH TEACHING SERVICE BILL 1972|1|
+|ADULTHOOD BILL 1970: Second Reading|1|
+|CONSULAR SERVICES: Ministerial Statement|1|

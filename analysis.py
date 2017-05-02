@@ -27,6 +27,7 @@ PARLIAMENTS = [str(p) for p in range(1, 33)]
 HOUSES = ['hofreps', 'senate']
 YEARS = [str(y) for y in range(1901, 1981)]
 STOPWORDS = nltk.corpus.stopwords.words('english')
+HOUSE_NAMES = {'hofreps': 'House of Representatives', 'senate': 'Senate'}
 
 
 WORDs = [
@@ -35,7 +36,7 @@ WORDs = [
     'revolution',
     'modernisation',
     'crisis',
-    #'white australia',
+    'white australia',
     'immigration',
     'multiculturalism',
     'britishness',
@@ -43,14 +44,14 @@ WORDs = [
     'freedoms',
     'welfare',
     'tyranny',
-    #'social experiment',
+    'social experiment',
     'federation',
     'states',
     'alliance',
     'independence',
     'decolonisation',
-    #'arms race',
-    #'papua new guinea'
+    'arms race',
+    'papua new guinea'
 ]
 
 LIST_TYPES = {
@@ -427,10 +428,12 @@ def word_frequency(word, house, decade):
     return results
 
 
-def list_people(house, decade=None, parliament=None, party=None):
+def list_people(house=None, decade=None, parliament=None, party=None):
     dbclient = MongoClient(MONGO_URL)
     db = dbclient.get_default_database()
-    query = {'house': house}
+    query = {'_id': {'$nin': ['10000', '20000']}}  # Speaker, President
+    if house:
+        query['house'] = house
     if decade:
         query['decade'] = decade
     if parliament:
@@ -474,31 +477,47 @@ def list_parties(house, decade=None, parliament=None):
     pprint.pprint(parties)
 
 
-def write_speeches_by_person(house, decade=None, parliament=None):
+def write_speeches_by_person(house=None, decade=None, parliament=None):
     dbclient = MongoClient(MONGO_URL)
     db = dbclient.get_default_database()
-    query = {'house': house}
+    query = {'_id': {'$nin': ['10000', '20000']}}
+    if house:
+        query['house'] = house
     if decade:
         query['decade'] = decade
     if parliament:
         query['parliament'] = parliament
     pipeline = [
         {'$match': query},
-        {'$group': {'_id': '$speaker.id', 'names': {'$addToSet': "$speaker.display_name"}}}
+        {'$group': {'_id': '$speaker.id', 'names': {'$addToSet': "$speaker.display_name"}, 'other_names': {'$addToSet': "$speaker.name"}}}
     ]
     people = db.speeches.aggregate(pipeline)
     for person in people:
-        person_name = person['names'][0]
-        for name in person['names']:
-            if not re.search(r'SPEAKER|CHAIRMAN', name):
-                person_name = name
-                break
+        try:
+            person_name = person['names'][0]
+            for name in person['names']:
+                if not re.search(r'SPEAKER|CHAIRMAN', name):
+                    person_name = name
+                    break
+        except IndexError:
+            person_name = person['other_names'][0]
+            for name in person['other_names']:
+                if not re.search(r'SPEAKER|CHAIRMAN', name):
+                    person_name = name
+                    break
         try:
             filename = '{}-{}.txt'.format(person['_id'], person_name.lower().replace(', ', '-').replace(' ', '-'))
         except UnicodeEncodeError:
             filename = '{}-{}.txt'.format(person['_id'], "".join(i for i in person_name.lower().replace(' ', '-').replace('.', '-') if ord(i) < 128))
-        with open(os.path.join('data', 'speeches', 'people', filename), 'ab') as text_file:
-            speeches = db.speeches.find({'speaker.id': person['_id']}).sort('date')
+        with open(os.path.join('data', 'speeches', 'people', filename), 'wb') as text_file:
+            query = {'speaker.id': person['_id']}
+            if house:
+                query['house'] = house
+            if decade:
+                query['decade'] = decade
+            if parliament:
+                query['parliament'] = parliament
+            speeches = db.speeches.find(query).sort('date')
             for speech in speeches:
                 for para in speech['text']:
                     text_file.write('{}\n'.format(para.encode('utf-8')))
@@ -568,12 +587,17 @@ def find_collocations(word, house, decade):
 
 
 def word_summary(word, decade):
+    if len(word.split()) == 1:
+        query_type = 'word'
+    else:
+        query_type = 'phrase'
     results_dir = os.path.join('docs', '_words', word.replace(' ', '-').strip('"'))
     if not os.path.exists(results_dir):
         os.makedirs(results_dir)
     with open(os.path.join(results_dir, 'index.html'), 'wb') as index_file:
         index_file.write('---\n')
         index_file.write('layout: word-index\n')
+        index_file.write('query_type: {}\n'.format(query_type))
         index_file.write('word: {}\n'.format(word))
         index_file.write('title: {}\n'.format(word))
         index_file.write('permalink: /:collection/:path\n')
@@ -616,10 +640,10 @@ def word_summary(word, decade):
                 url = 'https://historichansard.net/{}/{}/{}/'.format(house, result['year'], result['filename'])
                 if 'subdebate_title' in result:
                     title = '{}: {}'.format(result['debate_title'].encode('utf-8'), result['subdebate_title'].encode('utf-8'))
-                    speech_url = '{}#subdebate-{}-{}'.format(url, house, result['year'], result['filename'], result['debate_index'], result['subdebate_index'])
+                    speech_url = '{}#subdebate-{}-{}'.format(url, result['debate_index'], result['subdebate_index'])
                 else:
                     title = result['debate_title'].encode('utf-8')
-                    speech_url = '{}#debate-{}'.format(url, house, result['year'], result['filename'], result['debate_index'])
+                    speech_url = '{}#debate-{}'.format(url, result['debate_index'])
                 try:
                     topics[title] += freq['c']
                 except KeyError:
@@ -661,10 +685,12 @@ def word_summary(word, decade):
             )
             data = [go.Bar(x=day_x, y=day_y)]
             figure = go.Figure(data=data, layout=layout)
-            plotly_url = py.plot(figure, filename='{}-{}-{}'.format(word, house, decade))
+            plotly_url = py.plot(figure, filename='{}-{}-{}-bar'.format(word, house, decade), auto_open=False)
             plot_id = re.search(r'(\d+)', plotly_url).group(1)
             # fig = py.get_figure('wragge', plot_id)
             # py.image.save_as(fig, filename='{}/{}-{}-{}.png'.format(decade_dir, word, house, decade))
+            bubbleline_url = create_bubblelines([word], house, decade)
+            bubble_id = re.search(r'(\d+)', bubbleline_url).group(1)
             if len(word.split()) == 1:
                 blob = TextBlob(texts.decode('ascii', errors="ignore"))
                 finder = BigramCollocationFinder.from_words(blob.words.lower())
@@ -682,13 +708,19 @@ def word_summary(word, decade):
             output = '---\n'
             output += 'layout: default\n'
             output += 'word: "{}"\n'.format(word)
+            output += 'query_type: "{}"\n'.format(query_type)
             output += 'house: "{}"\n'.format(house)
+            output += 'house_full: "{}"\n'.format(HOUSE_NAMES[house])
             output += 'decade: "{}"\n'.format(decade)
             output += 'title: "{} - {} - {}"\n'.format(word, house, decade)
             output += 'permalink: /:collection/:path\n'
+            output += 'bubble_id: {}\n'.format(bubble_id)
+            output += 'total_words: {}\n'.format(total_words)
+            output += 'total_speeches: {}\n'.format(total)
             output += '---\n\n'
-            output += '\n## Searching for &lsquo;{}&rsquo; in {} within the {}s...\n\n'.format(word, house, decade)
-            output += '### The word "{}":\n\n'.format(word)
+            output += '\n## Searching for the {} **{}** in {} within the {}s...\n\n'.format(query_type, word, HOUSE_NAMES[house], decade)
+            output += '<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wragge/{}.embed"></iframe>\n\n'.format(bubble_id)
+            output += '### The {} **{}**\n\n'.format(query_type, word)
             output += '* appears in {:.1%} of speeches\n'.format(float(total) / total_speeches)
             output += '* appears {} times in {} speeches\n'.format(total_words, total)
             output += '* was spoken on {} sitting days by {} different people\n'.format(len(days), len(speakers))
@@ -717,9 +749,12 @@ def word_summary(word, decade):
                     output += '* {} ({} appearances)\n'.format(' '.join(collocation[0]), collocation[1])
                 output += '* [View all...](collocations/)\n'
             output += '\n\n### Sample sentences:\n\n'
-            sample_sentences = random.sample(sentences, 5) if len(sentences) else sentences
+            try:
+                sample_sentences = random.sample(sentences, 5) if len(sentences) else sentences
+            except ValueError:
+                sample_sentences = sentences
             for sentence in sample_sentences:
-                output += '* {}\n\n'.format(re.sub(r'\b({})\b'.format(word), r'**\1**', str(sentence['sentence']), flags=re.IGNORECASE))
+                output += '* {}\n\n'.format(re.sub(r'\b({})\b'.format(word), r'<span class="highlight">\1</span>', str(sentence['sentence']), flags=re.IGNORECASE))
             output += '* [View all...](contexts/)\n'
             print output
             with open(os.path.join(decade_dir, 'index.md'), 'wb') as md_file:
@@ -729,14 +764,14 @@ def word_summary(word, decade):
                 md_file.write('layout: default\n')
                 md_file.write('title: {} - {} - {} - Speakers\n'.format(word, house, decade))
                 md_file.write('---\n')
-                md_file.write('## Speakers who used the word "{}" in the {} during the {}s\n\n'.format(word, house, decade))
+                md_file.write('## Speakers who used the {} **{}** in the {} during the {}s\n\n'.format(query_type, word, HOUSE_NAMES[house], decade))
                 md_file.write('| Speaker name | Number of uses |\n')
                 md_file.write('|--------------|----------------|\n')
                 for speaker in sorted_speakers:
                     details = db.people.find_one({'_id': speaker})
                     try:
                         speaker_name = [n for n in details['display_names'] if 'SPEAKER' not in n and 'CHAIRMAN' not in n][0]
-                    except TypeError:
+                    except (TypeError, IndexError):
                         speaker_name = details['names'][0]
                     md_file.write('|{}|{}|\n'.format(speaker_name, speakers[speaker]))
             with open(os.path.join(decade_dir, 'days.md'), 'wb') as md_file:
@@ -744,7 +779,7 @@ def word_summary(word, decade):
                 md_file.write('layout: default\n')
                 md_file.write('title: {} - {} - {} - Days\n'.format(word, house, decade))
                 md_file.write('---\n')
-                md_file.write('## Sitting days when the word "{}" was used in the {} during the {}s\n\n'.format(word, house, decade))
+                md_file.write('## Sitting days when the {} **{}** was used in the {} during the {}s\n\n'.format(query_type, word, HOUSE_NAMES[house], decade))
                 # md_file.write('[![Chart of frequencies by date](../{}-{}-{}.png)]({})\n\n'.format(word, house, decade, plotly_url))
                 md_file.write('<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wragge/{}.embed"></iframe>\n\n'.format(plot_id))
                 md_file.write('| Date | Number of uses |\n')
@@ -757,7 +792,7 @@ def word_summary(word, decade):
                 md_file.write('layout: default\n')
                 md_file.write('title: {} - {} - {} - Topics\n'.format(word, house, decade))
                 md_file.write('---\n')
-                md_file.write('## Topics when the word "{}" was used in the {} during the {}s\n\n'.format(word, house, decade))
+                md_file.write('## Topics when the {} **{}** was used in the {} during the {}s\n\n'.format(query_type, word, HOUSE_NAMES[house], decade))
                 md_file.write('| Topic | Number of uses |\n')
                 md_file.write('|--------------|----------------|\n')
                 for topic in sorted_topics:
@@ -768,7 +803,7 @@ def word_summary(word, decade):
                     md_file.write('layout: default\n')
                     md_file.write('title: {} - {} - {} - Collocations\n'.format(word, house, decade))
                     md_file.write('---\n')
-                    md_file.write('## Collocations for the word "{}" when used in the {} during the {}s\n\n'.format(word, house, decade))
+                    md_file.write('## Collocations for the {} **{}** when used in the {} during the {}s\n\n'.format(query_type, word, HOUSE_NAMES[house], decade))
                     md_file.write('| Collocation | Frequency |\n')
                     md_file.write('|--------------|----------------|\n')
                     for collocation in collocations:
@@ -778,13 +813,35 @@ def word_summary(word, decade):
                 md_file.write('layout: default\n')
                 md_file.write('title: {} - {} - {} - Contexts\n'.format(word, house, decade))
                 md_file.write('---\n')
-                md_file.write('## Contexts in which the word "{}" was used in the {} during the {}s\n\n'.format(word, house, decade))
+                md_file.write('## Contexts in which the {} **{}** was used in the {} during the {}s\n\n'.format(query_type, word, HOUSE_NAMES[house], decade))
                 for sentence in sentences:
-                    md_file.write('* {} [[More&hellip;]]({})\n\n'.format(re.sub(r'\b({})\b'.format(word), r'**\1**', str(sentence['sentence']), flags=re.IGNORECASE), sentence['url']))
+                    md_file.write('* {} [[More&hellip;]]({})\n\n'.format(re.sub(r'\b({})\b'.format(word), r'<span class="highlight">\1</span>', str(sentence['sentence']), flags=re.IGNORECASE), sentence['url']))
             # Contexts -- sentences
             # People
             # Debates
             # Collocations
+
+
+def comparisons(words, decade):
+    plot_ids = {}
+    for house in HOUSES:
+        plotly_url = create_bubblelines(words, house, decade)
+        plot_ids[house] = re.search(r'(\d+)', plotly_url).group(1)
+    for word in words:
+        print word
+        word_dir = os.path.join('docs', '_words', word.replace(' ', '-').strip('"'))
+        if not os.path.exists(word_dir):
+            word_summary(word, decade)
+    with open(os.path.join('docs', '_comparisons', '{}.md'.format(' '.join(words).replace(' ', '-'))), 'wb') as md_file:
+        md_file.write('---\n')
+        md_file.write('layout: comparison\n')
+        md_file.write('decade: {}\n'.format(decade))
+        md_file.write('words:\n')
+        for word in words:
+            md_file.write('    - {}\n'.format(word))
+        md_file.write('hofreps_plot: {}\n'.format(plot_ids['hofreps']))
+        md_file.write('senate_plot: {}\n'.format(plot_ids['senate']))
+        md_file.write('---\n')
 
 
 def make_clouds():
@@ -797,7 +854,7 @@ def make_clouds():
             image.save(image_name)
 
 
-def chart_frequencies(words, house, decade):
+def create_bubblelines(words, house, decade):
     traces = []
     for word in words:
         dates = []
@@ -807,7 +864,7 @@ def chart_frequencies(words, house, decade):
         results = word_frequency(word, house, decade)
         for result in results:
             dates.append(result['date'])
-            counts.append(result['count'])
+            counts.append(result['count'] * 10)
             text.append('{} uses'.format(result['count']))
             labels.append(word)
         trace = dict(
@@ -818,13 +875,14 @@ def chart_frequencies(words, house, decade):
             mode='markers',
             marker=dict(
                 size=counts,
-                opacity=0.4
+                opacity=0.4,
+                sizemode="area"
             ),
             hoverinfo='x+text'
         )
         traces.append(trace)
     layout = go.Layout(
-        title='Word frequencies: {}, {}s'.format(house.upper(), decade),
+        title='Word frequencies: {}, {}s'.format(HOUSE_NAMES[house], decade),
         xaxis=dict(
             title='Date'
         ),
@@ -842,13 +900,235 @@ def chart_frequencies(words, house, decade):
         showlegend=False
     )
     figure = dict(data=traces, layout=layout)
-    plotly_url = py.plot(figure, filename='{}-{}-{}'.format('-'.join(words), house, decade), validate=False)
-    print plotly_url
+    plotly_url = py.plot(figure, filename='{}-{}-{}-bubbles'.format('-'.join(words), house, decade), validate=False, auto_open=False)
+    return plotly_url
+
+
+def people(decade):
+    dbclient = MongoClient(MONGO_URL)
+    db = dbclient.get_default_database()
+    all_friends = compare_people()
+    tfidf = generate_tfidf(os.path.join('data', 'speeches', 'people'), 1)
+    people = [p for p in list_people(decade='1970') if p['_id'] not in ['20000', '10000']]
+    for person in people:
+        friends = all_friends[person['_id']]
+        person_dir = os.path.join('docs', '_people', '{}-{}'.format(person['_id'], friends['name'].lower().replace(',', '').replace(' ', '-')))
+        if not os.path.exists(person_dir):
+            os.makedirs(person_dir)
+            print person['_id']
+            topics = defaultdict(int)
+            days = defaultdict(int)
+            total_speeches = db.speeches.count({'speaker.id': person['_id'], 'decade': decade})
+            speeches = db.speeches.find({'speaker.id': person['_id'], 'decade': decade})
+            for result in speeches:
+                texts = ''
+                url = 'https://historichansard.net/{}/{}/{}/'.format(result['house'], result['year'], result['filename'])
+                if 'subdebate_title' in result:
+                    title = '{}: {}'.format(result['debate_title'].encode('utf-8'), result['subdebate_title'].encode('utf-8'))
+                    speech_url = '{}#subdebate-{}-{}'.format(url, result['debate_index'], result['subdebate_index'])
+                else:
+                    title = result['debate_title'].encode('utf-8')
+                    speech_url = '{}#debate-{}'.format(url, result['debate_index'])
+                try:
+                    topics[title] += 1
+                except KeyError:
+                    topics[title] = 1
+                for para in result['text']:
+                    texts += '{}\n'.format(para.encode('utf-8'))
+                speech_blob = TextBlob(texts.decode('ascii', errors="ignore"))
+                try:
+                    days[result['date']]['count'] += len(speech_blob.words())
+                except (KeyError, TypeError):
+                    days[result['date']] = {'url': url, 'count': len(speech_blob.words), 'date': result['date']}
+                data_dir = os.path.join('data', 'speeches', 'people')
+                for file in os.listdir(data_dir):
+                    if file.split('-')[0] == person['_id']:
+                        data_file = file
+                        break
+            with open(os.path.join(data_dir, data_file), 'rb') as text_file:
+                blob = TextBlob(text_file.read().decode('ascii', errors="ignore"))
+            total_words = len(blob.words)
+            for score in tfidf:
+                if score['name'] == data_file[:-4]:
+                    sig_words = score['scores']
+                    break
+            sorted_days = sorted(days.values(), key=itemgetter('count'), reverse=True)
+            sorted_topics = sorted(topics, key=topics.get, reverse=True)
+            word_counts = [[word, count] for word, count in blob.lower().word_counts.items() if word not in STOPWORDS and count > 1]
+            bigrams = [' '.join(bigram).lower() for bigram in blob.lower().ngrams(2) if stopwords_check(bigram)]
+            bigram_counts = [[word, count] for word, count in Counter(bigrams).items() if count > 1]
+            trigrams = [' '.join(trigram).lower() for trigram in blob.lower().ngrams(3) if stopwords_check(trigram)]
+            trigram_counts = [[word, count] for word, count in Counter(trigrams).items() if count > 1]
+            word_counts = sorted(word_counts, key=itemgetter(1), reverse=True)[:200]
+            bigram_counts = sorted(bigram_counts, key=itemgetter(1), reverse=True)[:200]
+            trigram_counts = sorted(trigram_counts, key=itemgetter(1), reverse=True)[:200]
+            # np_counts = [[word, count] for word, count in blob.lower().np_counts.items() if count > 1]
+            # np_counts = sorted(np_counts, key=itemgetter(1), reverse=True)[:200]
+            day_x = []
+            day_y = []
+            for day in sorted_days:
+                day_x.append(datetime.strptime(day['date'], '%Y-%m-%d'))
+                day_y.append(day['count'])
+            layout = go.Layout(
+                xaxis=dict(
+                    title='Date'
+                ),
+                yaxis=dict(
+                    title='Number of words'
+                )
+                # width=1000,
+                # height=500
+            )
+            data = [go.Bar(x=day_x, y=day_y)]
+            figure = go.Figure(data=data, layout=layout)
+            plotly_url = py.plot(figure, filename='{}-{}-bar'.format(person['_id'], decade), auto_open=False)
+            plot_id = re.search(r'(\d+)', plotly_url).group(1)
+            with open(os.path.join(person_dir, 'index.md'), 'wb') as person_file:
+                person_file.write('---\n')
+                person_file.write('layout: default\n')
+                person_file.write('title: {}\n'.format(friends['name']))
+                person_file.write('person_party: {}\n'.format(friends['party']))
+                person_file.write('plot_id: {}\n'.format(plot_id))
+                person_file.write('total_words: {}\n'.format(total_words))
+                person_file.write('permalink: /:collection/:path\n')
+                person_file.write('---\n\n')
+                person_file.write('## {}\n'.format(friends['name']))
+                person_file.write('\n<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wragge/{}.embed"></iframe>\n\n'.format(plot_id))
+                person_file.write('\n### Summary for the {}s:\n\n'.format(decade))
+                person_file.write('* {} words spoken\n'.format(total_words))
+                person_file.write('* {} speeches over {} sitting days\n'.format(total_speeches, len(days)))
+                person_file.write('\n\n### Top days:\n\n')
+                for day in sorted_days[:5]:
+                    formatted_date = datetime.strptime(day['date'], '%Y-%m-%d').strftime('%-d %B %Y')
+                    person_file.write('* {} ({} words)\n'.format(formatted_date, day['count']))
+                person_file.write('* [View all...](days/)\n')
+                person_file.write('\n\n### Top topics:\n\n')
+                for topic in sorted_topics[:5]:
+                    person_file.write('* {} ({} speeches)\n'.format(topic, topics[topic]))
+                person_file.write('* [View all...](topics/)\n')
+                person_file.write('\n\n### Top words:\n\n')
+                for word in word_counts[:5]:
+                    person_file.write('* {} ({} uses)\n'.format(word[0].encode('utf-8'), word[1]))
+                person_file.write('* [View all...](words/)\n')
+                person_file.write('\n\n### Distinctive words:\n\n')
+                for word, score in sig_words[:5]:
+                    person_file.write('* {} ({})\n'.format(word.encode('utf-8'), score))
+                person_file.write('* [View all...](sig_words/)\n')
+                if bigram_counts:
+                    person_file.write('\n\n### Top bigrams:\n\n')
+                    for word in bigram_counts[:5]:
+                        person_file.write('* {} ({} uses)\n'.format(word[0].encode('utf-8'), word[1]))
+                    person_file.write('* [View all...](bigrams/)\n')
+                if trigram_counts:
+                    person_file.write('\n\n### Top trigrams:\n\n')
+                    for word in trigram_counts[:5]:
+                        person_file.write('* {} ({} uses)\n'.format(word[0].encode('utf-8'), word[1]))
+                    person_file.write('* [View all...](trigrams/)\n')
+                '''
+                if np_counts:
+                    person_file.write('\n\n### Top noun phrases:\n\n')
+                    for word in np_counts[:5]:
+                        person_file.write('* {} ({} uses)\n'.format(word[0], word[1]))
+                    person_file.write('* [View all...](noun_phrases/)\n')
+                '''
+                person_file.write('\n\n### Most like:\n\n')
+                for friend in friends['friends'][:5]:
+                    person_file.write('* {} {}\n'.format(friend['name'], '({})'.format(friend['party']) if friend['party'] else ''))
+                person_file.write('* [View all...](similarities/)\n')
+            with open(os.path.join(person_dir, 'days.md'), 'wb') as md_file:
+                md_file.write('---\n')
+                md_file.write('layout: default\n')
+                md_file.write('title: {} - {} - Days\n'.format(person['_id'], friends['name'].lower().replace(',', '').replace(' ', '-')))
+                md_file.write('---\n')
+                md_file.write('## Sitting days when {} spoke during the {}s\n\n'.format(friends['name'], decade))
+                # md_file.write('[![Chart of frequencies by date](../{}-{}-{}.png)]({})\n\n'.format(word, house, decade, plotly_url))
+                md_file.write('<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plot.ly/~wragge/{}.embed"></iframe>\n\n'.format(plot_id))
+                md_file.write('| Date | Number of words |\n')
+                md_file.write('|--------------|----------------|\n')
+                for day in sorted_days:
+                    formatted_date = datetime.strptime(day['date'], '%Y-%m-%d').strftime('%-d %B %Y')
+                    md_file.write('|[{}]({})|{}|\n'.format(formatted_date, day['url'], day['count']))
+            with open(os.path.join(person_dir, 'topics.md'), 'wb') as md_file:
+                md_file.write('---\n')
+                md_file.write('layout: default\n')
+                md_file.write('title: {} - {} - Topics\n'.format(person['_id'], friends['name'].lower().replace(',', '').replace(' ', '-')))
+                md_file.write('---\n')
+                md_file.write('## Topics that {} spoke about during the {}s\n\n'.format(friends['name'], decade))
+                md_file.write('| Topic | Number of speeches |\n')
+                md_file.write('|--------------|----------------|\n')
+                for topic in sorted_topics:
+                    md_file.write('|{}|{}|\n'.format(topic, topics[topic]))
+            with open(os.path.join(person_dir, 'words.md'), 'wb') as md_file:
+                md_file.write('---\n')
+                md_file.write('layout: default\n')
+                md_file.write('title: {} - {} - Words\n'.format(person['_id'], friends['name'].lower().replace(',', '').replace(' ', '-')))
+                md_file.write('---\n')
+                md_file.write('## Words used by {} during the {}s\n\n'.format(friends['name'], decade))
+                md_file.write('| Words | Number of uses |\n')
+                md_file.write('|--------------|----------------|\n')
+                for word in word_counts:
+                    md_file.write('|{}|{}|\n'.format(word[0], word[1]))
+            with open(os.path.join(person_dir, 'sig_words.md'), 'wb') as md_file:
+                md_file.write('---\n')
+                md_file.write('layout: default\n')
+                md_file.write('title: {} - {} - Distinctive words\n'.format(person['_id'], friends['name'].lower().replace(',', '').replace(' ', '-')))
+                md_file.write('---\n')
+                md_file.write('## Distinctive words used by {} during the {}s\n\n'.format(friends['name'], decade))
+                md_file.write('| Words | TF-IDF score |\n')
+                md_file.write('|--------------|----------------|\n')
+                for word in sig_words:
+                    md_file.write('|{}|{}|\n'.format(word[0].encode('utf-8'), word[1]))
+            if bigram_counts:
+                with open(os.path.join(person_dir, 'bigrams.md'), 'wb') as md_file:
+                    md_file.write('---\n')
+                    md_file.write('layout: default\n')
+                    md_file.write('title: {} - {} - Bigrams\n'.format(person['_id'], friends['name'].lower().replace(',', '').replace(' ', '-')))
+                    md_file.write('---\n')
+                    md_file.write('## Words used by {} during the {}s\n\n'.format(friends['name'], decade))
+                    md_file.write('| Bigrams | Number of uses |\n')
+                    md_file.write('|--------------|----------------|\n')
+                    for word in bigram_counts:
+                        md_file.write('|{}|{}|\n'.format(word[0].encode('utf-8'), word[1]))
+            if trigram_counts:
+                with open(os.path.join(person_dir, 'trigrams.md'), 'wb') as md_file:
+                    md_file.write('---\n')
+                    md_file.write('layout: default\n')
+                    md_file.write('title: {} - {} - Trigrams\n'.format(person['_id'], friends['name'].lower().replace(',', '').replace(' ', '-')))
+                    md_file.write('---\n')
+                    md_file.write('## Words used by {} during the {}s\n\n'.format(friends['name'], decade))
+                    md_file.write('| Trigrams | Number of uses |\n')
+                    md_file.write('|--------------|----------------|\n')
+                    for word in trigram_counts:
+                        md_file.write('|{}|{}|\n'.format(word[0].encode('utf-8'), word[1]))
+            '''
+            if np_counts:
+                with open(os.path.join(person_dir, 'noun_phrases.md'), 'wb') as md_file:
+                    md_file.write('---\n')
+                    md_file.write('layout: default\n')
+                    md_file.write('title: {} - {} - Noun Phrases\n'.format(person['_id'], friends['name'].lower().replace(',', '').replace(' ', '-')))
+                    md_file.write('---\n')
+                    md_file.write('## Words used by {} during the {}s\n\n'.format(friends['name'], decade))
+                    md_file.write('| Noun phrases | Number of uses |\n')
+                    md_file.write('|--------------|----------------|\n')
+                    for word in np_counts:
+                        md_file.write('|{}|{}|\n'.format(word[0], word[1]))
+            '''
+            with open(os.path.join(person_dir, 'similarities.md'), 'wb') as md_file:
+                md_file.write('---\n')
+                md_file.write('layout: default\n')
+                md_file.write('title: {} - {} - Like speakers\n'.format(person['_id'], friends['name'].lower().replace(',', '').replace(' ', '-')))
+                md_file.write('---\n')
+                md_file.write('## People whose speech is most like {} during the {}s\n\n'.format(friends['name'], decade))
+                md_file.write('| Name | Party | Similarity|\n')
+                md_file.write('|--------------|----------------|----------------|\n')
+                for friend in friends['friends']:
+                    md_file.write('|{}|{}|{}|\n'.format(friend['name'], friend['party'], friend['score']))
 
 
 def compare_people(data_dir='data/speeches/people/'):
     dbclient = MongoClient(MONGO_URL)
     db = dbclient.get_default_database()
+    data = {}
     people = []
     names = [file[:-4] for file in os.listdir(data_dir) if file[-4:] == '.txt']
     for name in names:
@@ -868,10 +1148,11 @@ def compare_people(data_dir='data/speeches/people/'):
             title_party = people[index]['parties'][0].split(';')[0]
         except (KeyError, IndexError, TypeError, AttributeError):
             title_party = None
-        print '\n\n{} {}\n'.format(title_name, '({})'.format(title_party) if title_party else '')
+        # print '\n\n{} {}\n'.format(title_name, '({})'.format(title_party) if title_party else '')
+        data[people[index]['_id']] = {'name': title_name, 'party': title_party, 'friends': []}
         scores = [pair for pair in zip(range(0, len(row)), row)]
         sorted_scores = sorted(scores, key=lambda t: t[1] * -1)
-        friends = sorted_scores[1:11]
+        friends = sorted_scores[1:]
         for friend in friends:
             try:
                 friend_name = [n for n in people[friend[0]]['display_names'] if 'SPEAKER' not in n and 'CHAIRMAN' not in n][0]
@@ -881,4 +1162,6 @@ def compare_people(data_dir='data/speeches/people/'):
                 friend_party = people[friend[0]]['parties'][0].split(';')[0]
             except (KeyError, IndexError, TypeError, AttributeError):
                 friend_party = None
-            print '    * {:40} {}'.format('{} ({})'.format(friend_name, friend_party) if friend_party else friend_name, friend[1])
+            # print '    * {:40} {}'.format('{} ({})'.format(friend_name, friend_party) if friend_party else friend_name, friend[1])
+            data[people[index]['_id']]['friends'].append({'name': friend_name, 'party': friend_party, 'score': friend[1]})
+    return data

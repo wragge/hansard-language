@@ -21,6 +21,13 @@ asked the Minister for Health, upon notice:
 asked the Minister for the Environment and Conservation, upon notice: 
 1 ) Have surveys of pollution levels in Cockburn Sound been made since completion of the Garden Island Causeway; if so, what were the results of the surveys. 
 Are future surveys scheduled, if so, when. 
+asked the Minister for Health, upon notice: 
+1 ) Did the departmental committee which investigated quarantine in Western Australia in March 1974 report any quarantine deficiencies (a) at Fremantle, (b) at Perth Airport, (c) at ports in the north west of Western Australia, (d) at aerodromes in the north west of Western Australia, (e) at Kwinana or (f) in the examination of overseas mail arriving in Western Australia. 
+If so, what were the deficiencies, and what subsequent corrective action has been taken. 
+asked the Minister for Health, upon notice: 
+What is the quarantine experience and training applicable to quarantine of each officer or employee of his Department employed in quarantine duties in Western Australia. 
+asked the Minister for Health, upon notice: 
+Has any action been taken by his Department to vaccinate Aboriginals at One Arm Point against smallpox following visits by Indonesian fishermen. 
 I am proud to represent the electorate of Canning in this House. I follow  Mr Jack  Hallett who represented Canning in this Parliament for some 1 1 years. Like  Mr Hallett,  my prime interest is in agriculture. Again in common with  Mr Hallett,  I have a vital interest in the wool industry although many of my views on the need for comprehensive wool marketing reform differ markedly from the views he often expressed. I pay tribute to  Mr Hallett  's contribution to this Parliament and his contribution to the electorate of Canning. 
 Canning is an electorate of some 49,000 square miles- the ninth largest in Australiacovering outer metropolitan areas within 16 miles of Perth and stretching through the agricultural areas of Western Australia to Esperance some 500 miles from Perth. Sixty per cent of people in the electorate live in rural areas. Their dependence is directly or indirectly on agriculture. I will be largely concentrating on the impact of this Budget and of other Government decisions on agriculture, on country towns, and on the economic and social welfare of rural people. The remaining electors of Canning live in the near metropolitan shires of Arnadale-Kelmscott, Rockingham and Mandurah. Government decisions on shipbuilding and manufacturing at Kwinana, and on bauxite mining and processing at Pinjarra vitally affect them. Also, being rapidly growing residential areas, they are concerned with policies on housing, sewerage, provision of community and sporting facilities and of education. 
 I first wish to express my concern at the growing division between the metropolitan areas and rural areas. On too many occasions, the relationship between city and country appears to be expressed in the terms of a grand final football match: That only one side can win; and that a concession or benefit given to one side must automatically result in a disadvantage or penalty to the other side. This division is fostered not only by political parties but also by union leaders and by farmer organisations themselves. It is time that all realised that country and city, rural and metropolitan, are interdependent, and that each has a vital part to play in the growth and development of Australia. One of the virtues of the document 'Rural Policy in Australia' is its examination of rural policy within a context of national policy, to be judged by its contribution to overall economic and social objectives. Whilst the country-city division is promoted by politicians of all political parties for short term political gains, I want to comment particularly on the attitude of farmer leaders. Too often, I feel, farmers rely on the views of the eighteenth century French philosophers and embryo economists known as the physiocrats. The physiocrats saw land as the ultimate source of wealth, and agriculture as the only fruitful labour. Trade, commerce and industry were regarded as sterile, merely transforming the products of agriculture. By promoting such views Australian farmer leaders are ignoring the inter-dependence of all sectors necessary for the development of a strong, vital Australian economy. Acceptance of the inter-dependence of sectors does not place agriculture at a disadvantage. It is still vitally important both in its contribution to the total Australian productive effort and in its contribution to Australian trade and overseas earnings. 
@@ -43,11 +50,6 @@ Lastly, I wish to touch on the wool industry. I welcome the Government's decisio
 
  Mr Deputy Speaker, I thank you and the House for giving me a fair hearing. I support the amendment moved by the Leader of the Opposition  (Mr Snedden). 
 asked the Minister for Health, upon notice: 
-1 ) Did the departmental committee which investigated quarantine in Western Australia in March 1974 report any quarantine deficiencies (a) at Fremantle, (b) at Perth Airport, (c) at ports in the north west of Western Australia, (d) at aerodromes in the north west of Western Australia, (e) at Kwinana or (f) in the examination of overseas mail arriving in Western Australia. 
-If so, what were the deficiencies, and what subsequent corrective action has been taken. 
-asked the Minister for Health, upon notice: 
-What is the quarantine experience and training applicable to quarantine of each officer or employee of his Department employed in quarantine duties in Western Australia. 
-asked the Minister for Health, upon notice: 
 Have louse eggs been detected in recent shipments of boar bristle brushes imported from Austria. 
 ) If so, what action has been taken. 
 Have any of these brushes already been sold to the public. 
@@ -64,8 +66,6 @@ If so, what were the deficiencies, and what subsequent corrective action has bee
 asked the Minister for Health, upon notice: 
 1 ) Have there been instances of shaving brushes imported from China, which have not fully met quarantine requirements, being released for sale. 
 If so, how many were involved, where were they released, and what action has been taken. 
-asked the Minister for Health, upon notice: 
-Has any action been taken by his Department to vaccinate Aboriginals at One Arm Point against smallpox following visits by Indonesian fishermen. 
 asked the Minister for Defence, upon notice: 
 What procedures are followed to prevent entry into Australia of plant and animal diseases by returning Defence personnel, vehicles, aeroplanes, vessels and equipment. 
 asked the Minister representing the Minister for Agriculture, upon notice: 
@@ -84,21 +84,8 @@ If so, what has been decided.
 asked the Minister for Labor and Immigration, upon notice: 
 1 ) How many employers were being paid to provide long term training for Aboriginals in Western Australia as at 30 June 1974. 
 How many Aboriginals were being trained, and what were their ages. 
-asked the Minister representing the Minister for Agriculture, upon notice: 
-What were the terms of sale, prices received and amounts and types of wool involved in the recent sale of wool to China by the Australian Wool Corporation. 
-Were the sales on credit. 
-) If the Minister is unable to supply the information, will he give an assurance that (a) the wool was not sold at prices below those paid by the Australian Wool Corporation for the wool, (b) the wool sold came from stocks held by the Australian Wool Corporation, (c) the wool was not keenly sought by other wool users and, (d) the sales were a commercial decision of the Australian Wool Corporation and not at Government direction. 
-asked the Minister representing the Minister for Agriculture, upon notice: 
-1 ) In what way did the Australian Wool Corporation depart from the guidelines agreed to between the Minister and the Corporation in its activities in the month to 23 July 1974 (Hansard, 23 July 1974, page 467). 
-How is the expenditure of taxpayers money on wool purchases by the Corporation to 23 July 1974 calculated as $16m (Hansard, 23 July 1974, page 47 1 ). 
-Did the Corporation finance its wool purchases from its own reserves and borrowing capacities in the period to 23 July 1 974; if not, why not. 
-asked the Minister for Social Security, upon notice: 
-1 ) Has a decision been made on assistance for the construction of a centre for the Murray Districts Slow Learning Children's Group submitted by the Murray Community 
-Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
-If so, what is the decision. 
-If not, when will a decision be made. 
 asked the Minister for Education, upon notice: 
-Has a decision been made on assistance for improvements to ablutions facilities and the installation of a telephone at the Ravensthorpe kindergarten submitted by the Ravensthorpe Community Centre to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
+Has a decision been made on assistance for the construction of a kindergarten building at Nyabing, Western Australia, submitted by the Kent Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
 If so, what is the decision. 
 If not, when will a decision be made. 
 asked the Minister for Education, upon notice: 
@@ -106,11 +93,12 @@ asked the Minister for Education, upon notice:
 If so, what is the decision. 
 If not, when will a decision be made. 
 asked the Minister for Education, upon notice: 
-Has a decision been made on assistance for the construction of a kindergarten building at Nyabing, Western Australia, submitted by the Kent Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
+Has a decision been made on assistance for improvements to ablutions facilities and the installation of a telephone at the Ravensthorpe kindergarten submitted by the Ravensthorpe Community Centre to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
 If so, what is the decision. 
 If not, when will a decision be made. 
-asked the Minister for Education, upon notice: 
-1 ) Has a decision been made on assistance for the erection of two toilets at the kindergarten at Borden, Western Australia, submitted by the Gnowangerup Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
+asked the Minister for Social Security, upon notice: 
+1 ) Has a decision been made on assistance for the construction of a centre for the Murray Districts Slow Learning Children's Group submitted by the Murray Community 
+Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
 If so, what is the decision. 
 If not, when will a decision be made. 
 asked the Minister for Education, upon notice: 
@@ -121,6 +109,18 @@ asked the Minister for Education, upon notice:
 1 ) Has a decision been made on assistance for alterations to the kindergarten building at Ongerup submitted by the Gnowangerup Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
 If so, what is the decision. 
 If not, when will a decision be made. 
+asked the Minister for Education, upon notice: 
+1 ) Has a decision been made on assistance for the erection of two toilets at the kindergarten at Borden, Western Australia, submitted by the Gnowangerup Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
+If so, what is the decision. 
+If not, when will a decision be made. 
+asked the Minister representing the Minister for Agriculture, upon notice: 
+1 ) In what way did the Australian Wool Corporation depart from the guidelines agreed to between the Minister and the Corporation in its activities in the month to 23 July 1974 (Hansard, 23 July 1974, page 467). 
+How is the expenditure of taxpayers money on wool purchases by the Corporation to 23 July 1974 calculated as $16m (Hansard, 23 July 1974, page 47 1 ). 
+Did the Corporation finance its wool purchases from its own reserves and borrowing capacities in the period to 23 July 1 974; if not, why not. 
+asked the Minister representing the Minister for Agriculture, upon notice: 
+What were the terms of sale, prices received and amounts and types of wool involved in the recent sale of wool to China by the Australian Wool Corporation. 
+Were the sales on credit. 
+) If the Minister is unable to supply the information, will he give an assurance that (a) the wool was not sold at prices below those paid by the Australian Wool Corporation for the wool, (b) the wool sold came from stocks held by the Australian Wool Corporation, (c) the wool was not keenly sought by other wool users and, (d) the sales were a commercial decision of the Australian Wool Corporation and not at Government direction. 
 asked the Minister for Social Security, upon notice: 
 How many people in the Electoral Division of Canning were in receipt of a pension as at 30 June 1974. 
 What were the different categories of pension, and how many pensioners were there in each category. 
@@ -161,13 +161,13 @@ asked the Minister for Transport, upon notice:
 What Local Authorities in Western Australia- 
 have taken over aerodromes established by the Australian Government; and 
 have received assistance for the establishment of local aerodromes since 1958. 
-asked the Prime Minister, upon notice: 
-What grants and loans have been approved, by or through the Film and Television Board of the Australian Council for the Arts, for film, television and video production in Western Australia since 30 June 1972. 
-2 ) Who received the assistance, and for what purposes. 
 asked the Minister for Health, upon notice: 
 1 ) Has a decision been made on assistance for hospital improvements at the Boddington Women's Hospital submitted by the Boddington Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
 2 ) If so, what is the decision. 
 3 ) If not, when will a decision be made. 
+asked the Prime Minister, upon notice: 
+What grants and loans have been approved, by or through the Film and Television Board of the Australian Council for the Arts, for film, television and video production in Western Australia since 30 June 1972. 
+2 ) Who received the assistance, and for what purposes. 
 asked the Prime Minister, upon notice: 
 What grants from the Community Arts Fund and the Festivals Fund have been made to Western Australia since 30 June 1972. 
 Who received the grants, and for what purposes. 
@@ -183,6 +183,9 @@ asked the Minister representing the Minister for Aboriginal Affairs, upon notice
 Has a decision been made on assistance for development and equipment of an Aboriginal community centre at Pinjarra submitted by the Murray District Aboriginal Association to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to the Department of Aboriginal Affairs. 
 If so, what is the decision. 
 If not, when will a decision be made. 
+asked the Minister for Defence, upon notice: 
+What is the scheduled completion date and estimated cost for each stage of the Cockburn Sound (Garden Island) Naval Base. 
+What facilities, originally planned, have been deleted or indefinitely deferred. 
 -One clear and indisputable fact emerges to anyone who looks at the position of local government today. It is that local government is in grave financial difficulties. Inflation and the credit squeeze are the cause of these difficulties. Local government is in the grip of financial starvation. Thus, we are considering this Bill, which endorses grants recommended by the Grants Commission for local government authorities, against a background of local government authorities in critical positions because of uncontrolled wage increases, rapid rises in costs for materials and machinery, repair services and the like, critical shortfalls in the realisation of borrowing programs and effectively reduced grants for roads through Commonwealth Aid Roads funds. This is the dismal background against which local authorities are working at the moment This is the background against which this House is approving these grants to local government authorities. 
 This bleak outlook is caused by the inability of the Labor Government to exercise sensible economic restraints and sound economic management. We are looking at this Bill against a background in which councils are being forced to consider 3 alternatives. Firstly, to reduce substantially services and new works programs; secondly, to reduce substantially rates or charges; or thirdly, to lay off men. Let me refer to certain local government authorities in Western Australia to illustrate the current dire straits of local government. Western Australia local government authorities are not alone in experiencing such difficulties. No doubt during this debate the same story will emerge in respect of other States. In my electorate of Canning, in which there are 33 local government authorities, the story is one of savage increases in local government rates. These increases are not to expand or upgrade services and facilities; they are merely to keep abreast of the vicious increases in costs incurred by local government authorities because of wage and cost increases. 
 Let me cite some of the rate increases applied this financial year by some shires in my electorate. The Armadale-Kelmscott Shire Council has increased rates by 52 per cent; the Boddington Shire by 40 per cent; the Brookton Shire Council by 30 per cent; the Corrigin Shire Council by 30 per cent; the Gnowangerup Shire Council by 29.8 per cent; and the Kent Council by 64 per cent. The whole list goes on in this way. These are the rate increases for this year. These shires represent the story right throughout the electorate. I expect also that they would mirror the picture throughout Australia. I understand that rate increases by local government authorities throughout Australia are overall of the order of 30 to 35 per cent this year. These increases have taken place directly as a result of the Government's inability to manage the economy. Furthermore, many of the shires which I have mentioned are in rural areas and their ability to increase rates are inhibited by the tight liquidity position and the poor situation of the grazing industry for both wool and meat. It would be quite unrealistic and probably irresponsible of local government authorities in grazing areas to increase rates severely when wool prices are being held at below cost of production and beef prices are at their lowest level for many years. 
@@ -207,9 +210,8 @@ On the one hand we have the Special Minister of State saying that grants will be
 This is a question which the Special Minister of State should answer today. The simple question is this: Should council submissions be made on the basis of the disabilities as the Grants Commission and his views seem to support, or are they also to submit applications for grants for regional projects as recommended by the Department of Urban and Regional Development? The question of disabilities should be looked at afresh by the Grants Commission as that it seems in many areas important factors have been ignored. I refer particularly to areas which are tourist and holiday centres. With a population approaching 20,000 shires such as Mandurah cater during the summer period for populations of up to 50,000. No allowance appears to have been made for the additional burden on the Shire Council of providing facilities and services to provide for this influx. 
 Other regional centres appear to have been similarly treated. They have expenditure disabilities because of the need to provide facilities for people from well outside their shire or municipal boundaries. Adequate weight does not appear to have been given to this factor. The Commission in its report discounted as a disability factor the rural recession. This clearly needs reassessment, particularly in many grazing areas. I hope that in the 1974-75 round of applictions this will be given further and adequate consideration. In Western Australia a number of shires are required, because of their location and difficulty of acquiring doctors and dentists, to subsidise these services. I see no provision in the report of the Commission to indicate that this has been given sufficient weight. 
 I support this Bill not because I endorse the principals behind it, but because local government is in such a serious financial position that every bit of money is needed. The money granted by this Bill will not be significant in solving the financial predicament of local government, nor will it substantially reduce the bleak fact that mass retrenchments are likely by local government authorities in the near future. 
-asked the Minister for Defence, upon notice: 
-What is the scheduled completion date and estimated cost for each stage of the Cockburn Sound (Garden Island) Naval Base. 
-What facilities, originally planned, have been deleted or indefinitely deferred. 
+asked the Minister representing the Minister for Agriculture, upon notice: 
+Will the Minister consider payment of a mileage allowance to members of the National Rural Advisory Council when travelling to meetings with farmers groups in their own States. 
 asked the Minister for Education, upon notice: 
 How many students in Western Australia were receiving grants under the Aboriginal Secondary Grants Scheme as at 30 June 1974. 
 How many students receiving the grants (a) live at home and (b) board away from home. 
@@ -217,8 +219,6 @@ What procedures are followed by the Department to ensure that allowances for uni
 asked the Minister for Education, upon notice: 
 1 ) How many students in Western Australia were receiving grants under the Aboriginal Study Grants Scheme as at 30 June 1974. 
 At what educational institutions were they enrolled. 
-asked the Minister representing the Minister for Agriculture, upon notice: 
-Will the Minister consider payment of a mileage allowance to members of the National Rural Advisory Council when travelling to meetings with farmers groups in their own States. 
 asked the Minister for Defence, upon notice: 
 1 ) What was the nature of the Army exercise held in the Stirling Range National Park, Western Australia, on 1 1 and 12 September 1974. 
 Were consultations held with the National Parks Board of Western Australia prior to the exercise, to ensure unique flora in the park was not damaged. 
@@ -233,12 +233,11 @@ asked the Minister representing the Minister for Aboriginal Affairs, upon notice
 1 ) What loans have been made from the Capital Fund, set up under the Aboriginal Enterprises (Assistance) Act, since 30 June 1972. 
 To whom were the loans made and for what purposes. 
 asked the Minister for Health, upon notice: 
-I ) Has a decision been made on assistance for the purchase of ambulance equipment for the Darkan St John Ambulance Centre submitted by the West Arthur Community Committee to (he Southern Region Social Development 
-Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department 
-) If so, what is the decision. 
+1 ) Has a decision been made on assistance for extensions to building and provision of telephones at the MurrayDrakesbrook St John Ambulance Sub-centre submitted by the Murray Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
+If so, what is the decision. 
 If not, when will a decision be made. 
 asked the Minister for Health, upon notice: 
-1 ) Has a decision been made on assistance for extensions to building and provision of telephones at the MurrayDrakesbrook St John Ambulance Sub-centre submitted by the Murray Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
+1 ) Has a decision been made on assistance for the construction of a garage for the Newdegate St John Ambulance Association submitted by the Lake Grace Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
 If so, what is the decision. 
 If not, when will a decision be made. 
 asked the Minister for Health, upon notice: 
@@ -246,8 +245,9 @@ asked the Minister for Health, upon notice:
 ) If so, what is the decision. 
 If not, when will a decision be made. 
 asked the Minister for Health, upon notice: 
-1 ) Has a decision been made on assistance for the construction of a garage for the Newdegate St John Ambulance Association submitted by the Lake Grace Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
-If so, what is the decision. 
+I ) Has a decision been made on assistance for the purchase of ambulance equipment for the Darkan St John Ambulance Centre submitted by the West Arthur Community Committee to (he Southern Region Social Development 
+Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department 
+) If so, what is the decision. 
 If not, when will a decision be made. 
 asked the Minister for Health, upon notice: 
 I ) Has a decision been made on assistance for purchasing equipment for the Nyabing St John Ambulance Association submitted by the Kent Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
@@ -317,16 +317,10 @@ What action has the Government initiated to seek a review by the United States G
 If no action has been taken to date, does the Government plan any action. 
 Is the Minister representing the Minister for Agriculture aware of statements made in Western Australia by distributors that deliveries of the nitrogenous fertiliser urea cannot be guaranteed for the 1975 cropping program? Will the Minister investigate whether the statements are valid, and if so the reasons for such a shortage? Additionally, will the Minister take all possible action to see that sufficient urea is available for the forthcoming cropping year? 
 asked the Minister for Services and Property, upon notice: 
-What recurring ex gratia payments, either in lieu of rates or otherwise, are made to municipal and shire councils in Western Australia. 
-asked the Minister for Services and Property, upon notice: 
 What applications for ex gratia payments by municipal and shire councils in Western Australia have been approved, refused or deferred since 30 June 1 972. 
 asked the Minister for Urban and Regional Development, upon notice: 
 1 ) What bodies in Western Australia had received assistance under the National Estate program as at 30 June 1 974. 
 What was the nature, amount and purpose of the assistance. 
-asked the Minister for Urban and Regional Development, upon notice: 
-1 ) Has a decision been made on assistance for the purchase of equipment for the Mandurah Emergency Water Rescue Organisation submitted by the Manudurah Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
-) If so, what is the decision. 
-If not, when will a decision be made. 
 asked the Minister for Urban and Regional Development, upon notice: 
 Has a decision been made on assistance for park improvements at Kojonup submitted by the Kojonup Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department 
 ) If so, what is the decision. 
@@ -335,12 +329,18 @@ asked the Minister for Urban and Regional Development, upon notice:
 1 ) Has a decision been made on assistance for the purchase of a mobile van for use by service groups catering for shows and sporting, civil defence and other functions submitted by the Dumbleyung Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department 
 If so, what is the decision. 
 If not, when will a decision be made. 
-asked the Minister representing the Minister for Aboriginal Affairs, upon notice: 
-What are the areas, locations and costs of land acquired in Western Australia by the Aboriginal Land Trust since 30 June 1972. 
 asked the Minister for Health, upon notice: 
 What is the classification, age, experience and length of service in quarantine, of each officer and employee employed on quarantine duties in his Department in Western Australia. 
 asked the Treasurer, upon notice: 
 What changes in interest rates have applied in respect of (a) rural reconstruction loans for (i) farm build up and (ii) debt reconstruction, (b) Commonwealth Development Bank loans for (i) farm build up, (ii) farm development and (iii) farm machinery purchase and (c) Rural Credits Department of Reserve Bank loans to marketing authorities and grower co-operatives since 30 June 1972, and from what dates have the changes applied. 
+asked the Minister for Services and Property, upon notice: 
+What recurring ex gratia payments, either in lieu of rates or otherwise, are made to municipal and shire councils in Western Australia. 
+asked the Minister representing the Minister for Aboriginal Affairs, upon notice: 
+What are the areas, locations and costs of land acquired in Western Australia by the Aboriginal Land Trust since 30 June 1972. 
+asked the Minister for Urban and Regional Development, upon notice: 
+1 ) Has a decision been made on assistance for the purchase of equipment for the Mandurah Emergency Water Rescue Organisation submitted by the Manudurah Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
+) If so, what is the decision. 
+If not, when will a decision be made. 
 asked the Minister for Science, upon notice: 
 1 ) What organisations are conducting research into sheep infertility resulting from grazing of subterranean clovers. 
 What funds from Australian Government sources have been made available to each organisation for this research. 
@@ -372,22 +372,22 @@ asked the Minister for Health, upon notice:
 1 ) Did the stock ship Dianna Clausen recently unload hay carried back from the Middle East onto the wharf at Esperance. 
 If so, (a) for what period was the hay on the wharf and (b) what action was taken to fumigate or spray it, and when was this action taken. 
 What procedures have been initiated by his Department to prevent hay and similar material being unloaded onto wharves at Australian ports. 
-asked the Minister for Tourism and Recreation, upon notice: 
-What grants have been made to organisations and authorities in Western Australia for the development of low cost accommodation for young travellers since 30 June 1 972. 
-Who received the grants, and for what purposes. 
 asked the Minister representing the Minister for Agriculture, upon notice: 
 1 ) What was the value of food aid promised by the Minister at the World Food Congress in Rome. 
 Will the aid be in the form of grain, chilled or frozen meat, or processed meat. 
 3 ) When will the aid be supplied. 
 Can he say what was the value and nature of aid promised by other countries attending the Congress. 
+asked the Minister for Tourism and Recreation, upon notice: 
+What grants have been made to organisations and authorities in Western Australia for the development of low cost accommodation for young travellers since 30 June 1 972. 
+Who received the grants, and for what purposes. 
 asked the Minister for Urban and Regional Development, upon notice: 
 Has a decision been made on assistance for equipping the Community Centre at Fitzgerald submitted by the Ravensthorpe Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
 ) If so, what is the decision. 
 If not, when will a decision be made. 
-asked the Minister representing the Minister for the Media, upon notice: 
-With reference to the answer to Question No. 947 (Hansard, 27 November, 1974, page 42 16), how is the number of people in the Ravensthorpe area calculated as 225. 
 asked the Treasurer, upon notice: 
 What is the breakdown of administrative costs incurred in respect of the Drought Bonds Scheme since its inception. 
+asked the Minister representing the Minister for the Media, upon notice: 
+With reference to the answer to Question No. 947 (Hansard, 27 November, 1974, page 42 16), how is the number of people in the Ravensthorpe area calculated as 225. 
 asked the Minister representing the Minister for Aboriginal Affairs, upon notice: 
 Have surveys or inspections been made by officers of the Department of Aboriginal Affairs of Aboriginal communities at Gnowangerup, Katanning, Narrogin, Pingelly and Pinjarra. 
 If so, on what dates, who conducted the surveys or inspections, and what action resulted from them. 
@@ -397,12 +397,12 @@ Was the Western Australian Branch of his Department instructed, during the week 
 If so, why was the instruction issued. 
 Were these instructions countermanded during the same week; if so, why. 
 Were any international aircraft, arriving at Perth Airport during that week, not sprayed; if so, which aircraft, and what were their flight routes. 
-asked the Minister representing the Minister for Aboriginal Affairs, upon notice: 
-What special work project grants for the provision of employment or training of Aboriginals in Western Australia have been approved since 30 June 1972. 
-To whom were the grants made, and for what purposes. 
 asked the Minister representing the Minister for Foreign Affairs, upon notice: 
 What Australian experts were conducting research or making scientific surveys in Indonesia under the Indonesian Government's First Five Year Development Plan in 1973 and 1974. 
 What were the fields of study of each. 
+asked the Minister representing the Minister for Aboriginal Affairs, upon notice: 
+What special work project grants for the provision of employment or training of Aboriginals in Western Australia have been approved since 30 June 1972. 
+To whom were the grants made, and for what purposes. 
 asked the Minister for Transport, upon notice: 
 1 ) What navigational lights and aids located off the North West coast of Western Australia have been damaged by other than natural causes during the 2 years ended 30 September 1974. 
 What have been the repair costs of this damage. 
@@ -419,6 +419,26 @@ That the motion be agreed to.
 asked the Minister for Tourism and Recreation, upon notice: 
 1 ) What capital grants for community leisure facilities for Western Australia have been made or approved since 30 June 1972. 
 Who received the grants, and for what purposes. 
+asked the Minister for Tourism and Recreation, upon notice: 
+Has a decision been made on assistance for the purchase of equipment for the Nyabing Girl Guides Association submitted by the Kent Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
+If so, what is the decision. 
+If not, when will a decision be made. 
+asked the Minister for Tourism and Recreation, upon notice: 
+1 ) Has a decision been made on assistance for establishing facilities at the Pinjarra Methodist Youth Club submitted by the Murray Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
+If so, what is the decision. 
+If not, when will a decision be made. 
+asked the Minister for Tourism and Recreation, upon notice: 
+1 ) Has a decision been made on assistance for building extensions and purchase of equipment for the Mandurah Girl Guides Association submitted by the Mandurah Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commissioner to his Department. 
+If so, what is the decision. 
+If not, when will a decision be made. 
+asked the Minister for Tourism and Recreation, upon notice: 
+1 ) Has a decision been made on assistance for the purchase of a projector for use at Lake King, Western Australia, submitted by the Lake Grace Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
+If so, what is the decision. 
+If not, when will a decision be made. 
+asked the Minister for Tourism and Recreation, upon notice: 
+Has a decision been made on assistance for the purchase of equipment for the Dwellingup Hills Youth Centre submitted by the Murray Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
+If so, what is the decision. 
+If not, when will a decision be made. 
 -The Opposition supports the 5 Wool Tax Bills now being discussed. The  Deputy  Leader of the National Country Party  (Mr Sinclair)  has indicated that the Opposition will not be opposing them. In effect what these Bills do is to carry forward for one more year the temporary arrangements which have applied for the bulk of the 1974-75 wool selling season- at least from September 1974. The Opposition supports the floor price scheme at a level no lower than 250c per kilogram clean. We support the grower levy of 5 per cent on wool realisations, to be placed in a special Market Support Fund to support the wool market and to finance any losses occasioned by the floor price maintenance operations of the Australian Wool Corporation. 
 However, the Opposition deplores the decision making processes of the Australian Labor Party Government and the frightening way in which the floor price level for the 1975-76 season was determined over the past few weeks. The whole decision malting process of the parliamentary Labor Party on the wool support price emphasises the scant importance it attaches to the primary producers and to the whole of the rural economy. If we look back we see that it is always issues affecting the rural areas that are used as excuses for votes of confidence in the Prime Minister  (Mr Whitlam).  Similarly, if the Cabinet and Caucus are spoiling for a showdown the subject on which the showdown occurs is always a matter affecting rural industries or country people. This shows the relative unimportance that the Labor Party places on all things rural. 
 Two major decisions for the rural industries and all people living in country areas were made subjects of votes of confidence in the Prime Minister. I refer specifically to the taxation concessions for education- a vital matter for people in country areas aiming to provide adequate education for their children- and also to the petrol price equalisation scheme, which similarly was of great importance to rural industries and to people living away from the capital cities. Both were used as issues on which to test the Prime Minister's popularity. So far as the Labor Party was concerned, the decision itself was unimportant. It was merely a by-product of the internal power struggle within the Party. Similarly, the wool decision for a floor price of 250c per kilogram clean was a by-product of the infighting of the Government. For the Labor Party the fight between the Cabinet and Caucus and its implications on the power base of the Party far outweighed the real issues of ensuring stability, progress and prosperity of the wool industry. 
@@ -434,26 +454,6 @@ The amendments propose that this new authority should formulate a detailed plan 
 It was put forward then- 12 October 1972 -but it has subsequently been forgotten by the Labor Party since it came into power. 
 It is no excuse to trumpet that the Labor Party has done much for the wool industry. I am the first to concede that it has. But it has not done anything significant to attack the basic problem of the industry- that is, the lack of satisfactory long-term marketing arrangements. The current marketing arrangements are temporary and this is made very obvious by the need to discuss this legislation today. No real action has meen taken towards finding a solution to the problem of long-term marketing arrangements. The temporary solution has been good and apt in the circumstances, but it has to be clearly understood that these arrangements are temporary and do not attack a number of the basic long-term marketing problems such as the overall marketing of wool as a textile fibre, sale rosterings problems of private selling and reduction of costs associated with improvements in handling, shipping, insurance and the like. 
 The second main lesson that the past few weeks has emphasised is that growers must be prepared to contribute funds to the market support and marketing schemes. Under this legislation there is a readiness on the part of the growers to build up their equity. Last year some $42m was contributed in this way. This has been contributed in the form of a second mortgage and will be the first part to bear the brunt of any losses incurred by the Corporation. If growers are to get a satisfactory marketing organisation free from Government direction then they must expect to contribute. They have indicated that they are prepared and willing to do so. Together with the accumulated profits of the Corporation the grower contribution at this time next year will be substantial. 
-asked the Minister for Tourism and Recreation, upon notice: 
-1 ) Has a decision been made on assistance for building extensions and purchase of equipment for the Mandurah Girl Guides Association submitted by the Mandurah Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commissioner to his Department. 
-If so, what is the decision. 
-If not, when will a decision be made. 
-asked the Minister for Tourism and Recreation, upon notice: 
-Has a decision been made on assistance for the purchase of equipment for the Dwellingup Hills Youth Centre submitted by the Murray Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
-If so, what is the decision. 
-If not, when will a decision be made. 
-asked the Minister for Tourism and Recreation, upon notice: 
-1 ) Has a decision been made on assistance for the purchase of a projector for use at Lake King, Western Australia, submitted by the Lake Grace Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
-If so, what is the decision. 
-If not, when will a decision be made. 
-asked the Minister for Tourism and Recreation, upon notice: 
-1 ) Has a decision been made on assistance for establishing facilities at the Pinjarra Methodist Youth Club submitted by the Murray Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
-If so, what is the decision. 
-If not, when will a decision be made. 
-asked the Minister for Tourism and Recreation, upon notice: 
-Has a decision been made on assistance for the purchase of equipment for the Nyabing Girl Guides Association submitted by the Kent Community Committee to the Southern Region Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department. 
-If so, what is the decision. 
-If not, when will a decision be made. 
 asked the Minister for Tourism and Recreation the following question, upon notice: 
 1 ) What decisions have been made on assistance for projects submitted to the Southern Regional Social Development Board under the Australian Assistance Plan, and subsequently referred by the Social Welfare Commission to his Department, in respect of (a) Boddington Tennis Club, (b) Mandurah Soccer Club, (c) Broome Hill Cricket Club, (d). Kukerin Tennis Club, (e) Flat Rocks Tennis Club,  (0  Pingaring Badminton and Social Club, (g) Woodanilling Tennis Club, (h) Woodanilling Cricket Club, (i) Wagin Tennis Club and ( j ) Pingrup Cricket Club. 
 If decisions have not been made, why, and when are decisions anticipated. 
@@ -481,6 +481,9 @@ asked the Minister for Health, upon notice:
 What are the procedures adopted by his Department to substantiate or disprove reported landings of Indonesian fishermen on the north-west coast of Western Australia or adjacent islands. 
 Are all reports investigated; if not, which reports are not investigated, and why. 
 asked the Minister representing the Minister for Agriculture, upon notice: 
+How much wool has been shipped from Australia since 1 July 1 974, and how much of this wool was scoured or semi-processed. 
+Of the greasy wool shipped from Australia since 1 July 1974, how much was- (a) sold by auction in Australia, (b) wool bought privately from wool growers, (c) transference of Australian Wool Corporation stocks for storage overseas, (d) growers ' wool shipped for overseas sale, (e) bought from Australian Wool Corporation stocks and (f) from other sources. 
+asked the Minister representing the Minister for Agriculture, upon notice: 
 1 ) In view of the decision to ban swill feeding of pigs, has any consideration been given to providing assistance for adjustment to pig farmers affected by the ban. 
 If so, what are the details of the considerations and what decisions were reached. 
 ) If not, will the Minister examine the question. 
@@ -492,9 +495,6 @@ asked the Minister representing the Minister for Agriculture, upon notice:
 How many advances were approved, and what sum was advanced. 
 asked the Minister representing the Postmaster-General, upon notice: 
 What is the estimated cost for a full financial year of the increased rates payable by the Australian Post Office to shipping companies for sea conveyance of mail notified in Statutory Rule No. 47 of 1975. 
-asked the Minister representing the Minister for Agriculture, upon notice: 
-How much wool has been shipped from Australia since 1 July 1 974, and how much of this wool was scoured or semi-processed. 
-Of the greasy wool shipped from Australia since 1 July 1974, how much was- (a) sold by auction in Australia, (b) wool bought privately from wool growers, (c) transference of Australian Wool Corporation stocks for storage overseas, (d) growers ' wool shipped for overseas sale, (e) bought from Australian Wool Corporation stocks and (f) from other sources. 
 asked the Minister representing the Minister for Agriculture, upon notice: 
 1 ) What stocks of wool were held by the Australian Wool Corporation as at (a) 30 June 1974 and (b) 30 April 1975. 
 What was the location of the stocks on those dates. 
@@ -514,14 +514,14 @@ asked the Minister representing the Minister for Agriculture, upon notice:
 How many Indonesian fishing vessels have been reported or sighted fishing illegally off the north-west coast in those three years, and what action was taken. 
 How many fishing vessels of nations other than Indonesia have been reported or sighted fishing illegally off the north-west coast in the last three years, and what action was taken. 
 Is there an indication that Indonesian fishermen sighted fishing illegally in north-west waters were commercial fishermen. 
-asked the Minister for Science and Consumer Affairs upon notice: 
-What meteorological installations located on or off the north-west coast were damaged by other than natural causes during the 2 years ended 30 September 1974. 
-) What have been the repair costs of this damage. 
-Have any cases of damage been attributed to Indonesian fishermen; if so, what are the details. 
 asked the Minister for Overseas Trade, upon notice: 
 What imports of urea have been made into Australia since 1 July 1974. 
 From what countries were these imports obtained, and at what prices. 
 What subsidies have been paid in respect of these imports. 
+asked the Minister for Science and Consumer Affairs upon notice: 
+What meteorological installations located on or off the north-west coast were damaged by other than natural causes during the 2 years ended 30 September 1974. 
+) What have been the repair costs of this damage. 
+Have any cases of damage been attributed to Indonesian fishermen; if so, what are the details. 
 asked the Minister for Health,' upon notice: 
 What are the estimated additional receipts in a full year for the new fees and charges in respect of quarantine services prescribed by Statutory Rule No. 29 of 1975. 
 asked the Minister representing the Minister for Agriculture, upon notice: 
@@ -648,24 +648,26 @@ If so, what has been the nature of the representations, and what action has resu
 asked the Minister for Foreign Affairs, upon notice: 
 What sum has been paid by his Department to each airline for air travel within Australia during the last 2 years. 
 asked the Minister for Health, upon notice: 
-1 ) Has action been taken by  Dr J.  B. Mathieson, Director of Health, Western Australia, against  Mr W.  F. Toomer, relating to statements made on television on 2 July 1974; if so, was this action initiated with the approval or aid of himself or his Department. 
-Was  Mr Toomer  charged and punished under the Public Service Act in respect of the same statements on the same television program; if so, what punishment was imposed. 
-If action has been taken, does he know whether  Dr J.  B. Mathieson intends to pursue the matter. 
-If it is to be pursued, what support will be provided by him or his Department. 
-Is any information available to support the view that the action is motivated by vindictiveness, spite or as a threat; if so, what is the nature of the information. 
-Did  Mr Toomer  receive a letter dated 11 July 1974 from Robinson, Cox and Co., 20 Howard Street, Penh, containing the statement that 'we would also appreciate it if you could let us know what compensation you are willing to offer to our client by way of damages'; if so, was this letter approved by him or his Department. 
+What sum has been paid by his Department to each airline for air travel within Australia during the last 2 years. 
 asked the Minister for Defence, upon notice: 
 Has consideration been given to the closure of the Defence installation on Rottnest Island, Western Australia; if not, how long is it anticipated that it will be required for Defence purposes. 
 For what purpose is it currently used, and how many Defence personnel are normally stationed there. 
 asked the Minister for Defence, upon notice: 
 What sum has been paid by his Department to each airline for air travel within Australia during the last 2 years. 
 asked the Minister for Health, upon notice: 
-What sum has been paid by his Department to each airline for air travel within Australia during the last 2 years. 
+1 ) Has action been taken by  Dr J.  B. Mathieson, Director of Health, Western Australia, against  Mr W.  F. Toomer, relating to statements made on television on 2 July 1974; if so, was this action initiated with the approval or aid of himself or his Department. 
+Was  Mr Toomer  charged and punished under the Public Service Act in respect of the same statements on the same television program; if so, what punishment was imposed. 
+If action has been taken, does he know whether  Dr J.  B. Mathieson intends to pursue the matter. 
+If it is to be pursued, what support will be provided by him or his Department. 
+Is any information available to support the view that the action is motivated by vindictiveness, spite or as a threat; if so, what is the nature of the information. 
+Did  Mr Toomer  receive a letter dated 11 July 1974 from Robinson, Cox and Co., 20 Howard Street, Penh, containing the statement that 'we would also appreciate it if you could let us know what compensation you are willing to offer to our client by way of damages'; if so, was this letter approved by him or his Department. 
 asked the Minister representing the Minister for Science, upon notice: 
 1 ) What studies have been or are being made by the Commonwealth Scientific and Industrial Research Organization into the control of Oriental Fruit Fly. 
 If studies are not being made, will the Minister give urgent consideration to the commencement of studies into this pest. 
 asked the Minister, representing the Minister for Social Security, upon notice: 
 What sum has been paid by the Department of Social Security, or by Departments formerly encompassing the functions now performed by that Department, to each airline for air travel within Australia during the last 2 years. 
+asked the Minister representing the Minister for Education, upon notice: 
+What sum has been paid by the Department of Education to each airline for air travel within Australia during the last 2 years. 
 asked the Minister for Health, upon notice: 
 1 ) Has retirement action been initiated against  Mr W.  F. Toomer, Quarantine Inspector, North West Ports, stationed at Port Hedland. 
 If so, who, within his Department, recommended the retirement action, and who, within his Department, approved of the action being taken. 
@@ -675,13 +677,11 @@ What actions concerning the retirement of  Mr Toomer  have been taken by  Dr Mat
 What recommendations concerning the retirement of  Mr Toomer  have been made by  Dr Mathieson,  or any staff of the Department of Health, Western Australia. 
 What part did  Dr Mathieson  play in selecting doctors or specialists initially to examine  Mr Toomer. 
 What part has, or will,  Dr Mathieson  play in selecting doctors or specialists to consider  Mr Toomer's  appeal against his proposed retirement. 
-asked the Minister representing the Minister for Education, upon notice: 
-What sum has been paid by the Department of Education to each airline for air travel within Australia during the last 2 years. 
-asked the Minister for Primary Industry, upon notice: 
-What sum has been paid by his Department, including the former Department of Agriculture, to each airline for air travel within Australia during the last 2 years? 
 asked the Minister for Health, upon notice: 
 What quantities of (a) woollen blankets and (b) blankets made of man-made fibre have been purchased for his Department in each of the last 3 years. 
 What guidelines currently govern the purchase of blankets for his Department. 
+asked the Minister for Primary Industry, upon notice: 
+What sum has been paid by his Department, including the former Department of Agriculture, to each airline for air travel within Australia during the last 2 years? 
 asked the Minister for Transport, upon notice: 
 What sum has been paid by his Department to each airline for air travel within Australia during the last 2 years. 
 asked the Minister for Primary Industry, upon notice 
@@ -700,19 +700,19 @@ What funds have been provided for this purpose.
 What deficiencies exist in the quarantine regulations, or the enforcement of these regulations, to permit the entry of such flies to Australia. 
 asked the Minister for the Northern Territory, upon notice: 
 What action is being taken by his Department to contain and to destroy Oriental Fruit Fly recently discovered in the Northern Territory, and what funds have been provided for this purpose. 
-asked the Minister for Overseas Trade, upon notice: 
-What sum has been paid by this Department to each airline for air travel within Australia during the last 2 years. 
-asked the Treasurer, upon notice: 
+asked the Minister for the Capital Territory, upon notice: 
 What sum has been paid by his Department to each airline for air travel within Australia during the last 2 years. 
 asked the Attorney-General, upon notice: 
 What sum has been paid by his Department to each airline for air travel within Australia during the last 2 years. 
+asked the Treasurer, upon notice: 
+What sum has been paid by his Department to each airline for air travel within Australia during the last 2 years. 
+asked the Minister for Overseas Trade, upon notice: 
+What sum has been paid by this Department to each airline for air travel within Australia during the last 2 years. 
 asked the Minister for Business and Consumer Affairs, upon notice: 
 What sum has been paid by his Department, or by Departments formerly encompassing the functions now performed by his Department, to each airline for air travel within Australia during the last 2 years. 
 asked the Minister for the Northern Territory, upon notice: 
 What sum has been paid by his Department to each airline for air travel within Australia during the last 2 years. 
 MrAdermann- The answer to the honourable member's question is as follows: 
-asked the Minister for the Capital Territory, upon notice: 
-What sum has been paid by his Department to each airline for air travel within Australia during the last 2 years. 
 asked the Minister for Business and Consumer Affairs, upon notice: 
 What commitments for expenditure in 1976-77 and 1977-78 does his Department have. 
 On what date was each commitment made. 
@@ -744,41 +744,47 @@ What sum has been paid by the Department of Industry and Commerce, or by Departm
 asked the Minister for Primary Industry, upon notice: 
 1 ) Is it planned to release the report of the interdepartmental committee which studied the report by the Australian Wool Corporation on the marketing of Australian woof: if so, when; if not, why not. 
 Have copies of the report been made available to members of the Australian Wool Industry Conference, to other wool industry leaders, to representatives of woolselling agents or to wool buyers; if so, who has received a copy of the report. 
-asked the Minister for Repatriation, upon notice: 
-What quantities of (a) woollen blankets and (b) blankets made of man-made fibre have been purchased for his Department in each of the last 3 years. 
-What guidelines currently govern the purchase of blankets for his Department. 
-asked the Minister representing the Minister for Environment, Housing and Community Development, upon notice: 
-What sum has been paid by the Department of Environment. Housing and Community Development, or by Departments formerly encompassing the functions now performed by that Department, to each airline for air travel within Australia during the last 2 years. 
+asked the Minister for Construction, upon notice: 
+What sum has been paid by his Department, or by Departments formerly encompassing the functions now performed by. his Department, to each airline for air travel within Australia during the last two years. 
 asked the Minister for Post and Telecommunications, upon notice: 
 1 ) What sum has been paid by his Department to each airline for air travel within Australia during the last two years. 
 Will he supply similar information in relation to (a) the Australian Postal Commission and (b) the Australian Telecommunications Commission for the period since they commenced operating. 
-asked the Minister for Construction, upon notice: 
-What sum has been paid by his Department, or by Departments formerly encompassing the functions now performed by. his Department, to each airline for air travel within Australia during the last two years. 
+asked the Minister representing the Minister for Environment, Housing and Community Development, upon notice: 
+What sum has been paid by the Department of Environment. Housing and Community Development, or by Departments formerly encompassing the functions now performed by that Department, to each airline for air travel within Australia during the last 2 years. 
+asked the Minister for Repatriation, upon notice: 
+What quantities of (a) woollen blankets and (b) blankets made of man-made fibre have been purchased for his Department in each of the last 3 years. 
+What guidelines currently govern the purchase of blankets for his Department. 
 asked the Minister for Repatriation, upon notice: 
 What sum has been paid by his Department to each airline for air travel within Australia during the last 2 years. 
-asked the Minister for Health, upon notice: 
-1 ) When is it anticipated that modern and efficient incinerator facilities will be provided at Perth Airport. 
-. What improvements have been made in the incinerator facilities at Perth Airport since receipt of the Report on Inquiry into Quarantine in Western Australia in March 1 974. 
-asked the Minister for Primary Industry, upon notice: 
-Was heavily insect infested grain -residue removed from the grain ship MV  Tyrol  at Fremantle in February, 1976 prior to fumigation of the ship in accordance with the Export (Grain) Regulations. 
-If so, (a) where was the residue treated, (b) was the action taken in accordance with the regulations, and (c) would these procedures increase the risk of introduction of insect and plant pests to Australia. 
-asked the Minister for Defence, upon notice: 
-1 ) Did the Chief Superintendent, Materials Research Laboratories, Maribyrnong, Victoria advise the Department of Health on 1 April 1976 in relation to 5 facepieces examined at the request of the Department of Health that (a) three facepieces were unserviceable and (b) all facepieces required extensive cleaning to restore serviceability. 
-If so, will he supply information as to why certain facepieces were unserviceable, and whether their use could have been dangerous to officers or employees required to use them. 
-How many times and on what dates in the past 3 years had the facepieces referred to in pan (1) been examined or serviced by the Materials Research Laboratories. 
 asked the Minister for Defence, upon notice: 
 Has his Department advised the Department of Health that facepieces of the Normalair type should be used instead of facepieces of the Siebe Gorman Vista type. 
 If so, how, when and in what terms was the advice given. 
 What advantages has the Normalair type over the Siebe Gorman Vista type. 
+asked the Minister for Health, upon notice: 
+1 ) When is it anticipated that modern and efficient incinerator facilities will be provided at Perth Airport. 
+. What improvements have been made in the incinerator facilities at Perth Airport since receipt of the Report on Inquiry into Quarantine in Western Australia in March 1 974. 
+asked the Minister for Defence, upon notice: 
+1 ) Did the Chief Superintendent, Materials Research Laboratories, Maribyrnong, Victoria advise the Department of Health on 1 April 1976 in relation to 5 facepieces examined at the request of the Department of Health that (a) three facepieces were unserviceable and (b) all facepieces required extensive cleaning to restore serviceability. 
+If so, will he supply information as to why certain facepieces were unserviceable, and whether their use could have been dangerous to officers or employees required to use them. 
+How many times and on what dates in the past 3 years had the facepieces referred to in pan (1) been examined or serviced by the Materials Research Laboratories. 
 asked the Minister representing the Minister for Administrative Services, upon notice: 
 What quantities of (a) woollen carpet and (b) carpets made of man-made fibre has been purchased by the Commonwealth Government during each of the last three years. 
 What guidelines currently govern the purchase of carpets for the Commonwealth Government. 
+asked the Minister for Primary Industry, upon notice: 
+Was heavily insect infested grain -residue removed from the grain ship MV  Tyrol  at Fremantle in February, 1976 prior to fumigation of the ship in accordance with the Export (Grain) Regulations. 
+If so, (a) where was the residue treated, (b) was the action taken in accordance with the regulations, and (c) would these procedures increase the risk of introduction of insect and plant pests to Australia. 
 asked the Treasurer, upon notice: 
 What commitments for expenditure in 1976-77 and 1 977-78 does his Department have. 
 On what date was each commitment made. 
 3 ) What sum is involved in each commitment. 
 4) For what purpose is each commitment. 
 To whom have the commitments been made. 
+asked the Minister for Transport, upon notice: 
+1) Has his Department or the Australian National Line studied the use of ANL vessels to transport live sheep from Australia to Persian Gulf markets; if so, what were the results of these studies, and what decisions were taken on them. 
+What shipping companies are currently engaged in this trade, how many vessels have each of them in the trade, and what is the capacity of each vessel. 
+How are freight rates for live sheep shipments to the . Persian Gulf determined. 
+Is any information available to support or refute the view that the rates are not competitively set; if so, what information. 
+Can he say whether comparisons with freight rates charged for live sheep exports from New Zealand and South America to Persian Gulf ports indicate that rates applying for Australian live sheep exports are competitive. 
 asked the Minister for Health, upon notice: 
 On what date did his Department learn of the outbreak of foot and mouth disease in the Philippines. 
 From what source was the information obtained. 
@@ -786,12 +792,6 @@ How long had foot and mouth disease been active in the Philippines before the De
 On what date did the Minister or the Department announce the presence of foot and mouth disease in the Philippines. 
 What special measures have been adopted to screen passengers arriving in Australia from the Philippines, and on what date were they commenced. 
 What special measures have been adopted to check mail and freight arriving in Australia from the Philippines, and on what date were they commenced. 
-asked the Minister for Transport, upon notice: 
-1) Has his Department or the Australian National Line studied the use of ANL vessels to transport live sheep from Australia to Persian Gulf markets; if so, what were the results of these studies, and what decisions were taken on them. 
-What shipping companies are currently engaged in this trade, how many vessels have each of them in the trade, and what is the capacity of each vessel. 
-How are freight rates for live sheep shipments to the . Persian Gulf determined. 
-Is any information available to support or refute the view that the rates are not competitively set; if so, what information. 
-Can he say whether comparisons with freight rates charged for live sheep exports from New Zealand and South America to Persian Gulf ports indicate that rates applying for Australian live sheep exports are competitive. 
 asked the Minister for Health, - upon notice: 
 Were decisions concerning quarantine operations relating to bamboo ware, rattan, cane, wooden and straw articles, circulated by his Department on 15 April 1975. 
 If so, in what ways do the new guidelines differ from the guidelines operating prior to 1 5 April 1975. 
@@ -801,6 +801,25 @@ asked the Minister representing the Minister for Science, upon notice:
 Will he supply figures showing (a) the amounts spent each year, (b) the sources of these funds and (c) the areas in which the funds were spent. 
 asked the Minister for Employment and Industrial Relations, upon notice: 
 What sum has been paid by his Department or by Departments formerly encompassing the functions now performed by his Department, to each airline for air travel within Australia during the last 2 years. 
+asked the Minister representing the Minister for Science, upon notice: 
+1 ) What sum has been paid by the Department of Science to each airline for air travel within Australia during the last 2 years. 
+2 ) Will the Minister supply similar information in respect of the Commonwealth Scientific and Industrial Research Organisation. 
+asked the Attorney-General, upon notice: 
+1 ) What commitments for expenditure in 1 976-77 and 1 977-78 does his Department have. 
+On what date was each commitment made. 
+What sum is involved in each commitment. 
+For what purpose is each commitment. 
+To whom have the commitments been made. 
+asked the Minister for Defence, upon notice: 
+What commitments for expenditure in 1976-77 and 1 977-78 does his Department have. 
+On what date was each commitment made. 
+What sum is involved in each commitment. 
+For what purposes is each commitment. 
+To whom have the commitments been made. 
+asked the Minister for Primary Industry, upon notice: 
+What action is being taken by his Department to contain the spread and to destroy Oriental Fruit Fly recently discovered in the Northern Territory, and what funds have been provided for this purpose. 
+asked the Minister for Health, upon notice: 
+Further to Question No. 2562  (Hansard,  9 July 1975, page 3682) what action has been taken to provide an incinerator at Learmonth, Western Australia. 
 asked the Minister for Health, upon notice: 
 1 ) What is the text of the minute, dated1 8 February1 974 from the Director of Health, Western Australia, to  Mr W.  F. Toomer, Senior Quarantine Inspector, headed 'Your duties as Senior Quarantine Inspector'. 
 Did the former Minister for Health,  Dr Everingham,  advise  Mr Toomer  by letter, dated 8 March 1974, that  Mr Toomer  had been restored to full duty as Senior Quarantine Inspector; if so, was this statement accurate; if the statement was not accurate, can he say on what basis of advice the statement was made. 
@@ -810,23 +829,6 @@ What is the text of the minute, dated 18 March 1974, from the Director of Health
 Did the committee inquiring into quarantine in Western Australia in March 1974, consisting of  Dr Gee, Dr Bull  and  Mr Finlay  request the Director of Health, Western Australia, to withdraw the minute dated 15 March 1974; if so, why. 
 Did  Dr J.  B. Mathieson state before the Public Service Appeal Board on 21 October 1974 that the committee inquiring into quarantine in Western Australia informed him that they could not get on with their job unless the minute was withdrawn; if so, was  Dr Mathieson's  evidence correct. 
 If the evidence was correct, how was the committee inquiring into quarantine in Western Australia prevented from getting on with their job if the minute of 1 5 March 1974 was not withdrawn and substituted by the minute of 18 March 1974. 
-asked the Minister for Primary Industry, upon notice: 
-What action is being taken by his Department to contain the spread and to destroy Oriental Fruit Fly recently discovered in the Northern Territory, and what funds have been provided for this purpose. 
-asked the Minister for Defence, upon notice: 
-What commitments for expenditure in 1976-77 and 1 977-78 does his Department have. 
-On what date was each commitment made. 
-What sum is involved in each commitment. 
-For what purposes is each commitment. 
-To whom have the commitments been made. 
-asked the Attorney-General, upon notice: 
-1 ) What commitments for expenditure in 1 976-77 and 1 977-78 does his Department have. 
-On what date was each commitment made. 
-What sum is involved in each commitment. 
-For what purpose is each commitment. 
-To whom have the commitments been made. 
-asked the Minister representing the Minister for Science, upon notice: 
-1 ) What sum has been paid by the Department of Science to each airline for air travel within Australia during the last 2 years. 
-2 ) Will the Minister supply similar information in respect of the Commonwealth Scientific and Industrial Research Organisation. 
 asked the Minister for Health, upon notice: 
 What fumigation equipment is provided at Port Hedland for use of quarantine staff to fumigate ships. 
 ) Does his Department consider it adequate. 
@@ -866,16 +868,14 @@ On what date was each commitment made.
 What sum is involved in each commitment. 
 4 ) For what purpose is each commitment. 
 To whom have the commitments been made. 
-asked the Minister for Health, upon notice: 
-Further to Question No. 2562  (Hansard,  9 July 1975, page 3682) what action has been taken to provide an incinerator at Learmonth, Western Australia. 
-asked the Minister representing the Minister for Industry and Commerce, upon notice: 
-What commitments for expenditure in 1976-77 and 1977-78 does the Department of Industry and Commerce have. 
+asked the Minister representing the Minister for Education, upon notice: 
+What commitments for expenditure in 1976-77 and 1 977-78 does the Department of Education have. 
 On what date was each commitment made. 
 What sum is involved in each commitment. 
 For what purpose is each commitment. 
 To whom have the commitments been made. 
-asked the Minister representing the Minister for Education, upon notice: 
-What commitments for expenditure in 1976-77 and 1 977-78 does the Department of Education have. 
+asked the Minister representing the Minister for Industry and Commerce, upon notice: 
+What commitments for expenditure in 1976-77 and 1977-78 does the Department of Industry and Commerce have. 
 On what date was each commitment made. 
 What sum is involved in each commitment. 
 For what purpose is each commitment. 
@@ -913,16 +913,9 @@ asked the Minister for Health, upon notice:
 1 ) Since the commencement of retirement action against  Mr W.  F. Toomer, Quarantine Officer, North West Ports, what officers or employees have been employed on the following quarantine duties: (a) inspecting and spraying incoming overseas aircraft, (b) checking passengers and freight from these aircraft, (c) inspecting ships arriving at ports in the North West from overseas, (d) checking quarantine safeguards on berthed ships, (e) supervising garbage disposal from these ships, (0 checking and inspecting freight from these ships and (g) inspecting mail from overseas. 
 What are the qualifications and experience of each officer and employee engaged on any of the functions mentioned in part (1). 
 Can and will he give an assurance that quarantine measures concerning (a) aircraft from overseas, (b) vessels calling at pons in the North West from overseas and (c) mail arriving at Port Hedland overseas are promptly and efficiently discharged, and that no quarantine threat exists because of the current staffing position in the area; if not, why not, and is any action planned. 
--My question is directed to the Minister for Primary Industry. Firstly, does the Minister appreciate the confusion and concern caused to the whole wool industry by the inept determination of the wool reserve price level for the 1975-76 season by the former Labor Government? Secondly, can he give an assurance that the reserve price level for the 1976-77 wool selling season will be announced as soon as possible? Thirdly, will he ensure that the Government in setting the reserve price level will give serious attention to the valid and powerful argument advanced by the wool industry that the reserve price level should be lifted above the current 250c per kilo clean? 
 asked the Minister, representing the Minister for Social Security, upon notice: 
 What commitments for expenditure in 1976-77 and 1977-78 does the Department of Social Security have. 
 2) On what date was each commitment made. 
-What sum is involved in each commitment. 
-For what purpose is each commitment. 
-To whom have the commitments been made. 
-asked the Minister for Overseas Trade the following question, upon notice: 
-What commitments for expenditure in 1976-77 and 1 977-78 does his Department have. 
-On what date was each commitment made. 
 What sum is involved in each commitment. 
 For what purpose is each commitment. 
 To whom have the commitments been made. 
@@ -935,11 +928,18 @@ To whom have the commitments been made.
 asked the Minister for Health, upon notice: 
 1 ) Did the Director of Health, Western Australia,  Dr J.  B. Mathieson, request the Commonwealth Police to check or make inquiries on  Mr W.  F. Toomer, Quarantine Officer, Port Hedland? 
 ) If so, what was the nature and purpose of the request? 
+asked the Minister for Overseas Trade the following question, upon notice: 
+What commitments for expenditure in 1976-77 and 1 977-78 does his Department have. 
+On what date was each commitment made. 
+What sum is involved in each commitment. 
+For what purpose is each commitment. 
+To whom have the commitments been made. 
+-My question is directed to the Minister for Primary Industry. Firstly, does the Minister appreciate the confusion and concern caused to the whole wool industry by the inept determination of the wool reserve price level for the 1975-76 season by the former Labor Government? Secondly, can he give an assurance that the reserve price level for the 1976-77 wool selling season will be announced as soon as possible? Thirdly, will he ensure that the Government in setting the reserve price level will give serious attention to the valid and powerful argument advanced by the wool industry that the reserve price level should be lifted above the current 250c per kilo clean? 
+asked the Minister for Immigration and Ethnic Affairs, upon notice: 
+What sum has been paid by his Department, or by Departments formerly encompassing the functions now performed by his Department, to each airline for air travel within Australia during the last 2 years. 
 asked the Minister representing the Minister for Administrative Services, upon notice: 
 What sum has been paid by the Department of Administrative Services, or by Departments formerly encompassing the functions now performed by that Department, for air travel within Australia during the last 2 years. 
 Will the Minister indicate separately the sum which related to the air travel of Members of Parliament. 
-asked the Minister for Immigration and Ethnic Affairs, upon notice: 
-What sum has been paid by his Department, or by Departments formerly encompassing the functions now performed by his Department, to each airline for air travel within Australia during the last 2 years. 
 asked the Minister representing the Minister for Administrative Services, upon notice: 
 What commitments for expenditure in 1976-77 and 1977-78 does the Department of Administrative Services have. 
 On what date was each commitment made. 
@@ -1054,13 +1054,13 @@ Will he ensure that future statements on quarantine matters issued by officers o
 asked the Minister for Health, upon notice: 
 Will he supply full details of the reasons for quarantine staff recently destroying a number of cartons at Bruck Mills, Wangaratta, Victoria. 
 asked the Minister for Health, upon notice: 
-1 ) Has his attention been drawn to a report in the  West Australian  of 24 May 1976 that West Indian dry-wood termites had been discovered in Australia. 
-If so, are these termites indigenous to Australia. 
-If they are not indigenous (a) where are they generally found, (b) where have they been located in Australia, (c) how did they get to Australia, (d) what action has been taken by the Commonwealth Government since their discovery, and (e) what deficiencies exist in the quarantine regulations, or in the enforcement of these regulations, to permit the entry of these termites to Australia. 
-asked the Minister for Health, upon notice: 
 1 ) How many instances of Khapra beetle have been detected in ships, aircraft, goods and mail during the last 2 years. 
 Were any instances detected after infested goods had been inspected by quarantine and had left the port, airport or mail room; if so, will he (a) detail the instances, (b) advise the manner in which the infestation was reported and by whom, (c) indicate the subsequent action taken by his Department and (d) detail any changes in quarantine procedures resulting from such instances. 
 Have any reports of Khapra beetle in Australia been confirmed which can not be directly traced back to specific infested goods entering Australia. 
+asked the Minister for Health, upon notice: 
+1 ) Has his attention been drawn to a report in the  West Australian  of 24 May 1976 that West Indian dry-wood termites had been discovered in Australia. 
+If so, are these termites indigenous to Australia. 
+If they are not indigenous (a) where are they generally found, (b) where have they been located in Australia, (c) how did they get to Australia, (d) what action has been taken by the Commonwealth Government since their discovery, and (e) what deficiencies exist in the quarantine regulations, or in the enforcement of these regulations, to permit the entry of these termites to Australia. 
 asked the Minister for Health, upon notice: 
 Was Khapra beetle detected on M.V.  Catherine S  whilst in a Victorian port. 
 If so, (a) how was the infestation detected, (b) had the vessel previously berthed at Sydney, (c) had the vessel been inspected by quarantine staff in Sydney without detection of infestation and (d) had cargo been discharged at Sydney. 
@@ -1090,6 +1090,10 @@ Have any causes of damage been attributed to Indonesian fisherman; if so, what a
 asked the Minister for Foreign Affairs, upon notice: 
 1 ) What direct or indirect aid has been given by Australia to Mozambique and Angola following the cessation of Portuguese control of those countries? 
 What was the nature and amount of all such aid? 
+asked the Minister for Defence, upon notice: 
+What naval facilities are available to Australian and Allied warships in the western pan of the Indian Ocean. 
+asked the Minister for Defence, upon notice: 
+What facilities are available to Australian and allied military aeroplanes in the western pan of the Indian Ocean. 
 asked the Minister for Primary Industry, upon notice: 
 What is the current balance of the Foot and Mouth Disease Eradication Trust Account. 
 What payments, and for what purpose, have been made from the Account since June 1 966. 
@@ -1098,10 +1102,6 @@ asked the Minister for Primary Industry, upon notice:
 1 ) How many Australian Government ( a ) vessels and ( b ) aircraft were engaged in patrolling the north-west coast of Western Australia during 1975-76. 
 How many Indonesian fishing vessels were reported or sighted fishing illegally off the north-west coast during 1 975-76, and what action was taken. 
 How many fishing vessels of nations other than Indonesia were reported or sighted fishing illegally off the north-west coast during 1975-76, and what action was taken. 
-asked the Minister for Defence, upon notice: 
-What facilities are available to Australian and allied military aeroplanes in the western pan of the Indian Ocean. 
-asked the Minister for Defence, upon notice: 
-What naval facilities are available to Australian and Allied warships in the western pan of the Indian Ocean. 
 asked the Minister for Overseas Trade, on 8 December 1976 the following question, upon notice: 
 1 ) What countries have imported Australian meat during the last 3 years for canning, processing and /or re-packing for re-export. 
 What is the quantity and form of such Australian reexported meat from each country. 
@@ -1177,32 +1177,32 @@ the project,
 b) the total cost of all projects, 
 the individual cost of each project and 
 completion date of each project. 
-asked the Minister for Transport, upon notice, on 10 March 1977: 
-1 ) What amounts have been paid to each State for each category of roads for each of the last 6 years. 
-Did the payment of these moneys require matching expenditure on roads by State Governments. If so, what were the matching requirements for each State for each of the 6 years. 
-asked the Minister for Foreign Affairs, upon notice, on 10 March 1977: 
-1 ) What action has been taken on the call by the World Pood Conference 1 974, for establishment of an international food grains reserve. 
-What part has Australia played in development of this reserve since 1974. 
-Has Australia pledged any grain supplies to either the proposed reserve or the proposed interim food grains reserve. If so, how much. If not, why not. 
-Can he say what quantities of grains have been pledged by other countries to the proposedreserves. 
 asked the Minister for Health, upon notice, on 10 March 1977: 
 With reference to the answer to question No. 845  Hansard,  21 September 1976, page 1270), were any premises outside the metropolitan area of Melbourne treated following the detection of Khapra beetle infestation on the vessel  Catherine S.  If so, how many, and where were they located. 
 asked the Minister for Health, upon notice, on 10 March 1977: 
 With reference to the answer to question No. 557  (Hansard,  18 August 1976, page 340), in which he advised that facepieces were regularly serviced, except prior to 1974 at Fremantle and prior to March 1975 at Port Adelaide, where did the facepieces referred to by the Minister for Defence in answer to question No. 549  (Hansard,  25 May 1 976, page 2446) come from, and who had serviced them in the 3 years before their referral to the Materials Research Laboratories, Maribyrnong. 
 Who has serviced facepieces in each State during the last 3 years. 
-asked the Minister for Business and Consumer Affairs, upon notice, on 10 March 1977: 
-What measures have been adopted by Commonwealth and /or State authorities to ensure that opium grown in Australia does not enter the illegal narcotic drugs market. 
+asked the Minister for Foreign Affairs, upon notice, on 10 March 1977: 
+1 ) What action has been taken on the call by the World Pood Conference 1 974, for establishment of an international food grains reserve. 
+What part has Australia played in development of this reserve since 1974. 
+Has Australia pledged any grain supplies to either the proposed reserve or the proposed interim food grains reserve. If so, how much. If not, why not. 
+Can he say what quantities of grains have been pledged by other countries to the proposedreserves. 
+asked the Minister for Transport, upon notice, on 10 March 1977: 
+1 ) What amounts have been paid to each State for each category of roads for each of the last 6 years. 
+Did the payment of these moneys require matching expenditure on roads by State Governments. If so, what were the matching requirements for each State for each of the 6 years. 
 asked the Minister for Health, upon notice, on 10 March 1977: 
 1 ) How many reports of landings on the north-west coast of Australia and adjacent islands by foreign fishermen have been received since 1 July 1975. 
 Have any of these reports been substantiated. If so, what are the details. 
 Did any reports refer to animals accompanying the fishermen; if so, were any such reports substantiated. 
+asked the Minister for Business and Consumer Affairs, upon notice, on 10 March 1977: 
+What measures have been adopted by Commonwealth and /or State authorities to ensure that opium grown in Australia does not enter the illegal narcotic drugs market. 
 asked the Minister for Health, upon notice, on 10 March 1977: 
 Have any reductions in quarantine staff been made as a result of Government staffing policies. If so, what quarantine positions have not been filled since implementation of new staff ceiling limits. 
-Is the Minister representing the Minister for Social Security aware that the handling of inquiries received from members of the Federal and State parliaments by the Department of Social Security in Western Australia has been banned as a result of industrial action by staff associations? Does the Minister realise that many pensioners and social service recipients rely on members of Parliament for assistance in their dealings with that Department? Can the Minister indicate what action will be taken by the Government to overcome the callous disregard of the needs of pensioners by the staff of the Department of Social Security in Western Australia? 
 asked the Minister for the Northern Territory, upon notice, on 10 March 1977: 
 1 ) Has his attention been drawn to reports in December 1976 of statements by  Mr Ian  Tuxworth, member of the Northern Territory Legislative Assembly, that Taiwanese fishing fleets operating in Northern Australian waters deliberately allow several boats to be caught by the Navy so that mother ships and other fishing vessels can freely fish in Australian waters. 
 If so, is there any substance in the statements. 
 Has the Northern Territory Legislative Assembly expressed any view on this subject. If so what are the details. 
+Is the Minister representing the Minister for Social Security aware that the handling of inquiries received from members of the Federal and State parliaments by the Department of Social Security in Western Australia has been banned as a result of industrial action by staff associations? Does the Minister realise that many pensioners and social service recipients rely on members of Parliament for assistance in their dealings with that Department? Can the Minister indicate what action will be taken by the Government to overcome the callous disregard of the needs of pensioners by the staff of the Department of Social Security in Western Australia? 
 asked the Minister for Health, upon notice, on 10 March 1977: 
 1 ) How many doctors in each State were convicted of breaches of the National Health Act during 1976. 
 What penalties were imposed in each case. 
@@ -1226,15 +1226,15 @@ If one has to criticise this Bill today- although the honourable member for Blax
 asked the Minister for Business and Consumer Affairs, upon notice, on 10 March 1977: 
 What quantities of each narcotic drug have been confiscated by Commonwealth and State officers in each State and Territory in each of the 3 years to 31 December 1976. 
 How many persons in each State or Territory have been (a) charged with and (b) convicted of importation of drugs, and what penalties have been imposed on each person convicted in each of those years. 
--The Minister for Employment and Industrial Relations will recall that the Royal Commission on Australian Government Administration recommended that an inquiry outside the Public Service be made into the grievances of  Mr Toomer,  quarantine inspector of Port Hedland, Western Australia. Can the Minister advise the current position in relation to such an inquiry? 
-asked the Minister for Overseas Trade, upon notice, on 10 March 1977: 
-What action has been taken to obtain a reduction of the United States tariff on imports of raw wool since December 1975. 
 asked the Minister for Health, upon notice, on 10 March 1977: 
 1 ) How many children are born in Australia with cleft palate conditions each year. 
 Can he say what cost is incurred by parents of these children in obtaining correction of the condition. 
 Is it a fact that satisfactory treatment for some cases can only be provided by orthodontists. 
 Has payment of medical benefits in respect of orthodontists performing work on children with cleft palates been examined; if so, when, what decisions were made, what were the reasons for any decisions made, and are the reasons still valid. 
 What costs would be involved in accepting such treatment by orthodontists for medical benefits. 
+asked the Minister for Overseas Trade, upon notice, on 10 March 1977: 
+What action has been taken to obtain a reduction of the United States tariff on imports of raw wool since December 1975. 
+-The Minister for Employment and Industrial Relations will recall that the Royal Commission on Australian Government Administration recommended that an inquiry outside the Public Service be made into the grievances of  Mr Toomer,  quarantine inspector of Port Hedland, Western Australia. Can the Minister advise the current position in relation to such an inquiry? 
 asked the Minister for Overseas Trade, upon notice, on 10 March 1 977: 
 With reference to his media release dated 29 December 1976 concerning trade concessions on tropical products from developing countries will he supply details of the quantity, value and origin of all imports to Australia of the commodities listed in the attachments to his media release during the last 2 years. 
 If imports continue at the rates of the last 2 years, what is the total value of the concessions. 
@@ -1370,13 +1370,13 @@ What is the annual cost of running each library.
 What staff are employed in each library and what major staffing changes have occurred in the past three years, or are contemplated. 
 When were the provision, number and purpose of libraries in the Department last reviewed by the Department and /or the Public Service Board, and what recommendations were made at that time. 
 Which libraries are open to the Public, and what is the extent of public usage. 
+asked the Minister for National Resources, upon notice, on 17 March 1977: 
+What organisations in Australia are conducting research into the use of solar energy. 
+What Commonwealth funds have been provided to each of these organisations for this research during the last three financial years. 
 asked the Minister, representing the Minister for Social Security, upon notice, on6 September 1977: 
 1 ) What ( a ) is the annual cost of and ( b ) staff is involved in the (i) production and (ii) distribution of the publication  Social Security Quarterly. 
 2 ) How many copies of each edition are produced. 
 3 ) Who are the main recipients. 
-asked the Minister for National Resources, upon notice, on 17 March 1977: 
-What organisations in Australia are conducting research into the use of solar energy. 
-What Commonwealth funds have been provided to each of these organisations for this research during the last three financial years. 
 asked the Minister for Special Trade Negotiations, upon notice, on 6 September 1977: 
 How many libraries are in his Department, where is each located and what is the main purpose of each. 
 How many (a) books, (b) publications and (c) periodicals (i) are currently in the library and (ii) will be acquired under budget provisions for 1977-78. 
@@ -1384,9 +1384,6 @@ What is the estimated annual cost of running each library.
 What staff are employed in each library and what major staffing changes are contemplated. 
 When were the provision, number and purpose of libraries in the Department last reviewed by the Depanment and /or the Public Service Board, and what recommendations were made at that time. 
 Which libraries are open to the public, and what is the extent of public usage. 
-asked the Minister for Primary Industry, upon notice, on 2 June 1 977: 
-With reference to his Press release dated 28 March 1977 concerning an increase in the pig slaughter levy, what additional amount will be received under the changed regulations in a full financial year. 
-What amounts have been dispensed for (a) promotion and (b) research from funds collected under the Pig Slaughter Levy Act in each year since 1971. 
 asked the Minister for Primary Industry, upon notice, on 6 September 1 977: 
 1 ) How many libraries are in his Department, where is each located and what is the main purpose of each. 
 How many (a) books, (b) publications and (c) periodicals (i) have been acquired in (A) 1974-75, (B) 1975-76 and (C) 1976-77, (ii) are currently in the library and (iii) will be acquired under budget provisions for 1977-78. 
@@ -1394,6 +1391,9 @@ What is the annual cost of running each library.
 What staff are employed in each library and what major staffing changes have occurred in the past 3 years, or are contemplated. 
 When were the provision, number and purpose of libraries in the Department last reviewed by the Department and/or the Public Service Board, and what recommendations were made at that time. 
 6) Which libraries are open to the public, and what is the extent of public usage. 
+asked the Minister for Primary Industry, upon notice, on 2 June 1 977: 
+With reference to his Press release dated 28 March 1977 concerning an increase in the pig slaughter levy, what additional amount will be received under the changed regulations in a full financial year. 
+What amounts have been dispensed for (a) promotion and (b) research from funds collected under the Pig Slaughter Levy Act in each year since 1971. 
 asked the Minister for Health, upon notice, on 16 August 1977: 
 1 ) Has his Department billed  Mr Toomer  with several telephone calls from Port Hedland to  Mr R.  Perriman, Department of Veterans' Affairs, Canberra, a member of the Inquiry appointed by the Public Service Board to inquire into the grievances of  Mr W.  F. Toomer. 
 If so, was the Department informed that these calls were made at the request of  Mr Perriman. 
@@ -1409,16 +1409,6 @@ How many (a) books, (b) publications and (c) periodicals (i) have been acquired 
 What staff are employed in each library and what major staffing changes have occurred in the past 3 years, or are contemplated. 
 When were the provision, number and purpose of libraries in the Department last reviewed by the Department and/or the Public Service Board, and what recommendations were made at that time. 
 Which libraries are open to the public, and what is the extent of public usage. 
-asked the Minister for Health, upon notice, on 1 7 August 1 977: 
-Did the Director, Department of Health, Western Australia, by letter of 4 August 1977, order  Mr W.  F. Toomer, Quarantine Inspector (a) not to enter any establishments or premises controlled by the Department of Health in Western Australia and (b) to return all identity documents including his Certificate of Authorisation, Authority to Drive, and Department of Transport Security Card. If so, what was the purpose of these orders. 
-Is he satisfied that the orders do not prejudge the charges under the Public Service Act laid by the Director of Health, W.A., against  Mr Toomer.  If so, on what evidence and advice has this view been based. 
-asked the Prime Minister, upon notice, on 6 September 1 977: 
-1 ) How many libraries are in his Department, where is each located and what is the main purpose of each. 
-How many (a) books, (b) publications and (c) periodicals (i) have been acquired in (A) 1974-75, (B) 1975-76 and (C) 1976-77, (ii) are currently in the library and (iii) will be acquired under budget provisions for 1977-78. 
-3 ) What is the annual cost of running each library. 
-What staff are employed in each library and what major staffing changes have occurred in the past three years or are contemplated 
-When were the provision, number and purpose of libraries in the Department last reviewed by the Department and/or the Public Service Board, and what recommendations were made at that time. 
-Which libraries are open to the public, and what is the extent of public usage. 
 asked the Minister for Post and Telecommunications, upon notice, on 6 September 1977: 
 1 ) How many libraries are inhis Department, where is each located and what is the main purpose of each. 
 How many (a) books, (b) publications and (c) periodicals (i) have been acquired in (A) 1974-75, (B) 1975-76 and (C) 1976-77, (ii) are currently in the library and (iii) will be acquired under budget provisions for 1977-78. 
@@ -1426,6 +1416,16 @@ What is the annual cost of running each library.
 What staff are employed in each library and what major staffing changes have occurred in the past 3 years, or are contemplated. 
 When were the provision, number and purpose of libraries in the Department last reviewed by the Department and or the Public Service Board, and what recommendations were made at that time. 
 Which libraries are open to the public, and what is the extent of public usage. 
+asked the Prime Minister, upon notice, on 6 September 1 977: 
+1 ) How many libraries are in his Department, where is each located and what is the main purpose of each. 
+How many (a) books, (b) publications and (c) periodicals (i) have been acquired in (A) 1974-75, (B) 1975-76 and (C) 1976-77, (ii) are currently in the library and (iii) will be acquired under budget provisions for 1977-78. 
+3 ) What is the annual cost of running each library. 
+What staff are employed in each library and what major staffing changes have occurred in the past three years or are contemplated 
+When were the provision, number and purpose of libraries in the Department last reviewed by the Department and/or the Public Service Board, and what recommendations were made at that time. 
+Which libraries are open to the public, and what is the extent of public usage. 
+asked the Minister for Health, upon notice, on 1 7 August 1 977: 
+Did the Director, Department of Health, Western Australia, by letter of 4 August 1977, order  Mr W.  F. Toomer, Quarantine Inspector (a) not to enter any establishments or premises controlled by the Department of Health in Western Australia and (b) to return all identity documents including his Certificate of Authorisation, Authority to Drive, and Department of Transport Security Card. If so, what was the purpose of these orders. 
+Is he satisfied that the orders do not prejudge the charges under the Public Service Act laid by the Director of Health, W.A., against  Mr Toomer.  If so, on what evidence and advice has this view been based. 
 asked the Minister for Health, upon notice, on 1 6 August 1977: 
 1 ) Was the libel action initiated by  Dr Wilmot,  Director of Health, Western Australia, against  Mr W.  F. Toomer, Quarantine Inspector, Port Hedland, Western Australia taken after discussion with him or any senior officer of his Department, or taken on his direction or the direction of any senior officer of his Department; if not, to what extent and how has he been able to ascertain that the case was solely the initiative of  Dr Wilmot. 
 Was the action in relation to departmental correspondence between  Dr Wilmot  and  Mr Toomer;  if so, does his Department possess any guidelines concerning use of intradepartmental correspondence for such actions, or to promote critical analysis by subordinate officers of departmental actions and decisions. 
@@ -1446,8 +1446,6 @@ How many (a) books, (b) publications and (c) periodicals (i) have been acquired 
 What staff are employed in each library and what major staffing changes have occurred in the past 3 years, or are contemplated. 
 When were the provision, number and purpose of libraries in the Department last reviewed by the Department and /or the Public Service Board, and what recommendations were made at that time. 
 Which libraries are open to the public, and what is the extent of public usage. 
-asked the Minister Assisting the Prime Minister in Public Service Matters, upon notice, on 16 August 1977: 
-Will he be outlining the situation concerning legal aid for  Mr W.  F. Toomer in preparing his case for presentation to the inquiry established by the Public Service Board to look into the grievances of  Mr Toomer. 
 asked the Minister for Transport, upon notice, on 6 September 1977: 
 How many libraries are in his Department, where is each located and what is the main purpose of each. 
 How many (a) books, (b) publications and (c) periodicals (i) have been acquired in (A) 1974-7S, (B) 1975-76 and (C) 1976-77, (ii) are currently in the library and (iii) will be acquired under budget provisions for 1977-78. 
@@ -1455,14 +1453,16 @@ What is the annual cost of running each library.
 What staff are employed in each library and what major staffing changes have occurred in the past 3 years, or are contemplated. 
 When were the provision, number and purpose of libraries in the Department last reviewed by the Department and/or the Public Service Board, and what recommendations were made at that time. 
 Which libraries are open to the public, and what is the extent of public usage. 
-asked the Minister for Aboriginal Affairs, upon notice, on 6 September 1977: 
+asked the Minister Assisting the Prime Minister in Public Service Matters, upon notice, on 16 August 1977: 
+Will he be outlining the situation concerning legal aid for  Mr W.  F. Toomer in preparing his case for presentation to the inquiry established by the Public Service Board to look into the grievances of  Mr Toomer. 
+asked the Minister for Construction, upon notice, on 6 September 1 977: 
 1 ) How many libraries are in his Department, where is each located and what is the main purpose of each. 
 How many (a) books, (b) publications and (c) periodicals (i) have been acquired in (A) 1974-75, (B) 1975-76 and (C) 1976-77, (ii) are currently in the library and (iii) will be acquired under budget provisions for 1977-78. 
 3 ) What is the annual cost of running each library. 
 What staff are employed in each library and what major staffing changes have occurred in the past 3 years, or are contemplated. 
 When were the provision, number and purpose of libraries in the Department last reviewed by the Department and/or the Public Service Board, and what recommendations were made at that time. 
 Which libraries are open to the public, and what is the extent of public usage. 
-asked the Minister for Construction, upon notice, on 6 September 1 977: 
+asked the Minister for Aboriginal Affairs, upon notice, on 6 September 1977: 
 1 ) How many libraries are in his Department, where is each located and what is the main purpose of each. 
 How many (a) books, (b) publications and (c) periodicals (i) have been acquired in (A) 1974-75, (B) 1975-76 and (C) 1976-77, (ii) are currently in the library and (iii) will be acquired under budget provisions for 1977-78. 
 3 ) What is the annual cost of running each library. 
@@ -1476,16 +1476,6 @@ How many (a) books, (b) publications and (c) periodicals (i) have been acquired 
 What staff are employed in each library and what major staffing changes h have occurred in the past 3 years, or are contemplated. 
 When were the provision, number and purpose of libraries in the Department last reviewed by the Department and/or the Public Service Board, and what recommendations were made at that time. 
 Which libraries are open to the public, and what is the extent of public usage. 
-asked the Treasurer, upon notice: 
-1 ) What would be the cost to revenue in a full year if charges by the Australian Telecommunications Commission for telephone installation beyond 12 km of an exchange were fully deductible for taxation purposes in the year of payment. 
-Under what conditions and terms can these charges be accepted as deductible for taxation purposes under current legislation. 
-asked the Minister for Overseas Trade, upon notice, on 6 September 1977: 
-1 ) How many libraries are in his Department, where is each located and what is the main purpose of each. 
-How many (a) books, (b) publications and (c) periodicals (i) have been acquired in (A) 1974-75, (B) 1975-76 and (C) 1976-77, (ii) are currently in the library and (iii) will be acquired under budget provisions for 1977-78. 
-What is the annual cost of running each library. 
-What staff are employed in each library and what major staffing changes have occurred in the past 3 years, or are contemplated. 
-When were the provision, number and purpose of libraries in the Department last reviewed by the Department and/or the Public Service Board, and what recommendations were made at that time. 
-Which libraries are open to the public, and what is the extent of public usage. 
 asked the Minister for Immigration and Ethnic Affairs, upon notice, on 6 September 1977: 
 1 ) How many libraries are in his Department, where is each located and what is the main purpose of each? 
 How many (a) books, (b) publications and (c) periodicals (i) have been acquired in (A) 1974-75, (B) 1975-76 and (C) 1976-77, (ii) are currently in the library and (iii) will be acquired under budget provisions for 1977-78? 
@@ -1493,31 +1483,41 @@ What is the annual cost of running each library?
 What staff are employed in each library and what major staffing changes have occurred in the past 3 years, or are contemplated? 
 When were the provision, number and purpose of libraries in the Department last reviewed by theDepartment and/or the Public Service Board, and what recommendations were made at that time? 
 Which libraries are open to the public, and what is the extent of public usage? 
+asked the Minister for Overseas Trade, upon notice, on 6 September 1977: 
+1 ) How many libraries are in his Department, where is each located and what is the main purpose of each. 
+How many (a) books, (b) publications and (c) periodicals (i) have been acquired in (A) 1974-75, (B) 1975-76 and (C) 1976-77, (ii) are currently in the library and (iii) will be acquired under budget provisions for 1977-78. 
+What is the annual cost of running each library. 
+What staff are employed in each library and what major staffing changes have occurred in the past 3 years, or are contemplated. 
+When were the provision, number and purpose of libraries in the Department last reviewed by the Department and/or the Public Service Board, and what recommendations were made at that time. 
+Which libraries are open to the public, and what is the extent of public usage. 
+asked the Treasurer, upon notice: 
+1 ) What would be the cost to revenue in a full year if charges by the Australian Telecommunications Commission for telephone installation beyond 12 km of an exchange were fully deductible for taxation purposes in the year of payment. 
+Under what conditions and terms can these charges be accepted as deductible for taxation purposes under current legislation. 
 asked the Minister Assisting the Prime Minister in Public Service Matters, upon notice, on 16 August 1977: 
 Is it a fact that  Mr R.  Perriman, a member of the Inquiry established by the Public Service Board to inquire into the grievances of  Mr W.  F. Toomer, requested  Mr Toomer  to telephone him in Canberra on several occasions prior to the hearings of the Inquiry at Port Hedland which commenced on 1 1 July 1977. 
 If so, is it also a fact that the cost of these calls has been charged to  Mr Toomer  personally by the Depanment of Health. 
 Does he accept that these calls are a legitimate charge on the Inquiry; if so, can he arrange for the billing to  Mr Toomer  for these calls to be cancelled. 
 asked the Minister for Health, upon notice, on 16 August 1977: 
-What staffing arrangements have been made at Port Hedland and the northwest of Western Australia since the suspension of  Mr W.  F. Toomer, Quarantine Inspector, Port Hedland on 14 July 1977. 
-Does any quarantine risk exist because of the staffing situation in the northwest of Western Australia since 14 July 1977. If so, how. 
-asked the Minister for Health, upon notice, on 16 August 1977: 
 1 ) What help or aid was given by his Department to enable  Mr W.  F. Toomer to appear before the Inquiry into his grievances set up by the Public Service Board and which interviewed  Mr Toomer  in Port Hedland during the week commencing 1 1 July 1977. 
 Was  Mr Toomer  required to break his appearances before the Inquiry to perform his normal duties. If so, on what occasions, and for what periods. 
 What help or aid was given by his Department to  Mr Toomer  before 1 1 July 1977 to enable him to prepare his case for presentation to the Inquiry. 
 Were any documents and/or papers requested by  Mr Toomer  to enable him to prepare his case withheld by his Department. If so, what documents and /or papers and what was the reason for the withholding of these papers and/or documents. 
-asked the Minister representing the Minister for Industry and Commerce, upon notice, on 6 September: 
-1 ) How many libraries are in the Department of Industry and Commerce, where is each located and what is the main purpose of each. 
-How many (a) books, (b) publications and (c) periodicals (i) have been acquired in (A) 1974-75, (B) 975-76 and (C) 1976-77, (ii) are currently in the library and (iii) will be acquired under budget provisions for 1977-78. 
-3 ) What is the annual cost of running each library. 
-What staff are employed in each library and what major staffing changes have occurred in the past 3 years, or are contemplated. 
-When were the provision, number and purpose of libraries in the Department of Industry and Commerce last reviewed by the Department and /or the Public Service Board, and what recommendations were made at that time. 
-Which libraries are open to the public, and what is the extent of public usage. 
+asked the Minister for Health, upon notice, on 16 August 1977: 
+What staffing arrangements have been made at Port Hedland and the northwest of Western Australia since the suspension of  Mr W.  F. Toomer, Quarantine Inspector, Port Hedland on 14 July 1977. 
+Does any quarantine risk exist because of the staffing situation in the northwest of Western Australia since 14 July 1977. If so, how. 
 asked the Minister for Foreign Affairs, upon notice: 
 1 ) How many libraries are in his Department, where is each located and what is the main purpose of each. 
 How many (a) books, (b) publications and (c) periodicals (i) have been acquired in (A) 1974-75, (B) 1975-76 and (C) 1976-77, (ii) are currently in the library and (iii) will be acquired under budget provisions for 1977-78. 
 ) What is the annual cost of running each library. 
 What staff are employed in each library and what major staffing changes have occurred in the past 3 years, or are contemplated. 
 When were the provision, number and purpose of libraries in the Department last reviewed by the Department and/or the Public Service Board, and what recommendations were made at that time. 
+Which libraries are open to the public, and what is the extent of public usage. 
+asked the Minister representing the Minister for Industry and Commerce, upon notice, on 6 September: 
+1 ) How many libraries are in the Department of Industry and Commerce, where is each located and what is the main purpose of each. 
+How many (a) books, (b) publications and (c) periodicals (i) have been acquired in (A) 1974-75, (B) 975-76 and (C) 1976-77, (ii) are currently in the library and (iii) will be acquired under budget provisions for 1977-78. 
+3 ) What is the annual cost of running each library. 
+What staff are employed in each library and what major staffing changes have occurred in the past 3 years, or are contemplated. 
+When were the provision, number and purpose of libraries in the Department of Industry and Commerce last reviewed by the Department and /or the Public Service Board, and what recommendations were made at that time. 
 Which libraries are open to the public, and what is the extent of public usage. 
 asked the Minister for Health, upon notice, on 17 August 1977: 
 1 ) Has his attention been drawn to a report broadcast by the Australian Broadcasting Commission Regional News in Western Australia on 20 July 1977 that a Western Australian Department of Agriculture stock inspector had claimed that cattle were walking through the remains of burnt quarantine material at the Broome Shire Council rubbish tip. 
@@ -1726,14 +1726,14 @@ I direct my question to the Minister for Employment and Industrial Relations. Do
 asked the Minister representing the Minister for Science the following question, upon notice, on 8 March 1978. 
 1 ) How many copies of (a) each daily newspaper and (b) each weekly publication are purchased by (i) the Head Office and (ii) other offices of the Department of Science. 
 What was the cost of these purchases during 1976-77. 
-asked the Minister for Foreign Affairs, upon notice, on 8 March 1978: 
-What sum was paid by his Department, or by Departments, formerly encompassing the functions now performed by his Depanment, to each airline for air travel within Australia during 1976-77. 
-asked the Minister, representing the Minister for Social Security, upon notice, on 8 March 1978: 
-1 ) How many copies of ( a ) each daily newspaper and ( b ) each weekly publication are purchased by (i) the Head Office and (ii) other offices of the Depanment of Social Security. 
-) What was the cost of these purchases during 1 976-77. 
 asked the Minister for Construction, upon notice, on 8 March 1978: 
 1 ) How many copies of (a ) each daily newspaper and ( b ) each weekly publication are purchased by (i) the Head Office and (ii) other offices of his Department 
 ) What was the cost of these purchases during 1976-77. 
+asked the Minister, representing the Minister for Social Security, upon notice, on 8 March 1978: 
+1 ) How many copies of ( a ) each daily newspaper and ( b ) each weekly publication are purchased by (i) the Head Office and (ii) other offices of the Depanment of Social Security. 
+) What was the cost of these purchases during 1 976-77. 
+asked the Minister for Foreign Affairs, upon notice, on 8 March 1978: 
+What sum was paid by his Department, or by Departments, formerly encompassing the functions now performed by his Depanment, to each airline for air travel within Australia during 1976-77. 
 asked the Minister, representing the Minister for Social Security, upon notice, on 8 March 1978: 
 1 ) What staff canteens are operated by the Depanment of Social Security. 
 ) What is the pricing policy of each canteen. 
@@ -1818,32 +1818,32 @@ Are the public and relatives and friends of departmental staff permitted to use 
 If there are restrictions on its use how are they implemented in each canteen. 
 What staff from other Commonwealth Departments and instrumentalities regularly use each canteen. 
 Are there any arrangements made by his Department for any staff canteen to be operated by private enterprise; if so, which canteens and under what terms and conditions. 
-asked the Minister for Employment and Industrial Relations, upon notice, on 8 March 1978: 
-What sum was paid by his Department or by Departments formerly encompassing the functions now performed by his Department, to each airline for air travel within Australia during 1976-77. 
-asked the Minister for Post and Telecommunications, upon notice, on 8 March 1978: 
-What sum was paid by his Department, or by Departments formerly encompassing the functions now performed by his Department, to each airline for air travel within Australia during 1976-77. 
-asked the Minister for Employment and Industrial Relations, upon notice, on 8 March 1978: 
-1 ) How many copies of (a) each daily newspaper and (b) each weekly publication are purchased by (i) the Head Office and (ii) other offices of his Department. 
-What was the cost of these purchases during 1976-77. 
 asked the Minister representing the Minister for Education, upon notice, on 8 March 1978: 
 1 ) How many copies of (a) each daily newspaper and (b) each weekly publication are purchased by (i) the Head Office and ( ii) other offices of the Department of Education. 
 What was the cost of these purchases during 1976-77. 
-asked the Minister for Post and Telecommunications, upon notice, on 8 March 1978: 
+asked the Minister for Employment and Industrial Relations, upon notice, on 8 March 1978: 
 1 ) How many copies of (a) each daily newspaper and (b) each weekly publication are purchased by (i) the Head Office and (ii) other offices of his Department. 
 What was the cost of these purchases during 1976-77. 
-asked the Minister representing the Attorney-General, upon notice, on 8 March 1978: 
-1 ) How many copies of (a) each daily newspaper and (b) each weekly publication are purchased by (i) the Head Office and (ii) other offices of the Attorney-General's Department. 
-What was the cost of these purchases during 1976-77. 
-asked the Minister for Business and Consumer Affairs, upon notice, on 9 March 1978: 
-1 ) How many copies of (a) each daily newspaper and (b) each weekly publication are purchased by (i) the Head Office and (ii) other offices of his Department. 
-) What was the cost of these purchases during 1 976-77. 
-asked the Minister for Immigration and Ethnic Affairs, upon notice, on 8 March 1978: 
-How many (a) full-time and (b) part-time staff are employed on tea-making and distribution in (i) the Head Office and (ii) other offices of his Department. 
-What was the cost in 1976-77 of (i) salaries and (ii) other charges in the provision of tea services in his Department. 
 asked the Minister Assisting the Prime Minister, upon notice, on 8 March 1978: 
 What was the total cost of the inquiry set up by the Public Service Board which investigated the case of  Mr W.  F. Toomer, formerly Quarantine Inspector, Department of Health, Western Australia. 
 asked the Minister for Health, upon notice, on 8 March 1978: 
 How long after the completion of a high security offshore quarantine station would he anticipate that imports of (a) cattle, (b) sheep, (c) goats and (d) pigs would be permitted from (i) Southern Africa, (ii) the Asian mainland, (iii) the Persian Gulf area, (iv) the United States of America, (v) Mexico and South America and ( vi) Eastern Europe. 
+asked the Minister for Immigration and Ethnic Affairs, upon notice, on 8 March 1978: 
+How many (a) full-time and (b) part-time staff are employed on tea-making and distribution in (i) the Head Office and (ii) other offices of his Department. 
+What was the cost in 1976-77 of (i) salaries and (ii) other charges in the provision of tea services in his Department. 
+asked the Minister for Business and Consumer Affairs, upon notice, on 9 March 1978: 
+1 ) How many copies of (a) each daily newspaper and (b) each weekly publication are purchased by (i) the Head Office and (ii) other offices of his Department. 
+) What was the cost of these purchases during 1 976-77. 
+asked the Minister representing the Attorney-General, upon notice, on 8 March 1978: 
+1 ) How many copies of (a) each daily newspaper and (b) each weekly publication are purchased by (i) the Head Office and (ii) other offices of the Attorney-General's Department. 
+What was the cost of these purchases during 1976-77. 
+asked the Minister for Post and Telecommunications, upon notice, on 8 March 1978: 
+1 ) How many copies of (a) each daily newspaper and (b) each weekly publication are purchased by (i) the Head Office and (ii) other offices of his Department. 
+What was the cost of these purchases during 1976-77. 
+asked the Minister for Post and Telecommunications, upon notice, on 8 March 1978: 
+What sum was paid by his Department, or by Departments formerly encompassing the functions now performed by his Department, to each airline for air travel within Australia during 1976-77. 
+asked the Minister for Employment and Industrial Relations, upon notice, on 8 March 1978: 
+What sum was paid by his Department or by Departments formerly encompassing the functions now performed by his Department, to each airline for air travel within Australia during 1976-77. 
 asked the Minister for Health, upon notice, on 8 March 1978: 
 What disease of (a) cattle, (b) goats, (c) sheep and (d) pigs can be transmitted through (i) semen and (ii) ova transplants. 
 asked the Minister for Aboriginal Affairs, upon notice, on 8 March 1978: 
@@ -1883,22 +1883,20 @@ What is the departmental list termed the 'Khapra List' and was the M.V.  Vishna 
 Has his attention been drawn to reports in the  Farmers' Weekly  of 14 July 1977, official organ of the Farmers' Union of W.A. (lnc), concerning statements made to the master of the M.V.  Vishna Kalyan  in Sydney on IS June 1977 by officers or an officer of his Department. 
 Has his attention also been drawn to the allegation that departmental officers or an officer had referred to departmental intentions 'to get rid of an inspector'; if so, can he advise whether the statement was in fact made; if so (a) who made the statement and (b) was the statement made in the presence of  Mr Perriman  and/or  Mr Temme. 
 1 ) If he is satisfied that no statement of this nature was made by any departmental officer, can he advise the means by which he satisfied himself in this respect. 
-asked the Minister for Home Affairs, upon notice, on 8 March 1978: 
-What sum was paid by his Department, or by departments formerly encompassing the functions now performed by his Department, to each airline for air travel within Australia during 1976-77. 
 asked the Minister for Environment, Housing and Community Development, upon notice, on 8 March 1976: 
 How many (a) full-time and (b) part-time staff are employed on tea-making and distribution in (i) the Head Office and (ii) other offices of his Department. 
 What was the cost in 1976-77 of (i) salaries and (ii) other charges in the provision of tea services in his Department. 
+asked the Minister for Home Affairs, upon notice, on 8 March 1978: 
+What sum was paid by his Department, or by departments formerly encompassing the functions now performed by his Department, to each airline for air travel within Australia during 1976-77. 
 asked the Minister representing the Minister for Science the following question on notice on 8 March 1978: 
 What sum was paid by the Department of Science, or by Departments formerly encompassing the functions now performed by the Department of Science, to each airline for air travel within Australia during 1 976-77. 
-asked the Minister for Transport, upon notice, on 8 March 1978: 
-What sum was paid by his Department, or by departments formerly encompassing the functions now performed by his Department, to each airline for air travel within Australia during 1976-77. 
+asked the Minister for Productivity, upon notice, on 8 March 1978: 
+How many copies of (a) each daily newspaper and (b) each weekly publication are purchased by (i) the Head Office and (ii) other offices of his Department. 
+) What was the cost of these purchases during 1 976-77. 
 asked the Minister for Finance, upon notice, on 8 March 1978: 
 What sum was paid by his Department, or by departments formerly encompassing the functions now performed by his Department, to each airline for air travel within Australia during 1976-77. 
 asked the Minister for Transport, upon notice, on 8 March 1978: 
 1 ) How many copies of (a) each daily newspaper and (b) each weekly publication are purchased by (i) the Head Office and (ii) other offices of his Department. 
-) What was the cost of these purchases during 1 976-77. 
-asked the Minister for Productivity, upon notice, on 8 March 1978: 
-How many copies of (a) each daily newspaper and (b) each weekly publication are purchased by (i) the Head Office and (ii) other offices of his Department. 
 ) What was the cost of these purchases during 1 976-77. 
 asked the Minister for Veterans' Affairs, upon notice, on 8 March 1978: 
 How many (a) full-time and (b) part-time staff are employed on tea-making and distribution in (i) the Head Office and (ii ) other offices in his Department. 
@@ -1907,6 +1905,8 @@ asked the Minister representing the Minister for Science, upon notice:
 Further to his answer to Question No. 391  (Hansard,  27 April 1976, page 1652) has any further request been received from the Western Australian Government for help in studying or investigating ryegrass toxicity since 27 April 1977; if so, what was the nature of the request and what action was taken on it. 
 What sum has been spent from all sources on research into ryegrass toxicity in the last 2 financial years. 
 Will he supply figures showing (a) the amounts spent each year, (b) the sources of these funds and (c) the areas of research in which the funds were spent. 
+asked the Minister for Transport, upon notice, on 8 March 1978: 
+What sum was paid by his Department, or by departments formerly encompassing the functions now performed by his Department, to each airline for air travel within Australia during 1976-77. 
 asked the Minister for Special Trade Representations, upon notice, on 8 March 1978: 
 What sum was paid by his Department, or by Departments formerly encompassing the functions now performed by his Department, to each airline for air travel within Australia during 1976-77. 
 asked the Minister for National Development, upon notice, on 8 March 1978: 
@@ -1914,17 +1914,17 @@ What sum was paid by his Department, or by Departments formerly encompassing the
 asked the Minister for Industry and Commerce, upon notice, on 1 4 March 1978: 
 1 ) How many copies of (a) each daily newspaper and (b) each weekly publication are purchased by (i) the Head Office and (ii) other offices of his Department. 
 What was the cost of these purchases during 1976-77. 
-asked the Minister representing the Attorney-General, upon notice, on 8 March 1978: 
-What sum was paid by the Attorney-General's Department or by Departments formerly encompassing the functions now performed by the Attorney-General's Department, to each airline for air travel within Australian during 1976-77. 
-asked the Minister for Immigration and Ethnic Affairs, upon notice, on 8 March 1978: 
-1 ) How many copies of (a) each daily newspaper and (b) each weekly publication are purchased by (i) the Head Office and (ii) other offices of his Department. 
-What was the cost of these purchases during 1976-77 . 
-asked the Minister for Veterans' Affairs, upon notice, on 8 March 1978: 
-1 ) How many copies of (a) each daily newspaper and (b) each weekly publication are purchased by (i) the Head Office and (ii) other offices of his Department. 
-What was the cost of these purchases during 1976-1977. 
 asked the Minister for Productivity, upon notice, on 8 March 1978: 
 How many (a) full-time and (b) part-time staff are employed on tea-making and distribution in (i) the Head Office and (ii) other offices of his Department . 
 What was the cost in 1976-77 of (i) salaries and (ii) other charges in the provision of tea services in his Department. 
+asked the Minister for Veterans' Affairs, upon notice, on 8 March 1978: 
+1 ) How many copies of (a) each daily newspaper and (b) each weekly publication are purchased by (i) the Head Office and (ii) other offices of his Department. 
+What was the cost of these purchases during 1976-1977. 
+asked the Minister for Immigration and Ethnic Affairs, upon notice, on 8 March 1978: 
+1 ) How many copies of (a) each daily newspaper and (b) each weekly publication are purchased by (i) the Head Office and (ii) other offices of his Department. 
+What was the cost of these purchases during 1976-77 . 
+asked the Minister representing the Attorney-General, upon notice, on 8 March 1978: 
+What sum was paid by the Attorney-General's Department or by Departments formerly encompassing the functions now performed by the Attorney-General's Department, to each airline for air travel within Australian during 1976-77. 
 asked the Treasurer, upon notice, on 8 March 1978: 
 What sum was paid by his Department, or by departments formerly encompassing the functions now performed by his Department, to each airline for air travel within Australia during 1976-77. 
 asked the Minister for Aboriginal Affairs, upon notice, on 8 March 1978: 
@@ -1977,8 +1977,9 @@ What was the cost to the Depanment of this expenditure in 1976-77.
 asked the Minister for Veterans' Affairs, upon notice, on 9 May 1978: 
 1 ) How many officers and employees of his Depanment have their home telephone rentals or charges fully or partially paid by the Depanment. 
 What was the cost to the Depanment of this expenditure in 1976-77. 
-asked the Minister for Productivity, upon notice, on 8 March 1978: 
-What sum was paid by his Department, or by Departments formerly encompassing the functions now performed by his Department, to each airline for air travel within Australia during 1976-77. 
+asked the Minister for Immigration and Ethnic Affairs, upon notice, on 9 May 1978: 
+1 ) How many officers and employees of his Department have their home telephone rentals and charges fully or partially paid by the Department. 
+What was the cost to the Department of this expenditure in 1976-77. 
 asked the Minister for Trade and 
 Resources, upon notice, on 8 March 1 978: 
 1 ) What staff canteens are operated by his Department. 
@@ -1991,25 +1992,22 @@ Are the public and relatives and friends of departmental staff permitted to use 
 If there are restrictions on its use, how are they implemented in each canteen. 
 What staff from other Commonwealth Departments and instrumentalities regularly use each canteen. 
 Are there any arrangements made by his Department for any staff canteen to be operated by private enterprise; if so, which canteens and under what terms and conditions. 
-asked the Minister for Immigration and Ethnic Affairs, upon notice, on 9 May 1978: 
-1 ) How many officers and employees of his Department have their home telephone rentals and charges fully or partially paid by the Department. 
-What was the cost to the Department of this expenditure in 1976-77. 
+asked the Minister for Productivity, upon notice, on 8 March 1978: 
+What sum was paid by his Department, or by Departments formerly encompassing the functions now performed by his Department, to each airline for air travel within Australia during 1976-77. 
 -In accordance with the provisions of the Public Works Committee Act 1969,I present the reports relating to the following proposed works: 
 Redevelopment of airways facilities, Adelaide Airport, South Australia. 
 Off-shore, high security animal quarantine station at West Island, Cocos (Keeling) Islands; review of fifth report, 1 973. 
 Ordered that the reports be printed. 
+asked the Minister for Home Affairs upon notice on 9 May 1 978: 
+1 ) How many officers and employees of his Depanment have their home telephone rentals or charges fully or partially paid by the Department. 
+What was the cost to the Department of this expenditure in 1976-77. 
+asked the Minister for the Northern Territory, upon notice, on 9 May 1 978: 
+1 ) How many officers and employees of his Department have their home telephone rentals or charges fully or partially paid by the Department. 
+What was the cost to the Department of this expenditure in 1976-77. 
 asked the Minister for Home Affairs, upon notice, on 10 May 1978: 
 1 ) Has his attention been drawn to the report on page 1 1 of the Sydney  Sun  of 2 May 1978, that the Cocos Island scotch whisky intake rose 99 per cent in 1977 over the 1976 level to a total level of 3 1, 576 litres. 
 Are imports of scotch whisky to Cocos Islands subject to the same duties and other government charges as imports into Australia; if not, what duties and charges are payable. 
 Is he satisfied that the increased imports of scotch whisky to Cocos Islands represent a genuine increase in consumption on Cocos Island, and are not a device to avoid or evade payment of Austraiian duties and charges. 
-asked the Minister for the Northern Territory, upon notice, on 9 May 1 978: 
-1 ) How many officers and employees of his Department have their home telephone rentals or charges fully or partially paid by the Department. 
-What was the cost to the Department of this expenditure in 1976-77. 
-asked the Minister for Home Affairs upon notice on 9 May 1 978: 
-1 ) How many officers and employees of his Depanment have their home telephone rentals or charges fully or partially paid by the Department. 
-What was the cost to the Department of this expenditure in 1976-77. 
-asked the Minister representing the Minister for  Administrative  Services, upon notice, on 8 March 1 978: 
-What sum was paid by the Department of Administrative Services, or by Departments formerly encompassing the functions now performed by the Department of Administrative Services, to each airline for air travel within Australia during 1976-77. 
 asked the Minister for Finance, upon notice, on 8 March 1 978: 
 1 ) How many libraries are in his Department, where is each located and what is the main purpose of each. 
 How many (a) books, (b) publications and (c) periodicals (i) have been acquired in (A) 1974-75, (B) 1975-76, (C) 1976-77, (ii) are currently in the library and (iii) will be acquired under budget provisions for 1 977-78. 
@@ -2017,6 +2015,8 @@ How many (a) books, (b) publications and (c) periodicals (i) have been acquired 
 What staff are employed in each library and what major staffing changes have occurred in the last 3 years, or are contemplated. 
 When were the provision, number and purpose of libraries in the Department last reviewed by the Department and/or the Public Service Board, and what recommendations were made at that time. 
 Which libraries are open to the public, and what is the extent of public usage. 
+asked the Minister representing the Minister for  Administrative  Services, upon notice, on 8 March 1 978: 
+What sum was paid by the Department of Administrative Services, or by Departments formerly encompassing the functions now performed by the Department of Administrative Services, to each airline for air travel within Australia during 1976-77. 
 asked the Minister for Employment and Industrial Relations, upon notice, on 8 March 1978: 
 1 ) What staff canteens are operated by his Department. 
 2 ) What is the pricing policy of each canteen. 
@@ -2048,6 +2048,14 @@ What was the cost to the Department of this expenditure in 1976-77.
 asked the Minister for Special Trade Representations, upon notice, on 9 May 1978: 
 1 ) How many officers and employees of his Department have their home telephone rentals or charges fully or partially paid by the Department. 
 What was the cost to the Department of this expenditure in 1976-77. 
+asked the Minister representing the Minister for Science, upon notice, on 9 May 1978: 
+1 ) How many officers and employees of the Department of Science have their home telephone rentals or charges fully or partially paid by the Department. 
+What was the cost to the Department of this expenditure in 1976-77. 
+asked the Minister for Health, upon notice.on 9 May 1978: 
+1 ) What quarantine restrictions apply to the entry of eggs and egg products to Australia. 
+Is it possible to import fertile eggs or breeding birds to Australia; if so, from where can they be imported and under what conditions. 
+asked the Minister for Environ ment, Housing and Community Development, upon notice, on 8 March, 1978: 
+What sum was paid by his Department, or by Departments formerly encompassing the functions now performed by his Department, to each airline for air travel within Australia during 1976-77. 
 -As a member of the Public Works Committee I wish to endorse the motion that has been moved by the Minister for Construction  (Mr McLeay).  The Committee examined the proposed works very thoroughly indeed and felt that the proposed works were fully justified in every respect. In fact, in view of the growth in air traffic through the Adelaide airport and the projected growth in future years it is evident that to maintain adequate safety standards the construction of the buildings which are a part of this proposed work is essential. I am not saying in any way that there is a danger at this stage as far as safety aspects are concerned, but there certainly would be some prospect of danger if the volume of traffic through the airport continues at the rate at which it is growing and the rate at which it is projected. 
 The proposed work provides for the construction of a new air traffic control tower and also an operations building to incorporate the flight service centre, area approach controls and control equipment. The proposal also allows for the installation of more up to date and modern air traffic conrol equipment. It was clear to the Committee that the facilities at the Adelaide airport in no way match the operations facilities at the Melbourne Airport which the Committee also inspected. 
 May I say that the Committee received full reports from the unions whose members will be working in the proposed new facilities and they also very strongly supported the proposed work. There is one further point I should like to make and that is the fact that in no way does this proposal prejudge the expansion of the Adelaide airport. This was a matter of major concern to a number of citizens who appeared before the Committee. It was pointed out that these facilities are necessary at this stage even to handle the present volume of air traffic and particularly in view of the future air traffic build up at the airport. There is an agreement between the Commonwealth Government and the South Australian Government which has set up a joint government advisory committee with the function of reporting and recommending on the future development of airports for the Adelaide region. It was quite clear to the Public Works Committee that irrespective of the way in which the joint advisory committee reported there would still be a need for the airport at Adelaide in its current location at least to the year 2005. The Committee bore this fact in mind to a great degree when it made its recommendations in this respect. Paragraph 62 of the report states: 
@@ -2055,14 +2063,6 @@ Even if it is decided to establish a new airport, the new area approach control 
 Paragraph 63 states: 
 The new control tower would also reach its economic life if Adelaide airport is retained in its present or in a reduced form. If, however, the present airport is abandoned, any remaining economic life of the control tower would represent only a very small proportion of the total investment at Adelaide airport which would need to be written ofl" in the event of such a decision. 
 Despite the fact that the costs, or a proportion of the costs, of these facilities will be recovered through a cost recovery program it was very clear that both the Department of Construction and the Department of Transport had a very keen anxiety to keep costs to an absolute minimum. I commend the departments for that attitude. I support the motion. 
-asked the Minister for Environ ment, Housing and Community Development, upon notice, on 8 March, 1978: 
-What sum was paid by his Department, or by Departments formerly encompassing the functions now performed by his Department, to each airline for air travel within Australia during 1976-77. 
-asked the Minister for Health, upon notice.on 9 May 1978: 
-1 ) What quarantine restrictions apply to the entry of eggs and egg products to Australia. 
-Is it possible to import fertile eggs or breeding birds to Australia; if so, from where can they be imported and under what conditions. 
-asked the Minister representing the Minister for Science, upon notice, on 9 May 1978: 
-1 ) How many officers and employees of the Department of Science have their home telephone rentals or charges fully or partially paid by the Department. 
-What was the cost to the Department of this expenditure in 1976-77. 
 asked the Minister representing the Minister for Education, upon notice, on 8 March 1978: 
 1 ) What staff canteens are operated by the Department of Education 
 ) What is the pricing policy of each canteen. 
@@ -2086,6 +2086,11 @@ What was the cost to the Department of this expenditure in 1976-77.
 asked the Minister for Environment, Housing and Community Development, upon notice, on 15 May 1978: 
 1 ) How many officers and employees of his Department have their home telephone rentals or charges fully or partially paid by the Department. 
 What was the cost to the Department of this expenditure in 1976-77. 
+asked the Minister representing the Minister for Science, upon notice, on 16 March 1978: 
+1 ) Has the Minister's attention been drawn to the statement on page 1 55 of the publication  Independent Inquiry into the Commonwealth Scientific and Industrial Research Organisation,  August 1 977, that the CSIRO indicated some dissatisfaction with the present arrangements with the Department of Construction. 
+If so, will the Minister detail the specific areas of dissatisfaction. 
+What evidence was presented to the Inquiry by (a) the CSIRO and (b) the Department of Science to support the views contained in the statement. 
+What action was recommended to the Inquiry by (a) the CSIRO and (b) the Department of Science to overcome any dissatisfaction. 
 asked the Minister representating the Minister for Education, upon notice, on 8 May 1978: 
 1 ) How many libraries are in the Depanment of Education, where is each located and what is the main purpose of each. 
 How many (a) books, (b) publications and (c) periodicals (i) have been acquired in (A) 1974-75, (B) 1975-76 and (C) 1976-77, (ii) are currently in the library and (iii) will be acquired under budget provisions for 1 977-78. 
@@ -2194,11 +2199,6 @@ Will the Minister supply full details of any evidence given to the Inquiry by (a
 Does the Minister or the Department of Science possess additional information to support this view, if so, will he detail it. 
 5 ) Will the Minister detail all information provided to the Inquiry by (a) CSIRO and (b) the Department of Science which supported the statement by the Inquiry that higher standards imposed by the Department of Construction had increased building costs significantly with additional plumbing costs alone adding as much as $100,000 on large buildings. 
 Does the Minister or the Department of Science possess additional information to support the statement; if so, will he detail it. 
-asked the Minister representing the Minister for Science, upon notice, on 16 March 1978: 
-1 ) Has the Minister's attention been drawn to the statement on page 1 55 of the publication  Independent Inquiry into the Commonwealth Scientific and Industrial Research Organisation,  August 1 977, that the CSIRO indicated some dissatisfaction with the present arrangements with the Department of Construction. 
-If so, will the Minister detail the specific areas of dissatisfaction. 
-What evidence was presented to the Inquiry by (a) the CSIRO and (b) the Department of Science to support the views contained in the statement. 
-What action was recommended to the Inquiry by (a) the CSIRO and (b) the Department of Science to overcome any dissatisfaction. 
 asked the Minister representing the Minister for Science, upon notice, on 16 March: 
 1 ) Has the Minister's attention been drawn to the conclusion on page 156 of the publication  Independent Inquiry into the Commonwealth Scientific and Industrial Research Organization,  August 1977, that the design and construction of the National Measurement Laboratories at Bradfield Park, New South Wales, was extravagant and a misuse of public funds. 
 Does the Minister for the Department of Science possess information to support the conclusion referred to in part (a); if so, will he detail it and specifically list the cases of extravagance. 
@@ -2223,14 +2223,14 @@ What was the cost to the Department of this expenditure in 1976-77.
 asked the Minister for Business and Consumer Affairs, upon notice, on 9 May 1978: 
 1 ) How many officers and employees of his Department have their home telephone rentals or charges fully or partially paid by the Department. 
 What was the cost to the Department of this expenditure in 1976-77. 
+asked the Minister for Health, upon notice, on 8 March 1978: 
+What has been the cost to his Department of the actions taken against  Mr W.  F. Toomer, formerly Quarantine Inspector, Western Australia. 
 asked the Minister for Home Affairs, upon notice, on 8 March 1978: 
 1 ) How many copies of (a) each daily newspaper and (b) each weekly publication are purchased by (i) the Head Office and (ii) other offices of his Department. 
 What was the cost of these purchases during 1976-77. 
 asked the Minister for Environment, Housing and Community Development, upon notice, on 8 March, 1987: 
 1 ) How many copies of (a) each daily newspaper and (b) each weekly publication are purchased by (i) the Head Office and (ii) other offices of his Department. 
 What was the cost of these purchases during 1 976-77. 
-asked the Minister for Health, upon notice, on 8 March 1978: 
-What has been the cost to his Department of the actions taken against  Mr W.  F. Toomer, formerly Quarantine Inspector, Western Australia. 
 asked the Prime Minister, upon notice, on 8 March 1978: 
 1 ) What staff canteens are operated by his Department. 
 ) What is the pricing policy of each canteen. 
@@ -2333,6 +2333,9 @@ What was the cost to the Department of this expenditure in 1976-77.
 asked the Minister for Productivity, upon notice, on 9 May 1978: 
 1 ) How many officers and employees of his Department have their home telephone rentals or charges fully or partially paid by the Department. 
 What was the cost to the Department of this expenditure in 1976-77. 
+asked the Minister for Defence, upon notice, on 9 May 1978: 
+How many officers and employees of his Department have their home telephone rentals or charges fully or partially paid by the Department. 
+What was the cost to the Department of this expenditure in 1976-77. 
 asked the Minister representing the Minister for Administrative Services, upon notice, on 8 March 1978: 
 1 ) How many copies of (a) each daily newspaper and ( b ) each weekly publication are purchased by (i) the Head Office and (ii) other offices of the Department of Administrative Services. 
 What was the cost of these purchases during 1 976-77. 
@@ -2357,9 +2360,6 @@ Are the public and relatives and friends of departmental staff permitted to use 
 If there are restrictions on its use how are they implemented in each canteen. 
 What staff from other Commonwealth Departments and instrumentalities regularly use each canteen. 
 Are there any arrangements made by his Department for any staff canteen to be operated by private enterprise; if so, which canteens and under what terms and conditions. 
-asked the Minister for Defence, upon notice, on 9 May 1978: 
-How many officers and employees of his Department have their home telephone rentals or charges fully or partially paid by the Department. 
-What was the cost to the Department of this expenditure in 1976-77. 
 asked the Minister for Immigration and Ethnic Affairs, upon notice, on 8 March 1978: 
 1 ) What staff canteens are operated by his Department. 
 What is the pricing policy of each canteen. 
@@ -2372,27 +2372,16 @@ Are the public and relatives and friends of departmental staff permitted to use 
 If there are restrictions on its use how are they implemented in each canteen. 
 What staff from other Commonwealth Departments and instrumentalities regularly use each canteen. 
 Are there any arrangements made by his Department for any staff canteen to be operated by private enterprise; if so, which canteens and under what terms and conditions. 
--In accordance with the provisions of the Public Works Committee Act 1969, 1 present the report relating to the following proposed work: 
-National Acoustics Laboratory and Ultrasonics Institute, Chatswood, New South Wales. 
-Declared that the report be printed. 
 asked the Minister representing the Attorney-General, upon notice, on 9 May 1978: 
 1 ) How many officers and employees of the AttorneyGeneral's Department have their home telephone rentals or charges fully or partially paid by the Department. 
 What was the cost to the Department of this expenditure in 1976-77. 
+-In accordance with the provisions of the Public Works Committee Act 1969, 1 present the report relating to the following proposed work: 
+National Acoustics Laboratory and Ultrasonics Institute, Chatswood, New South Wales. 
+Declared that the report be printed. 
 In accordance with the provisions of the Public Works Committee Act 1 969, 1 present the reports relating to the following proposed works: 
 1 ) High school, Nhulunbuy, Northern Territory; 
 Enoggera Military Area stage 2 development, Queensland, 
 Ordered that the reports be printed. 
-asked the Minister for Foreign Affairs, upon notice, on 8 March 1978: 
-1 ) What staff canteens are operated by his Department. 
-) What is the pricing policy of each canteen. 
-Are charges for (a) cleaning, (b) electricity and power, (c) fuel, (d) rent or lease, (e) repairs and maintenance, (f) replacements of plant, furniture and fittings and (g) depreciation of plant, furniture and fittings, included for determination of canteen prices; if not, what was the estimated cost of each of these items in each canteen during 1976-77. 
-What staff is employed in each canteen, and what were the total wages and salaries paid to staff in each canteen in 1976-77. 
-Are all wages and salaries aid to canteen staff included for determination of canteen prices; if not, what percentage of total wages and salaries paid to canteen staff were included for determination of canteen prices for 1976-77. 
-What decision has been made by his Department concerning subsidisation of each canteen and what was the estimated cost of such subsidisation to each canteen for 1976-77. 
-Are the public and relatives and friends of departmental staff permitted to use each canteen. 
-If there are restrictions on its use how are they implemented in each canteen. 
-What staff from other Commonwealth Departments and instrumentalities regularly use each canteen. 
-Are there any arrangements made by his Department for any staff canteen to be operated by private enterprise; if so, which canteens and under what terms and conditions. 
 asked the Minister for Productivity, upon notice, on 8 March 1978: 
 1 ) What staff canteens are operated by his Department. 
 ) What is the pricing policy of each canteen. 
@@ -2404,10 +2393,24 @@ Are the public and relatives and friends of departmental staff permitted to use 
 If there are restrictions on its use how are they implemented in each canteen. 
 What staff from other Commonwealth Departments and instrumentalities regularly use each canteen. 
 Are there any arrangements made by his Department for any staff canteen to be operated by private enterprise; if so, which canteens and under what terms and conditions. 
+asked the Minister for Foreign Affairs, upon notice, on 8 March 1978: 
+1 ) What staff canteens are operated by his Department. 
+) What is the pricing policy of each canteen. 
+Are charges for (a) cleaning, (b) electricity and power, (c) fuel, (d) rent or lease, (e) repairs and maintenance, (f) replacements of plant, furniture and fittings and (g) depreciation of plant, furniture and fittings, included for determination of canteen prices; if not, what was the estimated cost of each of these items in each canteen during 1976-77. 
+What staff is employed in each canteen, and what were the total wages and salaries paid to staff in each canteen in 1976-77. 
+Are all wages and salaries aid to canteen staff included for determination of canteen prices; if not, what percentage of total wages and salaries paid to canteen staff were included for determination of canteen prices for 1976-77. 
+What decision has been made by his Department concerning subsidisation of each canteen and what was the estimated cost of such subsidisation to each canteen for 1976-77. 
+Are the public and relatives and friends of departmental staff permitted to use each canteen. 
+If there are restrictions on its use how are they implemented in each canteen. 
+What staff from other Commonwealth Departments and instrumentalities regularly use each canteen. 
+Are there any arrangements made by his Department for any staff canteen to be operated by private enterprise; if so, which canteens and under what terms and conditions. 
 -I support the motion moved by the Minister for Construction  (Mr McLeay).  As mentioned by the Minister, the Public Works Committee did explore and examine in detail the proposal for the building of the Ultrasonics Institute and the National Acoustics Laboratory at Chatswood. Before recommending the construction of the laboratory and the institute on the site proposed, the Committee carefully considered local objections to the proposal. These objections can be broadly stated as: Firstly, that the proposal was inappropriate for a zoned residential area; secondly, that it would alienate an area of open space- some 3.44 hectares- from community use; and, thirdly, that there would be adverse effects on surrounding residents from increased traffic movements and building activity. In addition, the proposed access was regarded as unsuitable and the parking space provided was seen as being deficient. 
 In relation to zoning, the Committee is satisfied that the Government has the authority to use the proposed site, which is zoned 'Special Uses: Defence' for other than defence purposes. The Committee has recommended that the Department of Health and the Department of Administrative Services negotiate with the Willoughby Municipal Council and local residents on the question of continued public access to the site and surrounding bushland. It is pleasing to note that the Minister has indicated that the Government has accepted this recommendation of the Committee. I think it is also important to recognise in this respect that existing flora will be retained where possible and the existing watercourse, ponds and waterfalls will be cleared and preserved as features of the site. 
 With regard to vehicle access from Greville Street, the Committee was satisfied that the Greville Street access was the only practical solution. This was supported, in particular, by a study by Professor W. R. Blunden, Professor of Traffic Engineering at the University of New South Wales, who advised that there would be no long term significant effects as far as traffic to the site was concerned. The Committee was well aware, however, that there would be dislocation to local residents during the construction period, particularly in relation to blasting and excavation on the site and the use by heavy vehicles of narrow residential streets, to cart away spoil and to bring in concrete and other building materials. It is also pleasing in this respect to note that the Government has accepted the recommendations of the Committee that these disabilities to local residents should be minimised as far as practicable. 
 I should also mention that the environmental clearance for the proposal was given by the then Acting Minister for Environment, Housing and Community Development in June 1 976. This has been followed up and that environmental clearance has been re-endorsed by the Department at this stage. I have pleasure in supporting the motion moved by the Minister for Construction. 
+asked the Minister for Industry and Commerce, upon notice, on 9 May 1978: 
+1 ) How many officers and employees of his Department have their home telephone rentals or charges fully or partially paid by the Department. 
+What was the cost to the Department of this expenditure in 1976-77. 
 asked the Treasurer, upon notice, on 8 March 1978: 
 1 ) What staff canteens are operated by his Department. 
 What is the pricing policy of each canteen. 
@@ -2430,9 +2433,6 @@ Are the public and relatives and friends of departmental staff permitted to use 
 If there are restrictions on its use how are they implemented in each canteen. 
 What staff from other Commonwealth Departments and instrumentalities regularly use each canteen. 
 Are there any arrangements made by his Department for any staff canteen to be operated by private enterprise; if so, which canteens and under what terms and conditions. 
-asked the Minister for Industry and Commerce, upon notice, on 9 May 1978: 
-1 ) How many officers and employees of his Department have their home telephone rentals or charges fully or partially paid by the Department. 
-What was the cost to the Department of this expenditure in 1976-77. 
 asked the Minister for Employment and Industrial Relations, upon notice, on 9 May 1978: 
 1 ) How many officers and employees of his Department have their home telephone rentals or charges fully or partially paid by the Department. 
 What was the cost to the Department of this expenditure in 1976-77. 
