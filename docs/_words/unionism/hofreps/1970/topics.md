@@ -1,0 +1,93 @@
+---
+layout: default
+title: unionism - hofreps - 1970 - Topics
+---
+## Topics when the word **unionism** was used in the House of Representatives during the 1970s
+
+| Topic | Number of uses |
+|--------------|----------------|
+|ADJOURNMENT|20|
+|PUBLIC SERVICE BILL 1973: Second Reading|14|
+|QUESTION: DIRECTOR-GENERAL:|14|
+|CONCILIATION AND ARBITRATION BILL 1972: Second Reading|11|
+|QUESTION: GOVERNOR-GENERAL'S SPEECH|11|
+|CONCILIATION AND ARBITRATION BILL 1973|9|
+|TRADE PRACTICES AMENDMENT BILL 1977: Second Reading|8|
+|CONCILIATION AND ARBITRATION BILL 1974 [No. 2]: Second Reading|7|
+|QUESTION: INDUSTRIAL RELATIONS|6|
+|CONCILIATION AND ARBITRATION AMENDMENT BILL (No. 3) 1977|4|
+|APPROPRIATION BILL (No. 1) 1971-72|4|
+|CONCILIATION AND ARBITRATION BILL 1972|4|
+|GRIEVANCE DEBATE|3|
+|CONCILIATION AND ARBITRATION BILL 1973 (No. 2): Second Reading|3|
+|PUBLIC SERVICE ARBITRATION BILL 1972: Second Reading|3|
+|QUESTION: COMPULSORY LEVIES AND UNIONISM|3|
+|APPROPRIATION BILL (No. 1) 1971-72: Second Reading (Budget Debate)|3|
+|CONCILIATION AND ARBITRATION BILL 1974: Second Reading|3|
+|AUSTRALIAN ECONOMY: Discussion of Matter of Public Importance|3|
+|QUESTION: TRADE UNION MOVEMENT: INDUSTRIAL DISPUTES|2|
+|APPROPRIATION BILL (No. 1) 1970-71: Second Reading (Budget Debate)|2|
+|APPROPRIATION BILL (No. 1): Second Reading (Budget Debate)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employment: United States of America (Question No. 4962)|2|
+|TELECOM DISPUTE: Ministerial Statement|2|
+|ADJOURNMENT: Industrial Disputes - Brisbane Airport - Telephone Services|2|
+|TRADE UNIONS: Branch Secretary for Australian Postal and Telecommunications Union|2|
+|GOVERNOR-GENERAL'S SPEECH|2|
+|QUESTION: SURVEY OF WORKERS' ATTITUDES|2|
+|HOMES SAVINGS GRANT BILL 1972: Second Reading|2|
+|HOUSING ASSISTANCE BILL 1978: Second Reading|2|
+|QUESTION: UNIONS: BALANCE SHEETS|2|
+|APPROPRIATION BILL (No. 3) 1970-71: Second Reading|2|
+|SUPPLY BILL (No. 1) 1977-78: Second Reading|1|
+|TRADE UNION TRAINING AUTHORITY BILL 1975: Second Reading|1|
+|QUESTION: HOLLYWOOD REPATRIATION HOSPITAL|1|
+|QUESTION: CONSCIENTIOUS OBJECTION|1|
+|BILLS RETURNED FROM THE SENATE: Second Reading (Budget Debate)|1|
+|ADJOURNMENT: Industrial Relations - Primary Industry - Waterside Labour|1|
+|INDUSTRIAL RELATIONS: Discussion of Matter of Public Importance|1|
+|APPROPRIATION BILL (No. 1) 1972-73|1|
+|APPROPRIATION BILL (No. 1) 1972-73: Second Reading (Budget Debate)|1|
+|BY THE COMMISSION DEPUTY PRESIDENT|1|
+|WHITLAM GOVERNMENT: FOREIGN POLICIES: Discussion of Matter of Public Importance|1|
+|ADJOURNMENT: Qantas Airways Flights -Australian Broadcasting Commission-Trade Unions -Australian Constitution-Estate Duty: Primary Producers -Sydney Welfare Centres-Minister for Productivity-Road Safety|1|
+|SEAMEN'S COMPENSATION AMENDMENT BILL 1976: Second Reading|1|
+|AUSTRALIAN SECURITY INTELLIGENCE ORGANIZATION BILL 1979: Second Reading|1|
+|CONCILIATION AND ARBITRATION AMENDMENT BILL 1977|1|
+|ACT: Suspension of Standing Orders|1|
+|INDUSTRIAL RELATIONS AND WAGES POLICIES: Splendid|1|
+|TRADE UNIONS: Discussion of Matter of Public Importance|1|
+|PURCHASING COMMISSION BILL 1975: Second Reading|1|
+|ADJOURNMENT: Sydney: Second Airport - Budget and Estimates Debates - Unemployment - Royal Australian Navy-Shipping Freight Rates|1|
+|AUSTRALIAN SHIPPING COMMISSION AMENDMENT BILL 1977: Second Reading|1|
+|QUESTION: LIBERAL PARTY OF AUSTRALIA|1|
+|APPROPRIATION BILL (No. 1) 1978-79: Second Reading (Budget Debate)|1|
+|STATES GRANTS (ADVANCED EDUCATION ASSISTANCE) AMENDMENT BILL 1977: Second Reading|1|
+|CHILD CARE BILL 1972: Second Reading|1|
+|CONCILIATION AND ARBITRATION (ORGANISATIONS) BILL 1974: Second Reading|1|
+|ADJOURNMENT: Visit of Australian Delegation to Libya and Lebanon- Legal Aid- Victorian Parliament-Mr Leo Port-Trade Unions- Energy Conservation|1|
+|AUSTRALIAN NATIONAL UNIVERSITY AMENDMENT BILL 1979: Second Reading|1|
+|TRADE UNION MOVEMENT|1|
+|QUESTION: BARRIER INDUSTRIAL COUNCIL|1|
+|FOR DARWIN: Reference to Public Works Committee|1|
+|ADJOURNMENT: Local Government Finance- Inflation - Margarine - Aborigines|1|
+|TRADE PRACTICES AMENDMENT BILL 1977|1|
+|QUESTION: NOEL WILSON|1|
+|NAVIGATION BILL 1972: Second Reading|1|
+|VOTES OF MEMBERS|1|
+|CLYDE R. CAMERON: In Committee|1|
+|EDITORIAL|1|
+|CONCILIATION AND ARBITRATION BILL (No. 2) 1974 [No. 2]: Second Reading|1|
+|TRADE UNION TRAINING AUTHORITY AMENDMENT BILL 1978: Second Reading|1|
+|QUESTION: COMPULSORY UNIONISM|1|
+|EMPLOYMENT PROSPECTS IN AUSTRALIA: Discussion of Matter of Public Importance|1|
+|CONCILIATION AND ARBITRATION AMENDMENT BILL 1979: Second Reading|1|
+|CONCILIATION AND ARBITRATION BILL (No. 2) 1974: Second Reading|1|
+|QUESTION: PENAL PROVISIONS|1|
+|APPROPRIATION BILL (No.1) 1970-71: Second Reading (Budget Debate)|1|
+|WHITLAM GOVERNMENT: Want of Confidence Motion|1|
+|QUESTION: SOLDIER SETTLEMENT SCHEME|1|
+|QUESTION: NATIONAL WAGE CASE|1|
+|APPROPRIATION BILL (No.1)1970-71: Second Reading (Budget Debate)|1|
+|QUESTION: SUSPENSION OF STANDING ORDERS|1|
+|STATES GRANTS BILL 1972: Second Reading|1|
+|QUESTION: UNION MEMBERSHIP|1|
