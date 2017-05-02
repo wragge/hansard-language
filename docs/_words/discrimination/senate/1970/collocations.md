@@ -1,0 +1,83 @@
+---
+layout: default
+title: discrimination - senate - 1970 - Collocations
+---
+## Collocations for the word **discrimination** when used in the Senate during the 1970s
+
+| Collocation | Frequency |
+|--------------|----------------|
+|racial discrimination|825|
+|discrimination act|128|
+|discrimination bill|61|
+|discrimination amendment|45|
+|price discrimination|43|
+|without discrimination|29|
+|discrimination based|17|
+|discrimination legislation|17|
+|sex discrimination|16|
+|unfair discrimination|16|
+|economic discrimination|14|
+|blatant discrimination|11|
+|discrimination within|10|
+|religious discrimination|10|
+|discrimination one|8|
+|discrimination unlawful|8|
+|discrimination exists|7|
+|discrimination let|7|
+|employment discrimination|7|
+|prevent discrimination|7|
+|avoid discrimination|6|
+|eliminate discrimination|6|
+|gross discrimination|6|
+|political discrimination|6|
+|positive discrimination|6|
+|sexual discrimination|6|
+|discrimination currently|5|
+|discrimination employment|5|
+|discrimination practised|5|
+|involving discrimination|5|
+|'racial discrimination|4|
+|colour discrimination|4|
+|concerning discrimination|4|
+|discrimination directed|4|
+|discrimination discrimination|4|
+|discrimination inflicted|4|
+|discrimination senator|4|
+|discrimination shall|4|
+|discrimination since|4|
+|end discrimination|4|
+|improper discrimination|4|
+|suffer discrimination|4|
+|active discrimination|3|
+|alleged discrimination|3|
+|class discrimination|3|
+|discrimination according|3|
+|discrimination area|3|
+|discrimination arises|3|
+|discrimination committees|3|
+|discrimination convention|3|
+|discrimination depends|3|
+|discrimination involved|3|
+|discrimination matters|3|
+|discrimination may|3|
+|discrimination occurring|3|
+|discrimination occurs|3|
+|discrimination provided|3|
+|discrimination still|3|
+|discrimination therefore|3|
+|discrimination whatsoever|3|
+|discrimination wherever|3|
+|discrimination whether|3|
+|favourable discrimination|3|
+|great discrimination|3|
+|outright discrimination|3|
+|particular discrimination|3|
+|police discrimination|3|
+|possible discrimination|3|
+|proscribe discrimination|3|
+|proscribing discrimination|3|
+|removing discrimination|3|
+|serious discrimination|3|
+|social discrimination|3|
+|stop discrimination|3|
+|undue discrimination|3|

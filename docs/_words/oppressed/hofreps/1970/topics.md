@@ -1,0 +1,50 @@
+---
+layout: default
+title: oppressed - hofreps - 1970 - Topics
+---
+## Topics when the word **oppressed** was used in the House of Representatives during the 1970s
+
+| Topic | Number of uses |
+|--------------|----------------|
+|ADJOURNMENT|6|
+|QUESTION: TERMINATION OF PREGNANCY: MEDICAL BENEFITS|3|
+|CONCILIATION AND ARBITRATION BILL 1972: Second Reading|2|
+|RACIALLY SELECTED SPORTS TEAMS: Discussion of Matter of Public Importance|2|
+|INCOME TAX ASSESSMENT AMENDMENT BILL (No. 2) 1976: Second Reading|2|
+|CRIMES (FOREIGN INCURSIONS AND RECRUITMENT) BILL 1977: Second Reading|2|
+|QUESTION: WOMEN'S EMBASSY OUTSIDE PARLIAMENT HOUSE|2|
+|GRIEVANCE DEBATE|2|
+|NATIONAL GALLERY BILL 1975: Second Reading|2|
+|NATIONAL HEALTH BILL 1970|1|
+|THE GEO-POLITICAL SITUATION: A PATTERN OF INSTABILITY: Ministerial Statement|1|
+|PUBLICATION AND DISTRIBUTION OF BOOKLET: Discussion of Matter of Public Importance|1|
+|QUESTION: LEGAL ABORTION IF FULLY ADVISED FIRST|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Refugees (Question No. 368)|1|
+|COMMONWEALTH LEGAL AID COMMISSION BILL 1977: Second Reading|1|
+|ADJOURNMENT: Whitlam Government Policies- International Women's Year- Australia's International Relations|1|
+|SEAS AND SUBMERGED LANDS BILL 1973: Second Reading|1|
+|APPROPRIATION BILL (No. 1) 1979-80: Second Reading (Budget Debate)|1|
+|RACIAL DISCRIMINATION BILL 1975: Third Reading|1|
+|APPROPRIATION BILL (No. 4) 1969-70: Third Reading|1|
+|TELECOM DISPUTE: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Chilean, Vietnamese and Timorese Refugees (Question No. 252)|1|
+|QUESTION: AUSTRALIA'S RELATIONS WITH SOUTH EAST ASIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Refugees (Question No. 45)|1|
+|COAL LOADING FACILITIES: IMPACT ON EXPORTS AND EMPLOYMENT: Discussion of Matter of Public Importance|1|
+|RACIAL DISCRIMINATION BILL 1975: Second Reading|1|
+|EXAMINATION OF ATTORNEY-GENERAL: Suspension of Standing Orders|1|
+|NEW ARRANGEMENTS FOR PATIENTS REQUIRING NURSING CARE: Ministerial Statement|1|
+|QUESTION: INDUSTRIAL RELATIONS|1|
+|COMMONWEALTH ELECTORAL BILL 1973: Second Reading|1|
+|GOVERNOR-GENERAL'S SPEECH|1|
+|ABORIGINAL LAND RIGHTS (NORTHERN TERRITORY) AMENDMENT BILL 1978: Second Reading|1|
+|QUESTION: PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY)|1|
+|CRIMINOLOGY RESEARCH BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aboriginal Affairs, Aurukun (Question No. 1937)|1|
+|INTERNATIONAL AFFAIRS: Ministerial Statement|1|
+|QUESTION: RACIAL PREJUDICE AND VIOLENCE|1|
+|INTERNATIONAL AFFAIRS: International Affairs- Ministerial Statement, 19th March 1970|1|
+|FISCAL POLICY DECISIONS: Ministerial Statement|1|
+|FAMILY LAW BILL 1974: Second Reading|1|
+|POLAND: Discussion of Matter of Public Importance|1|
+|FOREIGN POLICY: Ministerial Statement|1|

@@ -1,0 +1,79 @@
+---
+layout: default
+title: racial - senate - 1970 - Speakers
+---
+## Speakers who used the word **racial** in the Senate during the 1970s
+
+| Speaker name | Number of uses |
+|--------------|----------------|
+|MISSEN, Alan|100|
+|GREENWOOD, Ivor|99|
+|MURPHY, Lionel|83|
+|KEEFFE, James|76|
+|DAVIDSON, Gordon|51|
+|BUTTON, John|44|
+|GIETZELT, Arthur|44|
+|CHANEY, Fred|42|
+|PRESIDENT, The|40|
+|SHEIL, Glen|40|
+|CAVANAGH, James|40|
+|GEORGES, George|38|
+|MCINTOSH, Gordon|36|
+|GUILFOYLE, Margaret|31|
+|EVANS, Gareth|29|
+|DURACK, Peter|28|
+|BONNER, Neville|26|
+|PUPLICK, Chris|26|
+|WHEELDON, John|25|
+|WOOD, Ian|23|
+|BUNTON, Cleaver|23|
+|MCCLELLAND, Jim|22|
+|MULVIHILL, James|20|
+|POYSER, Arthur|19|
+|WALSH, Peter|18|
+|COLEMAN, Ruth|18|
+|WILLESEE, Don|15|
+|CARRICK, John|13|
+|LITTLE, John|11|
+|RYAN, Susan|10|
+|WITHERS, Reg|10|
+|GRIMES, Don|9|
+|CHIPP, Don|9|
+|O'BYRNE, Justin|8|
+|LAUCKE, Condor|8|
+|WRIGHT, Reginald|8|
+|RAE, Peter|7|
+|MCCLELLAND, Douglas|7|
+|TATE, Michael|6|
+|SIM, John|6|
+|WEBSTER, James|6|
+|BISHOP, Reginald|5|
+|COLSTON, Malcolm|5|
+|COTTON, Bob|4|
+|WRIEDT, Ken|4|
+|FITZGERALD, Joseph|4|
+|PROWSE, Edgar|4|
+|PRIMMER, Cyril|4|
+|MCAULIFFE, Ronald|3|
+|YOUNG, Harold|3|
+|BYRNE, Condon|3|
+|COLLARD, Stanley|2|
+|BAUME, Peter|2|
+|LEWIS, Austin|2|
+|RANKIN, Annabelle|2|
+|HAMER, David|2|
+|LILLICO, Alexander|2|
+|MCMANUS, Francis|1|
+|ROBERTSON, Edward|1|
+|ROCHER, Allan|1|
+|KNIGHT, John|1|
+|DEVITT, Donald|1|
+|MELZER, Jean|1|
+|SIBRAA, Kerry|1|
+|KILGARIFF, Bernard|1|
+|TEHAN, Thomas|1|
+|WILKINSON, Lawrence|1|
+|MASON, Colin|1|
+|ANDERSON, Kenneth|1|
+|SULLIVAN, Kathryn|1|
+|BROWN, William|1|

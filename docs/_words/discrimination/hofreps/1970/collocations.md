@@ -1,0 +1,85 @@
+---
+layout: default
+title: discrimination - hofreps - 1970 - Collocations
+---
+## Collocations for the word **discrimination** when used in the House of Representatives during the 1970s
+
+| Collocation | Frequency |
+|--------------|----------------|
+|racial discrimination|393|
+|price discrimination|107|
+|discrimination act|64|
+|without discrimination|27|
+|discrimination bill|21|
+|positive discrimination|20|
+|discrimination employment|18|
+|unfair discrimination|16|
+|blatant discrimination|14|
+|improper discrimination|14|
+|employment discrimination|13|
+|discrimination based|12|
+|discrimination committees|11|
+|race discrimination|11|
+|gross discrimination|10|
+|remove discrimination|10|
+|political discrimination|9|
+|avoid discrimination|8|
+|discrimination practised|8|
+|economic discrimination|8|
+|discrimination one|7|
+|prevent discrimination|7|
+|discrimination section|6|
+|social discrimination|6|
+|active discrimination|5|
+|alleged discrimination|5|
+|deliberate discrimination|5|
+|discrimination exists|5|
+|discrimination hansard|5|
+|discrimination including|5|
+|ill discrimination|5|
+|no.111 discrimination|5|
+|present discrimination|5|
+|removing discrimination|5|
+|abolish discrimination|4|
+|abolishing discrimination|4|
+|apparent discrimination|4|
+|discrimination discrimination|4|
+|discrimination might|4|
+|discrimination must|4|
+|discrimination occurs|4|
+|discrimination provisions|4|
+|discrimination unlawful|4|
+|discrimination whatever|4|
+|discrimination within|4|
+|eliminate discrimination|4|
+|legal discrimination|4|
+|prices discrimination|4|
+|prohibits discrimination|4|
+|represents discrimination|4|
+|severe discrimination|4|
+|'improper discrimination|3|
+|administrative discrimination|3|
+|adverse discrimination|3|
+|alleging discrimination|3|
+|concerning discrimination|3|
+|discrimination amongst|3|
+|discrimination convention|3|
+|discrimination could|3|
+|discrimination currently|3|
+|discrimination honourable|3|
+|discrimination laws|3|
+|discrimination let|3|
+|discrimination lies|3|
+|discrimination makes|3|
+|discrimination may|3|
+|discrimination mergers|3|
+|discrimination particularly|3|
+|discrimination shall|3|
+|discrimination whether|3|
+|discrimination would|3|
+|discrimination yet|3|
+|end discrimination|3|
+|police discrimination|3|
+|regional discrimination|3|
+|unjustifiable discrimination|3|
+|wage discrimination|3|

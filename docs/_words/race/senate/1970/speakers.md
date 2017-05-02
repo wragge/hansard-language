@@ -1,0 +1,97 @@
+---
+layout: default
+title: race - senate - 1970 - Speakers
+---
+## Speakers who used the word **race** in the Senate during the 1970s
+
+| Speaker name | Number of uses |
+|--------------|----------------|
+|CAVANAGH, James|95|
+|BONNER, Neville|91|
+|MURPHY, Lionel|58|
+|KEEFFE, James|56|
+|GIETZELT, Arthur|38|
+|GREENWOOD, Ivor|37|
+|PRESIDENT, The|37|
+|WOOD, Ian|27|
+|CHANEY, Fred|27|
+|CARRICK, John|26|
+|LITTLE, John|25|
+|O'BYRNE, Justin|25|
+|MISSEN, Alan|22|
+|SHEIL, Glen|22|
+|KILGARIFF, Bernard|21|
+|WRIEDT, Ken|20|
+|BUTTON, John|17|
+|WRIGHT, Reginald|16|
+|GUILFOYLE, Margaret|16|
+|LAUCKE, Condor|13|
+|GEORGES, George|13|
+|WILLESEE, Don|12|
+|YOUNG, Harold|12|
+|SULLIVAN, Kathryn|12|
+|COLLARD, Stanley|10|
+|MCAULIFFE, Ronald|10|
+|DAVIDSON, Gordon|10|
+|JESSOP, Donald|10|
+|MCINTOSH, Gordon|10|
+|WHEELDON, John|9|
+|CHIPP, Don|9|
+|MCCLELLAND, Jim|9|
+|MULVIHILL, James|8|
+|POYSER, Arthur|8|
+|LAWRIE, Alexander|7|
+|PUPLICK, Chris|7|
+|MAUNSELL, Charles|7|
+|LEWIS, Austin|7|
+|SIM, John|7|
+|WITHERS, Reg|7|
+|MCCLELLAND, Douglas|7|
+|WEBSTER, James|6|
+|DURACK, Peter|6|
+|RAE, Peter|6|
+|BUNTON, Cleaver|6|
+|DEVITT, Donald|5|
+|MASON, Colin|5|
+|GAIR, Vincent|5|
+|HARRADINE, Brian|5|
+|ANDERSON, Kenneth|5|
+|PRIMMER, Cyril|5|
+|BROWN, William|5|
+|GRIMES, Don|4|
+|MELZER, Jean|4|
+|TATE, Michael|4|
+|COLSTON, Malcolm|4|
+|LAJOVIC, Milivoj|3|
+|COLEMAN, Ruth|3|
+|SCOTT, Douglas|3|
+|KNIGHT, John|3|
+|BISHOP, Reginald|3|
+|ROBERTSON, Edward|3|
+|COTTON, Bob|3|
+|RANKIN, Annabelle|3|
+|TOWNLEY, Michael|3|
+|WALSH, Peter|2|
+|MARRIOTT, John|2|
+|EVANS, Gareth|2|
+|BAUME, Peter|2|
+|ARCHER, Brian|2|
+|PROWSE, Edgar|2|
+|EVERETT, Mervyn|2|
+|SIBRAA, Kerry|2|
+|MCLAREN, Geoffrey|2|
+|TEHAN, Thomas|2|
+|TURNBULL, Reginald|2|
+|WALTERS, Shirley|1|
+|MILLINER, Bertie|1|
+|HAMER, David|1|
+|HANNAN, George|1|
+|HALL, Steele|1|
+|KANE, John|1|
+|MACGIBBON, David|1|
+|RYAN, Susan|1|
+|ELSTOB, Ronald|1|
+|REID, Donald|1|
+|DRAKE-BROCKMAN, Thomas|1|
+|CAMERON, Donald Newton|1|
+|CANT, Hartley|1|

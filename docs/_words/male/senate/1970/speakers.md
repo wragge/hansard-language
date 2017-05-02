@@ -1,0 +1,92 @@
+---
+layout: default
+title: male - senate - 1970 - Speakers
+---
+## Speakers who used the word **male** in the Senate during the 1970s
+
+| Speaker name | Number of uses |
+|--------------|----------------|
+|COLEMAN, Ruth|42|
+|MCCLELLAND, Douglas|32|
+|MELZER, Jean|28|
+|RYAN, Susan|24|
+|WEBSTER, James|22|
+|WHEELDON, John|21|
+|GUILFOYLE, Margaret|21|
+|CARRICK, John|19|
+|KEEFFE, James|19|
+|CAMERON, Donald Newton|19|
+|MULVIHILL, James|17|
+|WITHERS, Reg|17|
+|BISHOP, Reginald|15|
+|PRESIDENT, The|14|
+|CAVANAGH, James|14|
+|COTTON, Bob|13|
+|WRIGHT, Reginald|13|
+|RAE, Peter|9|
+|COLSTON, Malcolm|9|
+|MCLAREN, Geoffrey|9|
+|BROWN, William|9|
+|TOWNLEY, Michael|9|
+|POYSER, Arthur|9|
+|MURPHY, Lionel|8|
+|GIETZELT, Arthur|8|
+|GEORGES, George|8|
+|WILLESEE, Don|7|
+|ROBERTSON, Edward|7|
+|DURACK, Peter|7|
+|RANKIN, Annabelle|7|
+|BYRNE, Condon|7|
+|GRIMES, Don|6|
+|WRIEDT, Ken|6|
+|DAVIDSON, Gordon|6|
+|BAUME, Peter|5|
+|DRAKE-BROCKMAN, Thomas|5|
+|SULLIVAN, Kathryn|5|
+|GAIR, Vincent|4|
+|TEHAN, Thomas|4|
+|WALSH, Peter|3|
+|MCAULIFFE, Ronald|3|
+|O'BYRNE, Justin|3|
+|GREENWOOD, Ivor|3|
+|WALTERS, Shirley|3|
+|DEVITT, Donald|3|
+|CHANEY, Fred|3|
+|DRURY, Arnold|3|
+|PUPLICK, Chris|3|
+|PRIMMER, Cyril|3|
+|BUTTON, John|2|
+|TATE, Michael|2|
+|CHIPP, Don|2|
+|LAUCKE, Condor|2|
+|MARRIOTT, John|2|
+|HALL, Steele|2|
+|REID, Donald|2|
+|SIBRAA, Kerry|2|
+|SIM, John|2|
+|MESSNER, Tony|2|
+|CANT, Hartley|2|
+|BESSELL, Eric|2|
+|MCCLELLAND, Jim|2|
+|KNIGHT, John|1|
+|MISSEN, Alan|1|
+|HANNAN, George|1|
+|SHEIL, Glen|1|
+|TEAGUE, Baden|1|
+|MCMANUS, Francis|1|
+|MILLINER, Bertie|1|
+|YOUNG, Harold|1|
+|JESSOP, Donald|1|
+|TOOHEY, James|1|
+|HARRADINE, Brian|1|
+|HAMER, David|1|
+|LITTLE, John|1|
+|CAMERON, Donald|1|
+|WILKINSON, Lawrence|1|
+|MCINTOSH, Gordon|1|
+|MASON, Colin|1|
+|KENNELLY, Patrick|1|
+|ANDERSON, Kenneth|1|
+|KILGARIFF, Bernard|1|
+|WOOD, Ian|1|
+|SCOTT, Malcolm|1|
