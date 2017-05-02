@@ -1,0 +1,125 @@
+---
+layout: default
+title: liberty - hofreps - 1970 - Speakers
+---
+## Speakers who used the word **liberty** in the House of Representatives during the 1970s
+
+| Speaker name | Number of uses |
+|--------------|----------------|
+|KILLEN, James|28|
+|PRESIDENT, The|17|
+|BOWEN, Nigel|15|
+|ENDERBY, Kep|13|
+|MCVEIGH, Tom|10|
+|JONES, Barry|9|
+|BRYANT, Gordon|9|
+|ELLICOTT, Bob|9|
+|NEIL, Maurice|8|
+|KLUGMAN, Dick|8|
+|CAMERON, Clyde|8|
+|CAMERON, Donald Milner|8|
+|MCMAHON, William|7|
+|ANTHONY, Doug|7|
+|HAYDEN, Bill|7|
+|SNEDDEN, Billy|6|
+|PEACOCK, Andrew|6|
+|JONES, Charles|6|
+|FRASER, Malcolm|6|
+|MARTYR, John|5|
+|BOWEN, Lionel|5|
+|RUDDOCK, Philip|5|
+|JAMES, Albert|5|
+|SOLOMON, Robert|5|
+|GUN, Richard|5|
+|SINCLAIR, Ian|5|
+|YOUNG, Mick|5|
+|HAMER, David|4|
+|HUNT, Ralph|4|
+|FRY, Ken|4|
+|CAIRNS, Kevin|4|
+|JOHNSON, Leonard|4|
+|IRWIN, Leslie|4|
+|HODGMAN, Michael|3|
+|SIMON, Barry|3|
+|BARNES, Charles|3|
+|HOLDING, Clyde|3|
+|LYNCH, Phillip|3|
+|CAIRNS, Jim|3|
+|THOMSON, David Scott|3|
+|CORBETT, James|3|
+|YATES, William|3|
+|VINER, Ian|3|
+|MACKELLAR, Michael|3|
+|RIORDAN, Joseph|3|
+|GARLAND, Ransley|3|
+|JOHNSTON, James|3|
+|CONNOLLY, David|3|
+|EVERINGHAM, Douglas|3|
+|CONNOR, Rex|3|
+|JARMAN, Alan|3|
+|KENNEDY, Andrew|3|
+|TURNER, Henry|3|
+|JENKINS, Harry|2|
+|FOX, Edmund|2|
+|HOWE, Brian|2|
+|MARTIN, Vincent|2|
+|PETTITT, John|2|
+|BAILLIEU, Marshall|2|
+|HURFORD, Chris|2|
+|CRAMER, John|2|
+|STEWART, Francis|2|
+|LAMB, Tony|2|
+|SHIPTON, Roger|2|
+|CALDER, Stephen|2|
+|BEAZLEY, Kim|2|
+|GRAHAM, Bruce|2|
+|ABEL, John|2|
+|JOHNSON, Leslie|2|
+|BLEWETT, Neal|2|
+|FIFE, Wal|2|
+|HASLEM, John|2|
+|FOSTER, Norman|2|
+|JACOBI, Ralph|2|
+|MILLAR, Clarrie|2|
+|HUMPHREYS, Ben|2|
+|FRASER, Allan|1|
+|WHITLAM, Gough|1|
+|WENTWORTH, William Charles|1|
+|SHORT, Jim|1|
+|MORRISON, Bill|1|
+|HOLTEN, Rendle|1|
+|BRAITHWAITE, Ray|1|
+|REYNOLDS, Leonard|1|
+|GORTON, John|1|
+|CREAN, Frank|1|
+|KELLY, Bert|1|
+|LUSHER, Stephen|1|
+|WEST, Stewart|1|
+|HULME, Alan|1|
+|O'KEEFE, Frank|1|
+|WHITLAM, Tony|1|
+|DOBIE, Don|1|
+|EDWARDS, Harold|1|
+|ARMITAGE, John|1|
+|BURY, Leslie|1|
+|KING, Robert|1|
+|DAVIES, Ronald|1|
+|STALEY, Tony|1|
+|DRURY, Edward|1|
+|McKENZIE, David Charles|1|
+|MELZER, Jean|1|
+|BROWN, Neil|1|
+|MACPHEE, Ian|1|
+|SCHOLES, Gordon|1|
+|SAINSBURY, Murray|1|
+|CHIPP, Don|1|
+|DALY, Fred|1|
+|CHILD, Joan|1|
+|WHAN, Bob|1|
+|ROBINSON, Eric|1|
+|GARRICK, Horace|1|
+|MORRIS, Peter|1|
+|CROSS, Manfred|1|
+|KEATING, Paul|1|
+|BIRNEY, Reginald|1|
+|HALLETT, John|1|

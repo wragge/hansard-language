@@ -1,0 +1,83 @@
+---
+layout: default
+title: democracy - senate - 1970 - Collocations
+---
+## Collocations for the word **democracy** when used in the Senate during the 1970s
+
+| Collocation | Frequency |
+|--------------|----------------|
+|parliamentary democracy|220|
+|industrial democracy|57|
+|australian democracy|50|
+|representative democracy|23|
+|western democracy|23|
+|democracy would|22|
+|enterprise democracy|21|
+|true democracy|15|
+|free democracy|12|
+|great democracy|12|
+|participatory democracy|12|
+|political democracy|11|
+|democracy let|10|
+|constitutional democracy|9|
+|popular democracy|9|
+|real democracy|9|
+|social democracy|9|
+|union democracy|9|
+|democracy including|8|
+|democracy must|8|
+|democracy may|7|
+|democracy senator|7|
+|genuine democracy|7|
+|democracy every|6|
+|democracy exists|6|
+|democracy programmes|6|
+|full democracy|6|
+|modern democracy|6|
+|so-called democracy|6|
+|convention democracy|5|
+|democracy like|5|
+|democracy means|5|
+|democracy rests|5|
+|democracy surely|5|
+|destroy democracy|5|
+|developing democracy|5|
+|preserve democracy|5|
+|democracy depends|4|
+|democracy even|4|
+|democracy honourable|4|
+|democracy one|4|
+|democracy requires|4|
+|democracy throughout|4|
+|democracy today|4|
+|democracy unit|4|
+|democracy within|4|
+|democracy work|4|
+|democracy yet|4|
+|ethnic democracy|4|
+|fund democracy|4|
+|liberal democracy|4|
+|roots democracy|4|
+|democracy could|3|
+|democracy demands|3|
+|democracy gives|3|
+|democracy last|3|
+|democracy lies|3|
+|democracy namely|3|
+|democracy ought|3|
+|democracy people|3|
+|democracy prevails|3|
+|democracy rather|3|
+|democracy without|3|
+|every democracy|3|
+|guided democracy|3|
+|maintain democracy|3|
+|manipulated democracy|3|
+|prostituted democracy|3|
+|pure democracy|3|
+|save democracy|3|
+|states democracy|3|
+|style democracy|3|
+|think democracy|3|
+|towards democracy|3|
+|worker democracy|3|
