@@ -1,8 +1,154 @@
 ---
 layout: default
-title: Great Britain - hofreps - 1970 - Speakers
+title: great britain - hofreps - 1970 - Speakers
 ---
-## Speakers who used the phrase **Great Britain** in the House of Representatives during the 1970s
+## Speakers who used the phrase **great britain** in the House of Representatives during the 1970s
 
 | Speaker name | Number of uses |
 |--------------|----------------|
+|HAYDEN, Bill|36|
+|O'KEEFE, Frank|32|
+|JAMES, Albert|27|
+|BOWEN, Lionel|22|
+|DALY, Fred|22|
+|PRESIDENT, The|22|
+|COHEN, Barry|21|
+|CREAN, Frank|20|
+|JACOBI, Ralph|19|
+|WHITLAM, Gough|15|
+|HURFORD, Chris|13|
+|KEATING, Paul|13|
+|LYNCH, Phillip|12|
+|CAIRNS, Kevin|12|
+|UREN, Tom|12|
+|CONNOLLY, David|12|
+|WENTWORTH, William Charles|11|
+|REYNOLDS, Leonard|11|
+|JOHNSON, Leslie|11|
+|GRASSBY, Al|11|
+|JONES, Barry|10|
+|BOWEN, Nigel|10|
+|WHITTORN, Raymond|9|
+|JULL, David|9|
+|LUCOCK, Philip|8|
+|CAMERON, Donald Milner|8|
+|SWARTZ, Reginald|7|
+|BARNES, Charles|7|
+|BRYANT, Gordon|7|
+|EVERINGHAM, Douglas|7|
+|FOSTER, Norman|7|
+|HUNT, Ralph|6|
+|CAIRNS, Jim|6|
+|BEAZLEY, Kim|6|
+|DUTHIE, Gilbert|6|
+|RUDDOCK, Philip|6|
+|LLOYD, Bruce|6|
+|FRASER, Malcolm|6|
+|CROSS, Manfred|6|
+|MCMAHON, William|5|
+|PEACOCK, Andrew|5|
+|JOHNSON, Leonard|5|
+|FAIRBAIRN, David|5|
+|JONES, Charles|5|
+|CHIPP, Don|5|
+|SOLOMON, Robert|5|
+|DRURY, Edward|5|
+|KILLEN, James|4|
+|JENKINS, Harry|4|
+|HAMER, David|4|
+|GORTON, John|4|
+|SNEDDEN, Billy|4|
+|HODGES, John|4|
+|KLUGMAN, Dick|4|
+|MCVEIGH, Tom|4|
+|PATTERSON, Rex|4|
+|OLDMEADOW, Maxwell|4|
+|THORBURN, Ray|4|
+|HALLETT, John|4|
+|STEWART, Francis|3|
+|BARNARD, Lance|3|
+|KELLY, Bert|3|
+|CORBETT, James|3|
+|CASS, Moss|3|
+|HYDE, John|3|
+|CRAMER, John|3|
+|GILES, Geoffrey|3|
+|ANTHONY, Doug|3|
+|WEBB, Charles|3|
+|YATES, William|3|
+|DRUMMOND, Peter|3|
+|GRAHAM, Bruce|3|
+|CAMERON, Clyde|3|
+|SINCLAIR, Ian|3|
+|DOBIE, Don|3|
+|WILLIS, Ralph|3|
+|GUN, Richard|3|
+|TURNER, Henry|3|
+|NIXON, Peter|3|
+|YOUNG, Mick|3|
+|HUMPHREYS, Ben|3|
+|CALWELL, Arthur|2|
+|FOX, Edmund|2|
+|BATE, Henry|2|
+|MARTYR, John|2|
+|WILSON, Ian|2|
+|COPE, James|2|
+|KATTER, Bob|2|
+|ENDERBY, Kep|2|
+|LUSHER, Stephen|2|
+|ARMITAGE, John|2|
+|WHITLAM, Tony|2|
+|GARLAND, Ransley|2|
+|BROWN, Neil|2|
+|CONNOR, Rex|2|
+|IRWIN, Leslie|2|
+|SCHOLES, Gordon|2|
+|FALCONER, Peter|2|
+|KEOGH, Leonard|2|
+|KENNEDY, Andrew|2|
+|ROBINSON, Eric|2|
+|MORRIS, Peter|2|
+|McKENZIE, David Charles|2|
+|BENNETT, Adrian|1|
+|MORRISON, Bill|1|
+|HOLDING, Clyde|1|
+|MARTIN, Vincent|1|
+|REID, Leonard|1|
+|RICHARDSON, Peter|1|
+|MULDER, Allan|1|
+|MCEWEN, John|1|
+|HULME, Alan|1|
+|LUCHETTI, Anthony|1|
+|FRY, Ken|1|
+|KERIN, John|1|
+|MCLEAY, John Elden|1|
+|HALL, Steele|1|
+|LAMB, Tony|1|
+|CALDER, Stephen|1|
+|BURY, Leslie|1|
+|GOODLUCK, Bruce|1|
+|SHERRY, Raymond|1|
+|VINER, Ian|1|
+|MACKELLAR, Michael|1|
+|JOHNSON, Peter|1|
+|RIORDAN, Joseph|1|
+|BAUME, Michael|1|
+|BLEWETT, Neal|1|
+|HOWSON, Peter|1|
+|MACPHEE, Ian|1|
+|COATES, John|1|
+|JARMAN, Alan|1|
+|BOURCHIER, John|1|
+|KENT HUGHES, Wilfrid|1|
+|CADMAN, Alan|1|
+|BERINSON, Joe|1|
+|SHACK, Peter|1|
+|BONNETT, Robert|1|
+|WALLIS, Laurie|1|
+|BRAITHWAITE, Ray|1|
+|FORBES, Alexander|1|
+|GROOM, Ray|1|
+|SIMON, Barry|1|
+|BIRRELL, Frederick|1|
+|MOORE, John|1|
+|BIRNEY, Reginald|1|

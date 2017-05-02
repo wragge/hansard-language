@@ -2,11 +2,11 @@
 layout: comparison
 decade: 1970
 words:
-    - Great Britain
-    - United Kingdom
-    - United States
-    - Soviet Union
-    - China
-hofreps_plot: 1917
-senate_plot: 1918
+    - great britain
+    - united kingdom
+    - united states
+    - soviet union
+    - china
+hofreps_plot: 1939
+senate_plot: 1941
 ---

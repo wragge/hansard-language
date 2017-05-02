@@ -1,8 +1,128 @@
 ---
 layout: default
-title: Soviet Union - hofreps - 1970 - Speakers
+title: soviet union - hofreps - 1970 - Speakers
 ---
-## Speakers who used the phrase **Soviet Union** in the House of Representatives during the 1970s
+## Speakers who used the phrase **soviet union** in the House of Representatives during the 1970s
 
 | Speaker name | Number of uses |
 |--------------|----------------|
+|PEACOCK, Andrew|99|
+|BEAZLEY, Kim|84|
+|JAMES, Albert|83|
+|KLUGMAN, Dick|78|
+|FRASER, Malcolm|61|
+|WHITLAM, Gough|60|
+|PRESIDENT, The|60|
+|WENTWORTH, William Charles|42|
+|BOWEN, Lionel|37|
+|YATES, William|36|
+|HODGMAN, Michael|34|
+|UREN, Tom|33|
+|SIMON, Barry|33|
+|NEIL, Maurice|29|
+|SHIPTON, Roger|25|
+|MARTYR, John|24|
+|JESS, John|24|
+|SCHOLES, Gordon|24|
+|MORRISON, Bill|23|
+|HAYDEN, Bill|21|
+|MCMAHON, William|20|
+|SINCLAIR, Ian|19|
+|GUN, Richard|19|
+|CONNOLLY, David|18|
+|ANTHONY, Doug|17|
+|ABEL, John|17|
+|BOWEN, Nigel|15|
+|SNEDDEN, Billy|12|
+|JOHNSON, Leslie|12|
+|BRYANT, Gordon|12|
+|EVERINGHAM, Douglas|12|
+|JARMAN, Alan|11|
+|BARNARD, Lance|10|
+|CAMERON, Clyde|10|
+|BLEWETT, Neal|10|
+|MCLEAN, Ross|9|
+|CAIRNS, Jim|9|
+|MACKELLAR, Michael|9|
+|JACOBI, Ralph|9|
+|HOLDING, Clyde|8|
+|LUCOCK, Philip|8|
+|LUSHER, Stephen|8|
+|CASS, Moss|8|
+|CALDER, Stephen|8|
+|HOWE, Brian|7|
+|JONES, Barry|7|
+|ARMITAGE, John|7|
+|JONES, Charles|7|
+|CROSS, Manfred|7|
+|KEATING, Paul|7|
+|KATTER, Bob|6|
+|KENNEDY, Andrew|6|
+|DOBIE, Don|6|
+|KILLEN, James|6|
+|ENDERBY, Kep|5|
+|MCLEAY, John Elden|5|
+|COHEN, Barry|5|
+|DRURY, Edward|5|
+|DRUMMOND, Peter|5|
+|CARLTON, Jim|5|
+|SOLOMON, Robert|5|
+|BARNES, Charles|4|
+|SWARTZ, Reginald|4|
+|THOMSON, David Scott|4|
+|FAIRBAIRN, David|4|
+|CONNOR, Rex|4|
+|SHACK, Peter|4|
+|CAMERON, Donald Milner|4|
+|YOUNG, Mick|4|
+|MARTIN, Vincent|3|
+|HUNT, Ralph|3|
+|CORBETT, James|3|
+|WEST, Stewart|3|
+|CAIRNS, Kevin|3|
+|GRAHAM, Bruce|3|
+|O'KEEFE, Frank|3|
+|RUDDOCK, Philip|3|
+|BERINSON, Joe|3|
+|TURNER, Henry|3|
+|HAMER, David|2|
+|GORTON, John|2|
+|MACKAY, Malcolm|2|
+|KERIN, John|2|
+|HURFORD, Chris|2|
+|MCVEIGH, Tom|2|
+|BURY, Leslie|2|
+|GILES, Geoffrey|2|
+|SHERRY, Raymond|2|
+|JOHNSON, Leonard|2|
+|WHITTORN, Raymond|2|
+|ALDRED, Ken|2|
+|CHIPP, Don|2|
+|ADERMANN, Evan|2|
+|LLOYD, Bruce|2|
+|GRASSBY, Al|2|
+|BIRNEY, Reginald|2|
+|CALWELL, Arthur|1|
+|JENKINS, Harry|1|
+|FOX, Edmund|1|
+|BRAITHWAITE, Ray|1|
+|RICHARDSON, Peter|1|
+|KELLY, Bert|1|
+|STREET, Anthony|1|
+|NEWMAN, Kevin|1|
+|LUCHETTI, Anthony|1|
+|FRY, Ken|1|
+|HYDE, John|1|
+|LAMB, Tony|1|
+|VINER, Ian|1|
+|BROWN, Neil|1|
+|DUTHIE, Gilbert|1|
+|MACPHEE, Ian|1|
+|INNES, Urquhart|1|
+|BROWN, John|1|
+|COTTER, John|1|
+|COLLARD, Frederick|1|
+|WILLIS, Ralph|1|
+|ROBINSON, Eric|1|
+|FORBES, Alexander|1|
+|STALEY, Tony|1|

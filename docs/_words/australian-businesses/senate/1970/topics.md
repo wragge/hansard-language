@@ -1,0 +1,26 @@
+---
+layout: default
+title: australian businesses - senate - 1970 - Topics
+---
+## Topics when the phrase **australian businesses** was used in the Senate during the 1970s
+
+| Topic | Number of uses |
+|--------------|----------------|
+|FOREIGN TAKEOVERS BILL 1975|4|
+|FOREIGN TAKEOVERS BILL 1975: Second Reading|2|
+|INCOME TAX LAWS AMENDMENT (ROYALTIES) BILL 1976: Second Reading|1|
+|APPLE AND PEAR STABILIZATION AMENDMENT BILL 1978: First Readings|1|
+|QUESTION: AUSTRALIAN BUREAU OF STATISTICS|1|
+|QUESTION: AUSTRALIAN BANKS|1|
+|QUESTION: GOVERNOR-GENERAL'S SPEECH|1|
+|AUSTRALIAN INDUSTRY DEVELOPMENT CORPORATION BILL 1973: Second Reading|1|
+|QUESTION: OVERSEAS SALES OF MINERALS|1|
+|INCOME TAX ASSESSMENT BILL 1972: Second Reading|1|
+|WOOL (DEFICIENCY PAYMENTS) BILL 1971: Second Reading|1|
+|ADJOURNMENT: Australian Film Industry - Aborigines|1|
+|ANSWERS TO QUESTIONS: Governor-General's Visit to North Queensland (Question No. 36)|1|
+|PATENTS AMENDMENT BILL 1978: Second Readings|1|
+|QUESTION: BUDGET PAPERS 1979-80|1|
+|AUSTRALIAN GOVERNMENT INSURANCE CORPORATION BILL 1975: Second Reading|1|
+|SCHOOL LEAVERS: UNEMPLOYMENT BENEFITS: Matter of Urgency|1|
+|FUTURE OF THE PRICES JUSTIFICATION TRIBUNAL: Ministerial Statement|1|

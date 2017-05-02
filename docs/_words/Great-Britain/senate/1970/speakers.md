@@ -1,8 +1,92 @@
 ---
 layout: default
-title: Great Britain - senate - 1970 - Speakers
+title: great britain - senate - 1970 - Speakers
 ---
-## Speakers who used the phrase **Great Britain** in the Senate during the 1970s
+## Speakers who used the phrase **great britain** in the Senate during the 1970s
 
 | Speaker name | Number of uses |
 |--------------|----------------|
+|MULVIHILL, James|39|
+|MCMANUS, Francis|32|
+|MURPHY, Lionel|29|
+|WRIGHT, Reginald|28|
+|GREENWOOD, Ivor|26|
+|CARRICK, John|24|
+|WHEELDON, John|24|
+|LITTLE, John|24|
+|WILLESEE, Don|22|
+|BUTTON, John|22|
+|BYRNE, Condon|22|
+|CAVANAGH, James|21|
+|BAUME, Peter|20|
+|HANNAN, George|20|
+|SIBRAA, Kerry|19|
+|WEBSTER, James|19|
+|PRESIDENT, The|18|
+|PUPLICK, Chris|18|
+|SHEIL, Glen|17|
+|GIETZELT, Arthur|17|
+|MCCLELLAND, Douglas|16|
+|MCAULIFFE, Ronald|12|
+|KEEFFE, James|12|
+|PRIMMER, Cyril|12|
+|O'BYRNE, Justin|9|
+|MILLINER, Bertie|9|
+|LILLICO, Alexander|9|
+|GAIR, Vincent|8|
+|MISSEN, Alan|8|
+|GUILFOYLE, Margaret|8|
+|MAUNSELL, Charles|7|
+|WRIEDT, Ken|7|
+|DRURY, Arnold|7|
+|ANDERSON, Kenneth|7|
+|DAVIDSON, Gordon|7|
+|COTTON, Bob|6|
+|DRAKE-BROCKMAN, Thomas|6|
+|GEORGES, George|6|
+|GRIMES, Don|5|
+|RAE, Peter|5|
+|TURNBULL, Reginald|5|
+|KILGARIFF, Bernard|5|
+|CANT, Hartley|5|
+|BISHOP, Reginald|5|
+|MCCLELLAND, Jim|5|
+|LAWRIE, Alexander|4|
+|COLLARD, Stanley|4|
+|LAUCKE, Condor|4|
+|WOOD, Ian|4|
+|MCLAREN, Geoffrey|4|
+|WILKINSON, Lawrence|4|
+|KENNELLY, Patrick|4|
+|DURACK, Peter|3|
+|CHANEY, Fred|3|
+|SCOTT, Douglas|3|
+|MCINTOSH, Gordon|3|
+|WITHERS, Reg|3|
+|LAJOVIC, Milivoj|2|
+|LLOYD, Bruce|2|
+|EVERETT, Mervyn|2|
+|MARRIOTT, John|2|
+|DEVITT, Donald|2|
+|YOUNG, Harold|2|
+|MELZER, Jean|2|
+|JESSOP, Donald|2|
+|SIM, John|2|
+|TEHAN, Thomas|2|
+|FITZGERALD, Joseph|2|
+|RYAN, Susan|2|
+|TOWNLEY, Michael|2|
+|BONNER, Neville|2|
+|KANE, John|1|
+|COLSTON, Malcolm|1|
+|SULLIVAN, Kathryn|1|
+|HALL, Steele|1|
+|ROBERTSON, Edward|1|
+|HAMER, David|1|
+|ARCHER, Brian|1|
+|RANKIN, Annabelle|1|
+|HARRADINE, Brian|1|
+|CAMERON, Donald Newton|1|
+|POYSER, Arthur|1|
+|BEAZLEY, Kim|1|
+|WALSH, Peter|1|

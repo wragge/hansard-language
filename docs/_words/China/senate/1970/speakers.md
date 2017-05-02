@@ -1,8 +1,105 @@
 ---
 layout: default
-title: China - senate - 1970 - Speakers
+title: china - senate - 1970 - Speakers
 ---
-## Speakers who used the word **China** in the Senate during the 1970s
+## Speakers who used the word **china** in the Senate during the 1970s
 
 | Speaker name | Number of uses |
 |--------------|----------------|
+|SIM, John|252|
+|WHEELDON, John|233|
+|WILLESEE, Don|229|
+|CARRICK, John|214|
+|MURPHY, Lionel|174|
+|MCMANUS, Francis|150|
+|WRIGHT, Reginald|107|
+|TURNBULL, Reginald|106|
+|WRIEDT, Ken|105|
+|MAUNSELL, Charles|79|
+|LITTLE, John|76|
+|HANNAN, George|75|
+|GIETZELT, Arthur|69|
+|WEBSTER, James|68|
+|DRAKE-BROCKMAN, Thomas|66|
+|GREENWOOD, Ivor|64|
+|WITHERS, Reg|62|
+|O'BYRNE, Justin|60|
+|YOUNG, Harold|57|
+|MULVIHILL, James|56|
+|PRESIDENT, The|54|
+|GEORGES, George|54|
+|ANDERSON, Kenneth|52|
+|COTTON, Bob|52|
+|LILLICO, Alexander|51|
+|KEEFFE, James|47|
+|MCCLELLAND, Douglas|39|
+|SHEIL, Glen|38|
+|BUTTFIELD, Nancy|38|
+|BISHOP, Reginald|37|
+|CANT, Hartley|35|
+|GAIR, Vincent|28|
+|CAVANAGH, James|26|
+|KENNELLY, Patrick|25|
+|CHIPP, Don|25|
+|SIBRAA, Kerry|25|
+|CAMERON, Donald Newton|25|
+|BYRNE, Condon|25|
+|MCLAREN, Geoffrey|23|
+|WALSH, Peter|18|
+|KILGARIFF, Bernard|17|
+|DURACK, Peter|16|
+|JESSOP, Donald|16|
+|PRIMMER, Cyril|15|
+|CHANEY, Fred|13|
+|MESSNER, Tony|12|
+|MCCLELLAND, Jim|12|
+|WOOD, Ian|11|
+|GRIMES, Don|11|
+|LAWRIE, Alexander|10|
+|MISSEN, Alan|10|
+|LAUCKE, Condor|9|
+|KANE, John|9|
+|POYSER, Arthur|9|
+|LAJOVIC, Milivoj|8|
+|MILLINER, Bertie|8|
+|DAVIDSON, Gordon|8|
+|BUTTON, John|7|
+|MASON, Colin|7|
+|PROWSE, Edgar|7|
+|THOMAS, Andrew|7|
+|DRURY, Arnold|7|
+|TOWNLEY, Michael|7|
+|HAMER, David|6|
+|SCOTT, Douglas|6|
+|BROWN, William|6|
+|TEAGUE, Baden|5|
+|FITZGERALD, Joseph|5|
+|MCINTOSH, Gordon|5|
+|BONNER, Neville|5|
+|ROCHER, Allan|4|
+|MARRIOTT, John|4|
+|KNIGHT, John|4|
+|WILKINSON, Lawrence|4|
+|LEWIS, Austin|4|
+|BAUME, Peter|4|
+|GUILFOYLE, Margaret|4|
+|MACGIBBON, David|3|
+|POKE, Albert|3|
+|TATE, Michael|3|
+|RAE, Peter|3|
+|ELSTOB, Ronald|3|
+|NEGUS, Sydney|3|
+|COLEMAN, Ruth|2|
+|TOOHEY, James|2|
+|DEVITT, Donald|2|
+|MELZER, Jean|2|
+|EVERETT, Mervyn|2|
+|PUPLICK, Chris|1|
+|HARRADINE, Brian|1|
+|MCAULIFFE, Ronald|1|
+|HALL, Steele|1|
+|EVANS, Gareth|1|
+|ARCHER, Brian|1|
+|BESSELL, Eric|1|
+|COLSTON, Malcolm|1|
+|REID, Donald|1|

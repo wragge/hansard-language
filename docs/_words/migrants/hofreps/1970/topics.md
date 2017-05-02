@@ -1,0 +1,819 @@
+---
+layout: default
+title: migrants - hofreps - 1970 - Topics
+---
+## Topics when the word **migrants** was used in the House of Representatives during the 1970s
+
+| Topic | Number of uses |
+|--------------|----------------|
+|IMMIGRATION (EDUCATION) BILL 1970: Second Reading|221|
+|QUESTION: IMMIGRATION|133|
+|APPROPRIATION BILL (No. 1) 1971-72|130|
+|SOCIAL SERVICES BILL (No. 3) 1972: Second Reading|127|
+|APPROPRIATION BILL (No. 1) 1970-71|81|
+|AUSTRALIAN CITIZENSHIP BILL 1973: Second Reading|77|
+|APPROPRIATION BILL (No. 1) 1972-73|75|
+|APPROPRIATION BILL (No. 1) 1977-78|71|
+|ADJOURNMENT|67|
+|IMMIGRATION POLICIES AND AUSTRALIA'S POPULATION: Suspension of Standing Orders|64|
+|GRIEVANCE DEBATE|62|
+|APPROPRIATION BILL (No. 1) 1976-77|61|
+|SERVICES TO MIGRANTS: Discussion of Matter of Public Importance|60|
+|QUESTION: GOVERNOR-GENERAL'S SPEECH|59|
+|MIGRANT SERVICES: Discussion of Matter of Public Importance|52|
+|REVIEW OF POST-ARRIVAL PROGRAMS AND SERVICES TO MIGRANTS: Report and Ministerial Statement|51|
+|APPROPRIATION BILL (No. 1) 1978-79|46|
+|IMMIGRATION POLICIES AND AUSTRALIA'S POPULATION: Paper and Ministerial Statement|46|
+|SOCIAL SERVICES BILL: Second Reading|42|
+|APPROPRIATION BILL (No. 1) 1971-72: Second Reading (Budget Debate)|40|
+|QUESTION: ADJOURN MENT|39|
+|BRITISH MIGRANTS: Discussion of Matter of Public Importance|39|
+|TEACHING OF MIGRANT LANGUAGES: Discussion of Matter of Public Importance|38|
+|IMMIGRATION (EDUCATION) BILL 1973: Second Reading|36|
+|QUESTION: APPROPRIATION BULL (No. 1) 1973-74|36|
+|APPROPRIATION BILL (No. 1) 1979-80: Second Reading (Budget Debate)|33|
+|APPROPRIATION BILL (No. 1) 1977-78: Second Reading (Budget Debate)|31|
+|PART IV: Article 18|29|
+|IMMIGRATION ADVISORY COUNCIL INQUIRY: Ministerial Statement|29|
+|QUESTION: MINISTER REJECTS COMPLAINTS BY STATE HOUSING MINISTERS|28|
+|QUESTION: SPEECH OF HER MAJESTY THE QUEEN|26|
+|IMMIGRATION AND THE LABOUR MARKET: Discussion of Matter of Public Importance|25|
+|GOVERNOR-GENERAL'S SPEECH|24|
+|QUESTION: CLYDE R. CAMERON|23|
+|DEPARTMENT OF IMMIGRATION: Discussion of Matter of Public Importance|22|
+|AMNESTY FOR ILLEGAL IMMIGRANTS: Discussion of Matter of Public Importance|21|
+|GALBALLY INFORMATION KIT: Consultation|21|
+|APPROPRIATION BILL (No. 1) 1972-73: Second Reading (Budget Debate)|20|
+|STATES GRANTS (HOUSING) BILL 1971: Second Reading|20|
+|QUESTION: POPULATION POLICY|18|
+|NATIONAL HEALTH BILL 1971: Second Reading|18|
+|LOAN BILL 1973|15|
+|ADMINISTRATOR SPEAKS ON PERMISSIVE RESIDENCY CONDITIONS|15|
+|PETITIONS: Education|15|
+|GALBALLY INFORMATION KIT: Ministerial Statement|15|
+|MIGRANT EDUCATION PROGRAMS: Ministerial Statement|14|
+|COMMITTEE ON OVERSEAS PROFESSIONAL QUALIFICATIONS: Ministerial Statement|14|
+|AUSTRALIA'S IMMIGRATION POLICY: Discussion of Matter of Public Importance|13|
+|QUESTION: UNEMPLOYMENT|13|
+|GOVERNMENT'S MEDICAL SCHEME: Discussion of Matter of Public Importance|13|
+|QUESTION: MIGRATION AGREEMENT WITH THE GOVERNMENT OF MALTA|12|
+|AUSTRALIAN INSTITUTE OF MULTICULTURAL AFFAIRS BILL 1979: Second Reading|12|
+|AUSTRALIA'S IMMIGRATION POLICY: Suspension of Standing Orders|12|
+|APPROPRIATION BILL (No.1)1970-71: Second Reading (Budget Debate)|12|
+|REVISED VISITOR VISA SYSTEM: Revised Visitor Visa System- Ministerial Statement, 3 April 1974|11|
+|INCOME TAX ASSESSMENT AMENDMENT BILL (No. 2) 1976: Second Reading|11|
+|MIGRANT EDUCATION: Migrant Education - Ministerial Statement, 23 April 1970|11|
+|GRIEVANCE DEBATE: Medibank- Pensions- Alcoholism- East Timor- Illegal Crab Fishing- Australian Living Standards- Grants for Roads|11|
+|STATES GRANTS (RURAL RECONSTRUCTION) BILL 1973: Second Reading|11|
+|GRIEVANCE DEBATE: Division of Eden-Monaro-The Parliament-Education: Libraries-Australian Broadcasting Commission-Sir Henry Bland-Meat Exports-Fruit Industry- Fairbridge Scheme for Migrant Children-Brisbane Airport|10|
+|ADJOURNMENT: Australian Labor Party: Health Policy - Unemployment - Immigration - Inflammable Materials - War Service Homes - Social Services|10|
+|APPROPRIATION BILL (No. 1) 1973-74: Second Reading (Budget Debate)|10|
+|APPROPRIATION BILL (No. 1) 1974-75|9|
+|COMMONWEALTH EMPLOYMENT SERVICE BILL 1978: Second Reading|9|
+|ADJOURNMENT: Commonwealth Heads of Government Regional Meeting- East Timor- Use of Private Consultants- Adult Migrant Education- Citizens Band Radio|9|
+|QUESTION: UNEMPLOYMENT: IMMIGRANTS|9|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration (Question No.1 617)|9|
+|QUESTION: EMIGRATION|9|
+|ADJOURNMENT: Sgd. (Ivor J. Greenwood)|9|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Institute of Marine Science (Question No. 5355)|8|
+|NATIONAL HEALTH BILL 1976: Second Reading|8|
+|APPROPRIATION BILL (No. 4) 1971-72: Second Reading|8|
+|QUESTION: IMMIGRATION: AUTHORITY OF MR GRASSBY|8|
+|QUESTION: CONFIDENCE IN ATTORNEYGENERAL: CROATIAN TERRORISM|8|
+|SCOPE OF COMMISSION|8|
+|ANSWERS TO QUESTIONS UPON NOTICE: Font and Mouth Disease (Question No. 867)|8|
+|ADJOURNMENT: Liverpool Women's Centre- Telephone Charges- Immigration- Citrus Fruit Industry- Commercial Publication- Failures of Companies- Australian Labor Party|8|
+|IMMIGRATION POLICY: Ministerial Statement|7|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants (Question No. 3408)|7|
+|STUDENT ASSISTANCE SCHEMES AND MIGRANT EDUCATION PROGRAMS: Migrant Education Program|7|
+|ANSWERS TO QUESTIONS UPON NOTICE: Hospital Benefits Organisations: Revenues (Question No. 3679)|7|
+|SALES TAX (EXEMPTIONS AND CLASSIFICATIONS) BILL 1973: Second Reading|7|
+|COMMITTEE FOR THE FREEDOM OF SOVIET JEWS: Sovetskaya Litva 26 March Sovetskaya Latvia 27 March|7|
+|QUESTION: MIGRANT NOMINATION BY DEVELOPMENT COMPANIES|7|
+|ANSWERS TO QUESTIONS UPON NOTICE: British Migrant Skills, Arrivals and Departures (Question No. 153)|7|
+|QUESTION: IMMIGRATION POLICIES AND AUSTRALIA'S POPULATION|7|
+|UNITED STATES DEPARTMENT OF HEALTH, EDUCATION, AND WELFARE: Marihuana (Question No. 2289)|7|
+|APPROPRIATION BILL (No. 1) 1970-71: Second Reading (Budget Debate)|7|
+|QUESTION: MIGRANT DEPARTURES|7|
+|QUESTION: ILLEGAL IMMIGRATION|7|
+|OMBUDSMAN BILL 1976: Second Reading|7|
+|SOCIAL SERVICES BILL (No. 2) 1973: Second Reading|6|
+|OVERSEAS STUDENTS CHARGE BILL 1979: Second Reading|6|
+|AUSTRAIIAN CITIZENSHIP BILL 1973: Second Reading|6|
+|PERSONAL EXPLANATION|6|
+|TASK FORCES: Public Service: Rejection of Employment (Question No. 1692)|6|
+|ANSWERS TO QUESTIONS: Social Security: Migrant Programs and Policies (Question No. 4441)|6|
+|QUESTION: SOCIAL SERVICES: MIGRANTS|6|
+|No: Ethnic Liaison Officers (Question No. 1495)|6|
+|QUESTION: SUSPENSION OF STANDING ORDERS|6|
+|APPROPRIATION BILL (No. 1) 1973-74|6|
+|QUESTION: COST/BENEFIT STUDY OF IMMIGRATION|6|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant Education (Question No. 5207)|6|
+|APPROPRIATION BILL (No. 1) 1978-79: Second Reading (Budget Debate)|6|
+|CURRICULUM DEVELOPMENT CENTRE BILL 1975: Second Reading|6|
+|SOCIAL SERVICES BILL 1972: Second Reading|6|
+|REPORT TO THE UNEMPLOYMENT COMMITTEE|6|
+|MIGRANT EDUCATION: Ministerial Statement|6|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Skilled Migrants (Question No. 431)|6|
+|ADJOURNMENT: Australian Broadcasting Commission: Ku Klux Klan Report- United Nations- Health-Legal Profession- Aurukun Community -Computer User Data Mechanism Scheme- Immigration|6|
+|QUESTION: ECONOMY: REDUCTIONS IN COMMONWEALTH EXPENDITURES|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigrants: Health (Question No. 4570)|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Adult Migrants (Question No. 2475)|5|
+|QUESTION: PROPOSED GAF/CAC MERGER|5|
+|ADJOURNMENT: Silver Jubilee Commemorative Appeal-Population Trends: Immigration-Employment Statistics- Road Safety: Motor Cycles-New Tasman Bridge - Pensions-Immigration-Unemployment Benefit|5|
+|QUESTION: RETURNING MIGRANTS: ASSISTED PASSAGES|5|
+|ACTIVE MANPOWER POLICY FOR AUSTRALIA|5|
+|NATIONAL URBAN AND REGIONAL DEVELOPMENT AUTHORITY BILL 1972: Second Reading|5|
+|QUESTION: MIGRANT UNEMPLOYMENT|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: Subsidised Medical Scheme (Question No. 4625)|5|
+|GOVERNMENT TRAINING PROGRAMS: Discussion of Matter of Public Importance|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration (Question No. 3447)|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Immigration: Interdepartmental Committees (Question No. 1083)|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Employment Service: Non-English Speaking Applicants (Question No. 129)|5|
+|OBSERVERS: Dual Nationality (Question No. 4807)|5|
+|GOVERNOR-GENERAL'S SPEECH: Suspension of Standing Orders|5|
+|PETITIONS: Australian Roads|5|
+|NATIONAL HEALTH BILL 1970: Second Reading|5|
+|POPULATION POLICY: Ministerial Statement|5|
+|SOCIAL SERVICES BILL 1971: Second Reading|5|
+|QUESTION: FISCAL POLICY DECISIONS|5|
+|ACTIVE MANPOWER POLICY FOR AUSTRALIA: Reports and Ministerial Statement|5|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigrants from NonEnglish Speaking Countries (Question No. 4309)|5|
+|QUESTION: UNEMPLOYMENT: MIGRANT INTAKE|5|
+|QUESTION: MIGRANTS: HOUSING|5|
+|APPROPRIATION BILL (No. 3) 1975-76: Second Reading|5|
+|WESTERN AUSTRALIA: Migrants: Advertising Campaigns (Question No. 6387)|5|
+|JOSEPH MANTJAKURA: Council Vice-President|5|
+|QUESTION: MIGRANT EDUCATION|5|
+|SOCIAL SERVICES BILL (No. 4) 1972: Second Reading|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Typhoid Fever (Question No. 5874)|4|
+|ADJOURNMENT: House of Representatives|4|
+|QUESTION: MIGRANT SERVICES|4|
+|STATES GRANTS (UNIVERSITIES ASSISTANCE) BILL 1976: Second Reading|4|
+|QUESTION: ADULT MIGRATION EDUCATION SERVICE|4|
+|RACIAL DISCRIMINATION BILL 1975: Second Reading|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Transport Payments (Question No. 3698)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea (Question No. 664)|4|
+|STATES GRANTS (SCHOOLS) BILL 1973: Second Reading|4|
+|COMMONWEALTH ELECTORAL BILL (No. 2) 1973: Second Reading|4|
+|REFUGEE POLICY AND MECHANISMS: Ministerial Statement|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Citizenship (Question No. 5594)|4|
+|STATES GRANTS (SCHOOLS) BILL 1972: Second Reading|4|
+|QUESTION: ILLEGAL IMMIGRANTS|4|
+|CRIMES BILL 1973: Second Reading|4|
+|UNEMPLOYMENT: Discussion of Matter of Public Importance|4|
+|ANSWERS TO QUESTIONS: Parramatta: Migrant Information Office (Question No. 1919)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant Needs: Survey (Question No. 2626)|4|
+|ADJOURNMENT: Community Involvement Programs -East Timor- Questions Upon Notice|4|
+|CONCILIATION AND ARBITRATION BILL 1972: Second Reading|4|
+|CUSTOMS TARIFF BILL 1972: Second Reading|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Employment Service: Interpreter Services (Question No. 96)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Citizenship Status (Question No. 2922)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Immigration and Ethnic Affairs (Question No. 1041)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Anthem and National Tune: Issue of Cassettes to Schools (Question No. 2570)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant Skills (Question No. 217)|4|
+|SOCIAL SERVICES BELL 1971: Second Reading|4|
+|TELECOMMUNICATIONS AMENDMENT BILL 1976: Third Reading|4|
+|QUESTION: SELECT COMMITTEE ON SPECIFIC LEARNING DIFFICULTIES|4|
+|QUESTION: CITIZENSHIP|4|
+|APPROPRIATION BILL (No. 3) 1976-77: Second Reading|4|
+|ETHNIC BROADCASTING AND TELEVISION: Discussion of Matter of Public Importance|4|
+|QUESTION: WHITE PAPER ON MANUFACTURING INDUSTRY|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Health Insurance (Question No. 2550)|4|
+|QUESTION: PUBLIC SERVICE STAFF CEILINGS|4|
+|PERSONAL EXPLANATIONS|4|
+|AUSTRALIAN COMMITTEE ON TECHNICAL AND FURTHER EDUCATION: Ministerial Statement|4|
+|AFFIRMATION OF ALLEGIANCE|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration (Question No. 5044)|4|
+|LEGAL AID BILL 1975: Second Reading|4|
+|CONSTITUTION ALTERATION (DEMOCRATIC ELECTIONS) BILL 1974: Second Reading|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigrants: Welfare Fund (Question No. 4118)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ethnic Liaison Officers (Question No. 1709)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants: Overseas Advertising (Question No. 882)|4|
+|ALBURY-WODONGA DEVELOPMENT BILL 1973: Second Reading|4|
+|QUESTION: TAXATION|4|
+|APPROPRIATION BILL (No. 1) 1976-77: Second Reading (Budget Debate)|4|
+|STATUTORY AUTHORITIES: Tax Rebates: Overseas Dependants (Question No. 2790)|4|
+|COMMONWEALTH ELECTORAL AMENDMENT BILL 1977: Second Reading|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Army: Rottnest Island (Question No. 236)|4|
+|ANSWERS TO QUESTIONS UPON NOTICE: Foot and Month Disease (Question No. 865)|4|
+|COMMONWEALTH SCIENCE FACILITIES PROGRAMME: Immigration: Transport Payments (Question No. 6084)|4|
+|STANDING ORDERS COMMITTEE: Report|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unsponsored Migrants (Question No. 76)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Social Security Benefits for Illegal Migrants (Question No. 1315)|3|
+|QUESTION: MIGRANT ADULT EDUCATION|3|
+|QUESTION: AUSTRALIAN SECURITY INTELLIGENCE ORGANISATION|3|
+|MIGRATION AMENDMENT BILL 1979: Second Reading|3|
+|SOCIAL SERVICES AMENDMENT BILL 1976|3|
+|QUESTION: IMMIGRATION: WESTERN AUSTRALIA|3|
+|GRIEVANCE DEBATE: Suspension of Standing Orders|3|
+|APPROPRIATION BILL (No. 1): Second Reading (Budget Debate)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration to Australia (Question No. 524)|3|
+|SA: United Kingdom Migrants: Selection (Question No. 440)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Health Insurance (Question No. 4383)|3|
+|QUESTION: ILLEGAL MIGRANTS|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Overseas Advertising for Migrants (Question No. 1179)|3|
+|QUESTION: HRVATSKA BORBA' (CROATIAN STRUG|3|
+|RESTRICTED: National Companies and Securities Legislation (Question No. 1691)|3|
+|QUESTION: WHITLAM GOVERNMENT|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rhodesian Migrants (Question No. 1509)|3|
+|INVALID PENSIONERS REJECTED FOR REHABILITATION: Foot and Mouth Disease (Question No. 2084)|3|
+|QUESTION: ORIENTATION COURSES FOR MIGRANTS|3|
+|BILLS RETURNED FROM THE SENATE|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants: Citizenship Courses (Question No. 97)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants: Lodgment of Income Tax Returns (Question No. 573)|3|
+|COMMONWEALTH ELECTORAL BILL (No. 2) 1973|3|
+|MOST GRACIOUS SOVEREIGN:|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rhodesian Migrants (Question No. 530)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant and Aboriginal Children: Literacy and Numeracy (Question No. 1949)|3|
+|ANSWERS TO QUESTIONS: Immigration: Assisted Passages (Question No. 3365)|3|
+|REMARKS OF PRIME MINISTER: Suspension of Standing Orders|3|
+|FAMILY LAW AMENDMENT BILL (No. 2) 1976: Second Reading|3|
+|QUESTION: OPPORTUNITIES UNDER THIS LEGISLATION|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant Organisations: Financial Assistance (Question No. 90)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Labour Market Imbalances (Question No. 52)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migration: Approvals (Question No. 260)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Advertising, Applications and Projected Intakes (Question No. 102)|3|
+|HOMES SAVINGS GRANT BILL 1970|3|
+|QUESTION: FINANCE|3|
+|TECHNICAL AND FURTHER EDUCATION COMMISSION BILL 1975: Second Reading|3|
+|HOMES SAVINGS GRANT BILL 1976: Second Reading|3|
+|TASK FORCES: Migrants (Question No. 763)|3|
+|ANSWERS TO QUESTIONS: Health: Migrant Programs and Policies (Question No. 4442)|3|
+|CRIMINOLOGY RESEARCH BILL 1971: Second Reading|3|
+|CUSTOMS TARIFF BILL 1971: Second Reading|3|
+|QUESTION: A NATIONAL SUPERANNUATION SCHEME|3|
+|ADJOURNMENT: Political Party Funds-Estate Duty-Electoral: Court Proceedings|3|
+|QUESTION: No|3|
+|CSIRO: Translation Service (Question No. 2887)|3|
+|LEGAL AID BILL 1975|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Subsidised Health Benefits Scheme (Question No. 5109)|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migration (Question No. 1616)|3|
+|AVALON AIRPORT, VICTORIA: Proposed Expenditure, $40,251,000|3|
+|QUESTION: IMMIGRATION: SELECTION PROCEDURES|3|
+|SUSPENSION OF STANDING ORDERS: Second Reading|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants: Assisted Passages (Question No. 775)|3|
+|QUESTION: ILLEGAL IMMIGRANTS: AMNESTY|3|
+|SOME VIEWS ON THE IMMIGRATION OF LEBANESE TO AUSTRALIA: Conclusion|3|
+|QUESTION: HEALTH: SUBSIDISED MEDICAL SCHEME|3|
+|STATES GRANTS (TECHNICAL AND FURTHER EDUCATION) BILL 1974: Second Reading|3|
+|QUESTION: ENGLISH LANGUAGE TRAINING SCHEME FOR MIGRANTS|3|
+|QUESTION: MOST GRACIOUS SOVEREIGN:|3|
+|PASSPORTS AMENDMENT BILL 1979: Second Reading|3|
+|QUESTION: COMMONWEALTH EDUCATION PROGRAMME FOR 1972-73|3|
+|QUESTION: ADULT MIGRANT EDUCATION SERVICE|3|
+|FRASER GOVERNMENT: Want of Confidence Motion|3|
+|QUESTION: MIGRANTS FROM SOUTHERN AFRICA|3|
+|MOVES TO PREVENT OVERSEAS TAKEOVER OF NORTHERN TERRITORY URANIUM DEPOSITS: Special Additional Payments for Age and Invalid Pensioners|3|
+|QUESTION: LAND LEASE DISASTER|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Adult Migrants (Question No. 568)|3|
+|DC9-3: Skills of Migrants (Question No. 3924)|3|
+|QUESTION: MIGRANT EMERGENCY TELEPHONE SERVICE|3|
+|QUESTION: HEALTH INSURANCE COMMISSION ACT 1973|3|
+|QUESTION: IMMIGRATION INTAKE|3|
+|QUESTION: SPANISH MIGRANTS|3|
+|QUESTION: MIGRANT SMUGGLING RACKET|3|
+|QUESTION: INTERNATIONAL ROLE|3|
+|QUESTION: IMMIGRATION: SPONSORSHIP|3|
+|SIZES OF CREDIT UNIONS 1966, 1967, 1968|3|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration Ministers Conference: Workers Compensation (Question No. 1457)|2|
+|ADJOURNMENT: Commonwealth Employees' Compensation- Mr Milan Brych- Parliament House: Security- The Parliament- Australia Day|2|
+|ADJOURNMENT: Advertising of Alcohol and Tobacco - Drugs - Health Insurance Scheme - Social Services - Employment - Aid for Refugees|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigrants: Access to Social Services (Question No. 2419)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration Procedures (Question No. 80)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Workmen's Compensation Ordinance (Question No. 1690)|2|
+|OBSERVERS: Immigrants: Countries of Origin (Question No. 4569)|2|
+|QUESTION: UNEMPLOYMENT BENEFIT AND THE WORK TEST|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants' Contributions to Productivity (Question No. 81)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Children of Turkish Citizens: Language Tuition (Question No. 677)|2|
+|QUESTION: GALBALLY REPORT|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Refugees (Question No. 641)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Batman: Unemployment (Question No. 719)|2|
+|SOCIAL SERVICES BILL (No. 3) 1972|2|
+|NORTHERN TERRITORY: Civil Aviation: Australia - United States Services (Question No. 1452)|2|
+|QUESTION: REDISTRIBUTION OF NEW SOUTH WALES ELECTORAL DIVISIONS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rhodesian Girls Brigade (Question No. 99)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: School Libraries (Question No. 2838)|2|
+|CONSTITUTION ALTERATION (LOCAL GOVERNMENT BODIES) BILL 1974: Second Reading|2|
+|STATES GRANTS BILL (No. 2) 1972: Second Reading|2|
+|PUBLIC SERVICE ACTS AMENDMENT BILL 1974: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration (Question No. 1614)|2|
+|ELECTORAL BILL (No. 2) 1975: Second Reading|2|
+|STATES GRANTS (SCHOOLS ASSISTANCE) BILL 1977: Second Reading|2|
+|THE ECONOMY: Discussion of Matter of Public Importance|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Advertising Expenditure (Question No. 987)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant Arrivals (Question No. 2627)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migration: United Kingdom - Whyalla (Question No. 2082)|2|
+|AUSTRALIAN ELECTORAL OFFICE BILL 1973: Second Reading|2|
+|PUBLIC SERVICE STAFF CEILINGS: Discussion of Matter of Public Importance|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unemployed Migrants: Commonwealth Employment Service (Question No. 829)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Good Neighbour Council (Question No. 85)|2|
+|COMMONWEALTH SCIENCE FACILITIES PROGRAMME: Commonwealth Hostels (Question No. 6155)|2|
+|QUESTION: VIETNAMESE REFUGEES|2|
+|QUESTION: UNEMPLOYMENT: PROPOSED JOINT COMMITTEE|2|
+|COMMITTEE OF INQUIRY INTO EDUCATION AND TRAINING: Ministerial Statement|2|
+|WESTERN AUSTRALIA (SOUTH-WEST REGION WATER SUPPLIES) AGREEMENT BILL 1971: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants - Recognition of Trade Skills (Question No. 201)|2|
+|QUESTION: MEANS AND NEEDS TEST AND CONTRIBUTIONS INTERIM GUIDELINES|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant Counselling and Selection System (Question No. 439)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigrants: State Figures (Question No. 4306)|2|
+|MIGRATION AMENDMENT BILL (No. 2) 1979: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naturalisation (Question No. 2617)|2|
+|USSR: Migrant Centres (Question No. 4724)|2|
+|WANT OF CONFIDENCE IN THE GOVERNMENT|2|
+|QUESTION: MIGRANTS: TASK FORCES|2|
+|QUESTION: WILTONA HOSTEL|2|
+|HYACINTH TUNGUTALUM: Bathurst Island|2|
+|OMBUDSMAN BILL 1975: Second Reading|2|
+|AUSTRALIAN INDUSTRY DEVELOPMENT CORPORATION BILL 1970: Second Reading|2|
+|ANSWERS TO QUESTIONS: National Employment and Training System (Question No. 4722)|2|
+|QUESTION: LANGUAGE TEACHING|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Multiple Marriages (Question No. 2694)|2|
+|QUESTION: MEDIBANK|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ethnic Liaison Officers Scheme (Question No. 2953)|2|
+|AIRLINE EQUIPMENT (LOAN GUARANTEE) BILL 1977: Second Reading|2|
+|AVERAGE PRICE RECEIVED FOR WOOL AND GROSS VALUE OF PRODUCTION: AUSTRALIA: Sources: National Council of Wool Selling Brokers and Commonwealth Bureau of Census and Statistics|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unemployment Benefits: Regulations and Administrative Directions (Question No. 200)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Maltese Migrants: Language Tuition (Question No. 679)|2|
+|GRIEVANCE DEBATE: Migrant Workers- Australian Government- East Timor- Works Participation Schemes- Cheese Industry -Visit of Prime Minister to Indonesia- Fishing Industry|2|
+|HEALTH INSURANCE AMENDMENT BILL 1978|2|
+|CHILD CARE BILL 1972: Second Reading|2|
+|QUESTION: QANTAS: ASSISTED MIGRANTS|2|
+|APPROPRIATION BILL (No. 4) 1973-74: Second Reading|2|
+|APPROPRIATION BILL (No. 3) 1970-71: Second Reading|2|
+|DUAL NATIONALITY: Ministerial Statement|2|
+|AMOUNT OWED BY YOU TO DATE-NIL|2|
+|QUESTION: IMMIGRATION: DECENTRALISATION PROGRAMS|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants from Great Britain (Question No. 4307)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant Emergency Fund (Question No. 888)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migration (Question No. 1615)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: English Instruction for Migrants (Question No. 1942)|2|
+|QUESTION: IMMIGRATION: OVERCROWDING OF INNER CITY AREAS|2|
+|INDUSTRIES ASSISTANCE COMMISSION AMENDMENT BILL 1978: Second Reading|2|
+|QUESTION: IMMIGRATION: TERRORIST ACTIVITIES|2|
+|APPROPRIATION BILL (No. 1) 1975-76|2|
+|ADJOURNMENT: Dear Sir,|2|
+|HEALTH INSURANCE AMENDMENT BILL (No. 2) 1978: Second Reading|2|
+|APPROPRIATION BILL (No. 1) 1979-80|2|
+|QUESTION: NON-ENGLISH SPEAKING MIGRANT WORKERS|2|
+|OVERSEAS CONTROL - MANUFACTURING SECTOR: Constitution: Review (Question No. 5288)|2|
+|AUSTRALIAN HOUSING CORPORATION BILL 1975|2|
+|QUESTION: HOUSING|2|
+|LEBANESE MIGRATION TO AUSTRALIA: Ministerial Statement|2|
+|ANSWERS TO QUESTIONS: Behaviour of Migrants (Question No. 3918)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Immigration and Ethnic Affairs: Air Travel Payments (Question No. 361)|2|
+|QUESTION: MIGRATION FROM LEBANON|2|
+|A: Literacy Rate (Question No. 2753)|2|
+|QUESTION: BILINGUAL BROADCASTING|2|
+|QUESTION: PALESTINE LIBERATION ORGANISATION|2|
+|QUESTION: COMMONWEALTH ELECTORAL ACT (No. 2) 1973|2|
+|ACT. - $1,640: Foot and Mouth Disease (Question No. 863)|2|
+|ANSWERS TO QUESTIONS: Housing and Construction: Migrant Programs and Policies (Question No. 4444)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration (Question No. 1620)|2|
+|NATIONAL HEALTH AMENDMENT BILL 1978: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Service (Question No. 1906)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: British Government: Screening of Migrants (Question No. 781)|2|
+|QUESTION: EMPLOYMENT AND UNEMPLOYMENT|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Parramatta: Migrant Information Office (Question No. 1920)|2|
+|EMPLOYMENT PROSPECTS FOR YOUNG PEOPLE: Discussion of Matter of Public Importance|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration of Skilled Workers (Question No. 218)|2|
+|QUESTION: U.S.A|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Cost of Services (Question No. 1114)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Houses for the Aged: Subsidies (Question No. 271)|2|
+|TRADE AGREEMENT BETWEEN AUSTRALIA AND YUGOSLAVIA: Ministerial Statement|2|
+|NATIONAL HEALTH BILL 1.971: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Assistance to Local Government (Question No. 2823)|2|
+|DEATH OF MR L. C. HAYLEN|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Taxation: Migrants (Question No. 5890)|2|
+|QUESTION: JOINT COMMITTEE ON FOREIGN AFFAIRS AND DEFENCE|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Assisted Passage Migrants: Settlement in Non-Metropolitan Areas (Question No. 82)|2|
+|TARIFF PROPOSALS|2|
+|QUESTION: IMMIGRANTS: JOB QUALIFICATIONS|2|
+|STATES GRANTS (PRE-SCHOOL TEACHERS COLLEGES) BILL 1972: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Papua and New Guinea: Superannuation (Question No. 623)|2|
+|CITIES COMMISSION BILL 1973: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Narcotics Control (Question No. 3626)|2|
+|WELFARE AND HEALTH: Reports and Ministerial Statement|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Immigration: Migrant Employees (Question No 73)|2|
+|STATES GRANTS (SCIENCE LABORATORIES) BILL 1971: Second Reading|2|
+|MIGRATION BILL 1973: Second Reading|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Family Reunion (Question No. 827)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aborigines: Malnutrition (Question No. 806)|2|
+|QUESTION: IMMIGRATION: INTERPRETERS|2|
+|QUESTION: ILLEGAL MIGRANTS FROM COLOMBIA|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Social Services: Pensions for Migrants (Question No. 529)|2|
+|QUESTION: AUSTRALIAN ECONOMY|2|
+|HEALTH INSURANCE LEVY BILL 1978|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: The Environment: Non-Returnable Containers (Question No. 5041)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Rhodesian Migrants (Question No. 655)|2|
+|QUESTION: PRIME MINISTER'S OVERSEAS VISIT|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naturalisation (Question No. 9365)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naturalisation (Question No. 329)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Ugandan Asians (Question No. 6455)|2|
+|AUSTRALIA'S OBLIGATION TO THE LEBANESE PEOPLE: Discussion of Matter of Public Importance|2|
+|STATES GRANTS (HOUSING ASSISTANCE) BILL (No. 2) 1976: Second Reading|2|
+|QUESTION: FRUIT INDUSTRY: MIGRANT LABOUR|2|
+|QUESTION: RAID ON COMMUNES|2|
+|QUESTION: HIRE PURCHASE: WARNING TO MIGRANTS|2|
+|TASMANIA: Immigration: Assisted Passages (Question No. 2079)|2|
+|HEALTH INSURANCE BILL 1973: Second Reading|2|
+|UNIT: Social Services: Migrant Discontent (Question No. 4741)|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Refugees: Social Security Benefits (Question No. 929)|2|
+|RE-OPENING OF WILTONA HOSTEL: Ministerial Statement|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Unemployment Benefit (Question No. 5714)|2|
+|QUESTION: DEPORTATION OF YUGOSLAVS|2|
+|QUESTION: IMMIGRATION: BUILDING TRADESMEN|2|
+|QUESTION: MIGRANTS; HOME VISIT INSURANCE|2|
+|REPORT OF THE COMMONWEALTHSTATE OFFICIALS' COMMITTEE ON DECENTRALISATION: Ministerial Statement|2|
+|COMMONWEALTH LEGAL AID COMMISSION BILL 1977: Second Reading|2|
+|OTHER PROGRAMS: Migrants: Arrivals and Departure (Question No. 1411)|2|
+|QUESTION: AUSTRALIAN FOREIGN POLICY|2|
+|APPROPRIATION BILL (No. 1) 1974-75: Second Reading (Budget Debate)|2|
+|ELECTORAL LAWS AMENDMENT BILL 1974 [No. 2]|2|
+|ADJOURNMENT: Interest Rates - Aircraft Noise - Richmond Airport|2|
+|FINANCIAL AGREEMENT BILL 1976: Second Reading|2|
+|QUESTION: HOME SAVINGS GRANTS|2|
+|QUESTION: HEALTH INSURANCE SCHEME: PROPOSED SELECT COMMITTEE|2|
+|QUESTION: ABORIGINAL VOTING RIGHTS: PROPOSED SELECT COMMITTEE|2|
+|PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) BILL 1971|2|
+|AIR NAVIGATION BILL 1971|2|
+|ANSWERS TO QUESTIONS: Migrants: Foreign Language Letters (Question No. 3290)|2|
+|QUESTION: TELEPHONE INTERPRETER SERVICE|2|
+|ADJOURNMENT: Travel Organisation - Australian Atomic Energy Commission: Retirement of Chairman - Fill Aircraft - Civil Aviation: Private Pilot Privileges - Qantas Airways Limited|2|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Research and Development (Question No. 874)|1|
+|ADJOURNMENT: Industry -Unemployment-Steel -Electoral|1|
+|THE NEXT FRENCH REVOLUTION|1|
+|NATIONAL HEALTH AMENDMENT BILL (No. 2) 1978: Second Reading|1|
+|ESTATE DUTY ASSESSMENT AMENDMENT BILL 1978: Second Reading|1|
+|STATES GRANTS (INDEPENDENT SCHOOLS) BILL 1972: Second Reading|1|
+|STATES GRANTS (SCHOOLS) BILL 1974: Second Reading|1|
+|QUESTION: IMMIGRATION QUOTA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Employment: United States of America (Question No. 4962)|1|
+|STEVEDORING INDUSTRY (TEMPORARY PROVISIONS) AMENDMENT BILL (No. 2) 1976: Second Reading|1|
+|CRIMES (FOREIGN INCURSIONS AND RECRUITMENT) BILL 1977: Second Reading|1|
+|QUESTION: AUSTRALIAN CITIZEN'S INDUCTION INTO GREEK ARMY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Canberra: Migrant Residents (Question No. 1408)|1|
+|QUESTION: ROYAL COMMISSION ON HUMAN RELATIONSHIPS: REPORT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Employment Service (Question No. 2848)|1|
+|EXAMINATION OF ATTORNEY-GENERAL: Suspension of Standing Orders|1|
+|INCOME TAX ASSESSMENT AMENDMENT BILL (No. 2) 1978 [No. 2]: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naturalisation (Question No. 2620)|1|
+|POST AND TELEGRAPH BILL 1971: Second Reading|1|
+|SELECT COMMITTEE ON SPECIFIC LEARNING DIFFICULTIES: Appointment|1|
+|UNEMPLOYMENT BENEFITS FOR SCHOOL LEAVERS: Discussion of Matter of Public Importance|1|
+|REDISTRIBUTION OF STATES INTO ELECTORAL DIVISIONS: Ministerial Statement|1|
+|ELECTORAL LAWS AMENDMENT BILL 1974: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australia's Coastline: Surveillance (Question No. 1096)|1|
+|QUESTION: EXECUTION OF AUSTRALIAN CITIZENS|1|
+|PLACES VISITED: Pensions: Overpayments (Question No. 967)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Industrial Disputes (Question No. 1539)|1|
+|AUSTRALIAN MEAT INDUSTRY: Discussion of Matter of Public Importance|1|
+|THE PRIME MINISTER'S POLICIES AND STATEMENTS: Discussion of Matter of Public Importance|1|
+|QUESTION: TOURIST VISAS: GREECE|1|
+|QUESTION: HOUSING FOR MIGRANTS|1|
+|QUESTION: EDUCATION: MIGRANT ENGLISH TEACHERS|1|
+|ADJOURNMENT: Constitutional Alteration: Local Government - The Parliament - Urban and Regional Development - Employment: Travelling Expenses|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Workers' Compensation: Migrants (Question No. 2015)|1|
+|ADJOURNMENT: Assistance to Wool Industry - Apples and Pears - Tourism - Motor Vehicle Industry - Immigration: Asian Students|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Post-arrival Programs and Services for Migrants (Question No. 1939)|1|
+|HOUSING ASSISTANCE BILL 1978: Second Reading|1|
+|ELECTORAL RE-DISTRIBUTION (NEW SOUTH WALES) BILL 1975: Second Reading|1|
+|SOFTWOOD FORESTRY AGREEMENTS BILL 1972: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Special Reports Section of Department of Immigration and Ethnic Affairs (Question No. 969)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Legal Aid Office and the Aboriginal Legal Service (Question No. 25)|1|
+|GENERAL ELECTION: Ministerial Statement|1|
+|APPROPRIATION BILL (No. I) 1970-71|1|
+|DEATH OF THE HONOURABLE R. F. X. CONNOR, M.P|1|
+|PRIME MINISTER'S MISSION ABROAD: Ministerial Statement|1|
+|CSIRO: Asbestos Products: Warning to Migrants (Question No. 2998)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Parramatta: Immigration Office (Question No. 1917)|1|
+|QUESTION: INDUSTRIAL RELATIONS|1|
+|HOMES SAVINGS GRANT AMENDMENT BILL 1979: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants: Departures (Question No. 126)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Registered Unemployed: Electoral Division of Sydney (Question No. 1233)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants: English Instruction (Question No. 1943)|1|
+|ALIENS BILL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Social Service Payments: Waiting Time (Question No. 5786)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naturalisation (Question No. 3391)|1|
+|QUESTION: GOVERNMENT ECONOMIC POLICIES|1|
+|No: British Migrants (Question No. 4333)|1|
+|ANSWERS TO QUESTIONS: Education: Migrant Programs and Policies (Question No. 4439)|1|
+|ADJOURNMENT: Valedictory - Newspaper Report - Social Services - Children's Television Programmes  - Vietnam - Electoral|1|
+|HOMES SAVINGS GRANT BILL 1975: Second Reading|1|
+|ADJOURNMENT: Sir John Kerr -Parliamentary Committees -Koalas -Polish Immigrants|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: War Service Homes (Question No. 1278)|1|
+|GOVERNOR-GENERAL AMENDMENT BILL 1977: Second Reading|1|
+|INQUIRY INTO POVERTY: Ministerial Statement|1|
+|MIGRANT SERVICES|1|
+|INCOME TAX ASSESSMENT BILL (No. 5) 1973: Second Reading|1|
+|DEVELOPMENT OF EARLY CHILDHOOD SERVICES: Discussion of Matter of Public Importance|1|
+|SPEECH OF HER MAJESTY THE QUEEN: Most Gracious Sovereign:|1|
+|ADJOURNMENT: Migrant Workers- Industries Assistance Commission- Overseas Students- Beef Industry-Tourist Organisation|1|
+|LOANS (QANTAS AIRWAYS LIMITED) BILL (No. 2) 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Qantas Flights: Migrants and Defence Personnel (Question No. 3984)|1|
+|COMMONWEALTH ELECTORAL AMENDMENT BILL 1977|1|
+|SUSPENSION OF STANDING ORDERS: Austria, Belgium, Finland, Ireland, Norway, Portugal, Spain -|1|
+|QUESTION: GOVERNMENT HEALTH INSURANCE PROGRAMME|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Disadvantaged Schools Program (Question No. 1495)|1|
+|FOR DARWIN: Reference to Public Works Committee|1|
+|GRIEVANCE DEBATE: Servants- Court Proceedings- Civil Rights|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Centre for Human Services (Question No. 2845)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants: Eligibility for Assisted Passages (Question No. 70)|1|
+|QUESTION: MUSHROOM INDUSTRY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Special Benefits (Question No. 449)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Child Care Centres (Question No. 712)|1|
+|SUPPLY BILL (No. 1) 1971-72: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Expenditure (Question No. 3443)|1|
+|NEW SOUTH WALES FUEL STRIKE: Department of Employment and Industrial Relations|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: New Settlers Federation (Question No. 88)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigrant Doctors (Question No. 2655)|1|
+|SOCIAL SERVICES AMENDMENT BILL 1978: Second Reading|1|
+|QUESTION: IMMIGRATION: ASIANS FROM UGANDA|1|
+|MOST GRACIOUS SOVEREIGN:: Suspension of Standing Orders|1|
+|STATES GRANTS (SCHOOLS ASSISTANCE) BILL 1978: Second Reading|1|
+|QUESTION: IMMIGRATION: HISTORY|1|
+|QUESTION: COMMONWEALTH HOSTEL ACCOMMODATION|1|
+|STATES GRANTS (ABORIGINAL ASSISTANCE) BILL 1976: Second Reading|1|
+|SOCIAL SERVICES BILL 1973: Second Reading|1|
+|NOW THEREFORE I, SIR PAUL MEERNAA: Migrants: Spelling Proposal (Question No. 2247)|1|
+|JOSEPH MANTJAKURA: Suspension of Standing Orders|1|
+|ANSWERS TO QUESTIONS: Migrants (Question No. 2168)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Inquiries and Research Projects (Question No. 77)|1|
+|ECONOMIC CONDITIONS AND POLICY: Ministerial Statement|1|
+|QUESTION: NEWSPAPER REPORT: ALLEGED EXPLOITATION OF NEWCOMERS|1|
+|PRIME MINISTER'S OVERSEAS VISIT: Ministerial Statement|1|
+|DEFENCE SERVICE HOMES AMENDMENT BILL 1977: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants: Medical Screening (Question No. 5046)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Attraction of Skilled Migrants (Question No. 101)|1|
+|QUESTION: COMMONWEALTH GOVERNMENT ADVERTISING IN ETHNIC NEWSPAPERS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Commonwealth Employment Service: Operations (Question No. 38)|1|
+|FUTURE OF ASIAN RESIDENTS OF CHRISTMAS ISLAND: Ministerial Statement|1|
+|EXCISE TARIFF BILL 1971: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Yugoslav Migrants (Question No. 2680)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration (Question No. 3287)|1|
+|NATIONAL HEALTH: Discussion of Matter of Public Importance|1|
+|SOCIAL SERVICES BILL (No. 2) 1972: Second Reading|1|
+|NEW CITIES PROGRAM: New Cities Program - Ministerial Statement, 23 August 1973|1|
+|A: Socially Disadvantaged Persons (Question No. 2804)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Fairbridge Society (Question No. 432)|1|
+|DEPORTATION OF FIJIANS: Ministerial Statement|1|
+|QUESTION: ADDITIONAL ELECTORATES|1|
+|ADJOURNMENT: Dear Mr Stewart,|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: English Spelling (Question No. 2247)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: North Rockhampton Aboriginal Hostel (Question No. 3293)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: New South Wales Local Government Community Workers Association (Question No. 803)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Refugees (Question No. 45)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Advertising (Question No. 32)|1|
+|SA: Migrants: Deportations (Question No. 504)|1|
+|QUESTION: HOUSING: DEVELOPMENT OF COMMONWEALTH LAND AT BELMONT, WESTERN AUSTRALIA|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Perpetual Calendar (Question No. 1057)|1|
+|APPROPRIATION BILL (No. 1) 1975-76: Second Reading (Budget Debate)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Health Survey (Question No. 304)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Pakistani Refugees (Question No. 4657)|1|
+|QUESTION: VIETNAMESE REFUGEES IN AUSTRALIA|1|
+|STATES GRANTS (PRE-SCHOOL TEACHERS COLLEGES) BILL 1971: Second Reading|1|
+|TRADE UNION TRAINING AUTHORITY BILL 1975: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant Arrivals: Classification (Question No. 216)|1|
+|QUESTION: MIGRATION|1|
+|QUESTION: HEALTH INSURANCE|1|
+|EXERCISES CONDUCTED WITH US NAVY SHIPS AND COMPOSITION OF FORCES INVOLVED,: Nabarlek Uranium Deposit (Question No. 3875)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Chilean Refugees (Question No. 2502)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Assisted Passages (Question No. 1799)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Civilian Labour Force (Supplementary Answer to Question No. 22)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Immigration: Multi-lingual Welfare Officers (Question No. 436)|1|
+|QUESTION: MEDIBANK CARDS|1|
+|UNEMPLOYMENT BENEFIT AND THE WORK TEST: Ministerial Statement|1|
+|QUESTION: CONSTITUTION REVIEW COMMITTEE 1958|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration (Question No. 4289)|1|
+|QUESTION: UNEMPLOYMENT BENEFIT|1|
+|QUESTION: EMERGENCY TELEPHONE INTERPRETER SERVICE|1|
+|ANSWERS TO QUESTIONS: Intake of Migrants (Question No. 1736)|1|
+|UNIVAC 1100/11: Indo-Chinese Immigrants (Question No. 4653)|1|
+|QUESTION: VIETNAMESE REFUGEES: VENEREAL DISEASE|1|
+|ALBURY-WODONGA DEVELOPMENT AMENDMENT BILL 1979: Second Reading|1|
+|COMMISSIONER FOR COMMUNITY RELATIONS: REPORT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Repatriation General Hospital, Hollywood: Security Arrangements (Question No. 1027)|1|
+|LIST OF RESTRICTIVE WORK PRACTICES AND INHIBITIONS TO ECONOMIC OPERATIONS AT CENTRAL MAIL EXCHANGE SYDNEY|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Interpreters and Translators (Question No. 72)|1|
+|DEVELOPMENT OF PUBLIC BROADCASTING: Ministerial Statement|1|
+|ADJOURNMENT: Vacational Employment for Students|1|
+|CONCILIATION AND ARBITRATION BILL 1973 (No. 2)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education: Non-English Speaking Children (Question No. 95)|1|
+|QUESTION: IMMIGRATION: OVERSEAS TRADE TESTING OF MIGRANTS|1|
+|INDUSTRIES ASSISTANCE COMMISSION|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants: Maintenance Guarantees and Special Benefit (Question No. 888)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Displaced Peoples and Refugees (Question No. 1108)|1|
+|PARLIAMENTARY ALLOWANCES BILL 1970: Second Reading|1|
+|QUESTION: INDO-CHINESE REFUGEES|1|
+|SOCIAL SERVICES AMENDMENT BILL 1979|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration (Question No. 5390)|1|
+|SOCIAL SERVICES AMENDMENT BILL 1978|1|
+|ADJOURNMENT: Australian Birth Rate: Abortion- Social Service Benefits- Ethnic Radio Service- Education|1|
+|IMMIGRATION ADVISORY COUNCIL|1|
+|OVERSEAS INVESTMENT IN AUSTRALIA: Ministerial Statement|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrant Settlement in Calare Electoral Division (Question No. 731)|1|
+|ASSISTANCE TO PUBLIC LIBRARIES: Assistance to Public Libraries- Ministerial Statement, 13 November 1979|1|
+|No: Education: Teaching of English (Question No. 5300)|1|
+|HEALTH INSURANCE LEVY ASSESSMENT BILL 1976|1|
+|QUESTION: MIGRANT SERVICES AND PROGRAMS|1|
+|No: Immigration: Assisted Passages (Question No. 1413)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Schools: High Migrant Enrolment (Question No. 2840)|1|
+|TERMINATION OF PREGNANCY: MEDICAL BENEFITS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Consequences of Government Expenditure (Question No. 664)|1|
+|QUESTION: FRASER'S CUTS IN SOCIAL SECURITY|1|
+|BROADCASTING AND TELEVISION BILL (No. 2) 1972: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Film Censorship (Question No. 3627)|1|
+|AUSTRALIAN CITIZENSHIP BILL 1973|1|
+|CLYDE R. CAMERON|1|
+|QUESTION: SOUTH AUSTRALIA: MIGRATION AND EMPLOYMENT STATISTICS|1|
+|WESTERN AUSTRALIA: National Service: Regulations (Question No. 6412)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Migrant Affairs (Question No. 1918)|1|
+|UNIVAC 1100/11: Community Relations Education (Question No. 4910)|1|
+|QUESTION: SALE OF GOVERNMENT COTTAGES|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration (Question No. 5216)|1|
+|TOTAL COMMONWEALTH EXPENDITURE: Department of Education: Advertising (Question No. 1845)|1|
+|CONSULAR SERVICES: Ministerial Statement|1|
+|POPULATION POLICY: Professor R. J. Walsh, O.A., O.B.E., Dean, Faculty of Medicine, University of New South Wales|1|
+|QUESTION: RECIPROCAL PENSIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naturalisation Statistics (Question No. 1188)|1|
+|WESTERN AUSTRALIA: Unemployment: Commonwealth Statistician's Information (Question No. 6392)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ethnic Liaison Officer Scheme: Assessments (Question No. 1706)|1|
+|CHILDREN'S COMMISSION BILL 1975: Second Reading|1|
+|STATES GRANTS (SCHOOLS ASSISTANCE) AMENDMENT BILL 1978: Second Reading|1|
+|TERMS OF REFERENCE|1|
+|BILLS RETURNED FROM THE SENATE: Second Reading (Budget Debate)|1|
+|QUESTION: HIRE PURCHASE|1|
+|MEDIBANK: Discussion of Matter of Public Importance|1|
+|ADJOURNMENT: Hungary- Constitutional Government -Unemployment|1|
+|ELECTORATE BOUNDARIES: Discussion of Matter of Public Importance|1|
+|INTERNATIONAL AIR FARES: Discussion of Matter of Public Importance|1|
+|ADJOURNMENT: Unemployment- Motor Vehicle Safety Standards|1|
+|APPROPRIATION BILL (No. 1) 1970-71: Second Reading (Budget Speech)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Naturalisation (Question No. 326)|1|
+|OFFICIAL TEXT|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration Quota (Question No. 1080)|1|
+|No: Foreign Language Migrants of School Age (Question No. 5524)|1|
+|APPROPRIATION BILL (No, 4) 1973-74: Second Reading|1|
+|ADJOURNMENT: Wage Indexation Hearings- Olympic Games 1988- Migrant Education- Victorian Land Dealings- Service Pension: Former Royal Navy Employee-South Australian Labor Government- Centre for Equal Opportunity, Melbourne|1|
+|HOUSING ASSISTANCE BILL 1978|1|
+|INSTITUTION ALTERATION (DEMOCRATIC ELECTIONS) BILL 1974: Second Reading|1|
+|HOSPITALS: FEES AND COMMONWEALTH ASSISTANCE: Discussion of Matter of Public Importance|1|
+|TRANSITION FROM SCHOOL TO WORK: Ministerial Statement|1|
+|AUSTRALIAN BROADCASTING COMMISSION AND ETHNIC RADIO: Discussion of Matter of Public Importance|1|
+|QUEENSLAND GRANT BILL 1972: Second Reading|1|
+|QUESTION: TERRORIST IMMIGRANTS|1|
+|QUESTION: DIPLOMATIC ASYLUM|1|
+|QUESTION: LOCAL GOVERNMENT REVENUE SOURCES|1|
+|APPROPRIATION BILL (No. 3) 1969-70: Second Reading|1|
+|ANSWERS TO QUESTIONS: Department of Social Security: Grants (Question No. 1546)|1|
+|AUSTRALIAN ECONOMY: Discussion of Matter of Public Importance|1|
+|UNEMPLOYMENT BENEFIT: MARRIED WOMEN|1|
+|PETITIONS: Red Army Choir|1|
+|QUESTION: PROMISSORY NOTE|1|
+|QUESTION: IMMIGRATION: HISTORICAL DOCUMENTS|1|
+|A: Galbally Review (Question No. 2625)|1|
+|QUESTION: STRUCTURAL ADJUSTMENT ASSISTANCE|1|
+|A: Migration Under Occupationally Eligible Criteria (Question No. 2667)|1|
+|CONSTITUTION ALTERATION (PRICES) BILL 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Subsidised Health Benefit Scheme: Foreign Translations (Question No. 5043)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration (Question No. 1623)|1|
+|STATES GRANTS (ADVANCED EDUCATION) BILL (No. 2) 1973: Second Reading|1|
+|OBSERVERS: Immigration: Naturalisation of Migrants (Question No. 4619)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Subsidised Health Insurance Scheme (Question No. 4136)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: National Employment and Training System (Question No. 522)|1|
+|BEEF INDUSTRY (INCENTIVE PAYMENTS) BILL 1977: Second Reading|1|
+|CSIRO: Asian Refugees (Question No. 2955)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Industry: Apprentices (Question No. 487)|1|
+|AUSTRALIAN SECURITY INTELLIGENCE ORGANISATION BILL 1975: Second Reading|1|
+|STATES GRANTS (TEACHERS COLLEGES) BILL 1970: Second Reading|1|
+|WESTERN AUSTRALIA: Migration (Question No.1621)|1|
+|QUESTION: AUSTRALIAN SECURITY INTELLIGENCE ORGANISATION DOCUMENT: ALLEGATION OF CONSPIRACY|1|
+|BROADCASTING AND TELEVISION BILL 1970: Second Reading|1|
+|STATES GRANTS BILL 1972: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australian Health Insurance (Question No. 1358)|1|
+|ADJOURNMENT: Electoral Redistribution- Apple Industry -Kindergarten Union of New South Wales- Purchase of Poker Machines- Schofield Airfield|1|
+|TRADE PRACTICES BILL 1975: Second Reading|1|
+|PUBLIC SERVICE BILL (No. 4) 1973: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants - Benefits and Services (Question No. 4439)|1|
+|CIVILIAN EMPLOYEES IN THE CONSTRUCTION INDUSTRY BY STATE FOR EACH MONTH SINCE: Specific Learning Difficulties (Question No. 1212)|1|
+|HIGH COMMISSIONER (UNITED KINGDOM) ACT REPEAL BILL 1973: Second Reading|1|
+|QUESTION: LABOR AND THE INVESTOR|1|
+|STATES GRANTS (SCHOOLS ASSISTANCE) AMENDMENT BILL 1979: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Purchase of Newspapers and Periodicals (Question No. 470)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Rejection of Applications (Question No. 4571)|1|
+|QUESTION: EDUCATION: DISADVANTAGED SCHOOLS|1|
+|COMMONWEALTH SCIENCE FACILITIES PROGRAMME: Commonwealth Migrant Hostels (Question No. 6156)|1|
+|QUESTION: NEW PROMOTIONS SCHEME FOR SOUTH AUSTRALIAN TEACHERS|1|
+|PART III- ELECTORAL DIVISIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Acquisition of Land: Western Australia (Question No. 379)|1|
+|ANSWERS TO QUESTIONS: Good Neighbour Councils (Question No. 4054)|1|
+|QUESTION: DEPARTMENT OF IMMIGRATION: APPOINTMENT OF MULTI-LINGUAL WELFARE OFFICERS|1|
+|ANSWERS TO QUESTIONS: Immigration (Question No. 3802)|1|
+|MARRIAGE AMENDMENT BILL 1976: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Child Migrant Education (Question No. 774)|1|
+|KAMPUCHEA: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Department of Immigration and Ethnic Affairs: Libraries (Question No. 1362)|1|
+|QUESTION: EX-NUPTIAL CHILDREN|1|
+|COMMONWEALTH POLICE: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Italian Workers and Families: Language Tuition (Question No. 680)|1|
+|CONCILIATION AND ARBITRATION BILL 1972|1|
+|STATES GRANTS (HOUSING ASSISTANCE) BILL 1971: Second Reading|1|
+|QUESTION: POST-ARRIVAL MIGRANT SERVICES|1|
+|QUESTION: LAURIE DANIELS, BRIAN WRAITH AND THE COMMONWEALTH OF AUSTRALIA|1|
+|G.M.H|1|
+|SHORTAGES OF GOODS IN AUSTRALIA: Discussion of Matter of Public Importance|1|
+|ADJOURNMENT: Government's Economic Policy- Uranium Mining-Registration of Travel Agents -International Airfares -Mining Industry|1|
+|VICTORIA: Tuberculosis (Question No. 35)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Health Insurance: Cost of Alterations (Question No. 1023)|1|
+|SEMI-GOVERNMENT AN»&#62; LOCAL GOVERNMENT AUTHORITIES: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Coloured Migrants: Assisted Passages (Question No. 918)|1|
+|QUESTION: LEBANESE IMMIGRANTS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Lebanese Immigrants (Question No. 1455)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants in the Building Industry (Question No. 1385)|1|
+|QUESTION: DOCTORS: NUMBER, REGISTRATION AND TRAINING|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Health Insurance: Migrants (Question No. 4358)|1|
+|TASK FORCES: Greek Cypriot Refugees (Question No. 1541)|1|
+|NAVIGATION BILL 1972: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: British Subjects: New Visa Requirements (Question No. 1290)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Education (Question No. 208)|1|
+|QUESTION: MIGRANT RECRUITING PROGRAMS|1|
+|QUESTION: INTERPRETERS AND TRANSLATORS FOR ABORIGINALS|1|
+|QUESTION: BALTIC COMMUNITY|1|
+|G.M.H: Media) (3.56)- My Department-|1|
+|QUESTION: REFUGEES: UNION MEMBERSHIP|1|
+|NATIONAL HEALTH BILL 1972: Second Reading|1|
+|SUPPLY BILL (No. 1) 1979-80: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migration of Medical Practitioners to Australia (Question No. 1703)|1|
+|FEDERAL ELECTORAL DIVISION, ALSO SHOWING SUBDIVISIONAL ENROLMENTS: Radio and Television Licences (Question No. 469)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Visa Applications (Question No. 289)|1|
+|DC9-3: Commonwealth Employment Service: Vietnamese Refugees (Question No. 4061)|1|
+|INCOME TAX ASSESSMENT BILL 1972: Second Reading|1|
+|WESTERN AUSTRALIA: Overseas Academic Qualifications (Question No. 6541)|1|
+|ANSWERS TO QUESTIONS: Changes from Visitor to Resident Status (Question No. 2666)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Batman Electorate: Migrant Population (Question No. 721)|1|
+|AUSTRALIAN HOUSING CORPORATION BILL 1975: Second Reading|1|
+|OBSERVERS: Expert Group on Road Safety (Question No. 4845)|1|
+|QUESTION: IMMIGRATION POLICY|1|
+|REPATRIATION ACTS AMENDMENT BILL 1974: Second Reading|1|
+|ANSWERS TO QUESTIONS: Family Reunion Program (Question No. 4247)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Statutory Authorities, Corporations and Undertakings (Question No. 1365)|1|
+|FISHERIES AMENDMENT BILL 1978: Second Reading|1|
+|SA: Migrants: Approvals (Question No. 551)|1|
+|QUESTION: STEEL PRODUCTION|1|
+|No: Department of Immigration: Staff (Question No. 1098)|1|
+|QUESTION: QUEENSLAND: REDISTRIBUTION OF ELECTORAL DIVISIONS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Tullamarine Airport: Customs and Immigration Formalities (Question No. 1252)|1|
+|OBSERVERS: Oil Companies (Question No. 3503)|1|
+|QUESTION: IMMIGRANTS: NATIONAL SERVICE|1|
+|HISTORIC SHIPWRECKS BILL 1976: Second Reading|1|
+|DAIRY PRODUCE EXPORT CONTROL BILL 1971: Second Reading|1|
+|ASSOCIATION OF CIVILIAN WIDOWS NATIONAL EXECUTIVE: Dear Sir,|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Australians Overseas: Return Campaign (Question No. 1041)|1|
+|QUESTION: AUSTRALIAN FLAG|1|
+|AUSTRALIAN LEGAL AID OFFICE: Discussion of Matter of Public Importance|1|
+|SPECIAL ADJOURNMENT: Valedictory|1|
+|EXERCISES CONDUCTED WITH US NAVY SHIPS AND COMPOSITION OF FORCES INVOLVED,: Immigration and Ethnic Affairs: Opinion Polls or Surveys (Question No. 3763)|1|
+|NATIONAL TRAINING COUNCIL 1979 TRAINING STUDY MISSION: Report of National Training Council 1979 Training Study Mission- Ministerial Statement, 23 October 1979|1|
+|PRIME MINISTER: ELECTION PROMISES: Discussion of Matter of Public Importance|1|
+|INTERNATIONAL AND DOMESTIC SITUATION: Ministerial Statement|1|
+|QUESTION: THE DRUG DEBATE|1|
+|STATES GRANTS (ADVANCED EDUCATION ASSISTANCE) AMENDMENT BILL 1977: Second Reading|1|
+|MR JOHN STONEHOUSE: Discussion of Matter of Public Importance|1|
+|QUESTION: EDUCATION: MIGRANT CHILDREN|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Natural Gas: Costs (Question No. 726)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants: Social Security Rights (Question No. 4492)|1|
+|QUESTION: PENSION ELIGIBILITY OF MEMBERS OF ALLIED ARMED FORCES|1|
+|PIG INDUSTRY RESEARCH BILL 1971: Second Reading|1|
+|QUESTION: BROADENING TRAINING OPPORTUNITIES UNDER EMPLOYMENT TRAINING SCHEMES|1|
+|AGED PERSONS HOSTELS AMENDMENT BILL 1976: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Doctors' Incomes (Question No. 5518)|1|
+|THE AUSTRALIAN WORK FORCE: Discussion of Matter of Public Importance|1|
+|A: Parliamentary Question No. 2071 (Question No. 2320)|1|
+|CUSTOMS TARIFF VALIDATION BILL 1977: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Migrants (Question No. 5829)|1|
+|ALBURY-WODONGA DEVELOPMENT BILL 1973|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration: Assisted Passages (Question No. 2613)|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Aluminium (Question No. 3771)|1|
+|SCHOOLS COMMISSION: Discussion of Matter of Public Importance|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Immigration (Question No. 1239)|1|
+|QUESTION: YUGOSLAV CONSULATE, MELBOURNE|1|
+|QUESTION: EMPLOYMENT BYFORD MOTOR COMPANY|1|
+|HOMES SAVINGS GRANT BILL 1970: Second Reading|1|
+|QUESTION: USTASHA MOVEMENT|1|
+|QUESTION: MAY IT PLEASE YOUR EXCELLENCY:|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Refugees (Question No. 1170)|1|
+|QUESTION: CRAWFORD REPORT ON STRUCTURAL ADJUSTMENT|1|
+|UNCTAD 5: Good Neighbour Councils (Question No. 4066)|1|
+|QUESTION: EDUCATION: ILLITERACY|1|
+|QUESTION: WORKERS COMPENSATION: OVERSEAS DEPENDANTS|1|
+|DEFENCE SERVICES HOMES AMENDMENT BILL 1976: Second Reading|1|
+|OFFICE OF NATIONAL ASSESSMENTS BILL 1977: Second Reading|1|
+|COMMONWEALTH DAY 1977|1|
+|QUESTION: IMMIGRANTS FROM THE PHILIPPINES|1|
+|SPECIFIC LEARNING DIFFICULTIES: Hon. E. G. Whitlam, Q.C., M.P., Prime Minister, Parliament House, Canberra, A.C.T|1|
+|ELECTORAL RE-DISTRIBUTION (SOUTH AUSTRALIA) BILL 1975 [No. 2]: Second Reading|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Victorian Residents of Maltese Origin (Question No. 3298)|1|
+|QUESTION: IMMIGRATION QUOTAS|1|
+|ANSWERS TO QUESTIONS UPON NOTICE: Ethnic and Community Organisations: Government Assistance (Question No. 2648)|1|
+|BOUNTY (METAL- WORKING MACHINE TOOLS) BILL 1978: Second Reading|1|
+|QUESTION: REPORT OF THE COMMONWEALTH ADMINISTRATIVE REVIEW COMMITTEE|1|
