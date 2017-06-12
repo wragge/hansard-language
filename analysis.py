@@ -19,6 +19,7 @@ import random
 import plotly.plotly as py
 import plotly.graph_objs as go
 from sklearn.feature_extraction.text import TfidfVectorizer
+import csv
 
 from credentials import MONGO_URL
 
@@ -26,7 +27,10 @@ XML_DIR = os.path.join(os.path.dirname(__file__), 'xml')
 PARLIAMENTS = [str(p) for p in range(1, 33)]
 HOUSES = ['hofreps', 'senate']
 YEARS = [str(y) for y in range(1901, 1981)]
-STOPWORDS = nltk.corpus.stopwords.words('english')
+try:
+    STOPWORDS = nltk.corpus.stopwords.words('english')
+except LookupError:
+    pass
 HOUSE_NAMES = {'hofreps': 'House of Representatives', 'senate': 'Senate'}
 
 
@@ -846,9 +850,11 @@ def comparisons(words, decade):
 
 def make_clouds():
     for house in HOUSES:
-        results = generate_tfidf(os.path.join('data', 'speeches', 'decades', house), 1)
+        # results = generate_tfidf(os.path.join('data', 'speeches', 'decades', house), 1)
+        results = generate_tfidf(os.path.join('data', 'speeches', 'parliaments', house), 1)
         for result in results:
-            image_name = os.path.join('data', 'images', '{}-decade-{}.png'.format(result['name'], house))
+            # image_name = os.path.join('data', 'images', '{}-decade-{}.png'.format(result['name'], house))
+            image_name = os.path.join('data', 'images', '{}-parliament-{}.png'.format(result['name'], house))
             wordcloud = WordCloud(width=1200, height=800).fit_words(result['scores'])
             image = wordcloud.to_image()
             image.save(image_name)
@@ -1165,3 +1171,71 @@ def compare_people(data_dir='data/speeches/people/'):
             # print '    * {:40} {}'.format('{} ({})'.format(friend_name, friend_party) if friend_party else friend_name, friend[1])
             data[people[index]['_id']]['friends'].append({'name': friend_name, 'party': friend_party, 'score': friend[1]})
     return data
+
+
+def compare_years(data_dir='data/speeches/years/'):
+    for house in HOUSES:
+        names = [file[:-4] for file in os.listdir(os.path.join(data_dir, house)) if file[-4:] == '.txt']
+        files = [os.path.join(data_dir, house, file) for file in os.listdir(os.path.join(data_dir, house)) if file[-4:] == '.txt']
+        tfidf = TfidfVectorizer(input='filename').fit_transform(files)
+        results = (tfidf * tfidf.T).A
+        for index, row in enumerate(results):
+            print '\n\n{}\n'.format(names[index])
+            scores = [pair for pair in zip(range(0, len(row)), row)]
+            sorted_scores = sorted(scores, key=lambda t: t[1] * -1)
+            labelled_scores = [(names[id], score) for (id, score) in sorted_scores[1:]]
+            for score in labelled_scores[:10]:
+                print '    * {:40} {}'.format(score[0], score[1])
+            # data[people[index]['_id']]['friends'].append({'name': friend_name, 'party': friend_party, 'score': friend[1]})
+    # return data
+
+
+def search_speeches(keywords, start_year=None, house=None):
+    dbclient = MongoClient(MONGO_URL)
+    db = dbclient.get_default_database()
+    query = {}
+    filename = keywords.strip('\"').replace(' ', '-')
+    if house:
+        query['house'] = house
+        filename += '-{}'.format(house)
+    if start_year:
+        query['year'] = {'$gte': start_year}
+        filename += '-{}'.format(start_year)
+    query['$text'] = {'$search': keywords}
+    pipeline = [
+        {'$match': query},
+        {'$group': {'_id': '$date', 'debates': {'$addToSet': '$debate_index'}, 'count': {'$sum': 1}}},
+        {'$project': {'_id': 0, 'date': '$_id', 'debates': 1, 'count': 1}},
+        {'$sort': {'date': 1}}
+    ]
+    results = list(db.speeches.aggregate(pipeline))
+    with open(os.path.join('data', 'searches', '{}.csv'.format(filename)), 'wb') as csv_file:
+        writer = csv.writer(csv_file)
+        writer.writerow(['date', 'debate', 'speaker', 'speaker_id', 'context', 'speech_url'])
+        for result in results:
+            print '{}: {}'.format(result['date'], result['count'])
+            if house:
+                query['house'] = house
+            query['date'] = result['date']
+            query['$text'] = {'$search': keywords}
+            speeches = db.speeches.find(query).sort([('debate_index', 1), ('speech_index', 1)])
+            for speech in speeches:
+                context = ''
+                url = 'https://historichansard.net/{}/{}/{}/'.format(speech['house'], speech['year'], speech['filename'])
+                if 'subdebate_title' in speech:
+                    title = '{}: {}'.format(speech['debate_title'].encode('utf-8'), speech['subdebate_title'].encode('utf-8'))
+                    speech_url = '{}#subdebate-{}-{}'.format(url, speech['debate_index'], speech['subdebate_index'])
+                else:
+                    title = speech['debate_title'].encode('utf-8')
+                    speech_url = '{}#debate-{}'.format(url, speech['debate_index'])
+                print '{}:'.format(speech['speaker']['name'])
+                for para in speech['text']:
+                    blob = TextBlob(para)
+                    for sentence in blob.sentences:
+                        if keywords.strip('\"').lower() in str(sentence).lower():
+                            context = sentence
+                            break
+                print '{}\n'.format(context)
+                writer.writerow([speech['date'], title, speech['speaker']['name'], speech['speaker']['id'], context, speech_url])
+
+
